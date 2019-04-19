@@ -102,7 +102,7 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/gradle.properties" timestamp="1555667925406">
+      <file name="$USER_HOME$/.gradle/gradle.properties" timestamp="1555668432568">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="^" line="16" column="0" />
@@ -166,9 +166,9 @@
         <mark key="]" line="93" column="28" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/build-aar.gradle" timestamp="1555666723687">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="56" />
+      <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/build-aar.gradle" timestamp="1555668338863">
+        <mark key="[" line="8" column="43" />
+        <mark key="]" line="8" column="54" />
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/exdependencies.gradle" timestamp="1555400959665">
@@ -357,8 +357,8 @@
       <register name="/" type="4">
         <text>show</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZTozLjQuMCcK</text>
+      <register name="0" type="4">
+        <text>gradle:3.4.0</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">YW5kcm9pZC51c2VEZXByZWNhdGVkTmRrPXRydWUK</text>
