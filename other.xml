@@ -1,0 +1,84 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.LEFT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.RIGHT.UNSCALED.WIDTH" value="250" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TEXT_SEARCH_HISTORY" value="Sur" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.LEFT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.RIGHT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="AndroidPlatformName" value="Android API 27 Platform" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DART_CHECK_SDK_UPDATE_KEY" value="DoNotCheck" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FLUTTER_COMPANY_DOMAIN" value="guangbin79.github.io" />
+    <property name="FLUTTER_SDK_KNOWN_PATHS" value="$USER_HOME$/Library/Flutter" />
+    <property name="GradleModuleWizard.inheritGroupId" value="true" />
+    <property name="GradleModuleWizard.inheritVersion" value="true" />
+    <property name="KEYMAP" value="vim&#10;acejump&#10;sdk&#10;acej&#10;aceju" />
+    <property name="LOG_FILTER_HISTORY" value="###&#10;***&#10;guangbin&#10;***Server&#10;Test1" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MobileminApi" value="21" />
+    <property name="PLUGIN_FILTER" value="Rainbow Brackets&#10;.Rainbow Brackets&#10;.ignore&#10;AceJump&#10;deaVim" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SAVED_ANDROID_PACKAGE" value="com.autoai.welink" />
+    <property name="SAVED_COMPANY_DOMAIN" value="io.github.guangbin79" />
+    <property name="SearchEveryWhereHistory" value="pApp" />
+    <property name="SettingsSearchHistory" value="CodeG&#10;fl&#10;sdk&#10;htt&#10;Flutter" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="android-component-compatibility-check" value="1555306780432" />
+    <property name="build.toolwindow.Build.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="file.gist.reindex.count" value="56915" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="ideavim.statistics.timestamp" value="1555645195974" />
+    <property name="inspector.open.Favorite Attributes" value="true" />
+    <property name="inspector.open.textAppearance" value="true" />
+    <property name="installation.uid" value="a2f85428-ac2f-4c14-bbd5-09f28995e3ba" />
+    <property name="installed.kotlin.plugin.version" value="1.3.30-release-Studio3.4-1" />
+    <property name="io.flutter.analytics.clientId" value="8efe3dc7-ed5f-4d8b-8c32-102e1ac328b2" />
+    <property name="io.flutter.analytics.toastShown" value="true" />
+    <property name="io.flutter.bazel.legacyTestBehavior" value="false" />
+    <property name="kotlin.lastUpdateCheck" value="1555398100108" />
+    <property name="kotlin.plugin.releaseDate" value="1.3.30-release-Studio3.4-1:2019-04-11" />
+    <property name="last.imported.location" value="$USER_HOME$/Downloads/wlconnector-sdk/WLDemo" />
+    <property name="lastTip" value="1" />
+    <property name="newly.installed.api.level" value="28" />
+    <property name="project.wizard.group" value="com.android.tools.idea.npw.ideahost.AndroidModuleBuilder" />
+    <property name="properties.mode" value="INSPECTOR" />
+    <property name="studio.profilerSESSION_EXPANDED_WIDTH" value="200" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
+</application>
