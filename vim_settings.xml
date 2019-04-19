@@ -97,6 +97,12 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/gradle.properties" timestamp="1555667183680">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/welinkmodule/ttsmodule/build.gradle" timestamp="1555666694903">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="56" />
@@ -180,6 +186,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
+      <file name="$USER_HOME$/SurfaceRecorder/surfacerecorder/src/main/java/io/github/guangbin79/surfacerecorder/SurfaceRecorder.java" timestamp="1555667125375" />
       <file name="$USER_HOME$/Workspace/WLSimulator/app/src/main/java/com/autoai/welink/auto/wlsimulator/MainActivity.java" timestamp="1555056188881">
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="0" />
