@@ -97,12 +97,12 @@
         <mark key="." line="37" column="72" />
         <mark key="^" line="37" column="72" />
       </file>
-      <file name="$USER_HOME$/Workspace/flutter_app/lib/main.dart" timestamp="1555921081195">
+      <file name="$USER_HOME$/Workspace/flutter_app/lib/main.dart" timestamp="1555922218041">
         <mark key="'" line="31" column="19" />
-        <mark key="[" line="31" column="19" />
-        <mark key="]" line="31" column="19" />
-        <mark key="." line="31" column="19" />
-        <mark key="^" line="30" column="8" />
+        <mark key="[" line="84" column="29" />
+        <mark key="]" line="84" column="28" />
+        <mark key="." line="84" column="28" />
+        <mark key="^" line="84" column="28" />
       </file>
       <file name="$USER_HOME$/.gradle/gradle.properties" timestamp="1555668623483">
         <mark key="[" line="13" column="0" />
@@ -351,10 +351,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Text('Hello, world!')</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>Text('Hello, world!')</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
