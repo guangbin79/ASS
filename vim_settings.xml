@@ -51,11 +51,10 @@
         <mark key="]" line="15" column="56" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/startup_namer/lib/main.dart" timestamp="1555655742701">
-        <mark key="[" line="17" column="10" />
-        <mark key="]" line="17" column="9" />
-        <mark key="." line="17" column="9" />
-        <mark key="^" line="17" column="9" />
+      <file name="$USER_HOME$/Workspace/startup_namer/lib/main.dart" timestamp="1555903172329">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/MyApplication2/app/src/main/java/com/haoge/mynavi/overlay/CursorLineOverlay.java" timestamp="1555405611731">
         <mark key="[" line="62" column="0" />
@@ -349,10 +348,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c3lzdGVtUHJvcC5odHRwLnByb3h5UG9ydD0xMDg3Cg==</text>
+        <text encoding="base64">ICBAb3ZlcnJpZGUK</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
@@ -361,34 +360,48 @@
         <text>gradle:3.4.0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3lzdGVtUHJvcC5odHRwLnByb3h5UG9ydD0xMDg3Cg==</text>
+        <text encoding="base64">ICBAb3ZlcnJpZGUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3lzdGVtUHJvcC5odHRwLnByb3h5SG9zdD0xMjcuMC4wLjEK</text>
+        <text encoding="base64">ICBmaW5hbCB0ZXN0ID0gMTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">YW5kcm9pZC51c2VEZXByZWNhdGVkTmRrPXRydWUK</text>
+      <register name="3" type="4">
+        <text>new Scaffold(
+        appBar: new AppBar(
+          title: new Text('Welcome to Flutter'),
+        ),
+        body: new Center(
+          child: new RandomWords(),
+        ),
+      )</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">YW5kcm9pZC51c2VEZXByZWNhdGVkTmRrPXRydWUK</text>
+      <register name="4" type="4">
+        <text>new Scaffold(
+        appBar: new AppBar(
+          title: new Text('Welcome to Flutter'),
+        ),
+        body: new Center(
+          child: new RandomWords(),
+        ),
+      ),</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgVGV4dCh3b3JkUGFpci5hc1Bhc2NhbENhc2UpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZTozLjMuMicK</text>
+        <text encoding="base64">ICAgIGZpbmFsIHdvcmRQYWlyID0gbmV3IFdvcmRQYWlyLnJhbmRvbSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gLi4u5o6l552A5YaN55Sf5oiQMTDkuKrljZXor43lr7nvvIznhLblkI7mt7vliqDliLDlu7rorq7liJfooagK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZTozLjMuMicK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIOWmguaenOaYr+W7uuiuruWIl+ihqOS4reacgOWQjuS4gOS4quWNleivjeWvuQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5hbmRyb2lkLnRvb2xzLmJ1aWxkOmdyYWRsZTozLjMuMicK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIOaXtu+8jOe7k+aenOS4ujAsIDEsIDEsIDIsIDLvvIwg6L+Z5Y+v5Lul6K6h566X5Ye6TGlzdFZpZXfkuK3lh4/ljrvliIbpmpTnur/lkI7nmoTlrp7pmYXljZXor43lr7nmlbDph48K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
