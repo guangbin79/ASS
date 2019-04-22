@@ -51,11 +51,11 @@
         <mark key="]" line="15" column="56" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/startup_namer/lib/main.dart" timestamp="1555913227739">
-        <mark key="[" line="88" column="24" />
-        <mark key="]" line="98" column="5" />
-        <mark key="^" line="98" column="5" />
-        <mark key="." line="98" column="5" />
+      <file name="$USER_HOME$/Workspace/startup_namer/lib/main.dart" timestamp="1555915801868">
+        <mark key="[" line="108" column="29" />
+        <mark key="]" line="108" column="29" />
+        <mark key="^" line="109" column="7" />
+        <mark key="." line="108" column="29" />
       </file>
       <file name="$USER_HOME$/Workspace/MyApplication2/app/src/main/java/com/haoge/mynavi/overlay/CursorLineOverlay.java" timestamp="1555405611731">
         <mark key="[" line="62" column="0" />
@@ -348,11 +348,11 @@
       <jump line="119" column="22" filename="$USER_HOME$/Workspace/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/CodecInputSurface.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>white</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>white</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
