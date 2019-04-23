@@ -163,6 +163,12 @@
         <mark key="." line="34" column="72" />
         <mark key="^" line="34" column="72" />
       </file>
+      <file name="$USER_HOME$/Workspace/iOS-Screenshots/flutter_module/lib/main.dart" timestamp="1555999775926">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
+        <mark key="^" line="126" column="25" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/protocol/HeartbeatProtocol.java" timestamp="1553241047651">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="28" />
@@ -350,37 +356,43 @@
       <jump line="31" column="19" filename="$USER_HOME$/Workspace/flutter_app/lib/main.dart" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX2luY3JlbWVudENvdW50ZXIoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
       </register>
-      <register name="0" type="4">
-        <text>gradle:3.4.0</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXIvcmVuZGVyaW5nLmRhcnQnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgKW5ldyBDZW50ZXIoCiAgICAgICAgY2hpbGQ6IG5ldyBUZXh0KCdIZWxsbywgd29ybGQhJyksCiAgICAgICksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2luY3JlbWVudENvdW50ZXIoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0ICdkYXJ0OnVpJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgKW5ldyBDZW50ZXIoCiAgICAgICAgY2hpbGQ6IG5ldyBUZXh0KCdIZWxsbywgd29ybGQhJyksCiAgICAgICksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAb3ZlcnJpZGUK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBAb3ZlcnJpZGUK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICBmaW5hbCB0ZXN0ID0gMTsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>new Scaffold(
         appBar: new AppBar(
           title: new Text('Welcome to Flutter'),
@@ -390,7 +402,7 @@
         ),
       )</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>new Scaffold(
         appBar: new AppBar(
           title: new Text('Welcome to Flutter'),
@@ -399,12 +411,6 @@
           child: new RandomWords(),
         ),
       ),</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgVGV4dCh3b3JkUGFpci5hc1Bhc2NhbENhc2UpOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIHdvcmRQYWlyID0gbmV3IFdvcmRQYWlyLnJhbmRvbSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
