@@ -16,10 +16,10 @@
         <mark key="^" line="30" column="1" />
         <mark key="." line="30" column="1" />
       </file>
-      <file name="$USER_HOME$/Workspace/iOS-Screenshots/flutter_snapshot/lib/main.dart" timestamp="1556012978451">
-        <mark key="[" line="100" column="17" />
-        <mark key="]" line="100" column="24" />
-        <mark key="." line="100" column="24" />
+      <file name="$USER_HOME$/Workspace/iOS-Screenshots/flutter_snapshot/lib/main.dart" timestamp="1556013720108">
+        <mark key="[" line="108" column="4" />
+        <mark key="]" line="108" column="4" />
+        <mark key="." line="108" column="4" />
         <mark key="^" line="100" column="24" />
       </file>
       <file name="$USER_HOME$/Workspace/MyApplication2/app/build.gradle" timestamp="1555645231412">
@@ -374,10 +374,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>33333333</text>
+        <text encoding="base64">b24g</text>
       </register>
       <register name="-" type="4">
-        <text>33333333</text>
+        <text encoding="base64">b24g</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
