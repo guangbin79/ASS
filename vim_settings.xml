@@ -224,6 +224,11 @@
         <mark key="]" line="9" column="24" />
         <mark key="." line="9" column="24" />
       </file>
+      <file name="$USER_HOME$/Workspace/LearnFlutter/lib/widget/keys/swap_color_1.dart" timestamp="1556083897704">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="2" />
+        <mark key="." line="5" column="2" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/exdependencies.gradle" timestamp="1555400959665">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -375,10 +380,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">b24g</text>
+        <text encoding="base64">X1N3YXBDb2xvckRlbW8xU3RhdGUg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b24g</text>
+        <text encoding="base64">X1N3YXBDb2xvckRlbW8xU3RhdGUg</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
