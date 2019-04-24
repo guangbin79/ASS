@@ -16,11 +16,11 @@
         <mark key="^" line="30" column="1" />
         <mark key="." line="30" column="1" />
       </file>
-      <file name="$USER_HOME$/Workspace/iOS-Screenshots/flutter_snapshot/lib/main.dart" timestamp="1556092815446">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="94" column="20" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Workspace/iOS-Screenshots/flutter_snapshot/lib/main.dart" timestamp="1556096199413">
+        <mark key="[" line="52" column="28" />
+        <mark key="]" line="52" column="29" />
+        <mark key="^" line="52" column="25" />
+        <mark key="." line="52" column="29" />
       </file>
       <file name="$USER_HOME$/Workspace/MyApplication2/app/build.gradle" timestamp="1555645231412">
         <mark key="[" line="34" column="58" />
@@ -398,11 +398,11 @@
       <jump line="31" column="19" filename="$USER_HOME$/Workspace/flutter_app/lib/main.dart" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICdkYXJ0OmFzeW5jJzsK</text>
+      <register name="&quot;" type="4">
+        <text>microseconds</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGltZSA=</text>
+        <text>microseconds</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
