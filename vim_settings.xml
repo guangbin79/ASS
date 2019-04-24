@@ -16,11 +16,11 @@
         <mark key="^" line="30" column="1" />
         <mark key="." line="30" column="1" />
       </file>
-      <file name="$USER_HOME$/Workspace/iOS-Screenshots/flutter_snapshot/lib/main.dart" timestamp="1556096199413">
-        <mark key="[" line="52" column="28" />
-        <mark key="]" line="52" column="29" />
-        <mark key="^" line="52" column="25" />
-        <mark key="." line="52" column="29" />
+      <file name="$USER_HOME$/Workspace/iOS-Screenshots/flutter_snapshot/lib/main.dart" timestamp="1556097918133">
+        <mark key="[" line="115" column="19" />
+        <mark key="]" line="115" column="19" />
+        <mark key="." line="115" column="19" />
+        <mark key="^" line="115" column="19" />
       </file>
       <file name="$USER_HOME$/Workspace/MyApplication2/app/build.gradle" timestamp="1555645231412">
         <mark key="[" line="34" column="58" />
@@ -172,11 +172,11 @@
         <mark key="]" line="9" column="56" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/iOS-Screenshots/flutter_snapshot/pubspec.yaml" timestamp="1556003462059">
-        <mark key="[" line="30" column="15" />
-        <mark key="]" line="30" column="14" />
-        <mark key="^" line="30" column="14" />
-        <mark key="." line="30" column="14" />
+      <file name="$USER_HOME$/Workspace/iOS-Screenshots/flutter_snapshot/pubspec.yaml" timestamp="1556097771099">
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="31" column="1" />
+        <mark key="^" line="31" column="1" />
+        <mark key="." line="31" column="1" />
       </file>
       <file name="$USER_HOME$/Library/Flutter/packages/flutter/lib/src/widgets/binding.dart" timestamp="1556076766337" />
       <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/RecordController.java" timestamp="1555576883499">
@@ -398,8 +398,8 @@
       <jump line="31" column="19" filename="$USER_HOME$/Workspace/flutter_app/lib/main.dart" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>microseconds</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>microseconds</text>
@@ -411,34 +411,34 @@
         <text encoding="base64">ICAgIHByaW50KCIxMTExMTExIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICdkYXJ0OmFzeW5jJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYm91bmRhcnkuCg==</text>
+        <text encoding="base64">ICAgICAgQnl0ZURhdGEgYnl0ZURhdGEgPSBhd2FpdCBpbWFnZS50b0J5dGVEYXRhKGZvcm1hdDogdWkuSW1hZ2VCeXRlRm9ybWF0LnBuZyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZmluYWwgZGlyZWN0b3J5ID0gKGF3YWl0IGdldEFwcGxpY2F0aW9uRG9jdW1lbnRzRGlyZWN0b3J5KCkpLnBhdGhkOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoIjIyMjIyMjIyIik7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0ICdkYXJ0OmFzeW5jJzsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2b2lkIGRpZFVwZGF0ZVdpZGdldChNeUhvbWVQYWdlIG9sZFdpZGdldCkgewogICAgLy8gVE9ETzogaW1wbGVtZW50IGRpZFVwZGF0ZVdpZGdldAogICAgcHJpbnQoIjExMTExMTExIik7CiAgICBzdXBlci5kaWRVcGRhdGVXaWRnZXQob2xkV2lkZ2V0KTsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgYm91bmRhcnkuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAb3ZlcnJpZGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
