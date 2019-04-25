@@ -71,11 +71,11 @@
         <mark key="]" line="9" column="56" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/welink_presentation/lib/main.dart" timestamp="1556170829415">
-        <mark key="[" line="130" column="12" />
-        <mark key="]" line="130" column="42" />
-        <mark key="^" line="130" column="42" />
-        <mark key="." line="130" column="42" />
+      <file name="$USER_HOME$/Workspace/welink_presentation/lib/main.dart" timestamp="1556173149420">
+        <mark key="[" line="150" column="12" />
+        <mark key="]" line="150" column="39" />
+        <mark key="." line="150" column="39" />
+        <mark key="^" line="150" column="39" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WLSimulator/app/src/main/java/com/autoai/welink/auto/wlsimulator/WeLinkService.java" timestamp="1553580480971">
         <mark key="[" line="31" column="0" />
@@ -283,6 +283,11 @@
         <mark key="]" line="13" column="56" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/welink_presentation/.ios/Runner/Info.plist" timestamp="1556172699881">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WLDemo/app/build.gradle" timestamp="1553648119173">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -409,10 +414,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
@@ -421,34 +426,34 @@
         <text encoding="base64">ICAgIHByaW50KCIxMTExMTExIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAb3ZlcnJpZGUK</text>
+        <text encoding="base64">Ly8gICAgICAgIHByaW50KCcqKiogU2NyZWVuc2hvdCBQYXRoOiAkZmlsZVBhdGgnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2b2lkIGRpZAo=</text>
+        <text encoding="base64">CTxrZXk+TlNQaG90b0xpYnJhcnlVc2FnZURlc2NyaXB0aW9uPC9rZXk+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZpbGVEYXRhOiByZXNwb25zZS5ib2R5Qnl0ZXMpOwo=</text>
+        <text encoding="base64">ICBAb3ZlcnJpZGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGZpbGVQYXRoID0gYXdhaXQgSW1hZ2VQaWNrZXJTYXZlci5zYXZlRmlsZSgK</text>
+        <text encoding="base64">ICB2b2lkIGRpZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgVWludDhMaXN0IHBuZ0J5dGVzID0gYnl0ZURhdGEuYnVmZmVyLmFzVWludDhMaXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgVXJpIGZpbGVVUkk9IG5ldyBVcmkuZmlsZSgnJGRpcmVjdG9yeS9zY3JlZW5zaG90LnBuZycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZpbGVEYXRhOiByZXNwb25zZS5ib2R5Qnl0ZXMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaW1nRmlsZS53cml0ZUFzQnl0ZXMocG5nQnl0ZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgdmFyIGZpbGVQYXRoID0gYXdhaXQgSW1hZ2VQaWNrZXJTYXZlci5zYXZlRmlsZSgK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
