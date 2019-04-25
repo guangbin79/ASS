@@ -71,11 +71,11 @@
         <mark key="]" line="9" column="56" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/welink_presentation/lib/main.dart" timestamp="1556169636169">
-        <mark key="[" line="50" column="50" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="6" column="38" />
+      <file name="$USER_HOME$/Workspace/welink_presentation/lib/main.dart" timestamp="1556169820576">
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+        <mark key="^" line="134" column="42" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WLSimulator/app/src/main/java/com/autoai/welink/auto/wlsimulator/WeLinkService.java" timestamp="1553580480971">
         <mark key="[" line="31" column="0" />
@@ -408,11 +408,11 @@
       <jump line="31" column="19" filename="$USER_HOME$/Workspace/flutter_app/lib/main.dart" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgVWludDhMaXN0IHBuZ0J5dGVzID0gYnl0ZURhdGEuYnVmZmVyLmFzVWludDhMaXN0KCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
@@ -421,34 +421,34 @@
         <text encoding="base64">ICAgIHByaW50KCIxMTExMTExIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXIvbWF0ZXJpYWwuZGFydCc7Cg==</text>
+        <text encoding="base64">ICAgICAgVWludDhMaXN0IHBuZ0J5dGVzID0gYnl0ZURhdGEuYnVmZmVyLmFzVWludDhMaXN0KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXIvbWF0ZXJpYWwuZGFydCc7Cg==</text>
+        <text encoding="base64">ICAgICAgVXJpIGZpbGVVUkk9IG5ldyBVcmkuZmlsZSgnJGRpcmVjdG9yeS9zY3JlZW5zaG90LnBuZycpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgaW1nRmlsZS53cml0ZUFzQnl0ZXMocG5nQnl0ZXMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFRpbWVyKER1cmF0aW9uKG1pbGxpc2Vjb25kczogMzApLCAoKXsK</text>
+        <text encoding="base64">ICAgICAgRmlsZSBpbWdGaWxlID1uZXcgRmlsZSgnJGZpbGVQYXRoJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgX2luY3JlbWVudENvdW50ZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICBGaWxlIGltYWdlRmlsZSA9IEZ1dHVyZTxGaWxlPi5zeW5jKCgpID0+IHNhdmVkRmlsZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2V0U3RhdGUoKCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQnl0ZURhdGEgYnl0ZURhdGEgPSBhd2FpdCBpbWFnZS50b0J5dGVEYXRhKGZvcm1hdDogdWkuSW1hZ2VCeXRlRm9ybWF0LnBuZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIHNhdmVkRmlsZSA9IEZpbGUuZnJvbVVyaShVcmkuZmlsZShmaWxlUGF0aCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZmluYWwgZGlyZWN0b3J5ID0gKGF3YWl0IGdldEFwcGxpY2F0aW9uRG9jdW1lbnRzRGlyZWN0b3J5KCkpLnBhdGhkOwo=</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXIvbWF0ZXJpYWwuZGFydCc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
