@@ -71,11 +71,11 @@
         <mark key="]" line="9" column="56" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/welink_presentation/lib/main.dart" timestamp="1556169923962">
-        <mark key="[" line="6" column="39" />
-        <mark key="]" line="7" column="47" />
-        <mark key="." line="7" column="47" />
-        <mark key="^" line="7" column="47" />
+      <file name="$USER_HOME$/Workspace/welink_presentation/lib/main.dart" timestamp="1556170152560">
+        <mark key="[" line="7" column="41" />
+        <mark key="]" line="7" column="42" />
+        <mark key="." line="7" column="42" />
+        <mark key="^" line="7" column="42" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WLSimulator/app/src/main/java/com/autoai/welink/auto/wlsimulator/WeLinkService.java" timestamp="1553580480971">
         <mark key="[" line="31" column="0" />
@@ -408,11 +408,11 @@
       <jump line="31" column="19" filename="$USER_HOME$/Workspace/flutter_app/lib/main.dart" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>image_picker</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>image_picker</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
