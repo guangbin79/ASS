@@ -66,6 +66,12 @@
         <mark key="^" line="18" column="24" />
         <mark key="." line="22" column="36" />
       </file>
+      <file name="$USER_HOME$/Workspace/3t/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1556605616069">
+        <mark key="[" line="34" column="67" />
+        <mark key="]" line="34" column="72" />
+        <mark key="." line="34" column="72" />
+        <mark key="^" line="34" column="72" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/welinkmodule/basemodule/build.gradle" timestamp="1555666642616">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="56" />
@@ -430,11 +436,11 @@
       <jump line="31" column="19" filename="$USER_HOME$/Workspace/flutter_app/lib/main.dart" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IEltYWdlUGlja2Vkci5waWNrSW1hZ2Uoc291cmNlOiBudWxsKQo=</text>
+      <register name="&quot;" type="4">
+        <text>ujlydo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHZhciBmaWxlUGF0aCA9IA==</text>
+        <text>ujlydo</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
