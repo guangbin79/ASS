@@ -66,7 +66,7 @@
         <mark key="^" line="18" column="24" />
         <mark key="." line="22" column="36" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1557213785505">
+      <file name="$USER_HOME$/Workspace/3t/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1557214636608">
         <mark key="[" line="34" column="67" />
         <mark key="]" line="34" column="72" />
         <mark key="." line="34" column="72" />
@@ -137,11 +137,11 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/SurfaceRecorder/surfacerecorder/src/main/java/io/github/guangbin79/surfacerecorder/SurfaceRecorder.java" timestamp="1556256458982" />
-      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/TextureRenderer.java" timestamp="1557214492562">
-        <mark key="[" line="56" column="26" />
-        <mark key="]" line="56" column="26" />
-        <mark key="." line="56" column="26" />
-        <mark key="^" line="20" column="10" />
+      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/TextureRenderer.java" timestamp="1557215448157">
+        <mark key="[" line="64" column="15" />
+        <mark key="]" line="64" column="14" />
+        <mark key="^" line="64" column="14" />
+        <mark key="." line="64" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/WLSimulator/app/src/main/java/com/autoai/welink/auto/wlsimulator/MainActivity.java" timestamp="1555056188881">
         <mark key="[" line="101" column="0" />
@@ -439,44 +439,44 @@
       <jump line="31" column="19" filename="$USER_HOME$/Workspace/flutter_app/lib/main.dart" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mSurfaceTexture</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>mSurfaceTexture</text>
+        <text>maTextureHandle</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiKioqZ3VhbmdiaW4iLCAiMTExMTExMTExMTExIik7Cg==</text>
+      <register name="0" type="4">
+        <text>mTextureCoordHandle</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVRleHR1cmVSZW5kZXIuY2hlY2tHbEVycm9yKCJiZWZvcmUgdXBkYXRlVGV4SW1hZ2UiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVQcm9ncmFtKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobVByb2dyYW0gPT0gMCkgcmV0dXJuOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVQcm9ncmFtKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBHTEVTMjAuZ2xFbmFibGUoR0xFUzIwLkdMX0JMRU5EKTsKICAgICAgICBHTEVTMjAuZ2xCbGVuZEZ1bmMoR0xFUzIwLkdMX09ORSwgR0xFUzIwLkdMX09ORV9NSU5VU19TUkNfQUxQSEEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBHTEVTMjAuZ2xVc2VQcm9ncmFtKG1Qcm9ncmFtKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBHTEVTMjAuZ2xFbmFibGUoR0xFUzIwLkdMX0JMRU5EKTsKICAgICAgICBHTEVTMjAuZ2xCbGVuZEZ1bmMoR0xFUzIwLkdMX09ORSwgR0xFUzIwLkdMX09ORV9NSU5VU19TUkNfQUxQSEEpOwoKICAgICAgICBHTEVTMjAuZ2xVc2VQcm9ncmFtKG1Qcm9ncmFtKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
