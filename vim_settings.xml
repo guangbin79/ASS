@@ -66,7 +66,7 @@
         <mark key="^" line="18" column="24" />
         <mark key="." line="22" column="36" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1556618124222">
+      <file name="$USER_HOME$/Workspace/3t/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1557213785505">
         <mark key="[" line="34" column="67" />
         <mark key="]" line="34" column="72" />
         <mark key="." line="34" column="72" />
@@ -439,11 +439,11 @@
       <jump line="31" column="19" filename="$USER_HOME$/Workspace/flutter_app/lib/main.dart" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVRleHR1cmVSZW5kZXIuY2hlY2tHbEVycm9yKCJiZWZvcmUgdXBkYXRlVGV4SW1hZ2UiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>tdwnjm</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+        <text>tdwnjm</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
