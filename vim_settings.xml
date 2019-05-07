@@ -137,11 +137,11 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/SurfaceRecorder/surfacerecorder/src/main/java/io/github/guangbin79/surfacerecorder/SurfaceRecorder.java" timestamp="1556256458982" />
-      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/TextureRenderer.java" timestamp="1557213486608">
-        <mark key="[" line="92" column="24" />
-        <mark key="]" line="93" column="7" />
-        <mark key="." line="93" column="7" />
-        <mark key="^" line="93" column="7" />
+      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/TextureRenderer.java" timestamp="1557214414476">
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="21" column="8" />
+        <mark key="." line="21" column="8" />
+        <mark key="^" line="20" column="10" />
       </file>
       <file name="$USER_HOME$/Workspace/WLSimulator/app/src/main/java/com/autoai/welink/auto/wlsimulator/MainActivity.java" timestamp="1555056188881">
         <mark key="[" line="101" column="0" />
@@ -440,10 +440,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tdwnjm</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>tdwnjm</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
