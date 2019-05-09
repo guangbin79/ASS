@@ -218,11 +218,11 @@
         <mark key="." line="9" column="54" />
         <mark key="^" line="9" column="54" />
       </file>
-      <file name="$USER_HOME$/Downloads/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1555643064496">
-        <mark key="[" line="145" column="40" />
-        <mark key="]" line="37" column="72" />
-        <mark key="." line="37" column="72" />
-        <mark key="^" line="37" column="72" />
+      <file name="$USER_HOME$/Downloads/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1557388671750">
+        <mark key="[" line="34" column="67" />
+        <mark key="]" line="34" column="72" />
+        <mark key="." line="34" column="72" />
+        <mark key="^" line="34" column="72" />
       </file>
       <file name="$USER_HOME$/.gradle/gradle.properties" timestamp="1555668623483">
         <mark key="[" line="13" column="0" />
@@ -444,10 +444,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>dpohbb</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>dpohbb</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
