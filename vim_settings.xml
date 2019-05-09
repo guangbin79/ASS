@@ -288,6 +288,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/WLConnector/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1557389877572">
+        <mark key="[" line="34" column="67" />
+        <mark key="]" line="34" column="72" />
+        <mark key="." line="34" column="72" />
+        <mark key="^" line="34" column="72" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Presentation/welink_presentation/pubspec.yaml" timestamp="1556265040622">
         <mark key="[" line="28" column="25" />
         <mark key="]" line="30" column="0" />
@@ -444,10 +450,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dpohbb</text>
+        <text>jusjcw</text>
       </register>
       <register name="-" type="4">
-        <text>dpohbb</text>
+        <text>jusjcw</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
