@@ -218,11 +218,17 @@
         <mark key="." line="9" column="54" />
         <mark key="^" line="9" column="54" />
       </file>
-      <file name="$USER_HOME$/Downloads/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1557472050425">
-        <mark key="[" line="34" column="67" />
-        <mark key="]" line="34" column="72" />
-        <mark key="." line="34" column="72" />
-        <mark key="^" line="34" column="72" />
+      <file name="$USER_HOME$/Downloads/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1557474580571">
+        <mark key="[" line="106" column="36" />
+        <mark key="]" line="36" column="72" />
+        <mark key="." line="36" column="72" />
+        <mark key="^" line="36" column="72" />
+      </file>
+      <file name="$USER_HOME$/Downloads/wlconnector-sdk/WLDemo/app/build.gradle" timestamp="1557474381375">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="6" column="23" />
+        <mark key="." line="6" column="24" />
       </file>
       <file name="$USER_HOME$/.gradle/gradle.properties" timestamp="1555668623483">
         <mark key="[" line="13" column="0" />
@@ -274,6 +280,7 @@
         <mark key="." line="139" column="54" />
         <mark key="^" line="139" column="54" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/fm.jiecao/jiecaovideoplayer/5.5/93beba914a47955c5d5d3e8319627e1648df2b05/jiecaovideoplayer-5.5-sources.jar!/fm/jiecao/jcvideoplayer_lib/JCVideoPlayer.java" timestamp="1557473088724" />
       <file name="$USER_HOME$/Workspace/LearnFlutter/lib/widget/keys/swap_color_1.dart" timestamp="1556084821478">
         <mark key="[" line="5" column="2" />
         <mark key="]" line="5" column="2" />
@@ -341,6 +348,12 @@
         <mark key="]" line="13" column="56" />
         <mark key="." line="13" column="54" />
         <mark key="^" line="13" column="54" />
+      </file>
+      <file name="$USER_HOME$/Downloads/wlconnector-sdk/WLDemo/app/src/main/res/layout/activity_send_peisong.xml" timestamp="1557474517396">
+        <mark key="[" line="64" column="56" />
+        <mark key="]" line="65" column="3" />
+        <mark key="^" line="65" column="3" />
+        <mark key="." line="65" column="3" />
       </file>
       <file name="$USER_HOME$/Workspace/MyApplication/app/build.gradle" timestamp="1555040377669">
         <mark key="[" line="6" column="23" />
@@ -452,10 +465,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jusjcw</text>
+        <text>jxkudb</text>
       </register>
       <register name="-" type="4">
-        <text>jusjcw</text>
+        <text>jxkudb</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
@@ -464,34 +477,34 @@
         <text encoding="base64">ICAgICAgICBtU3VyZmFjZVRleHR1cmVbMF0uc2V0T25GcmFtZUF2YWlsYWJsZUxpc3RlbmVyKHRoaXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBqenZkU3RkLnRodW1iSW1hZ2VWaWV3LnNldEltYWdlKCJodHRwOi8vZ3NsYi5taWFvcGFpLmNvbS9zdHJlYW0vZWQ1SENmbmhvdnUzdHlJUUFpdjYwUV9fLm1wNCIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAod2xNaXJyb3JEaWFsb2c9PW51bGwpewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAod2xNaXJyb3JEaWFsb2c9PW51bGwpewo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CgogICAgICAgIHdsTWlycm9yRGlhbG9nLmdldENvbnRleHQoKTsKICAgICAgICBnZXRBcHBsaWNhdGlvbkNvbnRleHQoKTs=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLmZsdXNoKCk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
