@@ -219,17 +219,16 @@
         <mark key="." line="9" column="54" />
         <mark key="^" line="9" column="54" />
       </file>
-      <file name="$USER_HOME$/Downloads/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1557474580571">
-        <mark key="[" line="106" column="36" />
-        <mark key="]" line="36" column="72" />
-        <mark key="." line="36" column="72" />
-        <mark key="^" line="36" column="72" />
+      <file name="$USER_HOME$/Downloads/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1557477240930">
+        <mark key="[" line="129" column="40" />
+        <mark key="]" line="129" column="41" />
+        <mark key="." line="129" column="41" />
+        <mark key="^" line="129" column="41" />
       </file>
-      <file name="$USER_HOME$/Downloads/wlconnector-sdk/WLDemo/app/build.gradle" timestamp="1557475698968">
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="28" column="4" />
-        <mark key="^" line="6" column="23" />
-        <mark key="." line="28" column="4" />
+      <file name="$USER_HOME$/Downloads/wlconnector-sdk/WLDemo/app/build.gradle" timestamp="1557476715555">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/gradle.properties" timestamp="1555668623483">
         <mark key="[" line="13" column="0" />
@@ -350,11 +349,11 @@
         <mark key="." line="13" column="54" />
         <mark key="^" line="13" column="54" />
       </file>
-      <file name="$USER_HOME$/Downloads/wlconnector-sdk/WLDemo/app/src/main/res/layout/activity_send_peisong.xml" timestamp="1557474517396">
-        <mark key="[" line="64" column="56" />
-        <mark key="]" line="65" column="3" />
-        <mark key="^" line="65" column="3" />
-        <mark key="." line="65" column="3" />
+      <file name="$USER_HOME$/Downloads/wlconnector-sdk/WLDemo/app/src/main/res/layout/activity_send_peisong.xml" timestamp="1557477093962">
+        <mark key="[" line="80" column="28" />
+        <mark key="]" line="80" column="27" />
+        <mark key="^" line="80" column="27" />
+        <mark key="." line="80" column="27" />
       </file>
       <file name="$USER_HOME$/Workspace/MyApplication/app/build.gradle" timestamp="1555040377669">
         <mark key="[" line="6" column="23" />
@@ -466,43 +465,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>implementation</text>
+        <text>播放</text>
       </register>
       <register name="-" type="4">
-        <text>implementation</text>
+        <text>播放</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtU3VyZmFjZVRleHR1cmVbMF0uc2V0T25GcmFtZUF2YWlsYWJsZUxpc3RlbmVyKHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmljZV90cnVlLnNldFRleHQoIuaSreaUviIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBqenZkU3RkLnRodW1iSW1hZ2VWaWV3LnNldEltYWdlKCJodHRwOi8vZ3NsYi5taWFvcGFpLmNvbS9zdHJlYW0vZWQ1SENmbmhvdnUzdHlJUUFpdjYwUV9fLm1wNCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZ2X3ZpZGVvLnN0YXJ0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAod2xNaXJyb3JEaWFsb2c9PW51bGwpewo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgogICAgICAgIHdsTWlycm9yRGlhbG9nLmdldENvbnRleHQoKTsKICAgICAgICBnZXRBcHBsaWNhdGlvbkNvbnRleHQoKTs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGZtLmppZWNhby5qY3ZpZGVvcGxheWVyX2xpYi5KQ1ZpZGVvUGxheWVyU3RhbmRhcmQ7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNuLmp6dmQuSnp2ZFN0ZDsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNuLmp6dmQuSnp2ZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjbi5qenZkOmppYW96aXZpZGVvcGxheWVyOjYuNC4xJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmZsdXNoKCk7Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdmbS5qaWVjYW86amllY2FvdmlkZW9wbGF5ZXI6NC42LjMnCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
