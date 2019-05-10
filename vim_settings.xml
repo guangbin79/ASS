@@ -100,6 +100,7 @@
         <mark key="^" line="9" column="45" />
         <mark key="." line="9" column="45" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.jzvd/jiaozivideoplayer/6.4.1/f218fe147b21ccb4da6d70508a69ebff6587422b/jiaozivideoplayer-6.4.1-sources.jar!/cn/jzvd/Jzvd.java" timestamp="1557475474740" />
       <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/welinkmodule/weather/build.gradle" timestamp="1555666708728">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="56" />
@@ -224,11 +225,11 @@
         <mark key="." line="36" column="72" />
         <mark key="^" line="36" column="72" />
       </file>
-      <file name="$USER_HOME$/Downloads/wlconnector-sdk/WLDemo/app/build.gradle" timestamp="1557474381375">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="6" column="24" />
+      <file name="$USER_HOME$/Downloads/wlconnector-sdk/WLDemo/app/build.gradle" timestamp="1557475698968">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="28" column="4" />
         <mark key="^" line="6" column="23" />
-        <mark key="." line="6" column="24" />
+        <mark key="." line="28" column="4" />
       </file>
       <file name="$USER_HOME$/.gradle/gradle.properties" timestamp="1555668623483">
         <mark key="[" line="13" column="0" />
@@ -465,10 +466,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jxkudb</text>
+        <text>implementation</text>
       </register>
       <register name="-" type="4">
-        <text>jxkudb</text>
+        <text>implementation</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
