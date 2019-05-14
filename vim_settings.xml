@@ -110,7 +110,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1557818605767">
+      <file name="$USER_HOME$/Workspace/3t/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1557824448593">
         <mark key="[" line="33" column="67" />
         <mark key="]" line="33" column="72" />
         <mark key="." line="33" column="72" />
@@ -468,10 +468,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>kuzyld</text>
+        <text>mknxtt</text>
       </register>
       <register name="-" type="4">
-        <text>kuzyld</text>
+        <text>mknxtt</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
