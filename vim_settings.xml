@@ -27,10 +27,10 @@
         <mark key="]" line="34" column="59" />
         <mark key="." line="34" column="59" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/welinkmodule/authorizationmodule/build.gradle" timestamp="1555666637269">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="56" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/welinkmodule/authorizationmodule/build.gradle" timestamp="1558081459265">
+        <mark key="[" line="15" column="54" />
+        <mark key="]" line="15" column="55" />
+        <mark key="." line="15" column="55" />
       </file>
       <file name="$USER_HOME$/Workspace/startup_namer/lib/main.dart" timestamp="1555915801868">
         <mark key="[" line="108" column="29" />
@@ -75,10 +75,11 @@
         <mark key="." line="34" column="72" />
         <mark key="^" line="34" column="72" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/welinkmodule/basemodule/build.gradle" timestamp="1555666642616">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="56" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/welinkmodule/basemodule/build.gradle" timestamp="1558081519282">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="15" column="29" />
+        <mark key="." line="15" column="29" />
+        <mark key="^" line="15" column="29" />
       </file>
       <file name="$USER_HOME$/Workspace/welink_presentation/lib/main.dart" timestamp="1556173149420">
         <mark key="[" line="150" column="12" />
@@ -108,10 +109,10 @@
         <mark key="]" line="9" column="56" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/gradle.properties" timestamp="1555667882544">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/gradle.properties" timestamp="1558081627948">
+        <mark key="[" line="26" column="34" />
+        <mark key="]" line="26" column="35" />
+        <mark key="." line="26" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1558000208595">
         <mark key="[" line="33" column="67" />
@@ -145,6 +146,7 @@
         <mark key="]" line="9" column="56" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/SurfaceRecorder/surfacerecorder/src/main/java/io/github/guangbin79/surfacerecorder/SurfaceRecorder.java" timestamp="1558081247452" />
       <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/TextureRenderer.java" timestamp="1557308385192">
         <mark key="[" line="118" column="35" />
         <mark key="]" line="118" column="45" />
@@ -342,7 +344,7 @@
         <mark key="]" line="9" column="55" />
         <mark key="." line="9" column="55" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/welinkmodule/wechatmodule/build.gradle" timestamp="1555666715672">
+      <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/welinkmodule/wechatmodule/build.gradle" timestamp="1558081441766">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="56" />
         <mark key="." line="14" column="0" />
@@ -362,10 +364,10 @@
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/welinkmodule/aitalkmodule/build.gradle" timestamp="1555666630375">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="56" />
-        <mark key="." line="13" column="54" />
+      <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/welinkmodule/aitalkmodule/build.gradle" timestamp="1558081449724">
+        <mark key="[" line="13" column="54" />
+        <mark key="]" line="13" column="55" />
+        <mark key="." line="13" column="55" />
         <mark key="^" line="13" column="54" />
       </file>
       <file name="$USER_HOME$/Downloads/wlconnector-sdk/WLDemo/app/src/main/res/layout/activity_send_peisong.xml" timestamp="1557477093962">
@@ -483,8 +485,8 @@
       <jump line="31" column="19" filename="$USER_HOME$/Workspace/flutter_app/lib/main.dart" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3lzdGVtUHJvcC5odHRwLnByb3h5UG9ydD0xMDg3Cg==</text>
+      <register name="&quot;" type="4">
+        <text>com.android.tools.build:gradle:3.4.0</text>
       </register>
       <register name="-" type="4">
         <text>mrcdjy</text>
@@ -492,8 +494,8 @@
       <register name="/" type="4">
         <text>show</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkgICAgdmlydHVhbERpc3BsYXkuc2V0U3VyZmFjZShudWxsKTsK</text>
+      <register name="0" type="4">
+        <text>com.android.tools.build:gradle:3.4.0</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c3lzdGVtUHJvcC5odHRwLnByb3h5UG9ydD0xMDg3Cg==</text>
