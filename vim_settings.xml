@@ -244,11 +244,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/gradle.properties" timestamp="1555668623483">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
+      <file name="$USER_HOME$/.gradle/gradle.properties" timestamp="1558081085728">
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="0" />
-        <mark key="." line="13" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/SurfaceRecorder.java" timestamp="1557973205685">
         <mark key="[" line="95" column="0" />
@@ -483,8 +483,8 @@
       <jump line="31" column="19" filename="$USER_HOME$/Workspace/flutter_app/lib/main.dart" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mrcdjy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c3lzdGVtUHJvcC5odHRwLnByb3h5UG9ydD0xMDg3Cg==</text>
       </register>
       <register name="-" type="4">
         <text>mrcdjy</text>
@@ -496,34 +496,34 @@
         <text encoding="base64">CQkgICAgdmlydHVhbERpc3BsYXkuc2V0U3VyZmFjZShudWxsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+        <text encoding="base64">c3lzdGVtUHJvcC5odHRwLnByb3h5UG9ydD0xMDg3Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgiKioqZ3VhbmdiaW4iLCAib25GcmFtZUF2YWlsYWJsZSIpOwo=</text>
+        <text encoding="base64">c3lzdGVtUHJvcC5odHRwcy5wcm94eUhvc3Q9MTI3LjAuMC4xCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtU3VyZmFjZVRleHR1cmUucmVsZWFzZVRleEltYWdlKCk7Cg==</text>
+        <text encoding="base64">c3lzdGVtUHJvcC5odHRwLnByb3h5SG9zdD0xMjcuMC4wLjEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbGVhc2VUZXhJbWFnZTsK</text>
+        <text encoding="base64">c3lzdGVtUHJvcC5odHRwcy5wcm94eVBvcnQ9MTA4Nwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1TdXJmYWNlVGV4dHVyZS5yZWxlYXNlVGV4SW1hZ2UoKTsK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1TdXJmYWNlVGV4dHVyZS5yZWxlYXNlVGV4SW1hZ2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiKioqZ3VhbmdiaW4iLCAib25GcmFtZUF2YWlsYWJsZSIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgiKioqZ3VhbmdiaW4iLCAibnNlY3M6ICIgKyBuc2VjcyArICIsIHN1cmZhY2U6ICIgKyBtU3VyZmFjZVRleHR1cmUuZ2V0VGltZXN0YW1wKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtU3VyZmFjZVRleHR1cmUucmVsZWFzZVRleEltYWdlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtU3VyZmFjZVRleHR1cmUuZ2VkZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbGVhc2VUZXhJbWFnZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1TdXJmYWNlVGV4dHVyZS5yZWxlYXNlVGV4SW1hZ2UoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
