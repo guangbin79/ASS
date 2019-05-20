@@ -43,11 +43,11 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/java/com/autoai/welink/auto/wlsimulator/MainActivity.java" timestamp="1555575077843">
-        <mark key="[" line="425" column="0" />
-        <mark key="]" line="425" column="34" />
-        <mark key="." line="425" column="0" />
-        <mark key="^" line="401" column="30" />
+      <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/java/com/autoai/welink/auto/wlsimulator/MainActivity.java" timestamp="1558338672985">
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="185" column="0" />
+        <mark key="." line="185" column="0" />
+        <mark key="^" line="118" column="42" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/client/code/AutoClient.java" timestamp="1555571308224">
         <mark key="[" line="173" column="17" />
@@ -59,9 +59,6 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/v1/CodecController2.java" timestamp="1557975167450">
-        <mark key="[" line="151" column="164" />
       </file>
       <file name="$USER_HOME$/Workspace/LearnFlutter/lib/widget/keys/swap_color_4.dart" timestamp="1556088749821">
         <mark key="[" line="22" column="38" />
@@ -114,7 +111,12 @@
         <mark key="]" line="26" column="35" />
         <mark key="." line="26" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1558000208595">
+      <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/res/layout/layout_horizontal_show.xml" timestamp="1558339005578">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/3t/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1558339294275">
         <mark key="[" line="33" column="67" />
         <mark key="]" line="33" column="72" />
         <mark key="." line="33" column="72" />
@@ -217,7 +219,6 @@
         <mark key="]" line="9" column="56" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.autoai/welink.muapi/1.8.4/adc0da6448028a29c590424252fd025b659fd2d7/welink.muapi-1.8.4.jar!/com/wedrive/android/welink/control/Utils.class" timestamp="1558085474212" />
       <file name="$USER_HOME$/Workspace/iOS-Screenshots/flutter_snapshot/pubspec.yaml" timestamp="1556169500121">
         <mark key="[" line="30" column="4" />
         <mark key="]" line="31" column="1" />
@@ -282,7 +283,6 @@
         <mark key="^" line="487" column="47" />
         <mark key="." line="487" column="47" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/src/com/mapbar/wedrive/launcher/views/view/navipage/RouteSetingView.java" timestamp="1558085377224" />
       <file name="$USER_HOME$/Workspace/LearnFlutter/lib/widget/keys/stateless_colorful_tile.dart" timestamp="1556089194894">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="21" />
@@ -347,6 +347,11 @@
         <mark key="]" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
+      <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/res/layout/layout_h264_show.xml" timestamp="1558339132361">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/cellular_over_wifi/build.gradle" timestamp="1553850436383">
         <mark key="[" line="9" column="54" />
         <mark key="]" line="9" column="55" />
@@ -389,7 +394,6 @@
         <mark key="]" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/welinkmodule/aitalkmodule/src/main/java/com/wedrive/welink/launcher/aitalkmodule/utils/LogManager.java" timestamp="1558085859433" />
     </filemarks>
     <jumps>
       <jump line="80" column="12" filename="$USER_HOME$/SurfaceRecorder/sample/src/main/java/io/github/guangbin79/sample/MainActivity.java" />
@@ -495,46 +499,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>com.android.tools.build:gradle:3.4.0</text>
+        <text>gkdcwd</text>
       </register>
       <register name="-" type="4">
-        <text>mrcdjy</text>
+        <text>gkdcwd</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
       </register>
-      <register name="0" type="4">
-        <text>com.android.tools.build:gradle:3.4.0</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGVjdERwaSA9IDEzMDsKICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGVjdFdpZHRoID0gNDgwOwogICAgICAgICAgICAgICAgICAgICAgICAgc2VsZWN0SGVpZ2h0ID0gMTI4MDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3lzdGVtUHJvcC5odHRwLnByb3h5UG9ydD0xMDg3Cg==</text>
+        <text encoding="base64">ICAgIDwvRnJhbWVMYXlvdXQ+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3lzdGVtUHJvcC5odHRwcy5wcm94eUhvc3Q9MTI3LjAuMC4xCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjEyODBweCI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3lzdGVtUHJvcC5odHRwLnByb3h5SG9zdD0xMjcuMC4wLjEK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iNzIwcHgiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3lzdGVtUHJvcC5odHRwcy5wcm94eVBvcnQ9MTA4Nwo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3ZpZGVvX2xheW91dCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+        <text encoding="base64">ICAgIDxGcmFtZUxheW91dAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgiKioqZ3VhbmdiaW4iLCAib25GcmFtZUF2YWlsYWJsZSIpOwo=</text>
+        <text encoding="base64">ICAgIDwvRnJhbWVMYXlvdXQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtU3VyZmFjZVRleHR1cmUucmVsZWFzZVRleEltYWdlKCk7Cg==</text>
+        <text encoding="base64">ICAgIDxGcmFtZUxheW91dAogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdmlkZW9fbGF5b3V0IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIxMjgwcHgiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSI3MjBweCI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbGVhc2VUZXhJbWFnZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8xNjBkcGnjgIEyNDBkcGnjgIEzMjBkcGkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1TdXJmYWNlVGV4dHVyZS5yZWxlYXNlVGV4SW1hZ2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGVjdERwaSA9IDQ4MDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
