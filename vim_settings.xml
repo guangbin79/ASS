@@ -43,11 +43,11 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/java/com/autoai/welink/auto/wlsimulator/MainActivity.java" timestamp="1558338672985">
-        <mark key="[" line="185" column="0" />
-        <mark key="]" line="185" column="0" />
-        <mark key="." line="185" column="0" />
-        <mark key="^" line="118" column="42" />
+      <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/java/com/autoai/welink/auto/wlsimulator/MainActivity.java" timestamp="1558342415402">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="^" line="54" column="25" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/client/code/AutoClient.java" timestamp="1555571308224">
         <mark key="[" line="173" column="17" />
@@ -111,12 +111,13 @@
         <mark key="]" line="26" column="35" />
         <mark key="." line="26" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/res/layout/layout_horizontal_show.xml" timestamp="1558339005578">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/res/layout/layout_horizontal_show.xml" timestamp="1558342433545">
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+        <mark key="^" line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1558339294275">
+      <file name="$USER_HOME$/Workspace/3t/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1558342548711">
         <mark key="[" line="33" column="67" />
         <mark key="]" line="33" column="72" />
         <mark key="." line="33" column="72" />
@@ -347,10 +348,11 @@
         <mark key="]" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/res/layout/layout_h264_show.xml" timestamp="1558339132361">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/res/layout/layout_h264_show.xml" timestamp="1558341780374">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="34" />
+        <mark key="." line="8" column="34" />
+        <mark key="^" line="8" column="34" />
       </file>
       <file name="$USER_HOME$/Workspace/cellular_over_wifi/build.gradle" timestamp="1553850436383">
         <mark key="[" line="9" column="54" />
@@ -499,46 +501,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gkdcwd</text>
+        <text>pekrsc</text>
       </register>
       <register name="-" type="4">
-        <text>gkdcwd</text>
+        <text>pekrsc</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGVjdERwaSA9IDEzMDsKICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGVjdFdpZHRoID0gNDgwOwogICAgICAgICAgICAgICAgICAgICAgICAgc2VsZWN0SGVpZ2h0ID0gMTI4MDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGVjdERwaSA9IDE4MDsKICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGVjdFdpZHRoID0gMTI4MDsKICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGVjdEhlaWdodCA9IDcyMDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwvRnJhbWVMYXlvdXQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjEyODBweCI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgc2VsZWN0SGVpZ2h0ID0gNzIwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iNzIwcHgiCg==</text>
+        <text encoding="base64">ICAgICAgICAgc2VsZWN0V2lkdGggPSAxMjgwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3ZpZGVvX2xheW91dCIK</text>
+        <text encoding="base64">ICAgICAgICAgc2VsZWN0RHBpID0gMTgwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxGcmFtZUxheW91dAo=</text>
+        <text encoding="base64">ICAgIGludCBzZWxlY3REcGkgPSAxMjA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwvRnJhbWVMYXlvdXQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxGcmFtZUxheW91dAogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdmlkZW9fbGF5b3V0IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIxMjgwcHgiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSI3MjBweCI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIExvZy5lKCIqKipndWFuZ2JpbiIsICI2NjY2NjY2NiIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8xNjBkcGnjgIEyNDBkcGnjgIEzMjBkcGkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIExvZy5lKCIqKipndWFuZ2JpbiIsICI1NTU1NTU1NTU1Iik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGVjdERwaSA9IDQ4MDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIExvZy5lKCIqKipndWFuZ2JpbiIsICI0NDQ0NDQ0NCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
