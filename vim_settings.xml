@@ -217,13 +217,19 @@
         <mark key="]" line="9" column="56" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.autoai/welink.muapi/1.8.4/adc0da6448028a29c590424252fd025b659fd2d7/welink.muapi-1.8.4.jar!/com/wedrive/android/welink/control/Utils.class" timestamp="1558085474212" />
       <file name="$USER_HOME$/Workspace/iOS-Screenshots/flutter_snapshot/pubspec.yaml" timestamp="1556169500121">
         <mark key="[" line="30" column="4" />
         <mark key="]" line="31" column="1" />
         <mark key="^" line="31" column="1" />
         <mark key="." line="31" column="1" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/src/com/mapbar/wedrive/launcher/views/view/navipage/MapPage.java" timestamp="1558083971078" />
+      <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/src/com/mapbar/wedrive/launcher/views/view/navipage/MapPage.java" timestamp="1558084993507">
+        <mark key="[" line="428" column="41" />
+        <mark key="]" line="428" column="40" />
+        <mark key="^" line="428" column="40" />
+        <mark key="." line="428" column="40" />
+      </file>
       <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/RecordController.java" timestamp="1558000152704">
         <mark key="[" line="39" column="75" />
         <mark key="]" line="39" column="75" />
@@ -276,6 +282,7 @@
         <mark key="^" line="487" column="47" />
         <mark key="." line="487" column="47" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/src/com/mapbar/wedrive/launcher/views/view/navipage/RouteSetingView.java" timestamp="1558085377224" />
       <file name="$USER_HOME$/Workspace/LearnFlutter/lib/widget/keys/stateless_colorful_tile.dart" timestamp="1556089194894">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="21" />
@@ -382,6 +389,7 @@
         <mark key="]" line="7" column="27" />
         <mark key="." line="7" column="27" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/welinkmodule/aitalkmodule/src/main/java/com/wedrive/welink/launcher/aitalkmodule/utils/LogManager.java" timestamp="1558085859433" />
     </filemarks>
     <jumps>
       <jump line="80" column="12" filename="$USER_HOME$/SurfaceRecorder/sample/src/main/java/io/github/guangbin79/sample/MainActivity.java" />
