@@ -23,11 +23,11 @@
         <mark key="^" line="109" column="7" />
         <mark key="." line="108" column="29" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/java/com/autoai/welink/auto/wlsimulator/MainActivity.java" timestamp="1558405699183">
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="193" column="78" />
-        <mark key="." line="193" column="0" />
-        <mark key="^" line="189" column="50" />
+      <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/java/com/autoai/welink/auto/wlsimulator/MainActivity.java" timestamp="1558432556681">
+        <mark key="[" line="126" column="40" />
+        <mark key="]" line="126" column="42" />
+        <mark key="." line="126" column="42" />
+        <mark key="^" line="126" column="42" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/client/code/AutoClient.java" timestamp="1555571308224">
         <mark key="[" line="173" column="17" />
@@ -78,7 +78,7 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1558403878679">
+      <file name="$USER_HOME$/Workspace/3t/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1558432638427">
         <mark key="[" line="37" column="67" />
         <mark key="]" line="37" column="72" />
         <mark key="." line="37" column="72" />
@@ -348,10 +348,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rryost</text>
+        <text>cqgzaw</text>
       </register>
       <register name="-" type="4">
-        <text>rryost</text>
+        <text>cqgzaw</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
