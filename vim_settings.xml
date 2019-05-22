@@ -133,11 +133,11 @@
         <mark key="." line="33" column="72" />
         <mark key="^" line="33" column="72" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/v1/CodecController3.java" timestamp="1558501254346">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="^" line="50" column="4" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/v1/CodecController3.java" timestamp="1558501985322">
+        <mark key="[" line="27" column="38" />
+        <mark key="]" line="27" column="46" />
+        <mark key="^" line="27" column="46" />
+        <mark key="." line="27" column="46" />
       </file>
       <file name="$USER_HOME$/Workspace/welink_presentation/pubspec.yaml" timestamp="1556170059648">
         <mark key="[" line="28" column="25" />
@@ -196,11 +196,12 @@
         <mark key="." line="9" column="54" />
         <mark key="^" line="9" column="54" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/client/code/SurfaceShare.java" timestamp="1558501840457">
-        <mark key="[" line="44" column="9" />
-        <mark key="]" line="46" column="19" />
-        <mark key="^" line="46" column="19" />
-        <mark key="." line="46" column="19" />
+      <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/client/code/SurfaceShare.java" timestamp="1558501936742">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="46" column="1" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1557477240930">
         <mark key="[" line="129" column="40" />
@@ -316,7 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="12" filename="$USER_HOME$/SurfaceRecorder/sample/src/main/java/io/github/guangbin79/sample/MainActivity.java" />
       <jump line="25" column="31" filename="$USER_HOME$/k1temp/SurfaceRecorder/sample/src/main/java/io/github/guangbin79/sample/MainActivity.java" />
       <jump line="61" column="16" filename="$USER_HOME$/k1temp/SurfaceRecorder/sample/src/main/java/io/github/guangbin79/sample/MainActivity.java" />
       <jump line="75" column="16" filename="$USER_HOME$/k1temp/SurfaceRecorder/sample/src/main/java/io/github/guangbin79/sample/MainActivity.java" />
@@ -416,13 +416,14 @@
       <jump line="94" column="32" filename="$USER_HOME$/Workspace/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/statemanager/StateManager.java" />
       <jump line="119" column="22" filename="$USER_HOME$/Workspace/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/CodecInputSurface.java" />
       <jump line="31" column="19" filename="$USER_HOME$/Workspace/flutter_app/lib/main.dart" />
+      <jump line="18" column="0" filename="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/client/code/SurfaceShare.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLmF1dG8uY2xpZW50LklNZW1vcnlTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VyZmFjZVNlcnZpY2UucmVsZWFzZSgpZGQK</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
@@ -431,34 +432,34 @@
         <text encoding="base64">ICAgIHByaXZhdGUgSU1lbW9yeVNlcnZpY2UgbWVtb3J5U2VydmljZSA9IG51bGw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLmF1dG8uY2xpZW50LklNZW1vcnlTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VyZmFjZVNlcnZpY2UucmVsZWFzZSgpZGQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQ29udGV4dCBjb250ZXh0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LmxvY2tzLlJlZW50cmFudExvY2s7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbnRleHQgPSBjb250ZXh0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LmxvY2tzLkxvY2s7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLmF1dG8uY2xpZW50LklNZW1vcnlTZXJ2aWNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZURlc2NyaXB0b3I7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LmxvY2tzLlJlZW50cmFudExvY2s7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuUGFyY2VsRmlsZURlc2NyaXB0b3I7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LmxvY2tzLkxvY2s7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9jay51bmxvY2soKTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZURlc2NyaXB0b3I7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
