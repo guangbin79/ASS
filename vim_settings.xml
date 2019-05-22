@@ -29,7 +29,7 @@
         <mark key="^" line="109" column="7" />
         <mark key="." line="108" column="29" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/java/com/autoai/welink/auto/wlsimulator/MainActivity.java" timestamp="1558509526412">
+      <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/java/com/autoai/welink/auto/wlsimulator/MainActivity.java" timestamp="1558510354591">
         <mark key="[" line="338" column="53" />
         <mark key="]" line="338" column="52" />
         <mark key="." line="338" column="52" />
@@ -150,6 +150,7 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="1" />
       </file>
+      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/statemanager/StateManager.java" timestamp="1558510177379" />
       <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/welinkmodule/messagebus/build.gradle" timestamp="1555666660990">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="56" />
@@ -192,7 +193,7 @@
         <mark key="^" line="428" column="40" />
         <mark key="." line="428" column="40" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/RecordController.java" timestamp="1558000152704">
+      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/RecordController.java" timestamp="1558510067093">
         <mark key="[" line="39" column="75" />
         <mark key="]" line="39" column="75" />
         <mark key="." line="39" column="75" />
@@ -272,11 +273,11 @@
         <mark key="^" line="11" column="39" />
         <mark key="." line="11" column="39" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/CodecInputSurface.java" timestamp="1557988376385">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="52" column="34" />
+      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/CodecInputSurface.java" timestamp="1558510545250">
+        <mark key="[" line="190" column="55" />
+        <mark key="]" line="190" column="23" />
+        <mark key="." line="190" column="23" />
+        <mark key="^" line="190" column="23" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/aidl/com/autoai/welink/auto/client/ISurfaceService.aidl" timestamp="1558493519181">
         <mark key="[" line="8" column="34" />
