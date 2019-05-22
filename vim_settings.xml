@@ -65,6 +65,7 @@
         <mark key="^" line="21" column="25" />
         <mark key="." line="21" column="25" />
       </file>
+      <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/AndroidManifest.xml" timestamp="1558506379079" />
       <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/welinkmodule/basemodule/build.gradle" timestamp="1558081787505">
         <mark key="[" line="15" column="30" />
         <mark key="]" line="15" column="29" />
@@ -133,10 +134,10 @@
         <mark key="." line="33" column="72" />
         <mark key="^" line="33" column="72" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/v1/CodecController3.java" timestamp="1558501985322">
-        <mark key="[" line="27" column="38" />
+      <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/v1/CodecController3.java" timestamp="1558506394118">
+        <mark key="[" line="27" column="46" />
         <mark key="]" line="27" column="46" />
-        <mark key="^" line="27" column="46" />
+        <mark key="^" line="27" column="81" />
         <mark key="." line="27" column="46" />
       </file>
       <file name="$USER_HOME$/Workspace/welink_presentation/pubspec.yaml" timestamp="1556170059648">
@@ -196,12 +197,12 @@
         <mark key="." line="9" column="54" />
         <mark key="^" line="9" column="54" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/client/code/SurfaceShare.java" timestamp="1558501936742">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="46" column="1" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="46" column="0" />
+      <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/client/code/SurfaceShare.java" timestamp="1558506769152">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="45" column="13" />
+        <mark key="]" line="45" column="12" />
+        <mark key="." line="45" column="12" />
+        <mark key="^" line="45" column="12" />
       </file>
       <file name="$USER_HOME$/Downloads/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1557477240930">
         <mark key="[" line="129" column="40" />
@@ -239,11 +240,11 @@
         <mark key="." line="36" column="43" />
         <mark key="^" line="36" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/server/code/AutoServerLink.java" timestamp="1555642649439">
-        <mark key="[" line="487" column="43" />
-        <mark key="]" line="487" column="47" />
-        <mark key="^" line="487" column="47" />
-        <mark key="." line="487" column="47" />
+      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/server/code/AutoServerLink.java" timestamp="1558505923497">
+        <mark key="[" line="252" column="61" />
+        <mark key="]" line="252" column="60" />
+        <mark key="^" line="252" column="60" />
+        <mark key="." line="252" column="60" />
       </file>
       <file name="$USER_HOME$/Workspace/LearnFlutter/lib/widget/keys/stateless_colorful_tile.dart" timestamp="1556089194894">
         <mark key="[" line="8" column="0" />
@@ -257,6 +258,7 @@
         <mark key="." line="11" column="39" />
         <mark key="^" line="11" column="39" />
       </file>
+      <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/client/code/MemoryService.java" timestamp="1558506807629" />
       <file name="/Dummy.txt" timestamp="1558347291931">
         <mark key="[" line="0" column="0" />
       </file>
@@ -285,6 +287,7 @@
         <mark key="^" line="34" column="72" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/aidl/com/autoai/welink/auto/client/IMemoryService.aidl" timestamp="1558491664435" />
+      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/server/code/AutoServer.java" timestamp="1558506148437" />
       <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/res/layout/layout_h264_show.xml" timestamp="1558341780374">
         <mark key="[" line="8" column="34" />
         <mark key="]" line="8" column="34" />
@@ -419,11 +422,11 @@
       <jump line="18" column="0" filename="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/client/code/SurfaceShare.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VyZmFjZVNlcnZpY2UucmVsZWFzZSgpZGQK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
