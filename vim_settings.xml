@@ -130,11 +130,11 @@
         <mark key="." line="37" column="41" />
         <mark key="^" line="37" column="41" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/WLServer.java" timestamp="1558589549426">
-        <mark key="[" line="151" column="12" />
-        <mark key="]" line="151" column="12" />
-        <mark key="^" line="151" column="12" />
-        <mark key="." line="151" column="12" />
+      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/WLServer.java" timestamp="1558590759881">
+        <mark key="[" line="73" column="36" />
+        <mark key="]" line="73" column="39" />
+        <mark key="." line="73" column="39" />
+        <mark key="^" line="73" column="39" />
       </file>
       <file name="$USER_HOME$/SurfaceRecorder/surfacerecorder/src/main/java/io/github/guangbin79/surfacerecorder/SurfaceRecorder.java" timestamp="1558518700065" />
       <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/TextureRenderer.java" timestamp="1557308385192">
@@ -161,11 +161,12 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="1" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/statemanager/StateManager.java" timestamp="1558590425139">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="390" column="47" />
+      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/statemanager/StateManager.java" timestamp="1558590569100">
+        <mark key="'" line="19" column="24" />
+        <mark key="[" line="316" column="4" />
+        <mark key="]" line="316" column="10" />
+        <mark key="." line="316" column="10" />
+        <mark key="^" line="316" column="10" />
       </file>
       <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/welinkmodule/messagebus/build.gradle" timestamp="1555666660990">
         <mark key="[" line="15" column="0" />
@@ -179,11 +180,11 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="16" column="75" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/server/code/SurfaceShare.java" timestamp="1558590432642">
-        <mark key="[" line="10" column="48" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="17" column="23" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/server/code/SurfaceShare.java" timestamp="1558590637677">
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="13" column="34" />
+        <mark key="^" line="13" column="34" />
+        <mark key="." line="13" column="34" />
       </file>
       <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/welinkmodule/musicmodule/build.gradle" timestamp="1555666666644">
         <mark key="[" line="10" column="8" />
@@ -209,12 +210,12 @@
         <mark key="^" line="428" column="40" />
         <mark key="." line="428" column="40" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/RecordController.java" timestamp="1558589720989">
+      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/RecordController.java" timestamp="1558593467512">
         <mark key="'" line="55" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
         <mark key="^" line="78" column="57" />
-        <mark key="." line="52" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/welinkmodule/statisticsmodule/build.gradle" timestamp="1555666683455">
         <mark key="[" line="9" column="0" />
@@ -345,7 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="42" filename="$USER_HOME$/k1temp/SurfaceRecorder/sample/src/main/java/io/github/guangbin79/sample/MainActivity.java" />
       <jump line="24" column="20" filename="$USER_HOME$/k1temp/SurfaceRecorder/sample/src/main/java/io/github/guangbin79/sample/MainActivity.java" />
       <jump line="142" column="8" filename="$USER_HOME$/k1temp/SurfaceRecorder/sample/src/main/java/io/github/guangbin79/sample/testRecorderActivity.java" />
       <jump line="76" column="19" filename="$USER_HOME$/k1temp/SurfaceRecorder/sample/src/main/java/io/github/guangbin79/sample/testRecorderActivity.java" />
@@ -445,64 +445,64 @@
       <jump line="455" column="4" filename="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/java/com/autoai/welink/auto/wlsimulator/MainActivity.java" />
       <jump line="341" column="11" filename="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/java/com/autoai/welink/auto/wlsimulator/MainActivity.java" />
       <jump line="55" column="0" filename="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/RecordController.java" />
+      <jump line="19" column="24" filename="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/statemanager/StateManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLmF1dG9wcm94eS5zZXJ2ZXIuY29kZS5TdXJmYWNlU2hhcmU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>surface</text>
+        <text>stateMgr</text>
       </register>
       <register name="/" type="4">
-        <text>onCodec</text>
+        <text>find</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQljcmVhdGVWRChTdXJmYWNlU2hhcmUuc3VyZmFjZSwgd2lkdGgsIGhlaWdodCwgZHBpKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdXJmYWNlU2hhcmUuc3RhdGVNYW5hZ2VyID0gc3RhdGVNZ3I7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLmF1dG9wcm94eS5zZXJ2ZXIuY29kZS5TdXJmYWNlU2hhcmU7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc3VyZmFjZVRleHR1cmUgPT0gbnVsbCkgcmV0dXJuIG51bGw7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBmaW5kQ29udHJvbGxlcgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFN1cmZhY2Uoc3VyZmFjZVRleHR1cmUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN1cmZhY2VUZXh0dXJlICE9IG51bGwpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VyZmFjZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3VyZmFjZVNoYXJlLnN1cmZhY2UgPSBuZXcgU3VyZmFjZShzdXJmYWNlVGV4dHVyZSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLmF1dG9wcm94eS5zdGF0ZW1hbmFnZXIuU3RhdGVDb250cm9sbGVyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTdXJmYWNlU2hhcmUuc3VyZmFjZSA9IG1TdXJmYWNlOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2NrLnVubG9jaygpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgQXJyYXlMaXN0PFN0YXRlQ29udHJvbGxlcj4gbGlua0FycmF5TGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>onCodec</last-search>
+      <last-search>find</last-search>
       <last-offset />
-      <last-pattern>onCodec</last-pattern>
+      <last-pattern>find</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>MODE</entry>
         <entry>mSurface</entry>
         <entry>stopPreview</entry>
         <entry>mBackSurface</entry>
@@ -522,6 +522,7 @@
         <entry>show</entry>
         <entry>onCodce</entry>
         <entry>onCodec</entry>
+        <entry>find</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
