@@ -130,11 +130,11 @@
         <mark key="." line="37" column="41" />
         <mark key="^" line="37" column="41" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/WLServer.java" timestamp="1558515891729">
-        <mark key="[" line="163" column="40" />
-        <mark key="]" line="163" column="40" />
-        <mark key="." line="163" column="40" />
-        <mark key="^" line="163" column="61" />
+      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/WLServer.java" timestamp="1558589549426">
+        <mark key="[" line="151" column="12" />
+        <mark key="]" line="151" column="12" />
+        <mark key="^" line="151" column="12" />
+        <mark key="." line="151" column="12" />
       </file>
       <file name="$USER_HOME$/SurfaceRecorder/surfacerecorder/src/main/java/io/github/guangbin79/surfacerecorder/SurfaceRecorder.java" timestamp="1558518700065" />
       <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/TextureRenderer.java" timestamp="1557308385192">
@@ -209,11 +209,12 @@
         <mark key="^" line="428" column="40" />
         <mark key="." line="428" column="40" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/RecordController.java" timestamp="1558587968018">
-        <mark key="[" line="56" column="37" />
-        <mark key="]" line="56" column="36" />
-        <mark key="^" line="56" column="36" />
-        <mark key="." line="56" column="36" />
+      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/RecordController.java" timestamp="1558589720989">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="78" column="57" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/welinkmodule/statisticsmodule/build.gradle" timestamp="1555666683455">
         <mark key="[" line="9" column="0" />
@@ -288,10 +289,10 @@
         <mark key="^" line="11" column="39" />
         <mark key="." line="11" column="39" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/CodecInputSurface.java" timestamp="1558575045601">
-        <mark key="[" line="134" column="48" />
-        <mark key="]" line="134" column="48" />
-        <mark key="." line="134" column="48" />
+      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/CodecInputSurface.java" timestamp="1558589577545">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
         <mark key="^" line="134" column="48" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/aidl/com/autoai/welink/auto/client/ISurfaceService.aidl" timestamp="1558493519181">
@@ -344,7 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="67" filename="$USER_HOME$/k1temp/SurfaceRecorder/sample/src/main/java/io/github/guangbin79/sample/MainActivity.java" />
       <jump line="103" column="42" filename="$USER_HOME$/k1temp/SurfaceRecorder/sample/src/main/java/io/github/guangbin79/sample/MainActivity.java" />
       <jump line="24" column="20" filename="$USER_HOME$/k1temp/SurfaceRecorder/sample/src/main/java/io/github/guangbin79/sample/MainActivity.java" />
       <jump line="142" column="8" filename="$USER_HOME$/k1temp/SurfaceRecorder/sample/src/main/java/io/github/guangbin79/sample/testRecorderActivity.java" />
@@ -444,13 +444,14 @@
       <jump line="403" column="50" filename="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/java/com/autoai/welink/auto/wlsimulator/MainActivity.java" />
       <jump line="455" column="4" filename="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/java/com/autoai/welink/auto/wlsimulator/MainActivity.java" />
       <jump line="341" column="11" filename="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/java/com/autoai/welink/auto/wlsimulator/MainActivity.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/RecordController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>msosur</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3VyZmFjZVNoYXJlLnN1cmZhY2UgPSBuZXcgU3VyZmFjZShzdXJmYWNlVGV4dHVyZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>msosur</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text>onCodec</text>
@@ -459,42 +460,34 @@
         <text encoding="base64">CQljcmVhdGVWRChTdXJmYWNlU2hhcmUuc3VyZmFjZSwgd2lkdGgsIGhlaWdodCwgZHBpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3VyZmFjZVNoYXJlLnN1cmZhY2UgPSBuZXcgU3VyZmFjZShzdXJmYWNlVGV4dHVyZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>//        Bitmap bitmap = autoServer.getMirrorScreen(connectStr);
-//
-//        if (bitmap != null) {
-//            Canvas canvas = surface.lockCanvas(null);
-//            canvas.drawBitmap(bitmap, 0, 0, new Paint());
-//            surface.unlockCanvasAndPost(canvas);
-//        }
-
-//        return true;</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBTdXJmYWNlU2hhcmUuc3VyZmFjZSA9IG1TdXJmYWNlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdXJmYWNlLnVubG9ja0NhbnZhc0FuZFBvc3QoY2FudmFzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2NrLnVubG9jaygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDYW52YXMgY2FudmFzID0gc3VyZmFjZS5sb2NrQ2FudmFzKG51bGwpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGNvbm5lY3RMaXN0ZW5lci5vbkNvbm5lY3RlZChzZXJ2ZXJWZXJzaW9uLCBIVVNjcmVlbldpZHRoLCBIVVNjcmVlbkhlaWdodCwgZHBpLCBmcHMsIGlzU3VwcG9ydFdpRmlDaGFubmVsLCBpc1NlcnZlckNvZGVjKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29ubmVjdFJlc3VsdCh0cnVlKTsKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbm5lY3RSZXN1bHQoZmFsc2UpOwogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2NrLmxvY2soKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGFuZGxlciBoYW5kbGVyID0gbmV3IEhhbmRsZXIoKXsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIHZvaWQgaGFuZGxlTWVzc2FnZShNZXNzYWdlIG1zZykgewogICAgICAgICAgICAgICAgICAgIHN3aXRjaCAobXNnLndoYXQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSAwOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29ubmVjdFJlc3VsdCh0cnVlKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgICAgICBjYXNlIDE6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25uZWN0UmVzdWx0KGZhbHNlKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoIioqKmd1YW5nYmluIiwgImNvbmZpZ3VyZU1lZGlhIC0gMjIyMjIiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoIioqKmd1YW5nYmluIiwgImNvbmZpZ3VyZU1lZGlhIC0gMjIyMjIiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
