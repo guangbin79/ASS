@@ -233,11 +233,11 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1557477240930">
-        <mark key="[" line="129" column="40" />
-        <mark key="]" line="129" column="41" />
-        <mark key="." line="129" column="41" />
-        <mark key="^" line="129" column="41" />
+      <file name="$USER_HOME$/Downloads/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1558602452689">
+        <mark key="[" line="33" column="71" />
+        <mark key="]" line="33" column="76" />
+        <mark key="." line="33" column="76" />
+        <mark key="^" line="33" column="76" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/res/layout/layout_8_3.xml" timestamp="1558346019645">
         <mark key="[" line="8" column="34" />
@@ -471,10 +471,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>kuzyld</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>kuzyld</text>
       </register>
       <register name="/" type="4">
         <text>final</text>
