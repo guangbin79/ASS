@@ -11,7 +11,6 @@
         <mark key="^" line="30" column="1" />
         <mark key="." line="30" column="1" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/v1/Connector.java" timestamp="1558682107291" />
       <file name="$USER_HOME$/Workspace/iOS-Screenshots/flutter_snapshot/lib/main.dart" timestamp="1556170241964">
         <mark key="[" line="115" column="19" />
         <mark key="]" line="115" column="19" />
@@ -112,7 +111,7 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1558685219504">
+      <file name="$USER_HOME$/Workspace/3t/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1558685857362">
         <mark key="[" line="38" column="71" />
         <mark key="]" line="38" column="76" />
         <mark key="^" line="38" column="76" />
@@ -241,7 +240,7 @@
         <mark key="^" line="64" column="7" />
         <mark key="." line="64" column="7" />
       </file>
-      <file name="$USER_HOME$/Downloads/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1558682255370">
+      <file name="$USER_HOME$/Downloads/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1558686786540">
         <mark key="[" line="38" column="71" />
         <mark key="]" line="38" column="76" />
         <mark key="." line="38" column="76" />
@@ -495,10 +494,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ucgdol</text>
+        <text>siisnt</text>
       </register>
       <register name="-" type="4">
-        <text>ucgdol</text>
+        <text>siisnt</text>
       </register>
       <register name="/" type="4">
         <text>onCodec</text>
