@@ -17,7 +17,6 @@
         <mark key="." line="115" column="19" />
         <mark key="^" line="115" column="19" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/wlserver.aar/569d96749f60c25134d3c6e34b5014aa/jars/classes.jar!/com/autoai/welink/autoproxy/server/code/AutoServerLink.class" timestamp="1558666877803" />
       <file name="$USER_HOME$/Workspace/startup_namer/lib/main.dart" timestamp="1555915801868">
         <mark key="[" line="108" column="29" />
         <mark key="]" line="108" column="29" />
@@ -38,7 +37,6 @@
         <mark key="." line="525" column="0" />
         <mark key="^" line="525" column="40" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/java/com/autoai/welink/auto/decode/decorator/PlayerDecorator.java" timestamp="1558664236094" />
       <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/statemanager/StateController.java" timestamp="1558663385156">
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
@@ -67,7 +65,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/server/WLAutoServer.java" timestamp="1558600742029" />
       <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/welinkmodule/basemodule/build.gradle" timestamp="1558081787505">
         <mark key="[" line="15" column="30" />
         <mark key="]" line="15" column="29" />
@@ -133,12 +130,13 @@
         <mark key="." line="37" column="41" />
         <mark key="^" line="37" column="41" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/WLServer.java" timestamp="1558669993605">
+      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/WLServer.java" timestamp="1558676414514">
         <mark key="[" line="165" column="8" />
         <mark key="]" line="165" column="14" />
         <mark key="." line="165" column="14" />
         <mark key="^" line="165" column="14" />
       </file>
+      <file name="$USER_HOME$/SurfaceRecorder/surfacerecorder/src/main/java/io/github/guangbin79/surfacerecorder/SurfaceRecorder.java" timestamp="1558675989182" />
       <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/TextureRenderer.java" timestamp="1558669461395">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -339,7 +337,6 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="15" column="29" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/server/code/AutoServer.java" timestamp="1558603901123" />
       <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/res/layout/layout_h264_show.xml" timestamp="1558341780374">
         <mark key="[" line="8" column="34" />
         <mark key="]" line="8" column="34" />
