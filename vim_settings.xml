@@ -11,7 +11,6 @@
         <mark key="^" line="30" column="1" />
         <mark key="." line="30" column="1" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/v1/Connector.java" timestamp="1558944654202" />
       <file name="$USER_HOME$/Workspace/iOS-Screenshots/flutter_snapshot/lib/main.dart" timestamp="1556170241964">
         <mark key="[" line="115" column="19" />
         <mark key="]" line="115" column="19" />
@@ -113,14 +112,12 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/WLConnector/wlconnector-sdk/WLDemo/app/src/main/res/layout-port/layout_180_9_16.xml" timestamp="1558949967277" />
-      <file name="$USER_HOME$/Workspace/3t/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1558685857362">
-        <mark key="[" line="38" column="71" />
-        <mark key="]" line="38" column="76" />
-        <mark key="^" line="38" column="76" />
-        <mark key="." line="38" column="76" />
+      <file name="$USER_HOME$/Workspace/3t/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1558951494453">
+        <mark key="[" line="38" column="67" />
+        <mark key="]" line="38" column="72" />
+        <mark key="^" line="38" column="72" />
+        <mark key="." line="38" column="72" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/v1/MirrorDialog.java" timestamp="1558946198492" />
       <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/java/com/autoai/welink/auto/decode/DecodePlayer.java" timestamp="1558682995778">
         <mark key="[" line="425" column="0" />
         <mark key="]" line="425" column="0" />
@@ -361,6 +358,11 @@
         <mark key="]" line="8" column="34" />
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
+      </file>
+      <file name="$USER_HOME$/Workspace/3t/WLDemo/app/build.gradle" timestamp="1558951300783">
+        <mark key="[" line="27" column="56" />
+        <mark key="]" line="27" column="57" />
+        <mark key="." line="27" column="57" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/java/com/autoai/welink/auto/wlsimulator/DemoPlayer.java" timestamp="1558679832794">
         <mark key="[" line="23" column="0" />
