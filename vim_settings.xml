@@ -104,11 +104,12 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1559015310540">
+      <file name="$USER_HOME$/Workspace/3t/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1559018922912">
         <mark key="i" line="91" column="18" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="[" line="27" column="40" />
+        <mark key="]" line="27" column="48" />
+        <mark key="." line="27" column="48" />
+        <mark key="^" line="27" column="48" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/java/com/autoai/welink/auto/decode/DecodePlayer.java" timestamp="1558682995778">
         <mark key="[" line="425" column="0" />
@@ -493,11 +494,11 @@
       <jump line="167" column="7" filename="$USER_HOME$/Workspace/3t/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LkltYWdlVmlldzsK</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>t</text>
