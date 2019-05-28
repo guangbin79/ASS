@@ -147,7 +147,6 @@
         <mark key="." line="165" column="14" />
         <mark key="^" line="165" column="14" />
       </file>
-      <file name="$USER_HOME$/SurfaceRecorder/surfacerecorder/src/main/java/io/github/guangbin79/surfacerecorder/SurfaceRecorder.java" timestamp="1558675989182" />
       <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/TextureRenderer.java" timestamp="1558669461395">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -359,10 +358,10 @@
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WLDemo/app/build.gradle" timestamp="1558951300783">
-        <mark key="[" line="27" column="56" />
-        <mark key="]" line="27" column="57" />
-        <mark key="." line="27" column="57" />
+      <file name="$USER_HOME$/Workspace/3t/WLDemo/app/build.gradle" timestamp="1559008166744">
+        <mark key="[" line="27" column="58" />
+        <mark key="]" line="27" column="59" />
+        <mark key="." line="27" column="59" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/java/com/autoai/welink/auto/wlsimulator/DemoPlayer.java" timestamp="1558679832794">
         <mark key="[" line="23" column="0" />
@@ -393,6 +392,7 @@
         <mark key="^" line="1" column="42" />
         <mark key="." line="1" column="42" />
       </file>
+      <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/build.gradle" timestamp="1559008204452" />
       <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/protocol/VideoRecorderControlProtocol.java" timestamp="1558684440301">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
