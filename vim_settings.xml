@@ -30,11 +30,11 @@
         <mark key="^" line="109" column="7" />
         <mark key="." line="108" column="29" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/java/com/autoai/welink/auto/wlsimulator/MainActivity.java" timestamp="1559039041087">
+      <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/java/com/autoai/welink/auto/wlsimulator/MainActivity.java" timestamp="1559099813428">
         <mark key="'" line="8" column="27" />
-        <mark key="[" line="450" column="0" />
-        <mark key="]" line="450" column="0" />
-        <mark key="." line="450" column="0" />
+        <mark key="[" line="443" column="0" />
+        <mark key="]" line="443" column="0" />
+        <mark key="." line="443" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/statemanager/StateController.java" timestamp="1559095237228">
         <mark key="[" line="37" column="39" />
@@ -90,11 +90,11 @@
         <mark key="^" line="89" column="11" />
         <mark key="." line="89" column="11" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/protocol/MusicProtocol.java" timestamp="1559095687199">
-        <mark key="[" line="326" column="0" />
-        <mark key="]" line="326" column="0" />
-        <mark key="." line="326" column="0" />
-        <mark key="^" line="326" column="0" />
+      <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/protocol/MusicProtocol.java" timestamp="1559099519812">
+        <mark key="[" line="271" column="0" />
+        <mark key="]" line="271" column="0" />
+        <mark key="." line="271" column="0" />
+        <mark key="^" line="219" column="11" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/protocol/MusicProtocol.java" timestamp="1559095384890">
         <mark key="[" line="90" column="42" />
@@ -102,6 +102,7 @@
         <mark key="^" line="90" column="45" />
         <mark key="." line="90" column="45" />
       </file>
+      <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/protocol/ProtocolMgr.java" timestamp="1559097648571" />
       <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/res/layout/layout_horizontal_show.xml" timestamp="1558344898673">
         <mark key="[" line="8" column="31" />
         <mark key="]" line="8" column="35" />
@@ -113,12 +114,12 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1559095855328">
+      <file name="$USER_HOME$/Workspace/3t/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1559100472402">
         <mark key="i" line="93" column="18" />
-        <mark key="[" line="59" column="23" />
-        <mark key="]" line="60" column="7" />
-        <mark key="." line="60" column="7" />
-        <mark key="^" line="60" column="7" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="60" column="30" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/WLMusic.java" timestamp="1559036357282">
         <mark key="[" line="14" column="38" />
@@ -508,13 +509,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>application</text>
       </register>
       <register name="/" type="4">
         <text>t</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoIioqKmd1YW5nYmluIiwgInNldFN0YXRlIDExMTExMTEiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoIioqKmd1YW5nYmluIiwgIkBAQEBAQEBAQCIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -523,28 +524,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3bE11c2ljLnN0b3AoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3bE11c2ljLnN0b3AoKTsK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZXh0Owo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3bE11c2ljLnN0b3AoKTsK</text>
+        <text encoding="base64">ICAgIENvbnRleHQgYXBwbGljYXRpb247Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3bE11c2ljLnN0b3AoKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIC0xOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKytnaSA9PSA1KSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCIqKipndWFuZ2JpbiIsICJjYW5jZWwiKTsK</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBpbnQgZ2kgPSAwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
