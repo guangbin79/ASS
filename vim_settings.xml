@@ -446,11 +446,11 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/Downloads/WLConnector/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1559022726571">
-        <mark key="[" line="269" column="69" />
-        <mark key="]" line="269" column="68" />
-        <mark key="." line="269" column="68" />
-        <mark key="^" line="269" column="68" />
+      <file name="$USER_HOME$/Downloads/WLConnector/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1559122300228">
+        <mark key="[" line="28" column="70" />
+        <mark key="]" line="28" column="75" />
+        <mark key="." line="28" column="75" />
+        <mark key="^" line="28" column="75" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/protocol/BackgroundStatusProtocol.java" timestamp="1559114992189">
         <mark key="[" line="37" column="115" />
@@ -592,11 +592,11 @@
       <jump line="210" column="16" filename="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/protocol/MusicProtocol.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoIioqKmd1YW5nYmluIiwgIm9uIGZpbmlzaCIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>swlkvp</text>
       </register>
       <register name="-" type="4">
-        <text>omfiws</text>
+        <text>swlkvp</text>
       </register>
       <register name="/" type="4">
         <text>t</text>
