@@ -24,12 +24,12 @@
         <mark key="^" line="34" column="40" />
         <mark key="." line="34" column="40" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/protocol/MusicProtocol.java" timestamp="1559106380422">
+      <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/protocol/MusicProtocol.java" timestamp="1559110141598">
         <mark key="'" line="210" column="16" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="23" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="60" column="7" />
+        <mark key="[" line="249" column="19" />
+        <mark key="]" line="249" column="88" />
+        <mark key="." line="249" column="88" />
+        <mark key="^" line="249" column="88" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/protocol/MusicProtocol.java" timestamp="1559095384890">
         <mark key="[" line="90" column="42" />
@@ -219,8 +219,8 @@
       <jump line="210" column="16" filename="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/protocol/MusicProtocol.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>oqpgmj</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXJEYXRlID0gZWRkbmREYXRlOwo=</text>
       </register>
       <register name="-" type="4">
         <text>oqpgmj</text>
@@ -232,34 +232,34 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IENPTk5FQ1RfUkVTT0xVVElPTl9FUlJPUiA9IDA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXJEYXRlID0gZWRkbmREYXRlOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZmF1bHQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZmF1bHQ6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgMTogLy9vbkVycm9yCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgMTogLy9vbkVycm9yCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL2RvIHNvbWV0aGluZyxyZWZyZXNoIFVJOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEhhbmRsZSBoYW5kbGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL2RvIHNvbWV0aGluZyxyZWZyZXNoIFVJOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
