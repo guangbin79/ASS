@@ -423,7 +423,7 @@
         <mark key="^" line="86" column="26" />
         <mark key="." line="86" column="26" />
       </file>
-      <file name="$USER_HOME$/Downloads/WLConnector/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1559182903042">
+      <file name="$USER_HOME$/Downloads/WLConnector/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1559183240121">
         <mark key="[" line="28" column="67" />
         <mark key="]" line="28" column="72" />
         <mark key="." line="28" column="72" />
@@ -600,10 +600,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pmrevp</text>
+        <text>qsbepp</text>
       </register>
       <register name="-" type="4">
-        <text>pmrevp</text>
+        <text>qsbepp</text>
       </register>
       <register name="/" type="4">
         <text>t</text>
