@@ -423,7 +423,7 @@
         <mark key="^" line="86" column="26" />
         <mark key="." line="86" column="26" />
       </file>
-      <file name="$USER_HOME$/Downloads/WLConnector/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1559177281109">
+      <file name="$USER_HOME$/Downloads/WLConnector/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1559182903042">
         <mark key="[" line="28" column="67" />
         <mark key="]" line="28" column="72" />
         <mark key="." line="28" column="72" />
@@ -482,6 +482,12 @@
         <mark key="]" line="1" column="42" />
         <mark key="^" line="1" column="42" />
         <mark key="." line="1" column="42" />
+      </file>
+      <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/build.gradle" timestamp="1559182578165">
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="26" />
+        <mark key="." line="9" column="26" />
+        <mark key="^" line="9" column="26" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/protocol/VideoRecorderControlProtocol.java" timestamp="1559114984734">
         <mark key="[" line="51" column="115" />
@@ -594,10 +600,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>aeviiq</text>
+        <text>pmrevp</text>
       </register>
       <register name="-" type="4">
-        <text>aeviiq</text>
+        <text>pmrevp</text>
       </register>
       <register name="/" type="4">
         <text>t</text>
