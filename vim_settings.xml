@@ -5,7 +5,7 @@
       <mark key="R" line="243" column="19" filename="$USER_HOME$/SurfaceRecorder/surfacerecorder/src/main/java/io/github/guangbin79/surfacerecorder/SurfaceRecorder.java" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/v1/Connector.java" timestamp="1559117462579">
+      <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/v1/Connector.java" timestamp="1559185748775">
         <mark key="[" line="30" column="124" />
         <mark key="]" line="30" column="123" />
         <mark key="^" line="30" column="123" />
@@ -140,7 +140,7 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/AppConnectListener.java" timestamp="1559108016717">
+      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/AppConnectListener.java" timestamp="1559185482153">
         <mark key="[" line="28" column="22" />
         <mark key="]" line="28" column="22" />
         <mark key="." line="28" column="22" />
@@ -174,6 +174,7 @@
         <mark key="." line="425" column="0" />
         <mark key="^" line="425" column="44" />
       </file>
+      <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/WLConnector.java" timestamp="1559185737940" />
       <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/res/layout/layout_3_8.xml" timestamp="1558346005857">
         <mark key="[" line="8" column="34" />
         <mark key="]" line="8" column="33" />
@@ -263,6 +264,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="8" />
       </file>
+      <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/v1/BackgroundNotify.java" timestamp="1559184687825" />
       <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/AndroidManifest.xml" timestamp="1558494322299">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -281,6 +283,7 @@
         <mark key="." line="8" column="64" />
         <mark key="^" line="8" column="64" />
       </file>
+      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/protocol/BackgroundStatusProtocol.java" timestamp="1559185415115" />
       <file name="$USER_HOME$/Workspace/iOS-Screenshots/flutter_snapshot/pubspec.yaml" timestamp="1556169500121">
         <mark key="[" line="30" column="4" />
         <mark key="]" line="31" column="1" />
