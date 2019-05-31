@@ -109,11 +109,11 @@
         <mark key="^" line="11" column="39" />
         <mark key="." line="11" column="39" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/protocol/MusicProtocol.java" timestamp="1559095384890">
-        <mark key="[" line="90" column="42" />
-        <mark key="]" line="90" column="45" />
-        <mark key="^" line="90" column="45" />
-        <mark key="." line="90" column="45" />
+      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/protocol/MusicProtocol.java" timestamp="1559282314097">
+        <mark key="[" line="127" column="74" />
+        <mark key="]" line="127" column="74" />
+        <mark key="^" line="127" column="74" />
+        <mark key="." line="127" column="74" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/protocol/ProtocolMgr.java" timestamp="1559117640624">
         <mark key="[" line="149" column="124" />
@@ -127,12 +127,12 @@
         <mark key="^" line="89" column="11" />
         <mark key="." line="89" column="11" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/protocol/MusicProtocol.java" timestamp="1559119958015">
-        <mark key="'" line="213" column="16" />
-        <mark key="[" line="276" column="0" />
-        <mark key="]" line="276" column="0" />
-        <mark key="^" line="197" column="68" />
-        <mark key="." line="276" column="0" />
+      <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/protocol/MusicProtocol.java" timestamp="1559282201348">
+        <mark key="'" line="214" column="16" />
+        <mark key="[" line="432" column="52" />
+        <mark key="]" line="432" column="50" />
+        <mark key="^" line="432" column="50" />
+        <mark key="." line="432" column="50" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/res/layout/layout_horizontal_show.xml" timestamp="1558344898673">
         <mark key="[" line="8" column="31" />
@@ -615,19 +615,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IEFDVElPTl9GUk9HUk9VTkRfU0VMRiA9IDE7Ly/lsIZBcHDosIPlhaXliY3lj7AK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>t</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IEFDVElPTl9GT1JFR1JPVU5EX1NFTEYgPSAxOy8v5bCGQXBw6LCD5YWl5YmN5Y+wCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vcGNtCiAgICAgICAgICAgICAgICBhcHBMaXN0ZW5lci5vblJlY2VpdmVkTXVzaWMoanNvbk9iamVjdC5vcHRJbnQoIlBvc2l0aW9uIiksIGJ5dGVzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IEFDVElPTl9GUk9HUk9VTkRfU0VMRiA9IDE7Ly/lsIZBcHDosIPlhaXliY3lj7AK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -636,25 +636,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IEFDVElPTl9RVUlUX0hPTUUgPSAxMzsvL+mAgOWHukhPTUUK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IEFDVElPTl9GUk9HUk9VTkRfU0VMRiA9IDE7Ly/lsIZBcHDosIPlhaXliY3lj7AK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IEFDVElPTl9RVUlUX0hPTUUgPSAxMzsvL+mAgOWHukhPTUUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IEFDVElPTl9FTlRFUl9IT01FID0gMTI7Ly/ov5vlhaVIT01FCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IEFDVElPTl9RVUlUX0hPTUUgPSAxMzsvL+mAgOWHukhPTUUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IEFDVElPTl9GUk9HUk9VTkRfU0VMRiA9IDI7Ly/ov5Tlm57liY3lj7AK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IEFDVElPTl9PUEVOX1ZSID0gMTsvL+ivremfs+ivhuWIqwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IEFDVElPTl9RVUlUX0hPTUUgPSAxMzsvL+mAgOWHukhPTUUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IEFDVElPTl9SRVRVUk5fTEFVTkNIRVIgPSAwOy8v6L+U5ZuebGF1bmNoZXIK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IEFDVElPTl9FTlRFUl9IT01FID0gMTI7Ly/ov5vlhaVIT01FCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -735,6 +735,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
