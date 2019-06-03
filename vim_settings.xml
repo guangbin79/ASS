@@ -437,11 +437,11 @@
         <mark key="^" line="86" column="26" />
         <mark key="." line="86" column="26" />
       </file>
-      <file name="$USER_HOME$/Downloads/WLConnector/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1559183240121">
-        <mark key="[" line="28" column="67" />
-        <mark key="]" line="28" column="72" />
-        <mark key="." line="28" column="72" />
-        <mark key="^" line="28" column="72" />
+      <file name="$USER_HOME$/Downloads/WLConnector/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1559533140387">
+        <mark key="[" line="28" column="70" />
+        <mark key="]" line="28" column="75" />
+        <mark key="." line="28" column="75" />
+        <mark key="^" line="28" column="75" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/protocol/BackgroundStatusProtocol.java" timestamp="1559114992189">
         <mark key="[" line="37" column="115" />
@@ -613,11 +613,11 @@
       <jump line="210" column="16" filename="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/protocol/MusicProtocol.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ercbpu</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ercbpu</text>
       </register>
       <register name="/" type="4">
         <text>t</text>
