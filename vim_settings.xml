@@ -29,6 +29,7 @@
         <mark key="." line="115" column="19" />
         <mark key="^" line="115" column="19" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaFormat.java" timestamp="1559618335619" />
       <file name="$USER_HOME$/Workspace/startup_namer/lib/main.dart" timestamp="1555915801868">
         <mark key="[" line="108" column="29" />
         <mark key="]" line="108" column="29" />
@@ -307,11 +308,11 @@
         <mark key="^" line="428" column="40" />
         <mark key="." line="428" column="40" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/RecordController.java" timestamp="1558936746646">
-        <mark key="[" line="192" column="0" />
-        <mark key="]" line="192" column="0" />
-        <mark key="." line="192" column="0" />
-        <mark key="^" line="191" column="22" />
+      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/RecordController.java" timestamp="1559619365798">
+        <mark key="[" line="46" column="96" />
+        <mark key="]" line="46" column="96" />
+        <mark key="." line="46" column="96" />
+        <mark key="^" line="46" column="96" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/java/com/autoai/welink/auto/wlsimulator/SimpleAudioOutput.java" timestamp="1559038622259">
         <mark key="[" line="43" column="25" />
@@ -614,10 +615,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ercbpu</text>
+        <text>AVCProfileHigh</text>
       </register>
       <register name="-" type="4">
-        <text>ercbpu</text>
+        <text>AVCProfileHigh</text>
       </register>
       <register name="/" type="4">
         <text>t</text>
