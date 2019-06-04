@@ -29,7 +29,6 @@
         <mark key="." line="115" column="19" />
         <mark key="^" line="115" column="19" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/android/media/MediaFormat.java" timestamp="1559618335619" />
       <file name="$USER_HOME$/Workspace/startup_namer/lib/main.dart" timestamp="1555915801868">
         <mark key="[" line="108" column="29" />
         <mark key="]" line="108" column="29" />
@@ -308,11 +307,11 @@
         <mark key="^" line="428" column="40" />
         <mark key="." line="428" column="40" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/RecordController.java" timestamp="1559629863234">
-        <mark key="[" line="54" column="9" />
-        <mark key="]" line="55" column="7" />
-        <mark key="." line="55" column="7" />
-        <mark key="^" line="55" column="7" />
+      <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/RecordController.java" timestamp="1559641397117">
+        <mark key="[" line="43" column="75" />
+        <mark key="]" line="43" column="74" />
+        <mark key="." line="43" column="74" />
+        <mark key="^" line="43" column="74" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/java/com/autoai/welink/auto/wlsimulator/SimpleAudioOutput.java" timestamp="1559038622259">
         <mark key="[" line="43" column="25" />
@@ -438,11 +437,11 @@
         <mark key="^" line="86" column="26" />
         <mark key="." line="86" column="26" />
       </file>
-      <file name="$USER_HOME$/Downloads/WLConnector/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1559533140387">
-        <mark key="[" line="28" column="70" />
-        <mark key="]" line="28" column="75" />
-        <mark key="." line="28" column="75" />
-        <mark key="^" line="28" column="75" />
+      <file name="$USER_HOME$/Downloads/WLConnector/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1559631761995">
+        <mark key="[" line="28" column="67" />
+        <mark key="]" line="28" column="72" />
+        <mark key="." line="28" column="72" />
+        <mark key="^" line="28" column="72" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/protocol/BackgroundStatusProtocol.java" timestamp="1559114992189">
         <mark key="[" line="37" column="115" />
@@ -614,11 +613,11 @@
       <jump line="210" column="16" filename="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/protocol/MusicProtocol.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtZWRpYUZvcm1hdC5zZXRJbnRlZ2VyKE1lZGlhRm9ybWF0LktFWV9QUk9GSUxFLCBNZWRpYUNvZGVjSW5mby5Db2RlY1Byb2ZpbGVMZXZlbC5BVkNQcm9maWxlQmFzZWxpbmUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>aeviiq</text>
       </register>
       <register name="-" type="4">
-        <text>帧</text>
+        <text>aeviiq</text>
       </register>
       <register name="/" type="4">
         <text>t</text>
