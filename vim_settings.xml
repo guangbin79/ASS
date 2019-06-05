@@ -437,11 +437,11 @@
         <mark key="^" line="86" column="26" />
         <mark key="." line="86" column="26" />
       </file>
-      <file name="$USER_HOME$/Downloads/WLConnector/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1559631761995">
-        <mark key="[" line="28" column="67" />
-        <mark key="]" line="28" column="72" />
-        <mark key="." line="28" column="72" />
-        <mark key="^" line="28" column="72" />
+      <file name="$USER_HOME$/Downloads/WLConnector/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1559643596839">
+        <mark key="[" line="28" column="69" />
+        <mark key="]" line="28" column="69" />
+        <mark key="." line="28" column="69" />
+        <mark key="^" line="28" column="69" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/protocol/BackgroundStatusProtocol.java" timestamp="1559114992189">
         <mark key="[" line="37" column="115" />
@@ -614,10 +614,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>aeviiq</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>aeviiq</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>t</text>
