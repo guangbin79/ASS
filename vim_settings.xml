@@ -399,10 +399,10 @@
         <mark key="^" line="69" column="29" />
         <mark key="." line="69" column="29" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Presentation/presentation_demo/lib/main.dart" timestamp="1560239030773">
-        <mark key="[" line="117" column="21" />
-        <mark key="]" line="117" column="23" />
-        <mark key="." line="117" column="23" />
+      <file name="$USER_HOME$/Workspace/WeLink-Presentation/presentation_demo/lib/main.dart" timestamp="1560239374449">
+        <mark key="[" line="117" column="15" />
+        <mark key="]" line="117" column="15" />
+        <mark key="." line="117" column="15" />
         <mark key="^" line="117" column="23" />
       </file>
       <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/res/xml/accessory_filter.xml" timestamp="1559719752169">
@@ -621,11 +621,11 @@
       <jump line="210" column="16" filename="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/protocol/MusicProtocol.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBBcHBMaWZlY3ljbGVTdGF0ZSBzdGF0ZTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Z3VhbmdiaW4g</text>
       </register>
       <register name="-" type="4">
-        <text>permission denied for accessory &quot; + accessory);</text>
+        <text encoding="base64">Z3VhbmdiaW4g</text>
       </register>
       <register name="/" type="4">
         <text>t</text>
