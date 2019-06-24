@@ -240,6 +240,7 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="14" column="3" />
       </file>
+      <file name="$USER_HOME$/SurfaceRecorder/surfacerecorder/src/main/java/io/github/guangbin79/surfacerecorder/SurfaceRecorder.java" timestamp="1561367778403" />
       <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/TextureRenderer.java" timestamp="1558669461395">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -393,11 +394,11 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/RockScout/app/build.gradle" timestamp="1561367604665">
-        <mark key="[" line="37" column="26" />
-        <mark key="]" line="37" column="27" />
-        <mark key="." line="37" column="27" />
-        <mark key="^" line="36" column="23" />
+      <file name="$USER_HOME$/Workspace/RockScout/app/build.gradle" timestamp="1561368121458">
+        <mark key="[" line="32" column="23" />
+        <mark key="]" line="32" column="24" />
+        <mark key="." line="32" column="24" />
+        <mark key="^" line="35" column="23" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/res/layout-land/layout_8_3.xml" timestamp="1558346419229">
         <mark key="[" line="12" column="39" />
@@ -417,8 +418,8 @@
         <mark key="." line="117" column="15" />
         <mark key="^" line="117" column="23" />
       </file>
-      <file name="$USER_HOME$/Workspace/RockScout/build.gradle" timestamp="1561367723731">
-        <mark key="[" line="37" column="53" />
+      <file name="$USER_HOME$/Workspace/RockScout/build.gradle" timestamp="1561368096166">
+        <mark key="[" line="46" column="17" />
         <mark key="]" line="37" column="54" />
         <mark key="." line="37" column="54" />
         <mark key="^" line="37" column="54" />
