@@ -240,7 +240,6 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/SurfaceRecorder/surfacerecorder/src/main/java/io/github/guangbin79/surfacerecorder/SurfaceRecorder.java" timestamp="1559177065891" />
       <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/TextureRenderer.java" timestamp="1558669461395">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -376,6 +375,12 @@
         <mark key="." line="36" column="43" />
         <mark key="^" line="36" column="43" />
       </file>
+      <file name="$USER_HOME$/Workspace/RockScout/app/src/main/AndroidManifest.xml" timestamp="1561366209278">
+        <mark key="[" line="4" column="45" />
+        <mark key="]" line="4" column="44" />
+        <mark key="^" line="4" column="44" />
+        <mark key="." line="4" column="44" />
+      </file>
       <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/server/code/AutoServerLink.java" timestamp="1559117321846">
         <mark key="[" line="796" column="57" />
         <mark key="]" line="796" column="57" />
@@ -387,6 +392,12 @@
         <mark key="]" line="8" column="21" />
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
+      </file>
+      <file name="$USER_HOME$/Workspace/RockScout/app/build.gradle" timestamp="1561366288498">
+        <mark key="[" line="56" column="4" />
+        <mark key="]" line="56" column="4" />
+        <mark key="." line="56" column="4" />
+        <mark key="^" line="55" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/res/layout-land/layout_8_3.xml" timestamp="1558346419229">
         <mark key="[" line="12" column="39" />
@@ -623,10 +634,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>kngybk</text>
+        <text>compile</text>
       </register>
       <register name="-" type="4">
-        <text>kngybk</text>
+        <text>compile</text>
       </register>
       <register name="/" type="4">
         <text>t</text>
