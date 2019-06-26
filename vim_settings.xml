@@ -162,10 +162,10 @@
         <mark key="." line="12" column="58" />
         <mark key="^" line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/Workspace/3t/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1560852606455">
+      <file name="$USER_HOME$/Workspace/3t/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1561538682567">
         <mark key="i" line="93" column="18" />
-        <mark key="[" line="28" column="67" />
-        <mark key="]" line="28" column="72" />
+        <mark key="[" line="191" column="32" />
+        <mark key="]" line="191" column="90" />
         <mark key="." line="28" column="72" />
         <mark key="^" line="28" column="72" />
       </file>
@@ -644,7 +644,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>http://gslb.miaopai.com/stream/ed5HCfnhovu3tyIQAiv60Q__.mp4</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -652,8 +652,8 @@
       <register name="/" type="4">
         <text>t</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0OmFwcGNvbXBhdC12NzoyOC4wLjAnCg==</text>
+      <register name="0" type="4">
+        <text>http://gslb.miaopai.com/stream/ed5HCfnhovu3tyIQAiv60Q__.mp4</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2MucmVzdW1lTWlycm9yU2NyZWVuKCk7Cg==</text>
