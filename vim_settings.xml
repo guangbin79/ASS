@@ -638,10 +638,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://gslb.miaopai.com/stream/ed5HCfnhovu3tyIQAiv60Q__.mp4</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>t</text>
