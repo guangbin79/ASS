@@ -421,6 +421,12 @@
         <mark key="." line="37" column="54" />
         <mark key="^" line="37" column="54" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Presentation/presentation_demo/lib/main.dart" timestamp="1562233289180">
+        <mark key="[" line="52" column="48" />
+        <mark key="]" line="52" column="48" />
+        <mark key="." line="52" column="48" />
+        <mark key="^" line="52" column="53" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/res/xml/accessory_filter.xml" timestamp="1559719752169">
         <mark key="[" line="5" column="5" />
         <mark key="]" line="5" column="17" />
@@ -638,10 +644,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>t</text>
