@@ -195,12 +195,12 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Presentation/map_view/lib/map_view.dart" timestamp="1562297517026">
+      <file name="$USER_HOME$/Workspace/WeLink-Presentation/map_view/lib/map_view.dart" timestamp="1562302342533">
         <mark key="'" line="10" column="37" />
-        <mark key="[" line="47" column="29" />
-        <mark key="]" line="47" column="29" />
-        <mark key="^" line="47" column="22" />
-        <mark key="." line="47" column="29" />
+        <mark key="[" line="10" column="39" />
+        <mark key="]" line="10" column="31" />
+        <mark key="^" line="10" column="30" />
+        <mark key="." line="10" column="31" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Presentation/presentation_demo/pubspec.yaml" timestamp="1562296222957">
         <mark key="[" line="26" column="0" />
@@ -666,10 +666,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>t</text>
