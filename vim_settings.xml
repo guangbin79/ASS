@@ -195,12 +195,12 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Presentation/map_view/lib/map_view.dart" timestamp="1562309860824">
-        <mark key="'" line="42" column="55" />
-        <mark key="[" line="10" column="26" />
-        <mark key="]" line="10" column="25" />
-        <mark key="." line="10" column="25" />
-        <mark key="^" line="10" column="25" />
+      <file name="$USER_HOME$/Workspace/WeLink-Presentation/map_view/lib/map_view.dart" timestamp="1562310728370">
+        <mark key="'" line="35" column="55" />
+        <mark key="[" line="36" column="33" />
+        <mark key="]" line="36" column="33" />
+        <mark key="." line="36" column="33" />
+        <mark key="^" line="12" column="19" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Presentation/presentation_demo/pubspec.yaml" timestamp="1562296222957">
         <mark key="[" line="26" column="0" />
@@ -443,11 +443,11 @@
         <mark key="." line="37" column="54" />
         <mark key="^" line="37" column="54" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Presentation/presentation_demo/lib/main.dart" timestamp="1562309956994">
-        <mark key="[" line="32" column="31" />
-        <mark key="]" line="33" column="30" />
-        <mark key="^" line="33" column="30" />
-        <mark key="." line="33" column="30" />
+      <file name="$USER_HOME$/Workspace/WeLink-Presentation/presentation_demo/lib/main.dart" timestamp="1562311039095">
+        <mark key="[" line="32" column="12" />
+        <mark key="]" line="32" column="30" />
+        <mark key="." line="32" column="30" />
+        <mark key="^" line="32" column="30" />
       </file>
       <file name="$USER_HOME$/Workspace/WeDrive_Welink_Launcher_CRS3.0_SVW/res/xml/accessory_filter.xml" timestamp="1559719752169">
         <mark key="[" line="5" column="5" />
@@ -665,50 +665,47 @@
       <jump line="45" column="55" filename="$USER_HOME$/Workspace/WeLink-Presentation/map_view/lib/map_view.dart" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlaWdodDogMjAwLjAsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>t</text>
       </register>
       <register name="0" type="4">
-        <text>MediaQuery.of(context).size.width;</text>
+        <text encoding="base64">IG5ldyBPcGVuR0xUZXh0dXJlQ29udHJvbGxlcigpOw==</text>
       </register>
-      <register name="1" type="4">
-        <text>_controller.isInitialized
-          ? new Texture(textureId: _controller.textureId)
-          : null;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlaWdodDogMjAwLjAsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpZHRoOjIwMC4wLAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-    return</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vTWFwVmlld+eahOWuvemrmOW/hemhu+S4jgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ewogICAg</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJndWFuZ2JpbiB3OiR3aWR0aCwgaDokaGVpZ2h0Iik7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBNYXBWaWV3U3RhdGUod2lkdGgsIGhlaWdodCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBmaW5hbCBkb3VibGUgX2hlaWdodDsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBmaW5hbCBkb3VibGUgX3dpZHRoOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaGVpZ2h0ID0gY29udGV4dC5zaXplLmhlaWdodDsK</text>
+        <text encoding="base64">ICBmaW5hbCBkb3VibGUgX2hlaWdodDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
