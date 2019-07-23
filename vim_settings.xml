@@ -366,11 +366,11 @@
         <mark key="^" line="64" column="7" />
         <mark key="." line="64" column="7" />
       </file>
-      <file name="$USER_HOME$/Downloads/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1563786557068">
-        <mark key="[" line="38" column="67" />
-        <mark key="]" line="38" column="72" />
-        <mark key="." line="38" column="72" />
-        <mark key="^" line="38" column="72" />
+      <file name="$USER_HOME$/Downloads/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/auto/wldemo/MainActivity.java" timestamp="1563863175141">
+        <mark key="[" line="30" column="67" />
+        <mark key="]" line="30" column="72" />
+        <mark key="." line="30" column="72" />
+        <mark key="^" line="30" column="72" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/res/layout/layout_8_3.xml" timestamp="1558346019645">
         <mark key="[" line="8" column="34" />
@@ -661,11 +661,11 @@
       <jump line="45" column="55" filename="$USER_HOME$/Workspace/WeLink-Presentation/map_view/lib/map_view.dart" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc2V0U3RhdGUoKCkgeyBfbGlnaHRzID0gdHJ1ZTsgfSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>37199</text>
       </register>
       <register name="-" type="4">
-        <text>1111111</text>
+        <text>37199</text>
       </register>
       <register name="/" type="4">
         <text>t</text>
