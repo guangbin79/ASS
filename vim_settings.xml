@@ -543,6 +543,12 @@
         <mark key="^" line="80" column="27" />
         <mark key="." line="80" column="27" />
       </file>
+      <file name="$USER_HOME$/Workspace/WLSimulator/app/build.gradle" timestamp="1565344656736">
+        <mark key="[" line="43" column="28" />
+        <mark key="]" line="43" column="36" />
+        <mark key="^" line="43" column="36" />
+        <mark key="." line="43" column="36" />
+      </file>
       <file name="$USER_HOME$/Workspace/3t/WeLinkServer/server/src/main/aidl/com/autoai/welink/auto/client/ISurfaceService.aidl" timestamp="1558494105576">
         <mark key="[" line="1" column="42" />
         <mark key="]" line="1" column="42" />
@@ -666,18 +672,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-keep public class com.autoai.welink.auto.WLConnector { public *; }
--keep public interface com.autoai.welink.auto.WeLinkConnectListener { public *; }
--keep public interface com.autoai.welink.auto.NaviConnectListener { public *; }
--keep public interface com.autoai.welink.auto.MusicConnectListener { public *; }
--keep public interface com.autoai.welink.auto.WLMusic { public *; }
--keep public interface com.autoai.welink.auto.WLMusic$Callback { public *; }
--keep public interface com.autoai.welink.auto.WLSound { public *; }
--keep public interface com.autoai.welink.auto.WLTBTInfo { public *; }
--keep public class com.autoai.welink.auto.WLConfiguration { public *; }</text>
+        <text>server</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>server</text>
       </register>
       <register name="/" type="4">
         <text>t</text>
