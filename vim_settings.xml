@@ -479,6 +479,10 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLinkConnector/connector/proguard-rules.pro" timestamp="1565342811788">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="29" column="70" />
+      </file>
       <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/protocol/TBTProtocol.java" timestamp="1559115034158">
         <mark key="[" line="25" column="115" />
         <mark key="]" line="25" column="123" />
@@ -661,8 +665,16 @@
       <jump line="45" column="55" filename="$USER_HOME$/Workspace/WeLink-Presentation/map_view/lib/map_view.dart" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiaWQiOiBfaWQsCg==</text>
+      <register name="&quot;" type="4">
+        <text>-keep public class com.autoai.welink.auto.WLConnector { public *; }
+-keep public interface com.autoai.welink.auto.WeLinkConnectListener { public *; }
+-keep public interface com.autoai.welink.auto.NaviConnectListener { public *; }
+-keep public interface com.autoai.welink.auto.MusicConnectListener { public *; }
+-keep public interface com.autoai.welink.auto.WLMusic { public *; }
+-keep public interface com.autoai.welink.auto.WLMusic$Callback { public *; }
+-keep public interface com.autoai.welink.auto.WLSound { public *; }
+-keep public interface com.autoai.welink.auto.WLTBTInfo { public *; }
+-keep public class com.autoai.welink.auto.WLConfiguration { public *; }</text>
       </register>
       <register name="-" type="4">
         <text>9</text>
@@ -670,8 +682,16 @@
       <register name="/" type="4">
         <text>t</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoImd1YW5nYmluIDExMTExMTEiKTsK</text>
+      <register name="0" type="4">
+        <text>-keep public class com.autoai.welink.auto.WLConnector { public *; }
+-keep public interface com.autoai.welink.auto.WeLinkConnectListener { public *; }
+-keep public interface com.autoai.welink.auto.NaviConnectListener { public *; }
+-keep public interface com.autoai.welink.auto.MusicConnectListener { public *; }
+-keep public interface com.autoai.welink.auto.WLMusic { public *; }
+-keep public interface com.autoai.welink.auto.WLMusic$Callback { public *; }
+-keep public interface com.autoai.welink.auto.WLSound { public *; }
+-keep public interface com.autoai.welink.auto.WLTBTInfo { public *; }
+-keep public class com.autoai.welink.auto.WLConfiguration { public *; }</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAiaWQiOiBfaWQsCg==</text>
