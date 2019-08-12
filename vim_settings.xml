@@ -43,11 +43,11 @@
         <mark key="^" line="34" column="40" />
         <mark key="." line="34" column="40" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLinkConnector/connector/build.gradle" timestamp="1565580822306">
-        <mark key="[" line="44" column="34" />
-        <mark key="]" line="44" column="47" />
-        <mark key="^" line="44" column="47" />
-        <mark key="." line="44" column="47" />
+      <file name="$USER_HOME$/Workspace/WeLinkConnector/connector/build.gradle" timestamp="1565584504418">
+        <mark key="[" line="33" column="5" />
+        <mark key="]" line="38" column="4" />
+        <mark key="^" line="38" column="4" />
+        <mark key="." line="38" column="4" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/v1/CodecController2.java" timestamp="1558948457100">
         <mark key="[" line="29" column="29" />
@@ -309,11 +309,11 @@
         <mark key="^" line="42" column="130" />
         <mark key="." line="42" column="130" />
       </file>
-      <file name="$USER_HOME$/Workspace/WLSimulator/app/build.gradle" timestamp="1565344656736">
-        <mark key="[" line="43" column="28" />
-        <mark key="]" line="43" column="36" />
-        <mark key="^" line="43" column="36" />
-        <mark key="." line="43" column="36" />
+      <file name="$USER_HOME$/Workspace/WLSimulator/app/build.gradle" timestamp="1565584515270">
+        <mark key="[" line="35" column="8" />
+        <mark key="]" line="35" column="3" />
+        <mark key="^" line="35" column="3" />
+        <mark key="." line="35" column="3" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/protocol/VideoRecorderControlProtocol.java" timestamp="1559114984734">
         <mark key="[" line="51" column="115" />
