@@ -319,7 +319,7 @@
         <mark key="^" line="42" column="130" />
         <mark key="." line="42" column="130" />
       </file>
-      <file name="$USER_HOME$/Workspace/WLSimulator/app/build.gradle" timestamp="1565589539585">
+      <file name="$USER_HOME$/Workspace/WLSimulator/app/build.gradle" timestamp="1565590897954">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="48" />
         <mark key="^" line="35" column="3" />
@@ -590,11 +590,11 @@
         <mark key="." line="9" column="26" />
         <mark key="^" line="9" column="26" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLinkServer/server/build.gradle" timestamp="1565589581730">
-        <mark key="[" line="34" column="28" />
-        <mark key="]" line="34" column="36" />
-        <mark key="^" line="34" column="36" />
-        <mark key="." line="34" column="36" />
+      <file name="$USER_HOME$/Workspace/WeLinkServer/server/build.gradle" timestamp="1565590906047">
+        <mark key="[" line="45" column="34" />
+        <mark key="]" line="45" column="36" />
+        <mark key="^" line="45" column="36" />
+        <mark key="." line="45" column="36" />
       </file>
     </filemarks>
     <jumps>
