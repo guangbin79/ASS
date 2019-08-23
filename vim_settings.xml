@@ -269,6 +269,12 @@
         <mark key="^" line="69" column="29" />
         <mark key="." line="69" column="29" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/WLConnector.java" timestamp="1566533684273">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="27" column="22" />
+      </file>
       <file name="$USER_HOME$/Workspace/3t/WeLinkConnector/connector/src/main/aidl/com/autoai/welink/autoproxy/server/ISurfaceService.aidl" timestamp="1558508960841">
         <mark key="[" line="11" column="23" />
         <mark key="]" line="11" column="39" />
@@ -699,47 +705,56 @@
       <jump line="45" column="55" filename="$USER_HOME$/Workspace/WeLink-Presentation/map_view/lib/map_view.dart" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>iaqoby</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>iaqoby</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>t</text>
       </register>
       <register name="0" type="4">
-        <text>keepattributes</text>
+        <text>/**
+     * WeLink App自身投影连接
+     *
+     * @param context    activity context
+     * @param connectStr 连接字符串，welinkApp启动第三方app时传递的字符串
+     * @param listener   连接状态回调
+     */
+    public static void connect(Context context, String connectStr, WeLinkConnectListener listener) {
+        Connector.connect(context, connectStr, listener);
+    }</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25Wb2ljZShieXRlW10gYnVmZmVyLCBpbnQgaSwgaW50IGopIHsKCiAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdsY29ubmVjdG9yLmFhcgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogV2VMaW5rIEFwcOiHqui6q+aKleW9sei/nuaOpQogICAgICoKICAgICAqIEBwYXJhbSBjb250ZXh0ICAgIGFjdGl2aXR5IGNvbnRleHQKICAgICAqIEBwYXJhbSBjb25uZWN0U3RyIOi/nuaOpeWtl+espuS4su+8jHdlbGlua0FwcOWQr+WKqOesrOS4ieaWuWFwcOaXtuS8oOmAkueahOWtl+espuS4sgogICAgICogQHBhcmFtIGxpc3RlbmVyICAg6L+e5o6l54q25oCB5Zue6LCDCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBjb25uZWN0KENvbnRleHQgY29udGV4dCwgU3RyaW5nIGNvbm5lY3RTdHIsIFdlTGlua0Nvbm5lY3RMaXN0ZW5lciBsaXN0ZW5lcikgewogICAgICAgIENvbm5lY3Rvci5jb25uZWN0KGNvbnRleHQsIGNvbm5lY3RTdHIsIGxpc3RlbmVyKTsKICAgIH0KCS8qKgoJICogV2VMaW5rIEFwcOiHqui6q+aKleW9sei/nuaOpQoJICoKCSAqIEBwYXJhbSBjb250ZXh0ICAgIGFjdGl2aXR5IGNvbnRleHQKCSAqIEBwYXJhbSBjb25uZWN0U3RyIOi/nuaOpeWtl+espuS4su+8jHdlbGlua0FwcOWQr+WKqOesrOS4ieaWuWFwcOaXtuS8oOmAkueahOWtl+espuS4sgoJICogQHBhcmFtIGxpc3RlbmVyICAg6L+e5o6l54q25oCB5Zue6LCDCgkgKi8KCXB1YmxpYyBzdGF0aWMgdm9pZCBjb25uZWN0KENvbnRleHQgY29udGV4dCwgU3RyaW5nIGNvbm5lY3RTdHIsIFdlTGlua0Nvbm5lY3RMaXN0ZW5lciBsaXN0ZW5lcikgewoJCUNvbm5lY3Rvci5jb25uZWN0KGNvbnRleHQsIGNvbm5lY3RTdHIsIGxpc3RlbmVyKTsKCX0KCgkvKioKCSAqIOWvvOiIqkFwcOi/nuaOpVdlTGluawoJICoKCSAqIEBwYXJhbSBjb250ZXh0ICAgIGFjdGl2aXR5IGNvbnRleHQKCSAqIEBwYXJhbSBjb25uZWN0U3RyIOi/nuaOpeWtl+espuS4su+8jHdlbGlua0FwcOWQr+WKqOesrOS4ieaWuWFwcOaXtuS8oOmAkueahOWtl+espuS4sgoJICogQHBhcmFtIGxpc3RlbmVyICAg6L+e5o6l54q25oCB5Zue6LCDCgkgKi8KCXB1YmxpYyBzdGF0aWMgdm9pZCBjb25uZWN0KENvbnRleHQgY29udGV4dCwgU3RyaW5nIGNvbm5lY3RTdHIsIE5hdmlDb25uZWN0TGlzdGVuZXIgbGlzdGVuZXIpIHsKCQlDb25uZWN0b3IuY29ubmVjdChjb250ZXh0LCBjb25uZWN0U3RyLCBsaXN0ZW5lcik7Cgl9CgoJLyoqCgkgKiDpn7PkuZBBcHDov57mjqVXZUxpbmsKCSAqCgkgKiBAcGFyYW0gY29udGV4dCAgICBhY3Rpdml0eSBjb250ZXh0CgkgKiBAcGFyYW0gY29ubmVjdFN0ciDov57mjqXlrZfnrKbkuLLvvIx3ZWxpbmtBcHDlkK/liqjnrKzkuInmlrlhcHDml7bkvKDpgJLnmoTlrZfnrKbkuLIKCSAqIEBwYXJhbSBsaXN0ZW5lciAgIOi/nuaOpeeKtuaAgeWbnuiwgwoJICovCglwdWJsaWMgc3RhdGljIHZvaWQgY29ubmVjdChDb250ZXh0IGNvbnRleHQsIFN0cmluZyBjb25uZWN0U3RyLCBNdXNpY0Nvbm5lY3RMaXN0ZW5lciBsaXN0ZW5lcikgewoJCUNvbm5lY3Rvci5jb25uZWN0KGNvbnRleHQsIGNvbm5lY3RTdHIsIGxpc3RlbmVyKTsKCX0K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25Wb2ljZShieXRlW10sIGludCwgaW50KSB7CiAgICAgICAgCiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBjb25uZWN0U3RyIOi/nuaOpeWtl+espuS4su+8jHdlbGlua0FwcOWQr+WKqOesrOS4ieaWuWFwcOaXtuS8oOmAkueahOWtl+espuS4sgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25Wb2ljZShieXRlW10gYnVmZmVyLCBpbnQgaSwgaW50IGopIHsKCiAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdsY29ubmVjdG9yLmFhcgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25Wb2ljZShieXRlW10sIGludCwgaW50KSB7CiAgICAgICAgCiAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Iy1rZWVwYXR0cmlidXRlcyBFeGNlcHRpb25zLCBJbm5lckNsYXNzZXMsIC4uLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LWtlZXAgcHVibGljIGludGVyZmFjZSBjb20uYXV0b2FpLndlbGluay5hdXRvLmNsaWVudC5JTWVtb3J5U2VydmljZSB7ICo7IH0KLWtlZXAgcHVibGljIGNsYXNzIGNvbS5hdXRvYWkud2VsaW5rLmF1dG8uY2xpZW50LklNZW1vcnlTZXJ2aWNlJCpTdHViIHsgKjsgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LWtlZXAgcHVibGljIGNsYXNzIGNvbS5hdXRvYWkud2VsaW5rLmF1dG8uY2xpZW50LklNZW1vcnlTZXJ2aWNlJCogeyAqOyB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
