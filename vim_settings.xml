@@ -53,9 +53,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/SurfaceRecorder.java" timestamp="1566891642617">
-        <mark key="[" line="87" column="13" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/server/code/MemoryShare.java" timestamp="1565589671665">
         <mark key="[" line="181" column="17" />
         <mark key="]" line="181" column="17" />
@@ -135,6 +132,9 @@
         <mark key="." line="140" column="19" />
       </file>
       <file name="$USER_HOME$/SurfaceRecorder/surfacerecorder/src/main/java/io/github/guangbin79/surfacerecorder/SurfaceRecorder.java" timestamp="1566868519177" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/server/src/main/AndroidManifest.xml" timestamp="1566893264816">
+        <mark key="[" line="6" column="35" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/connector/src/main/aidl/com/autoai/welink/autoproxy/server/IConnnectService.aidl" timestamp="1566537821194">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="10" />
