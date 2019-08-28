@@ -122,6 +122,7 @@
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/client/code/AutoClient.java" timestamp="1566541019409">
         <mark key="^" line="8" column="29" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/server/code/SurfaceService.java" timestamp="1566893861393" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/server/WLAutoServer.java" timestamp="1566542885385">
         <mark key="^" line="7" column="37" />
       </file>
@@ -132,7 +133,7 @@
         <mark key="." line="140" column="19" />
       </file>
       <file name="$USER_HOME$/SurfaceRecorder/surfacerecorder/src/main/java/io/github/guangbin79/surfacerecorder/SurfaceRecorder.java" timestamp="1566868519177" />
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/server/src/main/AndroidManifest.xml" timestamp="1566893264816">
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/server/src/main/AndroidManifest.xml" timestamp="1566893776797">
         <mark key="[" line="6" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/connector/src/main/aidl/com/autoai/welink/autoproxy/server/IConnnectService.aidl" timestamp="1566537821194">
