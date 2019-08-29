@@ -20,10 +20,11 @@
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/protocol/ProtocolMgr.java" timestamp="1566543301374">
         <mark key="[" line="8" column="46" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/WLServer.java" timestamp="1567042707105">
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="191" column="0" />
-        <mark key="." line="191" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/WLServer.java" timestamp="1567043341641">
+        <mark key="[" line="61" column="23" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="11" column="21" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/res/values/accessory_filter.xml" timestamp="1559719758835">
         <mark key="[" line="3" column="0" />
@@ -152,7 +153,7 @@
         <mark key="." line="396" column="7" />
         <mark key="^" line="396" column="7" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/WLConfiguration.java" timestamp="1567043062423">
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/WLConfiguration.java" timestamp="1567043233870">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
@@ -271,7 +272,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>getMirrorScreenApp</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text>WLConfi</text>
@@ -285,29 +286,29 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIOi/nuaOpeeahOW6lOeUqOexu+WeiwogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGVudW0gQXBwVHlwZSB7CiAgICAgICAgLyoqCiAgICAgICAgICogV2VMaW5rIEFwcAogICAgICAgICAqLwogICAgICAgIEFUX1dFTElOSywKICAgICAgICAvKioKICAgICAgICAgKiDpn7PkuZDnsbsgQXBwCiAgICAgICAgICovCiAgICAgICAgQVRfTVVTSUMsCiAgICAgICAgLyoqCiAgICAgICAgICog5a+86Iiq57G7IEFwcAogICAgICAgICAqLwogICAgICAgIEFUX05BVkksCiAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICog6I635Y+W6L+e5o6l54mI5pys5Y+3CiAgICAgKgogICAgICogQHJldHVybiDov57mjqXniYjmnKzlj7cKICAgICAqLwogICAgcHVibGljIGludCBnZXRDb25uZWN0VmVyc2lvbigpOw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG1zQ29ubmVjdFN0cjsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICog6I635Y+W6L+e5o6l54mI5pys5Y+3CiAgICAgKgogICAgICogQHJldHVybiDov57mjqXniYjmnKzlj7cKICAgICAqLwogICAgcHVibGljIGludCBnZXRDb25uZWN0VmVyc2lvbigpOw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtc0Nvbm5lY3RTdHIgPSBjb25uZWN0U3RyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG1zQ29ubmVjdFN0cjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
