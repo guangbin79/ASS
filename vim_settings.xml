@@ -80,11 +80,6 @@
         <mark key="]" line="10" column="57" />
         <mark key="." line="10" column="57" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/WLConnector.java" timestamp="1567132076938">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/statemanager/StateController.java" timestamp="1566542966258">
         <mark key="[" line="14" column="15" />
         <mark key="]" line="14" column="20" />
@@ -124,10 +119,11 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/v1/Connector.java" timestamp="1566540918981">
-        <mark key="[" line="5" column="39" />
-        <mark key="]" line="5" column="39" />
-        <mark key="." line="5" column="39" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/v1/Connector.java" timestamp="1567148005565">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/client/code/AutoClient.java" timestamp="1567046666534">
         <mark key="^" line="8" column="29" />
@@ -169,9 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="12" filename="$USER_HOME$/k1temp/SurfaceRecorder/timelapsevideo/src/main/java/io/github/guangbin79/timelapsevideo/TimelapseVideo.java" />
-      <jump line="65" column="36" filename="$USER_HOME$/k1temp/SurfaceRecorder/timelapsevideo/src/main/java/io/github/guangbin79/timelapsevideo/TimelapseVideo.java" />
-      <jump line="89" column="29" filename="$USER_HOME$/k1temp/SurfaceRecorder/timelapsevideo/src/main/java/io/github/guangbin79/timelapsevideo/TimelapseVideo.java" />
       <jump line="39" column="0" filename="$USER_HOME$/k1temp/SurfaceRecorder/timelapsevideo/src/main/java/io/github/guangbin79/timelapsevideo/TimelapseVideo.java" />
       <jump line="17" column="0" filename="$USER_HOME$/k1temp/SurfaceRecorder/timelapsevideo/src/main/java/io/github/guangbin79/timelapsevideo/TimelapseVideo.java" />
       <jump line="147" column="11" filename="$USER_HOME$/k1temp/SurfaceRecorder/timelapsevideo/src/main/java/io/github/guangbin79/timelapsevideo/TimelapseVideo.java" />
@@ -269,68 +262,66 @@
       <jump line="4" column="18" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/WLConnectListener.java" />
       <jump line="25" column="27" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/protocol/ActionProtocol.java" />
       <jump line="30" column="7" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/v1/Connector.java" />
+      <jump line="243" column="24" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/v1/Connector.java" />
+      <jump line="130" column="16" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/v1/Connector.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/v1/Connector.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSGFuZGxlciBoYW5kbGVyID0gbmV3IEhhbmRsZXIoTG9vcGVyLmdldE1haW5Mb29wZXIoKSkgewo=</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
-        <text>WLConfi</text>
+        <text>handler</text>
       </register>
-      <register name="0" type="4">
-        <text>Message msg = mHandler.obtainMessage(CANSHU);
-        Bundle bundle = new Bundle();
-        bundle.putByteArray(&quot;touchData&quot;,data);
-        msg.setData(bundle);//mes利用Bundle传递数据
-        msg.sendToTarget();</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBIYW5kbGVyIGhhbmRsZXIgPSBuZXcgSGFuZGxlcihMb29wZXIuZ2V0TWFpbkxvb3BlcigpKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSGFuZGxlciBoYW5kbGVyID0gbmV3IEhhbmRsZXIoTG9vcGVyLmdldE1haW5Mb29wZXIoKSkgewo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlDb25uZWN0b3IuY29ubmVjdChjb250ZXh0LCBjb25uZWN0U3RyLCBsaXN0ZW5lcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChjb2RlY0NvbnRyb2xsZXIgIT0gbnVsbCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGNvZGVjQ29udHJvbGxlciA9PSBudWxsKSByZXR1cm47Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLmF1dG8uY2xpZW50LldMQ29uZmlndXJhdGlvbkltcDsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLmF1dG8uY2xpZW50LldMQXV0b0NsaWVudDsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBIYW5kbGVyIGhhbmRsZXIgPSBuZXcgSGFuZGxlcihMb29wZXIuZ2V0TWFpbkxvb3BlcigpKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBoYW5kbGVNZXNzYWdlKE1lc3NhZ2UgbXNnKSB7CiAgICAgICAgICAgICAgICBzd2l0Y2gobXNnLndoYXQpewogICAgICAgICAgICAgICAgICAgIGNhc2UgMDoKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHRyYW5zbWlzc29uICE9IG51bGwpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cmFuc21pc3Nvbi5kaXNjb25uZWN0KCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfTsKCiAgICAgICAgTWVzc2FnZSBtc2cgPSBoYW5kbGVyLm9idGFpbk1lc3NhZ2UoMCk7CiAgICAgICAgbXNnLnNlbmRUb1RhcmdldCgpOw==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLmF1dG8ucHJvdG9jb2wuVHJhbnNtaXNzb247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuQnVuZGxlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cuc2V0RGF0YShidW5kbGUpOy8vbWVz5Yip55SoQnVuZGxl5Lyg6YCS5pWw5o2uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBidW5kbGUucHV0Qnl0ZUFycmF5KCJ0b3VjaERhdGEiLGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHRyYW5zbWlzc29uICE9IG51bGwpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cmFuc21pc3Nvbi5kaXNjb25uZWN0KCk7CiAgICAgICAgICAgICAgICAgICAgICAgIHRyYW5zbWlzc29uID0gbnVsbDsKICAgICAgICAgICAgICAgICAgICAgICAgaWYoYmFja2dyb3VuZE5vdGlmeSE9bnVsbCl7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kTm90aWZ5LnN0b3AoKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>WLConfi</last-search>
+      <last-search>handler</last-search>
       <last-offset />
-      <last-pattern>WLConfi</last-pattern>
+      <last-pattern>handler</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>onFinish</entry>
         <entry>LENS_FACING</entry>
         <entry>mTime</entry>
         <entry>adjust</entry>
@@ -350,6 +341,7 @@
         <entry>onCodec</entry>
         <entry>t</entry>
         <entry>WLConfi</entry>
+        <entry>handler</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
