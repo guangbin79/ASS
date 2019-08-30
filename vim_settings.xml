@@ -80,10 +80,10 @@
         <mark key="]" line="10" column="57" />
         <mark key="." line="10" column="57" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/WLConnector.java" timestamp="1567044470275">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/WLConnector.java" timestamp="1567132076938">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/statemanager/StateController.java" timestamp="1566542966258">
         <mark key="[" line="14" column="15" />
@@ -124,7 +124,6 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WLDemo/app/src/main/AndroidManifest.xml" timestamp="1567070853344" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/v1/Connector.java" timestamp="1566540918981">
         <mark key="[" line="5" column="39" />
         <mark key="]" line="5" column="39" />
@@ -163,11 +162,10 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/protocol/TouchEventProtocol.java" timestamp="1567069379195">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="50" column="26" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/connector/src/main/java/com/autoai/welink/auto/protocol/TouchEventProtocol.java" timestamp="1567131737902">
+        <mark key="[" line="92" column="46" />
+        <mark key="]" line="92" column="46" />
+        <mark key="." line="92" column="46" />
       </file>
     </filemarks>
     <jumps>
@@ -274,46 +272,50 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtSGFuZGxlci5zZW5kTWVzc2FnZShtc2cpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>CANSHU</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>WLConfi</text>
       </register>
       <register name="0" type="4">
-        <text>onReciveData</text>
+        <text>Message msg = mHandler.obtainMessage(CANSHU);
+        Bundle bundle = new Bundle();
+        bundle.putByteArray(&quot;touchData&quot;,data);
+        msg.setData(bundle);//mes利用Bundle传递数据
+        msg.sendToTarget();</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtSGFuZGxlci5zZW5kTWVzc2FnZShtc2cpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtSGFuZGxlci5zZW5kTWVzc2FnZShtc2cpOwo=</text>
+        <text encoding="base64">CQlDb25uZWN0b3IuY29ubmVjdChjb250ZXh0LCBjb25uZWN0U3RyLCBsaXN0ZW5lcik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtSGFuZGxlci5zZW5kTWVzc2FnZShtc2cpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNZXNzYWdlIG1zZyA9IG5ldyBNZXNzYWdlKCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLmF1dG8uY2xpZW50LldMQ29uZmlndXJhdGlvbkltcDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cud2hhdCA9IENBTlNIVTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtSGFuZGxlci5zZW5kCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLmF1dG8ucHJvdG9jb2wuVHJhbnNtaXNzb247Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIGQgbXNnLm9iaiA9IG5ldyBPYmplY3QoKTsK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuQnVuZGxlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIENvbnRleHQgY3R4Owo=</text>
+        <text encoding="base64">ICAgICAgICBtc2cuc2V0RGF0YShidW5kbGUpOy8vbWVz5Yip55SoQnVuZGxl5Lyg6YCS5pWw5o2uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBidW5kbGUucHV0Qnl0ZUFycmF5KCJ0b3VjaERhdGEiLGRhdGEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
