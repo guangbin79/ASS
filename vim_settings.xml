@@ -33,10 +33,11 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/WLServer.java" timestamp="1567157861238">
-        <mark key="[" line="101" column="50" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/WLServer.java" timestamp="1567158947230">
+        <mark key="[" line="112" column="39" />
+        <mark key="]" line="112" column="14" />
+        <mark key="." line="112" column="14" />
+        <mark key="^" line="112" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/3t/WLSimulator/app/src/main/res/values/accessory_filter.xml" timestamp="1559719758835">
         <mark key="[" line="3" column="0" />
@@ -71,7 +72,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/codec/SurfaceRecorder.java" timestamp="1567155173267" />
       <file name="$USER_HOME$/Workspace/WeLinkServer/server/src/main/java/com/autoai/welink/autoproxy/server/code/MemoryShare.java" timestamp="1565589671665">
         <mark key="[" line="181" column="17" />
         <mark key="]" line="181" column="17" />
@@ -297,10 +297,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>，每次start时置零</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>，每次start时置零</text>
       </register>
       <register name="/" type="4">
         <text>handler</text>
@@ -309,34 +309,35 @@
         <text>getCapability</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="2" type="4">
+        <text>tick = tick + PI / 60;
+        int green = (int)((sin(tick) + 1) / 2 * 255);</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICAgICAgICBnbENsZWFyQ29sb3IoMCwgZ3JlZW4sIDAsIDEpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYW52YXMuZHJhdwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBsb25nIGdldENhcGFiaWxpdHkoU3RyaW5nIGNvbm5lY3RTdHIpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4g6IO95Yqb5qCH56S6Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBjb25uZWN0U3RyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIOiOt+WPlui/nuaOpeWtl+espuS4suWvueW6lOeahOiDveWKm+agh+ekugo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBsb25nIGdldENhcGFiaWxpdHkoU3RyaW5nIGNvbm5lY3RTdHIpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
