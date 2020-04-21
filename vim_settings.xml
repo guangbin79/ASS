@@ -104,14 +104,14 @@
         <mark key="^" line="3" column="74" />
         <mark key="." line="3" column="74" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1587459749473">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1587462753609">
         <mark key="'" line="579" column="0" />
         <mark key="[" line="579" column="0" />
         <mark key="]" line="579" column="0" />
         <mark key="^" line="515" column="36" />
         <mark key="." line="579" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1587460488717">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1587462756571">
         <mark key="[" line="1288" column="0" />
         <mark key="]" line="1288" column="0" />
         <mark key="^" line="1287" column="24" />
@@ -180,11 +180,13 @@
         <mark key="]" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/TouchTranslator.java" timestamp="1587456548229">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/TouchTranslator.java" timestamp="1587463102923">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="81" column="8" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WlMuSDKManager.java" timestamp="1587462786241" />
     </filemarks>
     <jumps>
       <jump line="2900" column="41" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/bluetooth/BluetoothAdapter.java" />
@@ -292,7 +294,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlhbG9nLmRpc3BhdGNoVG91Y2hFdmVudCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">LSAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
@@ -304,34 +306,52 @@
         <text encoding="base64">ICAgIGludCBvbkxpbmtUb3VjaChpbiBNb3Rpb25FdmVudCBldmVudCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlhbG9nLmRpc3BhdGNoVG91Y2hFdmVudCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1BaWRsQ2FsbGJhY2sub25MaW5rVG91Y2goZXZlbnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV0xQbGF0Zm9ybS5lbmFibGVUb3VjaCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRQYXJhbWV0ZXIoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV0xQbGF0Zm9ybS5lbmFibGVUb3VjaCgpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV0xQbGF0Zm9ybS5kaXNhYmxlVG91Y2goKTsK</text>
+      <register name="5" type="4">
+        <text>private void setParameter() {
+
+//        if (((Activity) mContext).getRequestedOrientation() == SCREEN_ORIENTATION_PORTRAIT) {
+
+
+//        } else {
+//            isPortrait = false;
+//        }
+//        Point size = new Point();
+//        Display display = ((WindowManager) ( mContext).getSystemService(Context.WINDOW_SERVICE)).getDefaultDisplay();
+//        display.getRealSize(size);
+//        if (isPortrait) {
+//            mWidth = size.x;
+//            mHeight = size.y;
+//        } else {
+//            mWidth = size.y;
+//            mHeight = size.x;
+//        }
+    }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlhbG9nLmRpc3BhdGNoVG91Y2hFdmVudCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog56aB5q2i56ys5LiJ5pa5QXBw5ZON5bqU6Kem5o6n5LqL5Lu2CiAgICAgKi8KICAgIHB1YmxpYyB2b2lkIGRpc2FibGVUb3VjaCgpIHsKICAgICAgICBpZiAobVdlTGlua1NlcnZpY2UgIT0gbnVsbCAmJiBpc0xpbmtDb25uZWN0ZWQpIHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIG1XZUxpbmtTZXJ2aWNlLmRpc2FibGVUb3VjaCgpOwogICAgICAgICAgICB9IGNhdGNoIChSZW1vdGVFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1BaWRsQ2FsbGJhY2sub25MaW5rVG91Y2goZXZlbnQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgV0xQbGF0Zm9ybS5lbmFibGVUb3VjaCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5YWB6K6456ys5LiJ5pa5QXBw5ZON5bqU6Kem5o6n5LqL5Lu2CiAgICAgKi8KICAgIHB1YmxpYyB2b2lkIGVuYWJsZVRvdWNoKCkgewogICAgICAgIGlmIChtV2VMaW5rU2VydmljZSAhPSBudWxsICYmIGlzTGlua0Nvbm5lY3RlZCkgewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgbVdlTGlua1NlcnZpY2UuZW5hYmxlVG91Y2goKTsKICAgICAgICAgICAgfSBjYXRjaCAoUmVtb3RlRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgV0xQbGF0Zm9ybS5lbmFibGVUb3VjaCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
