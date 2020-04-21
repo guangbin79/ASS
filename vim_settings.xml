@@ -112,10 +112,10 @@
         <mark key="." line="579" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1587462756571">
-        <mark key="[" line="1288" column="0" />
-        <mark key="]" line="1288" column="0" />
-        <mark key="^" line="1287" column="24" />
-        <mark key="." line="1288" column="0" />
+        <mark key="[" line="1437" column="0" />
+        <mark key="]" line="1437" column="0" />
+        <mark key="^" line="1436" column="24" />
+        <mark key="." line="1437" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPCM/wlpcm/build.gradle" timestamp="1586248506436">
         <mark key="[" line="42" column="0" />
@@ -180,11 +180,11 @@
         <mark key="]" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/TouchTranslator.java" timestamp="1587463102923">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="81" column="8" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/TouchTranslator.java" timestamp="1587465048706">
+        <mark key="[" line="58" column="9" />
+        <mark key="]" line="59" column="31" />
+        <mark key="." line="59" column="30" />
+        <mark key="^" line="59" column="31" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WlMuSDKManager.java" timestamp="1587462786241" />
     </filemarks>
