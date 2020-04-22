@@ -86,11 +86,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1587522886497">
-        <mark key="[" line="219" column="44" />
-        <mark key="]" line="219" column="45" />
-        <mark key="." line="219" column="44" />
-        <mark key="^" line="219" column="45" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1587523594898">
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="0" />
+        <mark key="." line="223" column="0" />
+        <mark key="^" line="224" column="20" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHub.java" timestamp="1586248319925">
         <mark key="[" line="151" column="26" />
@@ -160,7 +160,6 @@
         <mark key="^" line="77" column="11" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/hardware/display/DisplayManager.java" timestamp="1587522131360" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/CodecController2.java" timestamp="1587521972285">
         <mark key="[" line="127" column="0" />
         <mark key="]" line="128" column="231" />
@@ -294,11 +293,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>addDialog</text>
       </register>
       <register name="/" type="4">
         <text>touch(</text>
@@ -313,28 +312,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1QbGF0Zm9ybS50b3VjaChtb3Rpb25FdmVudCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDlj4zlh7vmmL7npLrlr7nor53moYYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4g5Zue5o6n5bu25pe2Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUdlc3R1cmVEZXRlY3Rvci5vblRvdWNoRXZlbnQobW90aW9uRXZlbnQpOwogICAgICAgICAgICBpZiAobW90aW9uRXZlbnQuZ2V0QWN0aW9uTWFza2VkKCkgPT0gTW90aW9uRXZlbnQuQUNUSU9OX0RPV04pIHsKICAgICAgICAgICAgICAgIC8vIOWPjOWHu+aYvuekuuWvueivneahhgogICAgICAgICAgICAgICAgVmlld0NvbmZpZ3VyYXRpb24uZ2V0RG91YmxlVGFwVGltZW91dCgpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRpYWxvZyAhPSBudWxsICYmIGRpYWxvZy5pc1Nob3dpbmcoKSkgewogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRQYXJhbWV0ZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1QbGF0Zm9ybS50b3VjaChtb3Rpb25FdmVudCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
