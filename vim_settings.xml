@@ -86,6 +86,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1587522886497">
+        <mark key="[" line="219" column="44" />
+        <mark key="]" line="219" column="45" />
+        <mark key="." line="219" column="44" />
+        <mark key="^" line="219" column="45" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHub.java" timestamp="1586248319925">
         <mark key="[" line="151" column="26" />
         <mark key="]" line="151" column="25" />
@@ -104,6 +110,18 @@
         <mark key="^" line="3" column="74" />
         <mark key="." line="3" column="74" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatformListener.java" timestamp="1587522564298">
+        <mark key="[" line="29" column="15" />
+        <mark key="]" line="29" column="15" />
+        <mark key="." line="29" column="14" />
+        <mark key="^" line="29" column="15" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1587522603590">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="67" column="20" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1587462756571">
         <mark key="[" line="1437" column="0" />
         <mark key="]" line="1437" column="0" />
@@ -121,11 +139,11 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/aidl/com/autoai/welink/platform/service/IServiceCallback.aidl" timestamp="1587459705915">
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="22" />
-        <mark key="^" line="8" column="23" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/aidl/com/autoai/welink/platform/service/IServiceCallback.aidl" timestamp="1587522623492">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="9" />
+        <mark key="." line="8" column="8" />
+        <mark key="^" line="8" column="9" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/server/code/AutoServer.java" timestamp="1585911420583">
         <mark key="[" line="89" column="0" />
@@ -141,11 +159,6 @@
         <mark key="]" line="76" column="0" />
         <mark key="^" line="77" column="11" />
         <mark key="." line="76" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/Server.java" timestamp="1585910908556">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/hardware/display/DisplayManager.java" timestamp="1587522131360" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/CodecController2.java" timestamp="1587521972285">
@@ -164,12 +177,6 @@
         <mark key="]" line="18" column="82" />
         <mark key="^" line="18" column="82" />
         <mark key="." line="18" column="81" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/aidl/com/autoai/welink/service/IWeLinkService.aidl" timestamp="1585800527015">
-        <mark key="[" line="1" column="34" />
-        <mark key="]" line="1" column="41" />
-        <mark key="^" line="1" column="41" />
-        <mark key="." line="1" column="41" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/proguard-rules.pro" timestamp="1586248579434">
         <mark key="[" line="41" column="0" />
@@ -287,11 +294,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlEaXNwbGF5TWFuYWdlciBkaXNwbGF5TWFuYWdlciA9IChEaXNwbGF5TWFuYWdlcikgY29udGV4dC5nZXRTeXN0ZW1TZXJ2aWNlKENvbnRleHQuRElTUExBWV9TRVJWSUNFKTsKCQl2aXJ0dWFsRGlzcGxheSA9IGRpc3BsYXlNYW5hZ2VyLmNyZWF0ZVZpcnR1YWxEaXNwbGF5KCJXZUxpbmtQcmVzZW50YXRpb25EaXNwbGF5Iiwgd2lkdGgsIGhlaWdodCwgZGVuc2l0eURwaSwgc3VyZmFjZSwgRGlzcGxheU1hbmFnZXIuVklSVFVBTF9ESVNQTEFZX0ZMQUdfUFJFU0VOVEFUSU9OIHwgRGlzcGxheU1hbmFnZXIuVklSVFVBTF9ESVNQTEFZX0ZMQUdfT1dOX0NPTlRFTlRfT05MWSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LSAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>touch(</text>
@@ -306,46 +313,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRQYXJhbWV0ZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDA7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>private void setParameter() {
-
-//        if (((Activity) mContext).getRequestedOrientation() == SCREEN_ORIENTATION_PORTRAIT) {
-
-
-//        } else {
-//            isPortrait = false;
-//        }
-//        Point size = new Point();
-//        Display display = ((WindowManager) ( mContext).getSystemService(Context.WINDOW_SERVICE)).getDefaultDisplay();
-//        display.getRealSize(size);
-//        if (isPortrait) {
-//            mWidth = size.x;
-//            mHeight = size.y;
-//        } else {
-//            mWidth = size.y;
-//            mHeight = size.x;
-//        }
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4g5Zue5o6n5bu25pe2Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlhbG9nLmRpc3BhdGNoVG91Y2hFdmVudCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1BaWRsQ2FsbGJhY2sub25MaW5rVG91Y2goZXZlbnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV0xQbGF0Zm9ybS5lbmFibGVUb3VjaCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRQYXJhbWV0ZXIoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV0xQbGF0Zm9ybS5lbmFibGVUb3VjaCgpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
