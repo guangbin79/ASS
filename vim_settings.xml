@@ -153,6 +153,12 @@
         <mark key="^" line="1" column="41" />
         <mark key="." line="1" column="41" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/CodecController2.java" timestamp="1587521664803">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="128" column="231" />
+        <mark key="^" line="127" column="10" />
+        <mark key="." line="127" column="9" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/aidl/com/autoai/welink/platform/service/IWeLinkService.aidl" timestamp="1587459680260">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -286,7 +292,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlEaXNwbGF5TWFuYWdlciBkaXNwbGF5TWFuYWdlciA9IChEaXNwbGF5TWFuYWdlcikgY29udGV4dC5nZXRTeXN0ZW1TZXJ2aWNlKENvbnRleHQuRElTUExBWV9TRVJWSUNFKTsKCQl2aXJ0dWFsRGlzcGxheSA9IGRpc3BsYXlNYW5hZ2VyLmNyZWF0ZVZpcnR1YWxEaXNwbGF5KCJXZUxpbmtQcmVzZW50YXRpb25EaXNwbGF5Iiwgd2lkdGgsIGhlaWdodCwgZGVuc2l0eURwaSwgc3VyZmFjZSwgRGlzcGxheU1hbmFnZXIuVklSVFVBTF9ESVNQTEFZX0ZMQUdfUFJFU0VOVEFUSU9OIHwgRGlzcGxheU1hbmFnZXIuVklSVFVBTF9ESVNQTEFZX0ZMQUdfT1dOX0NPTlRFTlRfT05MWSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">LSAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
@@ -295,7 +301,7 @@
         <text>touch(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGludCBvbkxpbmtUb3VjaChpbiBNb3Rpb25FdmVudCBldmVudCk7Cg==</text>
+        <text encoding="base64">CQlEaXNwbGF5TWFuYWdlciBkaXNwbGF5TWFuYWdlciA9IChEaXNwbGF5TWFuYWdlcikgY29udGV4dC5nZXRTeXN0ZW1TZXJ2aWNlKENvbnRleHQuRElTUExBWV9TRVJWSUNFKTsKCQl2aXJ0dWFsRGlzcGxheSA9IGRpc3BsYXlNYW5hZ2VyLmNyZWF0ZVZpcnR1YWxEaXNwbGF5KCJXZUxpbmtQcmVzZW50YXRpb25EaXNwbGF5Iiwgd2lkdGgsIGhlaWdodCwgZGVuc2l0eURwaSwgc3VyZmFjZSwgRGlzcGxheU1hbmFnZXIuVklSVFVBTF9ESVNQTEFZX0ZMQUdfUFJFU0VOVEFUSU9OIHwgRGlzcGxheU1hbmFnZXIuVklSVFVBTF9ESVNQTEFZX0ZMQUdfT1dOX0NPTlRFTlRfT05MWSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
