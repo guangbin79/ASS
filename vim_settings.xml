@@ -104,13 +104,6 @@
         <mark key="^" line="3" column="74" />
         <mark key="." line="3" column="74" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1587462753609">
-        <mark key="'" line="579" column="0" />
-        <mark key="[" line="579" column="0" />
-        <mark key="]" line="579" column="0" />
-        <mark key="^" line="515" column="36" />
-        <mark key="." line="579" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1587462756571">
         <mark key="[" line="1437" column="0" />
         <mark key="]" line="1437" column="0" />
@@ -186,7 +179,6 @@
         <mark key="." line="59" column="30" />
         <mark key="^" line="59" column="31" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WlMuSDKManager.java" timestamp="1587462786241" />
     </filemarks>
     <jumps>
       <jump line="2900" column="41" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/bluetooth/BluetoothAdapter.java" />
