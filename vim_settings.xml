@@ -122,11 +122,10 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="67" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1587534184809">
-        <mark key="[" line="1287" column="65" />
-        <mark key="]" line="1287" column="66" />
-        <mark key="^" line="1287" column="66" />
-        <mark key="." line="1287" column="65" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1587535181584">
+        <mark key="[" line="1287" column="0" />
+        <mark key="]" line="1287" column="0" />
+        <mark key="." line="1287" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPCM/wlpcm/build.gradle" timestamp="1586248506436">
         <mark key="[" line="42" column="0" />
@@ -134,7 +133,7 @@
         <mark key="^" line="33" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/OverlayDialog.java" timestamp="1587534519821">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/OverlayDialog.java" timestamp="1587535326131">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
@@ -293,8 +292,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>GestureDetector</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZy5lKCJndWFuZ2JpbiIsICJlcnIxMTExMTExMTExMTExIik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>GestureDetector</text>
@@ -306,34 +305,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAiR2VzdHVyZURldGVjdG9yIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvVXNlcnMvZ3VhbmdiaW4vTGlicmFyeS9BbmRyb2lkL3Nkay9wbGF0Zm9ybS10b29scy9hZGIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZy5lKCJndWFuZ2JpbiIsICJlcnIxMTExMTExMTExMTExIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvVXNlcnMvZ3VhbmdiaW4vTGlicmFyeS9BbmRyb2lkL3Nkay9wbGF0Zm9ybS10b29scy9hZGIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtb3Rpb25FdmVudC5nZXRBY3Rpb25NYXNrZWQoKSA9PSBNb3Rpb25FdmVudC5BQ1RJT05fRE9XTikgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtb3Rpb25FdmVudC5nZXRBY3Rpb25NYXNrZWQoKSA9PSBNb3Rpb25FdmVudC5BQ1RJT05fRE9XTikgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBWaWV3Q29uZmlndXJhdGlvbi5nZXREb3VibGVUYXBUaW1lb3V0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtb3Rpb25FdmVudC5nZXRBY3Rpb25NYXNrZWQoKSA9PSBNb3Rpb25FdmVudC5BQ1RJT05fRE9XTikgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBWaWV3Q29uZmlndXJhdGlvbi5nZXREb3VibGVUYXBUaW1lb3V0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1QbGF0Zm9ybS50b3VjaChtb3Rpb25FdmVudCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDlj4zlh7vmmL7npLrlr7nor53moYYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1QbGF0Zm9ybS50b3VjaChtb3Rpb25FdmVudCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
