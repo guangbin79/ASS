@@ -147,13 +147,8 @@
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/aidl/com/autoai/welink/service/IServiceCallback.aidl" timestamp="1585800518447">
-        <mark key="[" line="1" column="34" />
-        <mark key="]" line="1" column="41" />
-        <mark key="^" line="1" column="41" />
-        <mark key="." line="1" column="41" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/CodecController2.java" timestamp="1587521664803">
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/hardware/display/DisplayManager.java" timestamp="1587522131360" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/CodecController2.java" timestamp="1587521972285">
         <mark key="[" line="127" column="0" />
         <mark key="]" line="128" column="231" />
         <mark key="^" line="127" column="10" />
@@ -164,6 +159,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/MirrorDialog.java" timestamp="1587522175568">
+        <mark key="[" line="18" column="82" />
+        <mark key="]" line="18" column="82" />
+        <mark key="^" line="18" column="82" />
+        <mark key="." line="18" column="81" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/aidl/com/autoai/welink/service/IWeLinkService.aidl" timestamp="1585800527015">
         <mark key="[" line="1" column="34" />
         <mark key="]" line="1" column="41" />
@@ -173,11 +174,6 @@
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/proguard-rules.pro" timestamp="1586248579434">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="40" />
-      </file>
-      <file name="/fragment.java" timestamp="1585800027788">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="31" />
-        <mark key="." line="0" column="31" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/TouchTranslator.java" timestamp="1587465048706">
         <mark key="[" line="58" column="9" />
