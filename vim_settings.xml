@@ -86,11 +86,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1587524839996">
-        <mark key="[" line="218" column="0" />
-        <mark key="]" line="217" column="56" />
-        <mark key="." line="217" column="55" />
-        <mark key="^" line="217" column="56" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1587533565425">
+        <mark key="[" line="107" column="55" />
+        <mark key="]" line="107" column="66" />
+        <mark key="." line="107" column="65" />
+        <mark key="^" line="107" column="66" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHub.java" timestamp="1586248319925">
         <mark key="[" line="151" column="26" />
@@ -293,47 +293,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>GestureDetector</text>
       </register>
       <register name="-" type="4">
-        <text>addDialog</text>
+        <text>GestureDetector</text>
       </register>
       <register name="/" type="4">
         <text>touch(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlEaXNwbGF5TWFuYWdlciBkaXNwbGF5TWFuYWdlciA9IChEaXNwbGF5TWFuYWdlcikgY29udGV4dC5nZXRTeXN0ZW1TZXJ2aWNlKENvbnRleHQuRElTUExBWV9TRVJWSUNFKTsKCQl2aXJ0dWFsRGlzcGxheSA9IGRpc3BsYXlNYW5hZ2VyLmNyZWF0ZVZpcnR1YWxEaXNwbGF5KCJXZUxpbmtQcmVzZW50YXRpb25EaXNwbGF5Iiwgd2lkdGgsIGhlaWdodCwgZGVuc2l0eURwaSwgc3VyZmFjZSwgRGlzcGxheU1hbmFnZXIuVklSVFVBTF9ESVNQTEFZX0ZMQUdfUFJFU0VOVEFUSU9OIHwgRGlzcGxheU1hbmFnZXIuVklSVFVBTF9ESVNQTEFZX0ZMQUdfT1dOX0NPTlRFTlRfT05MWSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAiR2VzdHVyZURldGVjdG9yIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvVXNlcnMvZ3VhbmdiaW4vTGlicmFyeS9BbmRyb2lkL3Nkay9wbGF0Zm9ybS10b29scy9hZGIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtb3Rpb25FdmVudC5nZXRBY3Rpb25NYXNrZWQoKSA9PSBNb3Rpb25FdmVudC5BQ1RJT05fRE9XTikgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtb3Rpb25FdmVudC5nZXRBY3Rpb25NYXNrZWQoKSA9PSBNb3Rpb25FdmVudC5BQ1RJT05fRE9XTikgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBWaWV3Q29uZmlndXJhdGlvbi5nZXREb3VibGVUYXBUaW1lb3V0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtb3Rpb25FdmVudC5nZXRBY3Rpb25NYXNrZWQoKSA9PSBNb3Rpb25FdmVudC5BQ1RJT05fRE9XTikgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBWaWV3Q29uZmlndXJhdGlvbi5nZXREb3VibGVUYXBUaW1lb3V0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1QbGF0Zm9ybS50b3VjaChtb3Rpb25FdmVudCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDlj4zlh7vmmL7npLrlr7nor53moYYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1QbGF0Zm9ybS50b3VjaChtb3Rpb25FdmVudCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDlj4zlh7vmmL7npLrlr7nor53moYYK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
