@@ -150,7 +150,6 @@
         <mark key="." line="13" column="8" />
         <mark key="^" line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/server/code/Client.java" timestamp="1587627504353" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/WLServer.java" timestamp="1587622576778">
         <mark key="[" line="140" column="39" />
         <mark key="]" line="140" column="39" />
@@ -161,11 +160,11 @@
         <mark key="[" line="100" column="5" />
         <mark key="]" line="103" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/CodecController2.java" timestamp="1587627434367">
-        <mark key="[" line="136" column="31" />
-        <mark key="]" line="136" column="38" />
-        <mark key="^" line="136" column="38" />
-        <mark key="." line="136" column="37" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/CodecController2.java" timestamp="1587695211703">
+        <mark key="[" line="131" column="57" />
+        <mark key="]" line="131" column="8" />
+        <mark key="^" line="131" column="8" />
+        <mark key="." line="131" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/aidl/com/autoai/welink/platform/service/IWeLinkService.aidl" timestamp="1587604858501">
         <mark key="[" line="13" column="86" />
