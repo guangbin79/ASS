@@ -86,11 +86,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/link_v1/Aoa2WifiBuffer_v1.java" timestamp="1588228468224">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="12" column="40" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="39" column="31" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/link_v1/Aoa2WifiBuffer_v1.java" timestamp="1588235336155">
+        <mark key="[" line="34" column="21" />
+        <mark key="]" line="39" column="30" />
+        <mark key="." line="39" column="29" />
+        <mark key="^" line="39" column="30" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/build.gradle" timestamp="1588226908545">
         <mark key="[" line="43" column="0" />
@@ -115,11 +115,11 @@
         <mark key="^" line="895" column="71" />
         <mark key="." line="895" column="70" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/link_v1/WIFI_v1.java" timestamp="1588234666720">
-        <mark key="[" line="165" column="53" />
-        <mark key="]" line="165" column="54" />
-        <mark key="^" line="165" column="54" />
-        <mark key="." line="165" column="53" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/link_v1/WIFI_v1.java" timestamp="1588235409171">
+        <mark key="[" line="165" column="31" />
+        <mark key="]" line="165" column="39" />
+        <mark key="^" line="165" column="39" />
+        <mark key="." line="165" column="38" />
       </file>
       <file name="/a.dummy" timestamp="1588225013255">
         <mark key="[" line="0" column="0" />
@@ -148,23 +148,23 @@
         <mark key="^" line="16" column="57" />
         <mark key="." line="16" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/link_v1/Wifi2AoaBuffer_v1.java" timestamp="1588227971617">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/link_v1/Wifi2AoaBuffer_v1.java" timestamp="1588235352691">
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="20" column="40" />
         <mark key="^" line="20" column="40" />
-        <mark key="." line="2" column="0" />
+        <mark key="." line="20" column="39" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/WLAOA.java" timestamp="1588233391311">
-        <mark key="[" line="170" column="37" />
-        <mark key="]" line="171" column="8" />
-        <mark key="." line="171" column="7" />
-        <mark key="^" line="171" column="8" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/WLAOA.java" timestamp="1588235314042">
+        <mark key="[" line="54" column="32" />
+        <mark key="]" line="54" column="32" />
+        <mark key="." line="54" column="31" />
+        <mark key="^" line="54" column="32" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/link_v1/AOA_v1.java" timestamp="1588234615723">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="121" column="9" />
-        <mark key="." line="115" column="0" />
-        <mark key="^" line="115" column="1" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/link_v1/AOA_v1.java" timestamp="1588235383189">
+        <mark key="[" line="29" column="27" />
+        <mark key="]" line="29" column="68" />
+        <mark key="." line="29" column="67" />
+        <mark key="^" line="29" column="68" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/build.gradle" timestamp="1588227062589">
         <mark key="[" line="39" column="0" />
@@ -280,17 +280,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>context</text>
       </register>
       <register name="-" type="4">
-        <text>new Thread(new Runnable() {</text>
+        <text>context</text>
       </register>
       <register name="/" type="4">
         <text>touch(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBvdXRwdXRTdHJlYW0ud3JpdGUoZGF0YSk7CiAgICAgICAgICAgIG91dHB1dFN0cmVhbS5mbHVzaCgpOwogICAgICAgICAgICBzdGF0dXMub25Db21wbGV0ZWQoKTsKICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHN0YXR1cy5vbkZhaWxlZCgpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBzdGFydF90aHJlYWQoUE9SVF9EQVRBKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -299,28 +299,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGZpbGVEZXNjcmlwdG9yICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIGZpbGVEZXNjcmlwdG9yLmNsb3NlKCk7CiAgICAgICAgICAgICAgICBmaWxlRGVzY3JpcHRvciA9IG51bGw7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBXSUZJX3YxKEBOb25OdWxsIENvbnRleHQgY29udGV4dCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dFN0cmVhbSA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWFkVGhyZWFkTWFwLnB1dChQT1JUX0RBVEEsIG5ldyBUaHJlYWQobmV3IFJ1bm5hYmxlKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewogICAgICAgICAgICAgICAgd2hpbGUgKHJlY2VpdmVEYXRhQ0IgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGludCBzaXplID0gaW5wdXRTdHJlYW1NYXAuZ2V0KFBPUlRfREFUQSkucmVhZCgpOwogICAgICAgICAgICAgICAgICAgICAgICBieXRlW10gZGF0YSA9IG5ldyBieXRlW3NpemVdOwoKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGlucHV0U3RyZWFtTWFwLmdldChQT1JUX0RBVEEpLnJlYWQoZGF0YSkgPT0gLTEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgICAgIHN5bmNocm9uaXplZCAocmVjZWl2ZURhdGFDQkxvY2spIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyZWNlaXZlRGF0YUNCICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWNlaXZlRGF0YUNCLm9uRGF0YShQT1JUX0RBVEEsIGRhdGEpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0pKTsKICAgICAgICByZWFkVGhyZWFkTWFwLnB1dChQT1JUX01TRywgbmV3IFRocmVhZChuZXcgUnVubmFibGUoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICB3aGlsZSAocmVjZWl2ZURhdGFDQiAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgaW50IHNpemUgPSBpbnB1dFN0cmVhbU1hcC5nZXQoUE9SVF9NU0cpLnJlYWQoKTsKICAgICAgICAgICAgICAgICAgICAgICAgYnl0ZVtdIGRhdGEgPSBuZXcgYnl0ZVtzaXplXTsKCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChpbnB1dFN0cmVhbU1hcC5nZXQoUE9SVF9NU0cpLnJlYWQoZGF0YSkgPT0gLTEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgICAgIHN5bmNocm9uaXplZCAocmVjZWl2ZURhdGFDQkxvY2spIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyZWNlaXZlRGF0YUNCICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWNlaXZlRGF0YUNCLm9uRGF0YShQT1JUX01TRywgZGF0YSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfSkpOwogICAgICAgIHJlYWRUaHJlYWRNYXAucHV0KFBPUlRfVklERU8sIG5ldyBUaHJlYWQobmV3IFJ1bm5hYmxlKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewogICAgICAgICAgICAgICAgd2hpbGUgKHJlY2VpdmVEYXRhQ0IgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGludCBzaXplID0gaW5wdXRTdHJlYW1NYXAuZ2V0KFBPUlRfVklERU8pLnJlYWQoKTsKICAgICAgICAgICAgICAgICAgICAgICAgYnl0ZVtdIGRhdGEgPSBuZXcgYnl0ZVtzaXplXTsKCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChpbnB1dFN0cmVhbU1hcC5nZXQoUE9SVF9WSURFTykucmVhZChkYXRhKSA9PSAtMSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgc3luY2hyb25pemVkIChyZWNlaXZlRGF0YUNCTG9jaykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHJlY2VpdmVEYXRhQ0IgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlY2VpdmVEYXRhQ0Iub25EYXRhKFBPUlRfVklERU8sIGRhdGEpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0pKTsKICAgICAgICByZWFkVGhyZWFkTWFwLnB1dChQT1JUX0hVLCBuZXcgVGhyZWFkKG5ldyBSdW5uYWJsZSgpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAgICAgICAgIHdoaWxlIChyZWNlaXZlRGF0YUNCICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBpbnQgc2l6ZSA9IGlucHV0U3RyZWFtTWFwLmdldChQT1JUX0hVKS5yZWFkKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJ5dGVbXSBkYXRhID0gbmV3IGJ5dGVbc2l6ZV07CgogICAgICAgICAgICAgICAgICAgICAgICBpZiAoaW5wdXRTdHJlYW1NYXAuZ2V0KFBPUlRfSFUpLnJlYWQoZGF0YSkgPT0gLTEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgICAgIHN5bmNocm9uaXplZCAocmVjZWl2ZURhdGFDQkxvY2spIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyZWNlaXZlRGF0YUNCICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWNlaXZlRGF0YUNCLm9uRGF0YShQT1JUX0hVLCBkYXRhKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9KSk7CiAgICAgICAgcmVhZFRocmVhZE1hcC5wdXQoUE9SVF9BVURJTywgbmV3IFRocmVhZChuZXcgUnVubmFibGUoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICB3aGlsZSAocmVjZWl2ZURhdGFDQiAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgaW50IHNpemUgPSBpbnB1dFN0cmVhbU1hcC5nZXQoUE9SVF9BVURJTykucmVhZCgpOwogICAgICAgICAgICAgICAgICAgICAgICBieXRlW10gZGF0YSA9IG5ldyBieXRlW3NpemVdOwoKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGlucHV0U3RyZWFtTWFwLmdldChQT1JUX0FVRElPKS5yZWFkKGRhdGEpID09IC0xKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICBzeW5jaHJvbml6ZWQgKHJlY2VpdmVEYXRhQ0JMb2NrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAocmVjZWl2ZURhdGFDQiAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVjZWl2ZURhdGFDQi5vbkRhdGEoUE9SVF9BVURJTywgZGF0YSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfSkpOwoKICAgICAgICByZWFkVGhyZWFkTWFwLmdldChQT1JUX0RBVEEpLnN0YXJ0KCk7CiAgICAgICAgcmVhZFRocmVhZE1hcC5nZXQoUE9SVF9NU0cpLnN0YXJ0KCk7CiAgICAgICAgcmVhZFRocmVhZE1hcC5nZXQoUE9SVF9WSURFTykuc3RhcnQoKTsKICAgICAgICByZWFkVGhyZWFkTWFwLmdldChQT1JUX0hVKS5zdGFydCgpOwogICAgICAgIHJlYWRUaHJlYWRNYXAuZ2V0KFBPUlRfQVVESU8pLnN0YXJ0KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dHB1dFN0cmVhbS5jbG9zZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZWFkVGhyZWFkTWFwLnB1dChwb3J0LCBudWxsKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG91dHB1dFN0cmVhbSAhPSBudWxsKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0U3RyZWFtID0gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
