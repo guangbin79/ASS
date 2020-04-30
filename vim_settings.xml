@@ -135,14 +135,17 @@
         <mark key="." line="17" column="32" />
         <mark key="^" line="17" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/link_v1/AOA_v1.java" timestamp="1588218068809">
-        <mark key="[" line="86" column="43" />
-        <mark key="]" line="87" column="25" />
-        <mark key="." line="87" column="24" />
-        <mark key="^" line="87" column="25" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/link_v1/AOA_v1.java" timestamp="1588222245003">
+        <mark key="[" line="108" column="18" />
+        <mark key="]" line="108" column="26" />
+        <mark key="." line="108" column="25" />
+        <mark key="^" line="108" column="26" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/link_v1/Socket2USBBuffer_v1.java" timestamp="1588217125238">
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/link_v1/Socket2USBBuffer_v1.java" timestamp="1588222700148">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="10" column="50" />
+        <mark key="." line="10" column="49" />
+        <mark key="^" line="10" column="50" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/link_v1/WIFI_v1.java" timestamp="1588212942806">
         <mark key="[" line="0" column="39" />
@@ -157,11 +160,10 @@
         <mark key="." line="3" column="4" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/java/io/FileInputStream.java" timestamp="1588214990370" />
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/link_v1/USB2SocketBuffer_v1.java" timestamp="1588152551394">
-        <mark key="[" line="77" column="24" />
-        <mark key="]" line="77" column="24" />
-        <mark key="^" line="77" column="24" />
-        <mark key="." line="77" column="23" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/link_v1/USB2SocketBuffer_v1.java" timestamp="1588223159611">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/WLMusic.java" timestamp="1588151550760" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/link/USBSendDataListener.java" timestamp="1588212819970" />
@@ -275,7 +277,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmluYWwg</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>touch(</text>
@@ -290,28 +292,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQoZGF0YVF1ZXVlTWFwLmdldChwb3J0KSAhPSBudWxsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9jay53YWl0KCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLndsYW9hLmxpbmsuVVNCU2VuZERhdGFMaXN0ZW5lcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyZWNlaXZlRGF0YUNCICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWNlaXZlRGF0YUNCLm9uRGF0YShkYXRhKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBleGVjdXRvclNlcnZpY2UgPSBFeGVjdXRvcnMubmV3U2luZ2xlVGhyZWFkRXhlY3V0b3IoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRXhlY3V0b3JTZXJ2aWNlIGV4ZWN1dG9yU2VydmljZSA9IG51bGw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBIYW5kbGVyIGhhbmRsZXIgPSBuZXcgSGFuZGxlcigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIGhhbmRsZU1lc3NhZ2UoTWVzc2FnZSBtc2cpIHsKICAgICAgICAgICAgICAgIHN3aXRjaCAobXNnLndoYXQpIHsKICAgICAgICAgICAgICAgICAgICBjYXNlIDA6CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3luY2hyb25pemVkIChsb2NrKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9jay53YWl0KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvY2subm90aWZ5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyZWNlaXZlRGF0YUNCICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWNlaXZlRGF0YUNCLm9uRGF0YShkYXRhKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
