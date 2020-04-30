@@ -97,23 +97,17 @@
         <mark key="]" line="51" column="55" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/link_v1/Socket2USBBuffer_v1.java" timestamp="1588222700148">
-        <mark key="[" line="9" column="34" />
-        <mark key="]" line="10" column="50" />
-        <mark key="." line="10" column="49" />
-        <mark key="^" line="10" column="50" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/soundRescourceReq/VoiceSourceRequestManager.java" timestamp="1588239627471">
+        <mark key="[" line="189" column="47" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="215" column="48" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1588217520330">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="75" column="18" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="894" column="86" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1588223320845">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="63" />
-        <mark key="^" line="895" column="71" />
-        <mark key="." line="895" column="70" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1588241431379">
+        <mark key="[" line="1885" column="39" />
+        <mark key="]" line="1885" column="39" />
+        <mark key="^" line="1885" column="108" />
+        <mark key="." line="1885" column="39" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/link_v1/WIFI_v1.java" timestamp="1588235409171">
         <mark key="[" line="165" column="31" />
@@ -121,14 +115,16 @@
         <mark key="^" line="165" column="39" />
         <mark key="." line="165" column="38" />
       </file>
-      <file name="/a.dummy" timestamp="1588225013255">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/audioMix/AudioStateManager.java" timestamp="1588240463314">
+        <mark key="[" line="70" column="69" />
+        <mark key="]" line="70" column="69" />
+        <mark key="." line="70" column="69" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/link_v1/USB2SocketBuffer_v1.java" timestamp="1588223242675">
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="18" column="30" />
-        <mark key="." line="18" column="29" />
-        <mark key="^" line="18" column="30" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/PCMManager.java" timestamp="1588241357005">
+        <mark key="[" line="27" column="41" />
+        <mark key="]" line="27" column="41" />
+        <mark key="." line="27" column="41" />
+        <mark key="^" line="260" column="47" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/link/WIFI.java" timestamp="1588231603747">
         <mark key="[" line="14" column="4" />
@@ -148,6 +144,18 @@
         <mark key="^" line="16" column="57" />
         <mark key="." line="16" column="4" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/TransportImpl/TTSPcmTransportImpl.java" timestamp="1588241384962">
+        <mark key="[" line="196" column="51" />
+        <mark key="]" line="196" column="51" />
+        <mark key="^" line="197" column="64" />
+        <mark key="." line="196" column="51" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/PcmTrabsportFactory.java" timestamp="1588241277168">
+        <mark key="[" line="28" column="48" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="60" column="12" />
+        <mark key="." line="62" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/link_v1/Wifi2AoaBuffer_v1.java" timestamp="1588235352691">
         <mark key="[" line="15" column="21" />
         <mark key="]" line="20" column="40" />
@@ -160,6 +168,18 @@
         <mark key="." line="54" column="31" />
         <mark key="^" line="54" column="32" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/TransportImpl/NaviPcmTransportImpl.java" timestamp="1588241418445">
+        <mark key="[" line="148" column="51" />
+        <mark key="]" line="148" column="51" />
+        <mark key="^" line="126" column="27" />
+        <mark key="." line="148" column="51" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/TransportImpl/MusicPcmTranspotLmpl.java" timestamp="1588241375569">
+        <mark key="[" line="86" column="47" />
+        <mark key="]" line="86" column="47" />
+        <mark key="^" line="86" column="78" />
+        <mark key="." line="86" column="47" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/link_v1/AOA_v1.java" timestamp="1588235383189">
         <mark key="[" line="29" column="27" />
         <mark key="]" line="29" column="68" />
@@ -170,6 +190,12 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/TransportImpl/NewsPcmTransportImpl.java" timestamp="1588241408903">
+        <mark key="[" line="164" column="47" />
+        <mark key="]" line="164" column="47" />
+        <mark key="^" line="156" column="60" />
+        <mark key="." line="164" column="47" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/link/Aoa2WifiBuffer.java" timestamp="1588225694375">
         <mark key="[" line="5" column="20" />
@@ -281,10 +307,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>context</text>
+        <text>getApplicationContext()</text>
       </register>
       <register name="-" type="4">
-        <text>context</text>
+        <text>getApplicationContext()</text>
       </register>
       <register name="/" type="4">
         <text>touch(</text>
@@ -299,28 +325,78 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBXSUZJX3YxKEBOb25OdWxsIENvbnRleHQgY29udGV4dCkgewo=</text>
+      <register name="3" type="4">
+        <text>/**
+     * 非pcm情况下 各个音源需要将播放开始与暂停状态设置到AudioStateManager中进行统一管理
+     * @param type  音源type
+     * @param playingState  true 播放开始， flase 播放结束
+     */
+    public void setAudioState(int type, boolean playingState) {
+        LogManager.d(&quot;pcm&quot;, &quot;setAudioState: type::  &quot; + type + &quot;PlayingState:: &quot;+ playingState);
+          switch (type){
+              case PcmConfigs.SOUND_NAV:
+                  isNaviPlaying = playingState;
+                  if (playingState){
+                      if(isNewsPlaying){
+                          pcmCurSourceState = PcmConfigs.SOUND_NEWS;
+                          isNewsPlaying = false;
+                      }else if(isWCPlaying){
+                          pcmCurSourceState = PcmConfigs.SOUND_WECHAT;
+                          isWCPlaying = false;
+                      }else if (isLAPlaying){
+                          pcmCurSourceState = PcmConfigs.SOUND_WEATHER;
+                          isLAPlaying = false;
+                      }
+                      checkResponse(PcmConfigs.SOUND_NAV,true);
+                  }else {
+                      onNaviSourcePlayState(PcmConfigs.COMMAND_TO_PHONE_ENDS);
+                  }
+                  break;
+              case PcmConfigs.SOUND_WECHAT:
+                  isWCPlaying =playingState;
+                  if (!playingState){
+                      onWXSourcePlayState(PcmConfigs.COMMAND_TO_PHONE_ENDS);
+                  }
+                  break;
+              case PcmConfigs.SOUND_WEATHER:
+                  isLAPlaying = playingState;
+                  if (!playingState){
+                      onLASourcePlayState(PcmConfigs.COMMAND_TO_PHONE_ENDS);
+                  }
+                  break;
+              case PcmConfigs.SOUND_NEWS:
+                  isNewsPlaying = playingState;
+                  if (!playingState){
+                      onNewsSourcePlayState(PcmConfigs.COMMAND_TO_PHONE_ENDS);
+                  }
+                  break;
+              case PcmConfigs.SOUND_VOICE_ASSISTANT:
+                  isVRPlaying = playingState;
+                  break;
+              case PcmConfigs.SOUND_BACKGROUND_VOICE_ASSISTANT:
+                  break;
+          }
+    }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkVGhyZWFkTWFwLnB1dChQT1JUX0RBVEEsIG5ldyBUaHJlYWQobmV3IFJ1bm5hYmxlKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewogICAgICAgICAgICAgICAgd2hpbGUgKHJlY2VpdmVEYXRhQ0IgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGludCBzaXplID0gaW5wdXRTdHJlYW1NYXAuZ2V0KFBPUlRfREFUQSkucmVhZCgpOwogICAgICAgICAgICAgICAgICAgICAgICBieXRlW10gZGF0YSA9IG5ldyBieXRlW3NpemVdOwoKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGlucHV0U3RyZWFtTWFwLmdldChQT1JUX0RBVEEpLnJlYWQoZGF0YSkgPT0gLTEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgICAgIHN5bmNocm9uaXplZCAocmVjZWl2ZURhdGFDQkxvY2spIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyZWNlaXZlRGF0YUNCICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWNlaXZlRGF0YUNCLm9uRGF0YShQT1JUX0RBVEEsIGRhdGEpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0pKTsKICAgICAgICByZWFkVGhyZWFkTWFwLnB1dChQT1JUX01TRywgbmV3IFRocmVhZChuZXcgUnVubmFibGUoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICB3aGlsZSAocmVjZWl2ZURhdGFDQiAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgaW50IHNpemUgPSBpbnB1dFN0cmVhbU1hcC5nZXQoUE9SVF9NU0cpLnJlYWQoKTsKICAgICAgICAgICAgICAgICAgICAgICAgYnl0ZVtdIGRhdGEgPSBuZXcgYnl0ZVtzaXplXTsKCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChpbnB1dFN0cmVhbU1hcC5nZXQoUE9SVF9NU0cpLnJlYWQoZGF0YSkgPT0gLTEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgICAgIHN5bmNocm9uaXplZCAocmVjZWl2ZURhdGFDQkxvY2spIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyZWNlaXZlRGF0YUNCICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWNlaXZlRGF0YUNCLm9uRGF0YShQT1JUX01TRywgZGF0YSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfSkpOwogICAgICAgIHJlYWRUaHJlYWRNYXAucHV0KFBPUlRfVklERU8sIG5ldyBUaHJlYWQobmV3IFJ1bm5hYmxlKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewogICAgICAgICAgICAgICAgd2hpbGUgKHJlY2VpdmVEYXRhQ0IgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGludCBzaXplID0gaW5wdXRTdHJlYW1NYXAuZ2V0KFBPUlRfVklERU8pLnJlYWQoKTsKICAgICAgICAgICAgICAgICAgICAgICAgYnl0ZVtdIGRhdGEgPSBuZXcgYnl0ZVtzaXplXTsKCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChpbnB1dFN0cmVhbU1hcC5nZXQoUE9SVF9WSURFTykucmVhZChkYXRhKSA9PSAtMSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgc3luY2hyb25pemVkIChyZWNlaXZlRGF0YUNCTG9jaykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHJlY2VpdmVEYXRhQ0IgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlY2VpdmVEYXRhQ0Iub25EYXRhKFBPUlRfVklERU8sIGRhdGEpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0pKTsKICAgICAgICByZWFkVGhyZWFkTWFwLnB1dChQT1JUX0hVLCBuZXcgVGhyZWFkKG5ldyBSdW5uYWJsZSgpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAgICAgICAgIHdoaWxlIChyZWNlaXZlRGF0YUNCICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBpbnQgc2l6ZSA9IGlucHV0U3RyZWFtTWFwLmdldChQT1JUX0hVKS5yZWFkKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJ5dGVbXSBkYXRhID0gbmV3IGJ5dGVbc2l6ZV07CgogICAgICAgICAgICAgICAgICAgICAgICBpZiAoaW5wdXRTdHJlYW1NYXAuZ2V0KFBPUlRfSFUpLnJlYWQoZGF0YSkgPT0gLTEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgICAgIHN5bmNocm9uaXplZCAocmVjZWl2ZURhdGFDQkxvY2spIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyZWNlaXZlRGF0YUNCICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWNlaXZlRGF0YUNCLm9uRGF0YShQT1JUX0hVLCBkYXRhKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9KSk7CiAgICAgICAgcmVhZFRocmVhZE1hcC5wdXQoUE9SVF9BVURJTywgbmV3IFRocmVhZChuZXcgUnVubmFibGUoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICB3aGlsZSAocmVjZWl2ZURhdGFDQiAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgaW50IHNpemUgPSBpbnB1dFN0cmVhbU1hcC5nZXQoUE9SVF9BVURJTykucmVhZCgpOwogICAgICAgICAgICAgICAgICAgICAgICBieXRlW10gZGF0YSA9IG5ldyBieXRlW3NpemVdOwoKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGlucHV0U3RyZWFtTWFwLmdldChQT1JUX0FVRElPKS5yZWFkKGRhdGEpID09IC0xKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgxKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICBzeW5jaHJvbml6ZWQgKHJlY2VpdmVEYXRhQ0JMb2NrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAocmVjZWl2ZURhdGFDQiAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVjZWl2ZURhdGFDQi5vbkRhdGEoUE9SVF9BVURJTywgZGF0YSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfSkpOwoKICAgICAgICByZWFkVGhyZWFkTWFwLmdldChQT1JUX0RBVEEpLnN0YXJ0KCk7CiAgICAgICAgcmVhZFRocmVhZE1hcC5nZXQoUE9SVF9NU0cpLnN0YXJ0KCk7CiAgICAgICAgcmVhZFRocmVhZE1hcC5nZXQoUE9SVF9WSURFTykuc3RhcnQoKTsKICAgICAgICByZWFkVGhyZWFkTWFwLmdldChQT1JUX0hVKS5zdGFydCgpOwogICAgICAgIHJlYWRUaHJlYWRNYXAuZ2V0KFBPUlRfQVVESU8pLnN0YXJ0KCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWFkVGhyZWFkTWFwLnB1dChwb3J0LCBudWxsKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">LyoqCiAgICAgKiDop6PmnpDovabmnLrlj5HpgIHnmoRQQ03kv6Hmga8KICAgICAqIEBwYXJhbSBkYXRhIOS/oeaBrwogICAgICovCiAgICBwdWJsaWMgdm9pZCBwYXJzZVBjbVBsYXlDYWxsYmFjayhieXRlW10gZGF0YSkgewogICAgICAgIGludFtdIGludEFyciA9IEJ5dGVVdGlsLmdldENvbW1hbmRTb3VyY2UoZGF0YSk7CiAgICAgICAgaWYgKGludEFyciA9PSBudWxsKQogICAgICAgICAgICByZXR1cm47CiAgICAgICAgaW50IHNvdXJjZUlkID0gaW50QXJyWzBdOwogICAgICAgIGludCBjb21tYW5kSWQgPSBpbnRBcnJbMV07CiAgICAgICAgTG9nTWFuYWdlci5kKCJwY20iLCAiLS1WUiAtLXBhcnNlUGNtUGxheUNhbGxiYWNrID09IHNvdXJjZUlkID0gIitzb3VyY2VJZCsiLS0tY29tbWFuZElkID0gIitjb21tYW5kSWQgKTsKICAgICAgICBBdWRpb1N0YXRlTGlzdGVuZXIgYXVkaW9TdGF0ZUxpc3RlbmVyPW51bGw7CiAgICAgICAgIHN3aXRjaCAoc291cmNlSWQpewogICAgICAgICAgICBjYXNlIFBjbUNvbmZpZ3MuU09VTkRfTkFWOgogICAgICAgICAgICAgICAgYXVkaW9TdGF0ZUxpc3RlbmVyID0gZ2V0QXVkaW9TdGF0ZUxpc3RlbmVyKFR5cGVFbnVtLlNPVU5EX05BVkkpOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgUGNtQ29uZmlncy5TT1VORF9NVVNJQzoKICAgICAgICAgICAgICAgIGF1ZGlvU3RhdGVMaXN0ZW5lciA9IGdldEF1ZGlvU3RhdGVMaXN0ZW5lcihUeXBlRW51bS5TT1VORF9NVVNJQyk7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSBQY21Db25maWdzLlNPVU5EX05FV1M6CiAgICAgICAgICAgICAgICBhdWRpb1N0YXRlTGlzdGVuZXIgPSBnZXRBdWRpb1N0YXRlTGlzdGVuZXIoVHlwZUVudW0uU09VTkRfTkVXUyk7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSBQY21Db25maWdzLlNPVU5EX1dFQVRIRVI6CiAgICAgICAgICAgIGNhc2UgUGNtQ29uZmlncy5TT1VORF9XRUNIQVQ6CiAgICAgICAgICAgIGNhc2UgUGNtQ29uZmlncy5TT1VORF9WT0lDRV9BU1NJU1RBTlQ6CiAgICAgICAgICAgIGNhc2UgUGNtQ29uZmlncy5TT1VORF9CQUNLR1JPVU5EX1ZPSUNFX0FTU0lTVEFOVDoKICAgICAgICAgICAgICAgIGF1ZGlvU3RhdGVMaXN0ZW5lciA9IGdldEF1ZGlvU3RhdGVMaXN0ZW5lcihUeXBlRW51bS5TT1VORF9UVFMpOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgfQogICAgICAgIGlmIChhdWRpb1N0YXRlTGlzdGVuZXIhPW51bGwpewogICAgICAgICAgICBpZiAoY29tbWFuZElkID09UGNtQ29uZmlncy5DT01NQU5EX1RPX1BIT05FX1NUQVJUKXsKICAgICAgICAgICAgICAgIGlmIChzb3VyY2VJZCAhPVBjbUNvbmZpZ3MuU09VTkRfV0VBVEhFUiAmJiBzb3VyY2VJZCAhPVBjbUNvbmZpZ3MuU09VTkRfV0VDSEFUICl7IC8vIOi/meS4pOenjemfs+a6kOWcqOeUs+ivt3JlceeahOaXtuWAmeW3sue7j+WPkemAgeS6huW8gOWni+aSreaUvueKtuaAgQogICAgICAgICAgICAgICAgICAgIGF1ZGlvU3RhdGVMaXN0ZW5lci5zb3VuZFN0YXJ0KHNvdXJjZUlkKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfWVsc2UgaWYgKGNvbW1hbmRJZCA9PSBQY21Db25maWdzLkNPTU1BTkRfVE9fUEhPTkVfRU5EUyl7CiAgICAgICAgICAgICAgICBhdWRpb1N0YXRlTGlzdGVuZXIuc291bmRFbmQoc291cmNlSWQpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHN3aXRjaCAoc291cmNlSWQpIHsKICAgICAgICAgICAgY2FzZSBQY21Db25maWdzLlNPVU5EX05BVjoKICAgICAgICAgICAgICAgIGlmIChjb21tYW5kSWQgPT0gUGNtQ29uZmlncy5DT01NQU5EX1RPX1BIT05FX1NUQVJUKSB7CiAgICAgICAgICAgICAgICAgICBpc05hdmlQbGF5aW5nID0gdHJ1ZTsKICAgICAgICAgICAgICAgIH1lbHNlIGlmIChjb21tYW5kSWQgPT0gUGNtQ29uZmlncy5DT01NQU5EX1RPX1BIT05FX0VORFMpewogICAgICAgICAgICAgICAgICAgaXNOYXZpUGxheWluZyA9IGZhbHNlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgb25OYXZpU291cmNlUGxheVN0YXRlKGNvbW1hbmRJZCk7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSBQY21Db25maWdzLlNPVU5EX01VU0lDOgogICAgICAgICAgICAgICAgaWYoY29tbWFuZElkID09IFBjbUNvbmZpZ3MuQ09NTUFORF9UT19QSE9ORV9FTkRTKXsKICAgICAgICAgICAgICAgICAgICBpZihsaXN0ZW5lciAhPSBudWxsKXsKICAgICAgICAgICAgICAgICAgICAgICAgbGlzdGVuZXIubXVzaWNFbmQoKTsKICAgICAgICAgICAgICAgICAgICAgICAgbGlzdGVuZXIgPSBudWxsOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlIFBjbUNvbmZpZ3MuU09VTkRfTkVXUzoKICAgICAgICAgIC8vICAgICAgTG9nLmUoInFyYyIsICJTT1VORF9ORVdTOiAiKyBjb21tYW5kSWQgKTsKICAgICAgICAgICAgICAgIGlmIChjb21tYW5kSWQgPT0gUGNtQ29uZmlncy5DT01NQU5EX1RPX1BIT05FX1NUQVJUKSB7CiAgICAgICAgICAgICAgICAgICAgaXNOZXdzUGxheWluZyA9IHRydWU7CiAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGNvbW1hbmRJZCA9PSBQY21Db25maWdzLkNPTU1BTkRfVE9fUEhPTkVfRU5EUykgewogICAgICAgICAgICAgICAgICAgIGlzTmV3c1BsYXlpbmcgPSBmYWxzZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIG9uTmV3c1NvdXJjZVBsYXlTdGF0ZShjb21tYW5kSWQpOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgUGNtQ29uZmlncy5TT1VORF9XRUFUSEVSOgogICAgICAgICAgICAgICAgaWYgKGNvbW1hbmRJZCA9PSBQY21Db25maWdzLkNPTU1BTkRfVE9fUEhPTkVfU1RBUlQpIHsKICAgICAgICAgICAgICAgICAgICBpc0xBUGxheWluZyA9IHRydWU7CiAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGNvbW1hbmRJZCA9PSBQY21Db25maWdzLkNPTU1BTkRfVE9fUEhPTkVfRU5EUykgewogICAgICAgICAgICAgICAgICAgaXNMQVBsYXlpbmcgPSBmYWxzZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIG9uTEFTb3VyY2VQbGF5U3RhdGUoY29tbWFuZElkKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlIFBjbUNvbmZpZ3MuU09VTkRfV0VDSEFUOgogICAgICAgICAgICAgICAgaWYgKGNvbW1hbmRJZCA9PSBQY21Db25maWdzLkNPTU1BTkRfVE9fUEhPTkVfU1RBUlQpIHsKICAgICAgICAgICAgICAgICAgICBpc1dDUGxheWluZyA9IHRydWU7CiAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGNvbW1hbmRJZCA9PSBQY21Db25maWdzLkNPTU1BTkRfVE9fUEhPTkVfRU5EUykgewogICAgICAgICAgICAgICAgICAgaXNXQ1BsYXlpbmcgPSBmYWxzZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIG9uV1hTb3VyY2VQbGF5U3RhdGUoY29tbWFuZElkKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlIFBjbUNvbmZpZ3MuU09VTkRfVk9JQ0VfQVNTSVNUQU5UOgogICAgICAgICAgICAgICAgaWYgKGNvbW1hbmRJZCA9PSBQY21Db25maWdzLkNPTU1BTkRfVE9fUEhPTkVfU1RBUlQpIHsKICAgICAgICAgICAgICAgICAgIGlzVlJQbGF5aW5nID0gdHJ1ZTsKICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoY29tbWFuZElkID09IFBjbUNvbmZpZ3MuQ09NTUFORF9UT19QSE9ORV9FTkRTKSB7CiAgICAgICAgICAgICAgICAgICBpc1ZSUGxheWluZyA9IGZhbHNlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgUGNtQ29uZmlncy5TT1VORF9CQUNLR1JPVU5EX1ZPSUNFX0FTU0lTVEFOVDoKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgIH0KICAgIH0=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUENNTWFuYWdlcigpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
