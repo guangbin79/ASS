@@ -92,32 +92,11 @@
         <mark key="." line="39" column="29" />
         <mark key="^" line="39" column="30" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHub.java" timestamp="1588735396130">
-        <mark key="[" line="258" column="12" />
-        <mark key="]" line="258" column="12" />
-        <mark key="." line="258" column="11" />
-        <mark key="^" line="258" column="12" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/soundRescourceReq/VoiceSourceRequestManager.java" timestamp="1588239627471">
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1588241431379">
         <mark key="[" line="1885" column="39" />
         <mark key="]" line="1885" column="39" />
         <mark key="^" line="1885" column="108" />
         <mark key="." line="1885" column="39" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/link_v1/WIFI_v1.java" timestamp="1588235409171">
-        <mark key="[" line="165" column="31" />
-        <mark key="]" line="165" column="39" />
-        <mark key="^" line="165" column="39" />
-        <mark key="." line="165" column="38" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/audioMix/AudioStateManager.java" timestamp="1588240463314">
-        <mark key="[" line="71" column="69" />
-        <mark key="]" line="71" column="69" />
-        <mark key="." line="71" column="69" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WifiDirectGo.java" timestamp="1588735436490">
         <mark key="[" line="116" column="43" />
@@ -129,24 +108,6 @@
         <mark key="]" line="65" column="19" />
         <mark key="." line="65" column="19" />
         <mark key="^" line="61" column="16" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/link/WIFI.java" timestamp="1588231603747">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="12" />
-        <mark key="^" line="14" column="12" />
-        <mark key="." line="14" column="11" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/TransportImpl/TTSPcmTransportImpl.java" timestamp="1588241384962">
-        <mark key="[" line="196" column="51" />
-        <mark key="]" line="196" column="51" />
-        <mark key="^" line="197" column="64" />
-        <mark key="." line="196" column="51" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/PcmTrabsportFactory.java" timestamp="1588241277168">
-        <mark key="[" line="28" column="48" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="60" column="12" />
-        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/link_v1/Wifi2AoaBuffer_v1.java" timestamp="1588235352691">
         <mark key="[" line="15" column="21" />
@@ -184,13 +145,47 @@
         <mark key="." line="29" column="67" />
         <mark key="^" line="29" column="68" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/utils/ByteUtil.java" timestamp="1588736342921" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHub.java" timestamp="1588735396130">
+        <mark key="[" line="258" column="12" />
+        <mark key="]" line="258" column="12" />
+        <mark key="." line="258" column="11" />
+        <mark key="^" line="258" column="12" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/AnFileLog.java" timestamp="1588742677801" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/soundRescourceReq/VoiceSourceRequestManager.java" timestamp="1588239627471">
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAOA/wlaoa/src/main/java/com/autoai/welink/wlaoa/link_v1/WIFI_v1.java" timestamp="1588235409171">
+        <mark key="[" line="165" column="31" />
+        <mark key="]" line="165" column="39" />
+        <mark key="^" line="165" column="39" />
+        <mark key="." line="165" column="38" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/audioMix/AudioStateManager.java" timestamp="1588240463314">
+        <mark key="[" line="71" column="69" />
+        <mark key="]" line="71" column="69" />
+        <mark key="." line="71" column="69" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/TransportImpl/TTSPcmTransportImpl.java" timestamp="1588241384962">
+        <mark key="[" line="196" column="51" />
+        <mark key="]" line="196" column="51" />
+        <mark key="^" line="197" column="64" />
+        <mark key="." line="196" column="51" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/PcmTrabsportFactory.java" timestamp="1588241277168">
+        <mark key="[" line="28" column="48" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="60" column="12" />
+        <mark key="." line="62" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/TransportImpl/NewsPcmTransportImpl.java" timestamp="1588241408903">
         <mark key="[" line="164" column="47" />
         <mark key="]" line="164" column="47" />
         <mark key="^" line="156" column="60" />
         <mark key="." line="164" column="47" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/utils/ByteUtil.java" timestamp="1588736342921" />
     </filemarks>
     <jumps>
       <jump line="2900" column="41" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/bluetooth/BluetoothAdapter.java" />
