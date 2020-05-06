@@ -152,7 +152,10 @@
         <mark key="." line="258" column="11" />
         <mark key="^" line="258" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/AnFileLog.java" timestamp="1588742677801" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/AnFileLog.java" timestamp="1588742705281">
+        <mark key="[" line="43" column="42" />
+        <mark key="]" line="43" column="68" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/soundRescourceReq/VoiceSourceRequestManager.java" timestamp="1588239627471">
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
@@ -293,7 +296,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>LogManager</text>
+        <text>getExternalStorageDirectory</text>
       </register>
       <register name="-" type="4">
         <text>LogManager</text>
@@ -302,7 +305,7 @@
         <text>touch(</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>getExternalStorageDirectory</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
