@@ -92,10 +92,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/AnFileLog.java" timestamp="1588742705281">
-        <mark key="[" line="43" column="42" />
-        <mark key="]" line="43" column="68" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/build.gradle" timestamp="1588829037563">
         <mark key="[" line="48" column="4" />
         <mark key="]" line="48" column="7" />
@@ -143,6 +139,11 @@
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/gradle.properties" timestamp="1588758039483">
         <mark key="[" line="12" column="26" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WLDemo/app/build.gradle" timestamp="1588838824689">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/AndroidManifest.xml" timestamp="1588836331615">
         <mark key="[" line="7" column="59" />
