@@ -86,6 +86,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1588843216002">
+        <mark key="[" line="62" column="71" />
+        <mark key="]" line="62" column="77" />
+        <mark key="^" line="62" column="77" />
+        <mark key="." line="62" column="76" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/AndroidManifest.xml" timestamp="1588836002956">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="60" />
@@ -98,7 +104,7 @@
         <mark key="." line="48" column="6" />
         <mark key="^" line="48" column="7" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1588830086727">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1588843176499">
         <mark key="[" line="692" column="43" />
         <mark key="]" line="692" column="43" />
         <mark key="." line="692" column="43" />
