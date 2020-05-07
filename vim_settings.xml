@@ -108,9 +108,9 @@
         <mark key="." line="25" column="50" />
         <mark key="^" line="23" column="70" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/AndroidManifest.xml" timestamp="1588758914430">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/AndroidManifest.xml" timestamp="1588818183053">
         <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
+        <mark key="]" line="13" column="64" />
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/TransportImpl/NaviPcmTransportImpl.java" timestamp="1588736513993">
@@ -145,9 +145,9 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/AndroidManifest.xml" timestamp="1588816030986">
-        <mark key="[" line="3" column="53" />
-        <mark key="]" line="3" column="53" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/AndroidManifest.xml" timestamp="1588818176680">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="64" />
         <mark key="." line="3" column="53" />
         <mark key="^" line="9" column="50" />
       </file>
@@ -257,8 +257,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJjb20uYXV0b2FpLndlbGluay5zZXJ2aWNlIiAvPgo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -266,8 +266,8 @@
       <register name="/" type="4">
         <text>touch(</text>
       </register>
-      <register name="0" type="4">
-        <text>com.autoai.welink.autohardware.service</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJjb20uYXV0b2FpLndlbGluay5zZXJ2aWNlIiAvPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJjb20uYXV0b2FpLndlbGluay5wbGF0Zm9ybS5zZXJ2aWNlIiAvPgo=</text>
