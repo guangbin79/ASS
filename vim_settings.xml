@@ -86,12 +86,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/WLConfigurationImp.java" timestamp="1588914085884">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="61" />
-        <mark key="^" line="24" column="52" />
-        <mark key="." line="24" column="51" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1588931905390">
         <mark key="[" line="98" column="16" />
         <mark key="]" line="121" column="12" />
@@ -133,6 +127,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1588925741698">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/values/strings.xml" timestamp="1588932469117">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="30" />
+        <mark key="." line="1" column="29" />
+        <mark key="^" line="1" column="30" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/AndroidManifest.xml" timestamp="1588929356520">
         <mark key="[" line="6" column="0" />
@@ -259,11 +259,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>L</text>
       </register>
       <register name="-" type="4">
-        <text>wlConfiguration</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text>touch(</text>
