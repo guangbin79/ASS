@@ -92,6 +92,18 @@
         <mark key="^" line="24" column="52" />
         <mark key="." line="24" column="51" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1588914465291">
+        <mark key="[" line="140" column="239" />
+        <mark key="]" line="140" column="274" />
+        <mark key="." line="140" column="273" />
+        <mark key="^" line="140" column="274" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/build.gradle" timestamp="1588846464936">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="54" column="74" />
+        <mark key="." line="48" column="6" />
+        <mark key="^" line="48" column="7" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1588915766212">
         <mark key="[" line="37" column="62" />
         <mark key="]" line="37" column="84" />
@@ -109,6 +121,23 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="529" column="52" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/values/strings.xml" timestamp="1588844699920">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="5" column="38" />
+        <mark key="." line="5" column="36" />
+        <mark key="^" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/res/layout/activity_main.xml" timestamp="1588908242522">
+        <mark key="[" line="30" column="24" />
+        <mark key="]" line="30" column="25" />
+        <mark key="." line="30" column="25" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/AndroidManifest.xml" timestamp="1588847460869">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="7" column="77" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/gradle.properties" timestamp="1588846547242">
         <mark key="[" line="12" column="26" />
@@ -132,6 +161,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1588908309501">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="41" column="23" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/res/layout/layout_main.xml" timestamp="1588847926641">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -144,42 +179,11 @@
         <mark key="^" line="34" column="49" />
         <mark key="." line="34" column="48" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/WLMicrophone.java" timestamp="1588909433224" />
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1588914465291">
-        <mark key="[" line="140" column="239" />
-        <mark key="]" line="140" column="274" />
-        <mark key="." line="140" column="273" />
-        <mark key="^" line="140" column="274" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/build.gradle" timestamp="1588846464936">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="54" column="74" />
-        <mark key="." line="48" column="6" />
-        <mark key="^" line="48" column="7" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/values/strings.xml" timestamp="1588844699920">
-        <mark key="[" line="1" column="34" />
-        <mark key="]" line="5" column="38" />
-        <mark key="." line="5" column="36" />
-        <mark key="^" line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/gradle.properties" timestamp="1588847809691" />
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/res/layout/activity_main.xml" timestamp="1588908242522">
-        <mark key="[" line="30" column="24" />
-        <mark key="]" line="30" column="25" />
-        <mark key="." line="30" column="25" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/AndroidManifest.xml" timestamp="1588847460869">
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="7" column="77" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1588908309501">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="41" column="23" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/proguard-rules.pro" timestamp="1588918064145">
+        <mark key="[" line="31" column="46" />
+        <mark key="]" line="31" column="62" />
+        <mark key="." line="31" column="46" />
+        <mark key="^" line="30" column="58" />
       </file>
       <file name="/fragment.java" timestamp="1588908860753">
         <mark key="[" line="0" column="0" />
@@ -291,16 +295,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>WLMicrophone</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>WLMicrophone</text>
       </register>
       <register name="/" type="4">
         <text>touch(</text>
       </register>
       <register name="0" type="4">
-        <text>WLServer.</text>
+        <text>WLBluetoothPhone</text>
       </register>
       <register name="1" type="8">
         <text encoding="base64">IAogCiAKIAogCiA=</text>
