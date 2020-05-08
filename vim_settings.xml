@@ -92,9 +92,9 @@
         <mark key="^" line="24" column="52" />
         <mark key="." line="24" column="51" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1588915766212">
-        <mark key="[" line="37" column="62" />
-        <mark key="]" line="37" column="84" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1588931905390">
+        <mark key="[" line="98" column="16" />
+        <mark key="]" line="121" column="12" />
         <mark key="." line="37" column="83" />
         <mark key="^" line="37" column="84" />
       </file>
@@ -145,11 +145,11 @@
         <mark key="]" line="11" column="53" />
         <mark key="." line="11" column="53" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1588928022033">
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="0" />
-        <mark key="." line="170" column="0" />
-        <mark key="^" line="167" column="54" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1588932410928">
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="." line="159" column="0" />
+        <mark key="^" line="164" column="34" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/res/values/network-security-config.xml" timestamp="1588921301187" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/server/code/ServerService.java" timestamp="1588924609479" />
@@ -260,46 +260,69 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDplbmFibGVkPSJ0cnVlIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">fCA=</text>
+        <text>wlConfiguration</text>
       </register>
       <register name="/" type="4">
         <text>touch(</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgIm9uRnJhbWVBdmFpbGFibGUgMyIpOwo=</text>
+      <register name="0" type="4">
+        <text>final Object lock = new Object();
+                Handler handler = new Handler(Looper.getMainLooper()) {
+                    @Override
+                    public void handleMessage(Message msg) {
+                        switch (msg.what) {
+                            case 0:
+                                synchronized (lock) {
+                                    mListener.onLinkUnconnected();
+                                    lock.notify();
+                                }
+                        }
+                    }
+                };
+
+                try {
+                    synchronized (lock) {
+                        Message msg = handler.obtainMessage(0);
+                        msg.sendToTarget();
+                        lock.wait();
+                    }
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+            }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDplbmFibGVkPSJ0cnVlIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2aWRlb1ZpZXcuc3RhcnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBXTENvbmZpZ3VyYXRpb24gd2xDb25maWd1cmF0aW9uID0gd2xDb25uZWN0b3IuZ2V0Q29uZmlndXJhdGlvbigpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3bERpYWxvZy5zZXRDb250ZW50VmlldyhSLmxheW91dC50ZXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICB3bERpYWxvZyA9IG51bGw7CiAgICAgICAgd2xNdXNpYyA9IG51bGw7CiAgICAgICAgd2xWb2ljZSA9IG51bGw7CiAgICAgICAgd2xTb3VuZCA9IG51bGw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3bERpYWxvZy5zZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDplbmFibGVkPSJ0cnVlIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJndWFuZ2JpbiIsICJnbCBkcmF3Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2aWRlb1ZpZXcuc3RhcnQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgImdsIGRyYXciKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB3bERpYWxvZy5zZXRDb250ZW50VmlldyhSLmxheW91dC50ZXN0KTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAiMTExMTExMTExMSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB3bERpYWxvZy5zZXRDb250ZW50VmlldyhSLmxheW91dC5hY3Rpdml0eV9tYWluKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
