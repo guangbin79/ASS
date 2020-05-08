@@ -173,8 +173,8 @@
         <mark key="^" line="41" column="23" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1588847271193">
-        <mark key="[" line="0" column="22" />
+      <file name="/fragment.java" timestamp="1588908860753">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -282,11 +282,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>touch(</text>
