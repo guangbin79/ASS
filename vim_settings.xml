@@ -137,9 +137,6 @@
         <mark key="." line="165" column="23" />
         <mark key="^" line="165" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588925741698">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WLServiceManager.java" timestamp="1588999704500">
         <mark key="[" line="71" column="5" />
         <mark key="]" line="71" column="5" />
@@ -164,11 +161,10 @@
         <mark key="." line="2" column="26" />
         <mark key="^" line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/AndroidManifest.xml" timestamp="1588929356520">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="41" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/res/layout/activity_main.xml" timestamp="1589009209552">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/WeLinkConnectBroadcast.java" timestamp="1589008298815">
         <mark key="[" line="24" column="56" />
@@ -182,7 +178,6 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="62" column="50" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/WLBroadcastReceiver.java" timestamp="1588989436188" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WlMuSDKManager.java" timestamp="1589004164604">
         <mark key="[" line="183" column="17" />
         <mark key="]" line="184" column="22" />
@@ -296,10 +291,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>wldemo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>wldemo</text>
       </register>
       <register name="/" type="4">
         <text>guangbin</text>
