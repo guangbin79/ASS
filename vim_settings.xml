@@ -93,6 +93,7 @@
         <mark key="^" line="19" column="45" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/drawable/ic_launcher_background.xml" timestamp="1589010065104" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1589002913795">
         <mark key="[" line="94" column="12" />
         <mark key="]" line="92" column="32" />
@@ -105,12 +106,6 @@
         <mark key="]" line="1333" column="20" />
         <mark key="." line="1333" column="19" />
         <mark key="^" line="1333" column="20" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/OverlayDialog.java" timestamp="1588992639399">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="80" column="13" />
-        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/WeLinkConnectBR.java" timestamp="1589008057276">
         <mark key="[" line="9" column="28" />
@@ -155,12 +150,7 @@
         <mark key="^" line="9" column="44" />
         <mark key="." line="9" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/values/strings.xml" timestamp="1588994005127">
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="2" column="27" />
-        <mark key="." line="2" column="26" />
-        <mark key="^" line="2" column="27" />
-      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/values/colors.xml" timestamp="1589009762425" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/res/layout/activity_main.xml" timestamp="1589009209552">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="19" />
