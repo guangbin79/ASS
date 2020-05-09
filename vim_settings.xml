@@ -155,10 +155,10 @@
         <mark key="^" line="62" column="50" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAndroid/settings.gradle" timestamp="1589018830850">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="31" />
-        <mark key="." line="1" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/ILinkCallback.java" timestamp="1589003518492">
         <mark key="[" line="5" column="24" />
