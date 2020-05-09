@@ -107,11 +107,11 @@
         <mark key="." line="37" column="83" />
         <mark key="^" line="37" column="84" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1588991538888">
-        <mark key="[" line="98" column="35" />
-        <mark key="]" line="98" column="43" />
-        <mark key="." line="98" column="42" />
-        <mark key="^" line="98" column="43" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1588991853143">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="97" column="66" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="99" column="43" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/statemanager/StateManager.java" timestamp="1588925179390">
         <mark key="[" line="5" column="85" />
@@ -271,7 +271,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJndWFuZ2JpbiIsICJTZXJ2aWNlIENyYXNoSGFuZGxlciIpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>!</text>
@@ -280,7 +280,7 @@
         <text>touch(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAiQ3Jhc2hIYW5kbGVyIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJndWFuZ2JpbiIsICJTZXJ2aWNlIENyYXNoSGFuZGxlciIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
