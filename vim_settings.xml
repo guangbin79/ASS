@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>foregroundNotification</entry>
         <entry>http_port</entry>
         <entry>initGo</entry>
         <entry>init</entry>
@@ -27,6 +26,7 @@
         <entry>link(</entry>
         <entry>link()</entry>
         <entry>touch(</entry>
+        <entry>guangbin</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</entry>
@@ -86,32 +86,35 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1588989612814">
-        <mark key="[" line="262" column="35" />
-        <mark key="]" line="262" column="46" />
-        <mark key="." line="262" column="45" />
-        <mark key="^" line="262" column="46" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1588994140003">
+        <mark key="'" line="256" column="0" />
+        <mark key="[" line="217" column="31" />
+        <mark key="]" line="218" column="12" />
+        <mark key="." line="218" column="11" />
+        <mark key="^" line="218" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/CrashHandler.java" timestamp="1588991514720">
-        <mark key="[" line="19" column="45" />
-        <mark key="]" line="19" column="45" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/CrashHandler.java" timestamp="1588994165024">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
         <mark key="^" line="19" column="45" />
-        <mark key="." line="19" column="44" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1588925741698">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1588931905390">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1588994218123">
         <mark key="[" line="98" column="16" />
         <mark key="]" line="121" column="12" />
         <mark key="." line="37" column="83" />
         <mark key="^" line="37" column="84" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1588991853143">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="97" column="66" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="99" column="43" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1588994231363">
+        <mark key="'" line="96" column="0" />
+        <mark key="[" line="98" column="1" />
+        <mark key="]" line="98" column="1" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="98" column="1" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/statemanager/StateManager.java" timestamp="1588925179390">
         <mark key="[" line="5" column="85" />
@@ -125,11 +128,11 @@
         <mark key="^" line="80" column="13" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/values/strings.xml" timestamp="1588932469117">
-        <mark key="[" line="1" column="34" />
-        <mark key="]" line="1" column="30" />
-        <mark key="." line="1" column="29" />
-        <mark key="^" line="1" column="30" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/values/strings.xml" timestamp="1588994005127">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="26" />
+        <mark key="^" line="2" column="27" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/AndroidManifest.xml" timestamp="1588929356520">
         <mark key="[" line="6" column="0" />
@@ -172,14 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2900" column="41" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/bluetooth/BluetoothAdapter.java" />
-      <jump line="2919" column="41" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/bluetooth/BluetoothAdapter.java" />
-      <jump line="2934" column="51" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/bluetooth/BluetoothAdapter.java" />
-      <jump line="2937" column="63" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/bluetooth/BluetoothAdapter.java" />
-      <jump line="3017" column="41" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/bluetooth/BluetoothAdapter.java" />
-      <jump line="3025" column="51" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/bluetooth/BluetoothAdapter.java" />
-      <jump line="30" column="39" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/bluetooth/BluetoothAdapter.java" />
-      <jump line="641" column="50" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/bluetooth/BluetoothAdapter.java" />
       <jump line="809" column="35" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/bluetooth/BluetoothAdapter.java" />
       <jump line="811" column="44" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/bluetooth/BluetoothAdapter.java" />
       <jump line="816" column="28" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/bluetooth/BluetoothAdapter.java" />
@@ -272,51 +267,59 @@
       <jump line="12" column="28" filename="$USER_HOME$/.gradle/gradle.properties" />
       <jump line="2" column="0" filename="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/OverlayDialog.java" />
       <jump line="579" column="0" filename="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" />
+      <jump line="142" column="0" filename="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" />
+      <jump line="228" column="26" filename="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" />
+      <jump line="236" column="0" filename="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" />
+      <jump line="237" column="0" filename="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" />
+      <jump line="238" column="0" filename="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" />
+      <jump line="253" column="0" filename="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/CrashHandler.java" />
+      <jump line="96" column="0" filename="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJndWFuZ2JpbiIsICJTZXJ2aWNlIENyYXNoSGFuZGxlciIpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>touch(</text>
+        <text>guangbin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJndWFuZ2JpbiIsICJTZXJ2aWNlIENyYXNoSGFuZGxlciIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1QbGF0Zm9ybS5yZXZva2Uocyk7CiAgICAgICAgICAgICAgICBtQ29ubmVjdFN0ck1hcC5yZW1vdmUocyk7CiAgICAgICAgICAgICAgICBtQ29ubmVjdFN0ciA9IG51bGw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJndWFuZ2JpbiIsICJTZXJ2aWNlIENyYXNoSGFuZGxlciIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAib25DcmVhdGUiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgIjMzMzMzMzMzMyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAidW5jYXVnaHRFeGNlcHRpb24iKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAiMjIyMjIyMjIyMjIiKTsK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAiQ3Jhc2hIYW5kbGVyIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJndWFuZ2JpbiIsICIxMTExMTExMTExMSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1Db25uZWN0U3RyTWFwLnJlbW92ZShtQ29ubmVjdFN0cik7CiAgICAgICAgICAgICAgICBtQ29ubmVjdFN0ciA9IG51bGw7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBXTENvbmZpZ3VyYXRpb24gd2xDb25maWd1cmF0aW9uID0gd2xDb25uZWN0b3IuZ2V0Q29uZmlndXJhdGlvbigpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1QbGF0Zm9ybS5yZXZva2Uocyk7CiAgICAgICAgICAgICAgICBtQ29ubmVjdFN0ck1hcC5yZW1vdmUocyk7CiAgICAgICAgICAgICAgICBtQ29ubmVjdFN0ciA9IG51bGw7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3bERpYWxvZyA9IG51bGw7CiAgICAgICAgd2xNdXNpYyA9IG51bGw7CiAgICAgICAgd2xWb2ljZSA9IG51bGw7CiAgICAgICAgd2xTb3VuZCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -325,9 +328,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>touch(</last-search>
+      <last-search>guangbin</last-search>
       <last-offset />
-      <last-pattern>touch(</last-pattern>
+      <last-pattern>guangbin</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
