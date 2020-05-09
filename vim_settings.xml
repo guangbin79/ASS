@@ -154,6 +154,12 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="62" column="50" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAndroid/settings.gradle" timestamp="1589018830850">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="0" column="31" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/ILinkCallback.java" timestamp="1589003518492">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="18" />
@@ -273,7 +279,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGlhbG9nIGRpYWxvZyA9IGdldERpYWxvZygpOwogICAgICAgICAgICBpZiAoZGlhbG9nLmlzU2hvd2luZygpKSB7CiAgICAgICAgICAgICAgICBUZXh0VmlldyB0ZXh0VmlldyA9IGRpYWxvZy5maW5kVmlld0J5SWQoUi5pZC5kaWFsb2dfdGV4dCk7CiAgICAgICAgICAgICAgICB0ZXh0Vmlldy5zZXRUZXh0KGdldFN0cmluZyhSLnN0cmluZy5hcHApKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">aW5jbHVkZSAnOldlTGlua0FuZHJvaWQnCg==</text>
       </register>
       <register name="-" type="4">
         <text>packageName</text>
@@ -285,7 +291,7 @@
         <text encoding="base64">ICAgICAgICAgICAgRGlhbG9nIGRpYWxvZyA9IGdldERpYWxvZygpOwogICAgICAgICAgICBpZiAoZGlhbG9nLmlzU2hvd2luZygpKSB7CiAgICAgICAgICAgICAgICBUZXh0VmlldyB0ZXh0VmlldyA9IGRpYWxvZy5maW5kVmlld0J5SWQoUi5pZC5kaWFsb2dfdGV4dCk7CiAgICAgICAgICAgICAgICB0ZXh0Vmlldy5zZXRUZXh0KGdldFN0cmluZyhSLnN0cmluZy5hcHApKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhY2thZ2VOYW1lID0gdGV4dFZpZXcuZ2V0VGV4dCgpICsgcGFja2FnZU5hbWU7Cg==</text>
+        <text encoding="base64">aW5jbHVkZSAnOldlTGlua0FuZHJvaWQnCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -294,25 +300,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBhY2thZ2VOYW1lID0gdGV4dFZpZXcuZ2V0VGV4dCgpICsgcGFja2FnZU5hbWU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhY2thZ2VOYW1lID0gdGV4dFZpZXcuZ2V0VGV4dCgpICsgcGFja2FnZU5hbWU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjMDA1NzRCCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtUGxhdGZvcm0ucmV2b2tlKG1Db25uZWN0U3RyKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1QbGF0Zm9ybS5taXJyb3Iocyk7CiAgICAgICAgICAgICAgICBtQ29ubmVjdFN0ciA9IHM7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjMDA1NzRCCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtUGxhdGZvcm0ucmV2b2tlKG1Db25uZWN0U3RyKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1QbGF0Zm9ybS5taXJyb3Iocyk7CiAgICAgICAgICAgICAgICBtQ29ubmVjdFN0ciA9IHM7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLmF1dG8uV0xDb25maWd1cmF0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBXTENvbmZpZ3VyYXRpb24gd2xDb25maWd1cmF0aW9uID0gOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLmF1dG8uV0xDb25maWd1cmF0aW9uOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
