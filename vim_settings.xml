@@ -86,7 +86,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/drawable/ic_launcher_background.xml" timestamp="1589010065104" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1589011418360">
+        <mark key="'" line="183" column="4" />
+        <mark key="[" line="265" column="0" />
+        <mark key="]" line="269" column="13" />
+        <mark key="^" line="268" column="55" />
+        <mark key="." line="268" column="54" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1589002913795">
         <mark key="[" line="94" column="12" />
         <mark key="]" line="92" column="32" />
@@ -100,31 +106,7 @@
         <mark key="." line="1333" column="19" />
         <mark key="^" line="1333" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/WeLinkConnectBR.java" timestamp="1589008057276">
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="29" column="21" />
-        <mark key="." line="29" column="20" />
-        <mark key="^" line="29" column="21" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/res/values/strings.xml" timestamp="1589006931783">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="2" column="43" />
-        <mark key="." line="2" column="42" />
-        <mark key="^" line="2" column="43" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/ILinkCallback.java" timestamp="1589003518492">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="18" />
-        <mark key="." line="5" column="17" />
-        <mark key="^" line="5" column="18" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1589011418360">
-        <mark key="'" line="183" column="4" />
-        <mark key="[" line="265" column="0" />
-        <mark key="]" line="269" column="13" />
-        <mark key="^" line="268" column="55" />
-        <mark key="." line="268" column="54" />
-      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAndroid/wlaoa/src/main/AndroidManifest.xml" timestamp="1589018695169" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/aidl/com/autoai/welink/platform/service/IServiceCallback.aidl" timestamp="1589002348687">
         <mark key="[" line="6" column="100" />
         <mark key="]" line="7" column="23" />
@@ -137,7 +119,6 @@
         <mark key="^" line="9" column="44" />
         <mark key="." line="9" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/values/colors.xml" timestamp="1589009762425" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/values/strings.xml" timestamp="1589011413144">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="27" />
@@ -155,11 +136,29 @@
         <mark key="^" line="24" column="56" />
         <mark key="." line="24" column="55" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/WeLinkConnectBR.java" timestamp="1589008057276">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="29" column="21" />
+        <mark key="." line="29" column="20" />
+        <mark key="^" line="29" column="21" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/res/values/strings.xml" timestamp="1589006931783">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="43" />
+        <mark key="." line="2" column="42" />
+        <mark key="^" line="2" column="43" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1589008197298">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="62" column="50" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/ILinkCallback.java" timestamp="1589003518492">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="17" />
+        <mark key="^" line="5" column="18" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WlMuSDKManager.java" timestamp="1589004164604">
         <mark key="[" line="183" column="17" />
