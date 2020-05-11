@@ -127,6 +127,11 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WlMuSDKManager.java" timestamp="1589184544337">
+        <mark key="[" line="180" column="0" />
+        <mark key="]" line="180" column="0" />
+        <mark key="." line="180" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="816" column="28" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/bluetooth/BluetoothAdapter.java" />
@@ -234,7 +239,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5vdGlmaWNhdGlvbi5jb2xvciA9IFJHCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobUNvbm5lY3RlZCkgewo=</text>
       </register>
       <register name="-" type="4">
         <text>pppppppppppp</text>
@@ -246,34 +251,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0Rm9yZWdyb3VuZChhbmRyb2lkLm9zLlByb2Nlc3MubXlQaWQoKSwgbm90aWZpY2F0aW9uKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5vdGlmaWNhdGlvbi5jb2xvciA9IFJHCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobUNvbm5lY3RlZCkgewo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGFydEZvcmVncm91bmQoYW5kcm9pZC5vcy5Qcm9jZXNzLm15UGlkKCksIG5vdGlmaWNhdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5vdGlmaWNhdGlvbi5jb2xvciA9IFJHCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZWNlaXZlQ29ubmVjdFJlcXVlc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGFydEZvcmVncm91bmQoYW5kcm9pZC5vcy5Qcm9jZXNzLm15UGlkKCksIG5vdGlmaWNhdGlvbik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZWNlaXZlQ29ubmVjdFJlcXVlc3QoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIOiRl+S9nOadg+W9kuS9nOiAheaJgOacieOAguWVhuS4mui9rOi9veivt+iBlOezu+S9nOiAheiOt+W+l+aOiOadg++8jOmdnuWVhuS4mui9rOi9veivt+azqOaYjuWHuuWkhOOAggo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIOadpea6kO+8muaOmOmHkQo=</text>
+        <text encoding="base64">ICAgIOiRl+S9nOadg+W9kuS9nOiAheaJgOacieOAguWVhuS4mui9rOi9veivt+iBlOezu+S9nOiAheiOt+W+l+aOiOadg++8jOmdnuWVhuS4mui9rOi9veivt+azqOaYjuWHuuWkhOOAggo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIOmTvuaOpe+8mmh0dHBzOi8vanVlamluLmltL3Bvc3QvNWRmYWVjY2JmMjY1ZGEzMzkxMGE0NDFkCg==</text>
+        <text encoding="base64">ICAgIOadpea6kO+8muaOmOmHkQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIOS9nOiAhe+8mk5hbkJveAo=</text>
+        <text encoding="base64">ICAgIOmTvuaOpe+8mmh0dHBzOi8vanVlamluLmltL3Bvc3QvNWRmYWVjY2JmMjY1ZGEzMzkxMGE0NDFkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIOS9nOiAhe+8mk5hbkJveAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
