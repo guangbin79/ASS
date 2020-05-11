@@ -86,17 +86,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1589180160975">
+        <mark key="'" line="224" column="4" />
+        <mark key="[" line="76" column="47" />
+        <mark key="]" line="77" column="44" />
+        <mark key="." line="77" column="43" />
+        <mark key="^" line="77" column="44" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/AndroidManifest.xml" timestamp="1589176315801">
         <mark key="[" line="21" column="18" />
         <mark key="]" line="21" column="18" />
         <mark key="^" line="21" column="18" />
         <mark key="." line="21" column="17" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1589174358914">
-        <mark key="[" line="635" column="31" />
-        <mark key="]" line="635" column="41" />
-        <mark key="." line="635" column="40" />
-        <mark key="^" line="635" column="41" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1589181320136">
         <mark key="'" line="113" column="0" />
@@ -114,24 +115,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/auto/hardwarehub/WakeUpService.java" timestamp="1589173618757" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/os/PowerManager.java" timestamp="1589163931266" />
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/server/code/Client.java" timestamp="1589172200791" />
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/auto/hardwarehub/WLHardware.java" timestamp="1589173482340" />
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1589180160975">
-        <mark key="'" line="224" column="4" />
-        <mark key="[" line="76" column="47" />
-        <mark key="]" line="77" column="44" />
-        <mark key="." line="77" column="43" />
-        <mark key="^" line="77" column="44" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/values/strings.xml" timestamp="1589011413144">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="27" />
         <mark key="." line="2" column="26" />
         <mark key="^" line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/AndroidManifest.xml" timestamp="1589172203656" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkAndroid/settings.gradle" timestamp="1589018830850">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
