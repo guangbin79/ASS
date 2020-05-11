@@ -99,6 +99,13 @@
         <mark key="^" line="21" column="18" />
         <mark key="." line="21" column="17" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/AnFileLog.java" timestamp="1589186450514" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1589187119252">
+        <mark key="[" line="1118" column="18" />
+        <mark key="]" line="1118" column="26" />
+        <mark key="^" line="1118" column="26" />
+        <mark key="." line="1118" column="25" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1589181320136">
         <mark key="'" line="113" column="0" />
         <mark key="[" line="1430" column="0" />
@@ -238,11 +245,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobUNvbm5lY3RlZCkgewo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dm9pZCA=</text>
       </register>
       <register name="-" type="4">
-        <text>pppppppppppp</text>
+        <text encoding="base64">dm9pZCA=</text>
       </register>
       <register name="/" type="4">
         <text>guangbin</text>
@@ -251,34 +258,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0Rm9yZWdyb3VuZChhbmRyb2lkLm9zLlByb2Nlc3MubXlQaWQoKSwgbm90aWZpY2F0aW9uKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobUNvbm5lY3RlZCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBBbkZpbGVMb2cud3JpdGVGaWxlTG9nID0gd3JpdGVGaWxlTG9nOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5vdGlmaWNhdGlvbi5jb2xvciA9IFJHCg==</text>
+        <text encoding="base64">ICAgICAgICBBbkZpbGVMb2cub3V0cHV0TG9nY2F0ID0gaXNPdXRwdXRMb2c7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGFydEZvcmVncm91bmQoYW5kcm9pZC5vcy5Qcm9jZXNzLm15UGlkKCksIG5vdGlmaWNhdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZWNlaXZlQ29ubmVjdFJlcXVlc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICBXTFNlcnZlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHN3aXRjaExvZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIOiRl+S9nOadg+W9kuS9nOiAheaJgOacieOAguWVhuS4mui9rOi9veivt+iBlOezu+S9nOiAheiOt+W+l+aOiOadg++8jOmdnuWVhuS4mui9rOi9veivt+azqOaYjuWHuuWkhOOAggo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobUNvbm5lY3RlZCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIOadpea6kO+8muaOmOmHkQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5vdGlmaWNhdGlvbi5jb2xvciA9IFJHCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIOmTvuaOpe+8mmh0dHBzOi8vanVlamluLmltL3Bvc3QvNWRmYWVjY2JmMjY1ZGEzMzkxMGE0NDFkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGFydEZvcmVncm91bmQoYW5kcm9pZC5vcy5Qcm9jZXNzLm15UGlkKCksIG5vdGlmaWNhdGlvbik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIOS9nOiAhe+8mk5hbkJveAo=</text>
+        <text encoding="base64">ICAgICAgICByZWNlaXZlQ29ubmVjdFJlcXVlc3QoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
