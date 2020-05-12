@@ -87,12 +87,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/build.gradle" timestamp="1589268618959" />
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1589276656981">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1589277579909">
         <mark key="'" line="603" column="47" />
-        <mark key="[" line="666" column="31" />
-        <mark key="]" line="666" column="44" />
-        <mark key="." line="666" column="43" />
-        <mark key="^" line="666" column="44" />
+        <mark key="[" line="670" column="35" />
+        <mark key="]" line="670" column="41" />
+        <mark key="." line="670" column="40" />
+        <mark key="^" line="670" column="41" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/build.gradle" timestamp="1589268949258" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/server/code/Client.java" timestamp="1589254741246">
@@ -108,11 +108,12 @@
         <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/welinkaoa/gradle.properties" timestamp="1589268981873" />
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1589254832168">
-        <mark key="'" line="224" column="4" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1589277509633">
+        <mark key="'" line="226" column="4" />
+        <mark key="[" line="158" column="41" />
+        <mark key="]" line="158" column="42" />
+        <mark key="." line="158" column="41" />
+        <mark key="^" line="158" column="42" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/xml/accessory_filter.xml" timestamp="1589271958212">
         <mark key="[" line="5" column="0" />
@@ -245,16 +246,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>3333333333333</text>
+        <text>11111</text>
       </register>
       <register name="-" type="4">
-        <text>3333333333333</text>
+        <text>11111</text>
       </register>
       <register name="/" type="4">
         <text>guangbin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgIjMzMzMzMzMzMzMzMzMiKTsK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAicmVsZWFzZSAxMTExMSIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgImJiYmJiYmJiYmJiYmIiKTsK</text>
