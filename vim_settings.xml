@@ -100,6 +100,12 @@
         <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/build.gradle" timestamp="1589268949258" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/server/code/Client.java" timestamp="1589341629729">
+        <mark key="[" line="86" column="21" />
+        <mark key="]" line="86" column="21" />
+        <mark key="." line="86" column="20" />
+        <mark key="^" line="86" column="21" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/welinkaoa/gradle.properties" timestamp="1589268981873" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1589277509633">
         <mark key="'" line="226" column="4" />
