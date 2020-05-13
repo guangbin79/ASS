@@ -86,33 +86,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/server/code/AutoServerLink.java" timestamp="1589346850597">
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="." line="166" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatformListener.java" timestamp="1589355862985">
+        <mark key="[" line="135" column="27" />
+        <mark key="]" line="135" column="27" />
+        <mark key="^" line="135" column="27" />
+        <mark key="." line="135" column="26" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/MusicProtocol.java" timestamp="1589348334320">
-        <mark key="[" line="232" column="24" />
-        <mark key="]" line="232" column="24" />
-        <mark key="." line="232" column="24" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1589355652795">
+        <mark key="[" line="1904" column="75" />
+        <mark key="]" line="1904" column="95" />
+        <mark key="." line="1904" column="94" />
+        <mark key="^" line="1904" column="95" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/CMakeLists.txt" timestamp="1589354637125">
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="3" column="49" />
-        <mark key="." line="3" column="48" />
-        <mark key="^" line="3" column="49" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1589351449815">
-        <mark key="[" line="1895" column="49" />
-        <mark key="]" line="1895" column="94" />
-        <mark key="." line="1895" column="93" />
-        <mark key="^" line="1895" column="94" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/WLAutoClient.java" timestamp="1589351557065">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="66" column="4" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1589355726429">
+        <mark key="[" line="558" column="104" />
+        <mark key="]" line="558" column="110" />
+        <mark key="^" line="558" column="110" />
+        <mark key="." line="558" column="109" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/SoundProtocol.java" timestamp="1589348346838">
         <mark key="[" line="123" column="37" />
@@ -136,12 +126,6 @@
         <mark key="^" line="218" column="41" />
         <mark key="." line="218" column="40" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1589354895705">
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="3" column="12" />
-        <mark key="^" line="3" column="12" />
-        <mark key="." line="3" column="11" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/server/WLAutoServerLink.java" timestamp="1589351603072">
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
@@ -160,24 +144,48 @@
         <mark key="^" line="824" column="1" />
         <mark key="." line="824" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/ClientService.java" timestamp="1589350606459">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="^" line="69" column="45" />
-        <mark key="." line="70" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/protocol/SoundProtocol.java" timestamp="1589346680741">
-        <mark key="[" line="36" column="36" />
-        <mark key="]" line="36" column="36" />
-        <mark key="." line="36" column="36" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/Transmisson.java" timestamp="1589351507756">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
         <mark key="^" line="172" column="9" />
       </file>
-      <file name="/fragment.java" timestamp="1589354998888">
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/MusicProtocol.java" timestamp="1589348334320">
+        <mark key="[" line="232" column="24" />
+        <mark key="]" line="232" column="24" />
+        <mark key="." line="232" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/CMakeLists.txt" timestamp="1589354637125">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="3" column="49" />
+        <mark key="." line="3" column="48" />
+        <mark key="^" line="3" column="49" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/WLAutoClient.java" timestamp="1589351557065">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="66" column="4" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/aidl/com/autoai/welink/platform/service/IServiceCallback.aidl" timestamp="1589355653843">
+        <mark key="[" line="23" column="48" />
+        <mark key="]" line="23" column="80" />
+        <mark key="^" line="23" column="80" />
+        <mark key="." line="23" column="79" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1589354895705">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="12" />
+        <mark key="^" line="3" column="12" />
+        <mark key="." line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/ClientService.java" timestamp="1589350606459">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="69" column="45" />
+        <mark key="." line="70" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1589355094939">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
