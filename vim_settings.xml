@@ -91,45 +91,56 @@
         <mark key="]" line="166" column="0" />
         <mark key="." line="166" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/MusicProtocol.java" timestamp="1589348334320">
+        <mark key="[" line="232" column="24" />
+        <mark key="]" line="232" column="24" />
+        <mark key="." line="232" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/CMakeLists.txt" timestamp="1589354637125">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="3" column="49" />
+        <mark key="." line="3" column="48" />
+        <mark key="^" line="3" column="49" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1589351449815">
         <mark key="[" line="1895" column="49" />
         <mark key="]" line="1895" column="94" />
         <mark key="." line="1895" column="93" />
         <mark key="^" line="1895" column="94" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/WLAutoClient.java" timestamp="1589351557065">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="66" column="4" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/SoundProtocol.java" timestamp="1589348346838">
         <mark key="[" line="123" column="37" />
         <mark key="]" line="123" column="37" />
         <mark key="." line="123" column="37" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/protocol/MicrophoneProtocol.java" timestamp="1589346539884">
-        <mark key="[" line="80" column="24" />
-        <mark key="]" line="80" column="24" />
-        <mark key="." line="80" column="24" />
-        <mark key="^" line="23" column="36" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/MicrophoneProtocol.java" timestamp="1589348353434">
         <mark key="[" line="38" column="36" />
         <mark key="]" line="38" column="36" />
         <mark key="." line="38" column="36" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/build.gradle" timestamp="1589354335303" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/statemanager/StateController.java" timestamp="1589347968241">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/ID3Manager.java" timestamp="1589351463934" />
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/server/code/Client.java" timestamp="1589346548287">
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="193" column="41" />
-        <mark key="." line="120" column="32" />
-        <mark key="^" line="120" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/Server.java" timestamp="1589350136782">
         <mark key="[" line="218" column="41" />
         <mark key="]" line="218" column="41" />
         <mark key="^" line="218" column="41" />
         <mark key="." line="218" column="40" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1589354895705">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="12" />
+        <mark key="^" line="3" column="12" />
+        <mark key="." line="3" column="11" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/server/WLAutoServerLink.java" timestamp="1589351603072">
         <mark key="[" line="98" column="0" />
@@ -149,6 +160,12 @@
         <mark key="^" line="824" column="1" />
         <mark key="." line="824" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/ClientService.java" timestamp="1589350606459">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="69" column="45" />
+        <mark key="." line="70" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/protocol/SoundProtocol.java" timestamp="1589346680741">
         <mark key="[" line="36" column="36" />
         <mark key="]" line="36" column="36" />
@@ -160,31 +177,9 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="172" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/protocol/MusicProtocol.java" timestamp="1589346385430">
-        <mark key="[" line="60" column="36" />
-        <mark key="]" line="60" column="41" />
-        <mark key="." line="60" column="40" />
-        <mark key="^" line="60" column="41" />
+      <file name="/fragment.java" timestamp="1589354998888">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/MusicProtocol.java" timestamp="1589348334320">
-        <mark key="[" line="232" column="24" />
-        <mark key="]" line="232" column="24" />
-        <mark key="." line="232" column="24" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/WLAutoClient.java" timestamp="1589351557065">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="66" column="4" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WLServiceManager.java" timestamp="1589345704841" />
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/ClientService.java" timestamp="1589350606459">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="^" line="69" column="45" />
-        <mark key="." line="70" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/protocol/ProtocolBase.java" timestamp="1589346559456" />
     </filemarks>
     <jumps>
       <jump line="139" column="19" filename="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/auto/hardwarehub/WakeUpService.java" />
@@ -292,7 +287,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBHcmFkbGUgYXV0b21hdGljYWxseSBwYWNrYWdlcyBzaGFyZWQgbGlicmFyaWVzIHdpdGggeW91ciBBUEsuCg==</text>
       </register>
       <register name="-" type="4">
         <text>music_curtime</text>
@@ -304,73 +299,34 @@
         <text encoding="base64">ICAgICAgICBpbnQgbXVzaWNfY3VydGltZSA9IDA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBHcmFkbGUgYXV0b21hdGljYWxseSBwYWNrYWdlcyBzaGFyZWQgbGlicmFyaWVzIHdpdGggeW91ciBBUEsuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBZb3UgY2FuIGRlZmluZSBtdWx0aXBsZSBsaWJyYXJpZXMsIGFuZCBDTWFrZSBidWlsZHMgdGhlbSBmb3IgeW91Lgo=</text>
       </register>
       <register name="3" type="2">
-        <text>//    private void sendData_masterThread(final int type, final byte[] bytes) {
-//        mAutoServerLink.sendData(type, bytes);
-//    }
-//
-//    private void sendData_touchEvent(final int type, final byte[] bytes) {
-//        mAutoServerLink.sendTouchEventData(type, bytes);
-//    }
-//
-//    private void sendData_voiceThread(final int type, final byte[] bytes, final byte[] bytes2) {
-//        mAutoServerLink.sendVoiceData(type, bytes, bytes2);
-//    }
-
-//    public Client getClient() {
-//        return mAutoServerLink.getClient();
-//    }</text>
+        <text encoding="base64">IyBvciBTSEFSRUQsIGFuZCBwcm92aWRlcyB0aGUgcmVsYXRpdmUgcGF0aHMgdG8gaXRzIHNvdXJjZSBjb2RlLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIAo=</text>
+        <text encoding="base64">IyBDcmVhdGVzIGFuZCBuYW1lcyBhIGxpYnJhcnksIHNldHMgaXQgYXMgZWl0aGVyIFNUQVRJQwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>switch (type) {
-//            case TRANSIMISSON_TYPE_TOUCH_EVENT:
-//                touchEventThreadExecutor.execute(new Runnable() {
-//                    @Override
-//                    public void run() {
-//                        sendData_touchEvent(type, bytes);
-//                    }
-//                });
-//                break;
-//            case TRANSIMISSON_TYPE_MICROPHONE:
-//                voiceDataThreadExecutor.execute(new Runnable() {
-//                    @Override
-//                    public void run() {
-//                        sendData_voiceThread(type, bytes, bytes2);
-//                    }
-//                });
-//                break;
-//            default:
-//                masterThreadExecutor.execute(new Runnable() {
-//                    @Override
-//                    public void run() {
-//                        sendData_masterThread(type, bytes);
-//                    }
-//                });
-//                break;
-//        }</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLmF1dG9wcm94eS5zZXJ2ZXIuY29kZS5DbGllbnQ7Cg==</text>
+        <text encoding="base64">IyBTZXRzIHRoZSBtaW5pbXVtIHZlcnNpb24gb2YgQ01ha2UgcmVxdWlyZWQgdG8gYnVpbGQgdGhlIG5hdGl2ZSBsaWJyYXJ5Lgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYXV0b2FpLndlbGluay5hdXRvcHJveHkucHJvdG9jb2wuUHJvdG9jb2xNZ3IuVFJBTlNJTUlTU09OX1RZUEVfTUlDUk9QSE9ORTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYXV0b2FpLndlbGluay5hdXRvcHJveHkucHJvdG9jb2wuUHJvdG9jb2xNZ3IuVFJBTlNJTUlTU09OX1RZUEVfVE9VQ0hfRVZFTlQ7Cg==</text>
+        <text encoding="base64">IyBkb2N1bWVudGF0aW9uOiBodHRwczovL2QuYW5kcm9pZC5jb20vc3R1ZGlvL3Byb2plY3RzL2FkZC1uYXRpdmUtY29kZS5odG1sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLmF1dG9wcm94eS5zZXJ2ZXIuY29kZS5DbGllbnQ7Cg==</text>
+        <text encoding="base64">IyBGb3IgbW9yZSBpbmZvcm1hdGlvbiBhYm91dCB1c2luZyBDTWFrZSB3aXRoIEFuZHJvaWQgU3R1ZGlvLCByZWFkIHRoZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
