@@ -133,13 +133,13 @@
         <mark key="^" line="5" column="12" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/WLConnector.java" timestamp="1589254727608">
-        <mark key="[" line="20" column="44" />
-        <mark key="]" line="20" column="44" />
-        <mark key="^" line="20" column="44" />
-        <mark key="." line="20" column="43" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/welinkaoa/build.gradle" timestamp="1589268944534" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/protocol/AnFileLog.java" timestamp="1589339259078">
+        <mark key="[" line="15" column="70" />
+        <mark key="]" line="15" column="68" />
+        <mark key="." line="15" column="67" />
+        <mark key="^" line="15" column="68" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/proguard-rules.pro" timestamp="1589269012573">
         <mark key="[" line="23" column="41" />
         <mark key="]" line="23" column="45" />
@@ -267,7 +267,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>BuildConfig</text>
       </register>
       <register name="/" type="4">
         <text>guangbin</text>
@@ -282,28 +282,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLnBsYXRmb3JtLkJ1aWxkQ29uZmlnOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLnBsYXRmb3JtLjsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLnBsYXRmb3JtLkJ1aWxkQ29uZmlnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlLmdldFBhcmVudEZpbGUoKS5ta2RpcnMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBwcml2YXRlIGZpbmFsIFNpbXBsZURhdGVGb3JtYXQgZm10ID0gbmV3IFNpbXBsZURhdGVGb3JtYXQoIk1NZGQgSEg6bW06c3MuU1NTIiwgTG9jYWxlLkVOR0xJU0gpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlLmdldFBhcmVudEZpbGUoKS5ta2RpcnMoKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWNoZWNrRmxhZ0ZpbGUpIHsKICAgICAgICAgICAgY2hlY2tGbGFnRmlsZSA9IHRydWU7CiAgICAgICAgICAgIFN0cmluZyBmaWxlbmFtZSA9IEVudmlyb25tZW50LmdldEV4dGVybmFsU3RvcmFnZURpcmVjdG9yeSgpLnRvU3RyaW5nKCkgKyBGTEFHX0ZJTEU7CiAgICAgICAgICAgIEZpbGUgZmlsZSA9IG5ldyBGaWxlKGZpbGVuYW1lKTsKICAgICAgICAgICAgaWYgKGZpbGUuZXhpc3RzKCkgJiYgZmlsZS5pc0ZpbGUoKSkgewogICAgICAgICAgICAgICAgd3JpdGVGaWxlTG9nID0gdHJ1ZTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBwcml2YXRlIGZpbmFsIFNpbXBsZURhdGVGb3JtYXQgZm10ID0gbmV3IFNpbXBsZURhdGVGb3JtYXQoIk1NZGQgSEg6bW06c3MuU1NTIiwgTG9jYWxlLkVOR0xJU0gpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
