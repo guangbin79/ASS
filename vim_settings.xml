@@ -86,11 +86,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1589356019928">
-        <mark key="[" line="297" column="46" />
-        <mark key="]" line="297" column="48" />
-        <mark key="^" line="297" column="48" />
-        <mark key="." line="297" column="47" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1589425218417">
+        <mark key="[" line="266" column="16" />
+        <mark key="]" line="266" column="34" />
+        <mark key="^" line="266" column="34" />
+        <mark key="." line="266" column="33" />
       </file>
       <file name="/Dummy.txt" timestamp="1589357972193">
         <mark key="[" line="0" column="0" />
@@ -180,7 +180,6 @@
       <file name="/fragment.java" timestamp="1589355094939">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/codec/SurfaceRecorder.java" timestamp="1589423673496" />
     </filemarks>
     <jumps>
       <jump line="139" column="19" filename="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/auto/hardwarehub/WakeUpService.java" />
@@ -288,7 +287,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBbkZpbGVMb2cuZSgiZ3VhbmdiaW4iLCAic2VuZDoiICsgbXVzaWNfbGFzdF91cGRhdGUgLyAxMDAwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>last</text>
@@ -300,37 +299,34 @@
         <text encoding="base64">ICAgICAgICAgICAgQW5GaWxlTG9nLmUoIkFTREZYWFhDViBjb25uZWN0b3IiLCJzZW5kUENNRGF0YSAjIyAxMTEgcG9zaXRpb24gPSAiK3Bvc2l0aW9uICsiLCBwY20uID09IG51bGwgIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBbkZpbGVMb2cuZSgiZ3VhbmdiaW4iLCAic2VuZDoiICsgbXVzaWNfbGFzdF91cGRhdGUgLyAxMDAwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFuRmlsZUxvZy5lKCJndWFuZ2JpbiIsICJsYXN0OiIgKyBtdXNpY19sYXN0X3VwZGF0ZSAvIDEwMDApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQW5GaWxlTG9nLmUoImd1YW5nYmluIiwgImN1cnJlbnQ6IiArIG11c2ljX2N1cnRpbWUgLyAxMDAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBbkZpbGVMb2cuZSgiZ3VhbmdiaW4iLCAic2VuZDoiICsgbXVzaWNfbGFzdF91cGRhdGUgLyAxMDAwKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFuRmlsZUxvZy5lKCJndWFuZ2JpbiIsICJsYXN0OiIgKyBtdXNpY19sYXN0X3VwZGF0ZSAvIDEwMDApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQW5GaWxlTG9nLmUoImd1YW5nYmluIiwgImN1cnJlbnQ6IiArIG11c2ljX2N1cnRpbWUgLyAxMDAwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFuRmlsZUxvZy5lKCJndWFuZ2JpbiIsICI6IiArIG11c2ljX2N1cnRpbWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbmF0aXZlIHN0YXRpYyBTdHJpbmcgaGVsbG8oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFuRmlsZUxvZy5lKCJndWFuZ2JpbiIsICI6IiArIG11c2ljX2N1cnRpbWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text>extern &quot;C&quot; JNIEXPORT jstring JNICALL Java_com_autoai_welink_channel_WLChannel_hello
-        (JNIEnv *, jobject) {
-    return NULL;
-}</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
