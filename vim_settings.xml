@@ -158,11 +158,6 @@
         <mark key="^" line="41" column="48" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/protocol/Transmisson.java" timestamp="1589351574689">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1589364748987">
         <mark key="[" line="7" column="4" />
         <mark key="]" line="7" column="12" />
@@ -185,6 +180,7 @@
       <file name="/fragment.java" timestamp="1589355094939">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/codec/SurfaceRecorder.java" timestamp="1589423673496" />
     </filemarks>
     <jumps>
       <jump line="139" column="19" filename="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/auto/hardwarehub/WakeUpService.java" />
