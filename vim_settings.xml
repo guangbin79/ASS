@@ -105,11 +105,12 @@
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/AnFileLog.java" timestamp="1589364956291">
         <mark key="[" line="14" column="41" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1589440213343">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="66" />
-        <mark key="." line="13" column="65" />
-        <mark key="^" line="13" column="66" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1589447330139">
+        <mark key="'" line="2153" column="53" />
+        <mark key="[" line="2094" column="25" />
+        <mark key="]" line="2094" column="25" />
+        <mark key="." line="2094" column="24" />
+        <mark key="^" line="2094" column="25" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1589438699585">
         <mark key="[" line="821" column="9" />
@@ -178,7 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/auto/hardwarehub/WLHardware.java" />
       <jump line="299" column="72" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/auto/hardwarehub/hardware/WifiDirectGo.java" />
       <jump line="300" column="43" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/auto/hardwarehub/hardware/WifiDirectGo.java" />
       <jump line="302" column="78" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/auto/hardwarehub/hardware/WifiDirectGo.java" />
@@ -278,6 +278,7 @@
       <jump line="35" column="0" filename="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/WeLinkConnectBroadcast.java" />
       <jump line="135" column="40" filename="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" />
       <jump line="137" column="0" filename="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" />
+      <jump line="2153" column="53" filename="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
