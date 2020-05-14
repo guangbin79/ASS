@@ -86,11 +86,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1589422074329">
-        <mark key="[" line="1904" column="0" />
-        <mark key="]" line="1904" column="0" />
-        <mark key="." line="1904" column="0" />
-        <mark key="^" line="1895" column="1" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1589440213343">
+        <mark key="[" line="303" column="0" />
+        <mark key="]" line="303" column="66" />
+        <mark key="." line="303" column="65" />
+        <mark key="^" line="303" column="66" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1589438699585">
         <mark key="[" line="821" column="9" />
@@ -103,12 +103,6 @@
         <mark key="[" line="21" column="52" />
         <mark key="]" line="21" column="52" />
         <mark key="^" line="21" column="52" />
-        <mark key="." line="21" column="51" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/build.gradle" timestamp="1589358844618">
-        <mark key="[" line="21" column="51" />
-        <mark key="]" line="21" column="51" />
-        <mark key="^" line="21" column="34" />
         <mark key="." line="21" column="51" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1589364748987">
@@ -178,6 +172,12 @@
         <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/app/Activity.java" timestamp="1589427051670" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WlMuSDKManager.java" timestamp="1589440253514">
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="57" />
+        <mark key="." line="175" column="0" />
+        <mark key="^" line="165" column="38" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="48" column="0" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/auto/hardwarehub/WLHardware.java" />
@@ -285,7 +285,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUxpbmtpbmcgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJndWFuZ2JpbiIsICJTVEFUVVNfRElTQ09OTkVDVEVEIik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgIA==</text>
@@ -294,7 +294,7 @@
         <text>guangbin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgiZ3VhbmdiaW4tY29ubmVjdG9yIiwgIjExMTExMTExMTExMTEiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJndWFuZ2JpbiIsICJTVEFUVVNfRElTQ09OTkVDVEVEIik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbUxpbmtpbmcgPSBmYWxzZTsK</text>
