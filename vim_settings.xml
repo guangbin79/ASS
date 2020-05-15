@@ -144,16 +144,16 @@
         <mark key="^" line="13" column="16" />
         <mark key="." line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1589506347355">
-        <mark key="[" line="13" column="23" />
-        <mark key="]" line="13" column="23" />
-        <mark key="." line="13" column="22" />
-        <mark key="^" line="13" column="23" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1589508446001">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="25" column="78" />
+        <mark key="." line="25" column="77" />
+        <mark key="^" line="25" column="78" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/protocol/AnFileLog.java" timestamp="1589365067821">
         <mark key="[" line="14" column="41" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/libs/WeLinkSdkApi.h" timestamp="1589506321043">
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/libs/WeLinkSdkApi.h" timestamp="1589508435988">
         <mark key="[" line="313" column="0" />
         <mark key="]" line="313" column="0" />
         <mark key="." line="313" column="0" />
@@ -288,10 +288,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQkJCQkvKio8IHBhdGggZm9yIGxvZyBmaWxlICov</text>
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQkJCQkvKio8IHBhdGggZm9yIGxvZyBmaWxlICov</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>guangbin</text>
@@ -300,34 +300,34 @@
         <text encoding="base64">ICAgIHByaXZhdGUgbmF0aXZlIHN0YXRpYyB2b2lkIHNlbmRIMjY0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpc1N1cHBvcnRUb3VjaENoYW5uZWwK</text>
+        <text encoding="base64">ICAgICAgICBwRnVuY1ZSRGF0YSB2ckRhdGE7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2b2lkCg==</text>
+        <text encoding="base64">ICAgICAgICBwRnVuY1ZpZGVvRGF0YSB2aWRlb0RhdGE7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbmF0aXZlIHN0YXRpYyB2b2lkIHNlbmRDb21tb25kKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwRnVuY0F1ZGlvRGF0YSBhdWRpb0RhdGE7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUxpbmtpbmcgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICB2b2lkIGFnZURhdGEgbXNnRGF0YTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICBpc1N1cHBvcnRUb3VjaENoYW5uZWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2b2lkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgIjExMTExMTExMTExMSIpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbmF0aXZlIHN0YXRpYyB2b2lkIHNlbmRDb21tb25kKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUxpbmtpbmcgPSBmYWxzZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
