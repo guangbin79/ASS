@@ -103,6 +103,12 @@
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/AnFileLog.java" timestamp="1589364956291">
         <mark key="[" line="14" column="41" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/aoa/link_v1/WIFI_v1.java" timestamp="1589518185392">
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="21" />
+        <mark key="^" line="24" column="21" />
+        <mark key="." line="24" column="20" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1589447330139">
         <mark key="'" line="2153" column="53" />
         <mark key="[" line="2094" column="25" />
@@ -116,6 +122,7 @@
         <mark key="^" line="822" column="8" />
         <mark key="." line="822" column="7" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/WLBluetoothPhone.java" timestamp="1589518614709" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/WeLinkLauncherBroadcast.java" timestamp="1589437429189">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="21" column="52" />
@@ -123,27 +130,17 @@
         <mark key="^" line="21" column="52" />
         <mark key="." line="21" column="51" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/com_autoai_welink_channel_WLChannel.h" timestamp="1589364694736">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/WeLinkConnectBroadcast.java" timestamp="1589437400603">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1589364716211">
-        <mark key="]" line="13" column="16" />
-        <mark key="^" line="13" column="16" />
-        <mark key="." line="13" column="15" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1589513906924">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="56" />
-        <mark key="^" line="61" column="36" />
-        <mark key="." line="84" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1589518591695">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="35" column="45" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/protocol/AnFileLog.java" timestamp="1589365067821">
         <mark key="[" line="14" column="41" />
@@ -166,7 +163,7 @@
         <mark key="^" line="14" column="41" />
         <mark key="." line="14" column="40" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/WLConfiguration.java" timestamp="1589512198496" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/WLConfiguration.java" timestamp="1589518535813" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/WLBroadcastReceiver.java" timestamp="1589435957705">
         <mark key="[" line="7" column="32" />
         <mark key="]" line="21" column="0" />
@@ -285,10 +282,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbmF0aXZlIHN0YXRpYyB2b2lkIHNlbmRNZXNzYWdlKGJ5dGVbXSBkYXRhKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQkJCQ==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>guangbin</text>
@@ -297,34 +294,34 @@
         <text encoding="base64">CWludCByZWNvcmREZWZhdWx0OwkJCQkJCQkJLyoqPCBkZWZhdWx0IHJlY29yZCBvcHRpb24sIDAgaHUgcmVjb3JkLCAxIHBob25lIHJlY29yZCwgMiBidCByZWNvcmQgKi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbmF0aXZlIHN0YXRpYyB2b2lkIHNlbmRNZXNzYWdlKGJ5dGVbXSBkYXRhKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbmF0aXZlIHN0YXRpYyB2b2lkIHNlbmRUb3VjaChieXRlW10gZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyIGh1U2RrVmVyc2lvbltXTF9IVV9WRVJTSU9OX0xFTl07CQkJLyoqPCBodSBzZGsgdmVyc2lvbiAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgV2VMaW5rSHVJbmZvKCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyIGh1QXBwVmVyc2lvbltXTF9IVV9WRVJTSU9OX0xFTl07CQkJLyoqPCBodSBhcHAgdmVyc2lvbiAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IGh1U3VwcG9ydFJlY29yZDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyIGd1aWRbV0xfR1VJRF9MRU5dOwkJCQkJCQkvKio8IGd1aWQgbnVtYmVyICovCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IGh1U3VwcG9ydFJlY29yZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyIFtXTF9NQUNfTEVOXTsJCQkJCQkJLyoqPCBtYWMgYWRkcmVzcyAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IGh1U3VwcG9ydENhbGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyIGltZWlbV0xfSU1FSV9MRU5dOwkJCQkJCQkvKio8IGltZWkgbnVtYmVyICovCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3RyaW5nIGh1QnRNYWNBZGRyZXNzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIFN0cmluZyBodVBsYXRmb3JtW1dMX1BMQVRGT1JNX0xFTl07CQkJCS8qKjwgaHUgcGxhdGZvcm0gKi8K</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3RyaW5nIGh1QnRNYWNBZGRyZXNzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
