@@ -144,11 +144,11 @@
         <mark key="^" line="13" column="16" />
         <mark key="." line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1589508446001">
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1589509466844">
         <mark key="[" line="18" column="32" />
-        <mark key="]" line="25" column="78" />
-        <mark key="." line="25" column="77" />
-        <mark key="^" line="25" column="78" />
+        <mark key="]" line="26" column="78" />
+        <mark key="." line="26" column="77" />
+        <mark key="^" line="26" column="78" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/protocol/AnFileLog.java" timestamp="1589365067821">
         <mark key="[" line="14" column="41" />
