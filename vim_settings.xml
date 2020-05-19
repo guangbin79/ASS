@@ -100,7 +100,6 @@
       <file name="/Dummy.txt" timestamp="1589782875705">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/build.gradle" timestamp="1589782263833" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/aoa/link_v1/WIFI_v1.java" timestamp="1589518185392">
         <mark key="[" line="24" column="12" />
         <mark key="]" line="24" column="21" />
@@ -125,6 +124,12 @@
         <mark key="]" line="822" column="8" />
         <mark key="^" line="822" column="8" />
         <mark key="." line="822" column="7" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/statemanager/StateManager.java" timestamp="1589853764233">
+        <mark key="[" line="106" column="41" />
+        <mark key="]" line="106" column="42" />
+        <mark key="." line="106" column="42" />
+        <mark key="^" line="106" column="43" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/WeLinkLauncherBroadcast.java" timestamp="1589437429189">
         <mark key="'" line="33" column="0" />
@@ -174,12 +179,6 @@
         <mark key="]" line="302" column="123" />
         <mark key="." line="258" column="4" />
         <mark key="^" line="258" column="5" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1589435873800">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="40" column="8" />
-        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/aoa/link_v1/AOA_v1.java" timestamp="1589519239114">
         <mark key="[" line="22" column="12" />
@@ -311,10 +310,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>FPS</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>FPS</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzmmK/lkKbmlK/mjIHpgJrov4fovabmnLrok53niZnmjqfliLbmiYvmnLrmi6jmiZPnlLXor53vvIwwXD4=</text>
