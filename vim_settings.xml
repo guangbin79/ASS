@@ -125,11 +125,11 @@
         <mark key="^" line="18" column="44" />
         <mark key="." line="18" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/server/code/Client.java" timestamp="1589866383058">
-        <mark key="[" line="98" column="45" />
-        <mark key="]" line="98" column="48" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/server/code/Client.java" timestamp="1589867218930">
+        <mark key="[" line="307" column="4" />
+        <mark key="]" line="307" column="4" />
         <mark key="^" line="98" column="48" />
-        <mark key="." line="98" column="47" />
+        <mark key="." line="307" column="4" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/Server.java" timestamp="1589855908203" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1589854761301">
