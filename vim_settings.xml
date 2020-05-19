@@ -89,11 +89,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/server/code/AutoServerLink.java" timestamp="1589862818440">
-        <mark key="[" line="246" column="11" />
-        <mark key="]" line="246" column="11" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/server/code/AutoServerLink.java" timestamp="1589864772454">
+        <mark key="[" line="184" column="19" />
+        <mark key="]" line="184" column="19" />
         <mark key="^" line="257" column="8" />
-        <mark key="." line="246" column="11" />
+        <mark key="." line="184" column="19" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/statemanager/StateManager.java" timestamp="1589853764233">
         <mark key="[" line="106" column="41" />
@@ -119,11 +119,17 @@
         <mark key="^" line="23" column="22" />
         <mark key="." line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/server/code/Client.java" timestamp="1589863853701">
-        <mark key="[" line="211" column="12" />
-        <mark key="]" line="211" column="12" />
-        <mark key="^" line="35" column="11" />
-        <mark key="." line="211" column="12" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/aidl/com/autoai/welink/autoproxy/server/IServerService.aidl" timestamp="1589865401955">
+        <mark key="[" line="18" column="43" />
+        <mark key="]" line="18" column="44" />
+        <mark key="^" line="18" column="44" />
+        <mark key="." line="18" column="43" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/server/code/Client.java" timestamp="1589866383058">
+        <mark key="[" line="98" column="45" />
+        <mark key="]" line="98" column="48" />
+        <mark key="^" line="98" column="48" />
+        <mark key="." line="98" column="47" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/Server.java" timestamp="1589855908203" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1589854761301">
@@ -143,9 +149,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="^" line="188" column="12" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1589782875705">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/MusicProtocol.java" timestamp="1589856725220">
         <mark key="[" line="233" column="56" />
@@ -185,10 +188,11 @@
         <mark key="." line="23" column="36" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/WLConnectListener.java" timestamp="1589855695457" />
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/server/code/ServerService.java" timestamp="1589863883629">
-        <mark key="[" line="45" column="16" />
-        <mark key="]" line="45" column="16" />
-        <mark key="." line="45" column="16" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/server/code/ServerService.java" timestamp="1589865674171">
+        <mark key="[" line="76" column="50" />
+        <mark key="]" line="76" column="46" />
+        <mark key="." line="76" column="45" />
+        <mark key="^" line="76" column="46" />
       </file>
       <file name="/fragment.java" timestamp="1589854294191">
         <mark key="[" line="0" column="0" />
@@ -299,20 +303,20 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLmF1dG9wcm94eS5zZXJ2ZXIuV0xBdXRvU2VydmVyOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="-" type="4">
-        <text>AutoServer</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzmmK/lkKbmlK/mjIHpgJrov4fovabmnLrok53niZnmjqfliLbmiYvmnLrmi6jmiZPnlLXor53vvIwwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdGF0ZU1hbmFnZXIgc3RhdGVNYW5hZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCByZW1vdmUoU3RyaW5nIGZpbGVuYW1lKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLmF1dG9wcm94eS5zZXJ2ZXIuV0xBdXRvU2VydmVyOwo=</text>
+        <text encoding="base64">ICAgIC8vL2NsYXNzLXZhcgo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -321,25 +325,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vL2NsYXNzLXZhcgo=</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnRTZXJ2aWNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBNYXA8U3RyaW5nLCBNZW1vcnlGaWxlPiBtZW1vcnlGaWxlTGlzdDsKICAgIHN0YXRpYyBNYXA8U3RyaW5nLCBTaGFyZWRNZW1vcnk+IHNoYXJlZE1lbW9yeUxpc3Q7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBjcmVhdGUoU3RyaW5nIGZpbGVuYW1lLCBieXRlW10gYnVmZmVyKSB7CiAgICAgICAgaWYgKEJ1aWxkLlZFUlNJT04uU0RLX0lOVCA+PSBCdWlsZC5WRVJTSU9OX0NPREVTLk9fTVIxKSB7CiAgICAgICAgICAgIGlmIChzaGFyZWRNZW1vcnlMaXN0ID09IG51bGwpIHJldHVybiBmYWxzZTsKCiAgICAgICAgICAgIFNoYXJlZE1lbW9yeSBzaGFyZWRNZW1vcnkgPSBudWxsOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgc2hhcmVkTWVtb3J5ID0gU2hhcmVkTWVtb3J5LmNyZWF0ZShmaWxlbmFtZSwgYnVmZmVyLmxlbmd0aCk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEVycm5vRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKHNoYXJlZE1lbW9yeSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEJ5dGVCdWZmZXIgYnl0ZUJ1ZmZlciA9IG51bGw7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBieXRlQnVmZmVyID0gc2hhcmVkTWVtb3J5Lm1hcFJlYWRXcml0ZSgpOwogICAgICAgICAgICB9IGNhdGNoIChFcnJub0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChieXRlQnVmZmVyID09IG51bGwpIHsKICAgICAgICAgICAgICAgIHNoYXJlZE1lbW9yeS5jbG9zZSgpOwogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CgogICAgICAgICAgICBieXRlQnVmZmVyLnB1dChidWZmZXIpOwogICAgICAgICAgICBTaGFyZWRNZW1vcnkudW5tYXAoYnl0ZUJ1ZmZlcik7CgogICAgICAgICAgICBzaGFyZWRNZW1vcnlMaXN0LnB1dChmaWxlbmFtZSwgc2hhcmVkTWVtb3J5KTsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgaWYgKG1lbW9yeUZpbGVMaXN0ID09IG51bGwpIHJldHVybiBmYWxzZTsKCiAgICAgICAgICAgIE1lbW9yeUZpbGUgbWVtb3J5RmlsZSA9IG51bGw7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBtZW1vcnlGaWxlID0gbmV3IE1lbW9yeUZpbGUoZmlsZW5hbWUsIGJ1ZmZlci5sZW5ndGgpOwogICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChtZW1vcnlGaWxlID09IG51bGwpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgRmlsZURlc2NyaXB0b3IgZmQgPSBudWxsOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgTWV0aG9kIG1ldGhvZCA9IE1lbW9yeUZpbGUuY2xhc3MuZ2V0RGVjbGFyZWRNZXRob2QoImdldEZpbGVEZXNjcmlwdG9yIik7CiAgICAgICAgICAgICAgICBmZCA9IChGaWxlRGVzY3JpcHRvcikgbWV0aG9kLmludm9rZShtZW1vcnlGaWxlKTsKICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKGZkID09IG51bGwpIHsKICAgICAgICAgICAgICAgIG1lbW9yeUZpbGUuY2xvc2UoKTsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgRmlsZU91dHB1dFN0cmVhbSBmb3MgPSBudWxsOwogICAgICAgICAgICBGaWxlTG9jayBmbCA9IG51bGw7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBmb3MgPSBuZXcgRmlsZU91dHB1dFN0cmVhbShmZCk7CiAgICAgICAgICAgICAgICBmbCA9IGZvcy5nZXRDaGFubmVsKCkubG9jaygwTCwgTG9uZy5NQVhfVkFMVUUsIGZhbHNlKTsKICAgICAgICAgICAgICAgIG1lbW9yeUZpbGUud3JpdGVCeXRlcyhidWZmZXIsIDAsIDAsIGJ1ZmZlci5sZW5ndGgpOwogICAgICAgICAgICAgICAgZmwucmVsZWFzZSgpOwogICAgICAgICAgICAgICAgZm9zLmZsdXNoKCk7CiAgICAgICAgICAgICAgICBmb3MuY2xvc2UoKTsKICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgbWVtb3J5RmlsZS5jbG9zZSgpOwogICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgbWVtb3J5RmlsZUxpc3QucHV0KGZpbGVuYW1lLCBtZW1vcnlGaWxlKTsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgdm9pZCByZW1vdmUoU3RyaW5nIGZpbGVuYW1lKSB7CiAgICAgICAgaWYgKHNoYXJlZE1lbW9yeUxpc3QgIT0gbnVsbCkgewogICAgICAgICAgICBTaGFyZWRNZW1vcnkgc2hhcmVkTWVtb3J5ID0gc2hhcmVkTWVtb3J5TGlzdC5nZXQoZmlsZW5hbWUpOwoKICAgICAgICAgICAgaWYgKHNoYXJlZE1lbW9yeSA9PSBudWxsKSByZXR1cm47CgogICAgICAgICAgICBzaGFyZWRNZW1vcnkuY2xvc2UoKTsKICAgICAgICAgICAgc2hhcmVkTWVtb3J5TGlzdC5yZW1vdmUoZmlsZW5hbWUpOwogICAgICAgIH0gZWxzZSBpZiAobWVtb3J5RmlsZUxpc3QgIT0gbnVsbCkgewogICAgICAgICAgICBNZW1vcnlGaWxlIG1lbW9yeUZpbGUgPSBtZW1vcnlGaWxlTGlzdC5nZXQoZmlsZW5hbWUpOwoKICAgICAgICAgICAgaWYgKG1lbW9yeUZpbGUgPT0gbnVsbCkgcmV0dXJuOwoKICAgICAgICAgICAgbWVtb3J5RmlsZS5jbG9zZSgpOwogICAgICAgICAgICBtZW1vcnlGaWxlTGlzdC5yZW1vdmUoZmlsZW5hbWUpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBCeXRlQnVmZmVyIHNlbmRCdWZmZXIgPSBCeXRlQnVmZmVyLmFsbG9jYXRlKExPTkdfVFlQRV9MRU4pOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTWFwPFN0cmluZywgU2hhcmVkTWVtb3J5PiBzaGFyZWRNZW1vcnlMaXN0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBCeXRlQnVmZmVyIHJlY2VpdmVCdWZmZXIgPSBCeXRlQnVmZmVyLmFsbG9jYXRlKExPTkdfVFlQRV9MRU4pOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTWFwPFN0cmluZywgTWVtb3J5RmlsZT4gbWVtb3J5RmlsZUxpc3Q7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBCeXRlQnVmZmVyIHNlbmRCdWZmZXIgPSBCeXRlQnVmZmVyLmFsbG9jYXRlKExPTkdfVFlQRV9MRU4pOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5yZWZsZWN0Lk1ldGhvZDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vL2NsYXNzLXZhcgo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZU91dHB1dFN0cmVhbTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vL2NsYXNzLXZhcgo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
