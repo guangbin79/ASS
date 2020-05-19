@@ -162,11 +162,11 @@
         <mark key="^" line="15" column="46" />
         <mark key="." line="15" column="45" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1589780297742">
-        <mark key="[" line="25" column="60" />
-        <mark key="]" line="25" column="71" />
-        <mark key="^" line="25" column="71" />
-        <mark key="." line="25" column="70" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1589854231608">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="89" column="5" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/proguard-rules.pro" timestamp="1589783088314">
         <mark key="[" line="23" column="36" />
@@ -192,10 +192,8 @@
         <mark key="." line="26" column="55" />
         <mark key="^" line="26" column="56" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/WLBroadcastReceiver.java" timestamp="1589435957705">
-        <mark key="[" line="7" column="32" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="/fragment.java" timestamp="1589854244836">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WlMuSDKManager.java" timestamp="1589440253514">
         <mark key="[" line="175" column="0" />
@@ -309,8 +307,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>FPS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHN0YXRpYyB7CiAgICAgICAgU3lzdGVtLmxvYWRMaWJyYXJ5KCJ3bGNoYW5uZWwiKTsKICAgIH0=</text>
       </register>
       <register name="-" type="4">
         <text>FPS</text>
@@ -322,34 +320,34 @@
         <text encoding="base64">ICAgIGpjbGFzcyBjYkNsYXp6ID0gZW52LT5HZXRPYmplY3RDbGFzcyhnX2NiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW5jbHVkZV9kaXJlY3Rvcmllcygke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0pCg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyB7CiAgICAgICAgU3lzdGVtLmxvYWRMaWJyYXJ5KCJ3bGNoYW5uZWwiKTsKICAgIH0=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW5jbHVkZV9kaXJlY3Rvcmllcygke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGlua19kaXJlY3Rvcmllcygke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vbGlicy8ke0FORFJPSURfQUJJfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">bGlua19kaXJlY3Rvcmllcygke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vbGlicy8ke0FORFJPSURfQUJJfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW5jbHVkZV9kaXJlY3Rvcmllcygke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0pCg==</text>
+        <text encoding="base64">bGlua19kaXJlY3Rvcmllcygke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0vbGlicy8ke0FORFJPSURfQUJJfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW5jbHVkZV9kaXJlY3Rvcmllcygke0NNQUtFX0NVUlJFTlRfU09VUkNFX0RJUn0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dEKCIjIyNvbkNlbm5lY3RlZElEIDMzMzMzMzMzMzMiKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMT0dEKCIjIyNvbkNlbm5lY3RlZElEIDMzMzMzMzMzMzMiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
