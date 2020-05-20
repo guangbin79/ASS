@@ -107,11 +107,11 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/statemanager/StateManager.java" timestamp="1589878017135">
-        <mark key="[" line="116" column="24" />
-        <mark key="]" line="116" column="24" />
-        <mark key="." line="116" column="24" />
-        <mark key="^" line="116" column="35" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/statemanager/StateManager.java" timestamp="1589955403369">
+        <mark key="[" line="130" column="9" />
+        <mark key="]" line="132" column="31" />
+        <mark key="." line="132" column="30" />
+        <mark key="^" line="132" column="31" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/ProtocolBase.java" timestamp="1589879350448">
         <mark key="[" line="59" column="49" />
@@ -167,7 +167,7 @@
         <mark key="^" line="50" column="52" />
         <mark key="." line="50" column="51" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/WLServer.java" timestamp="1589948828474">
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/WLServer.java" timestamp="1589955063506">
         <mark key="[" line="62" column="33" />
         <mark key="]" line="62" column="33" />
         <mark key="^" line="62" column="33" />
