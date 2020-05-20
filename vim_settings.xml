@@ -95,11 +95,11 @@
         <mark key="^" line="257" column="8" />
         <mark key="." line="184" column="19" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/AndroidManifest.xml" timestamp="1589951108094">
-        <mark key="[" line="14" column="55" />
-        <mark key="]" line="14" column="55" />
-        <mark key="^" line="14" column="45" />
-        <mark key="." line="14" column="55" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/AndroidManifest.xml" timestamp="1589956155867">
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="39" />
+        <mark key="^" line="14" column="32" />
+        <mark key="." line="14" column="39" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/CodecController.java" timestamp="1589939114350">
         <mark key="[" line="5" column="15" />
@@ -304,10 +304,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>wlplatform</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>wlplatform</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzmmK/lkKbmlK/mjIHpgJrov4fovabmnLrok53niZnmjqfliLbmiYvmnLrmi6jmiZPnlLXor53vvIwwXD4=</text>
