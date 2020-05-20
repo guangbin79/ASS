@@ -150,11 +150,11 @@
         <mark key="^" line="108" column="112" />
         <mark key="." line="92" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/WLServer.java" timestamp="1589878007459">
-        <mark key="[" line="56" column="25" />
-        <mark key="]" line="56" column="25" />
-        <mark key="^" line="55" column="43" />
-        <mark key="." line="56" column="25" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/WLServer.java" timestamp="1589938520426">
+        <mark key="[" line="36" column="18" />
+        <mark key="]" line="36" column="30" />
+        <mark key="^" line="36" column="30" />
+        <mark key="." line="36" column="29" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/AutoClient.java" timestamp="1589870777898">
         <mark key="[" line="96" column="0" />
@@ -178,6 +178,12 @@
         <mark key="^" line="14" column="31" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/codec/CodecInputSurface.java" timestamp="1589938631295">
+        <mark key="[" line="53" column="35" />
+        <mark key="]" line="53" column="35" />
+        <mark key="^" line="53" column="35" />
+        <mark key="." line="53" column="34" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/protocol/AnFileLog.java" timestamp="1589858208980">
         <mark key="[" line="16" column="19" />
         <mark key="]" line="16" column="19" />
@@ -190,9 +196,6 @@
         <mark key="]" line="76" column="46" />
         <mark key="." line="76" column="45" />
         <mark key="^" line="76" column="46" />
-      </file>
-      <file name="/fragment.java" timestamp="1589854294191">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -301,16 +304,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>count</text>
+        <text>Context</text>
       </register>
       <register name="-" type="4">
-        <text>count</text>
+        <text>Context</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzmmK/lkKbmlK/mjIHpgJrov4fovabmnLrok53niZnmjqfliLbmiYvmnLrmi6jmiZPnlLXor53vvIwwXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>StateManager stateManager</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBjb250ZXh0IEFwcGxpY2F0aW9uIENvbnRleHQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgbGVuID0gc3RyaW5nLmxlbmd0aCgpOwo=</text>
