@@ -95,6 +95,7 @@
         <mark key="^" line="257" column="8" />
         <mark key="." line="184" column="19" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/AndroidManifest.xml" timestamp="1589939869869" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/statemanager/StateManager.java" timestamp="1589878017135">
         <mark key="[" line="116" column="24" />
         <mark key="]" line="116" column="24" />
@@ -166,12 +167,6 @@
         <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/Transmisson.java" timestamp="1589938989001" />
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/MusicProtocol.java" timestamp="1589856725220">
-        <mark key="[" line="233" column="56" />
-        <mark key="]" line="233" column="57" />
-        <mark key="^" line="233" column="57" />
-        <mark key="." line="233" column="56" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/CodecController.java" timestamp="1589939114350">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="32" />
