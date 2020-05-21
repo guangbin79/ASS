@@ -107,11 +107,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="851" column="1" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1590028613897">
-        <mark key="[" line="2103" column="82" />
-        <mark key="]" line="2066" column="78" />
-        <mark key="." line="2066" column="77" />
-        <mark key="^" line="2066" column="78" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1590029436994">
+        <mark key="[" line="2122" column="75" />
+        <mark key="]" line="2122" column="76" />
+        <mark key="." line="2122" column="76" />
+        <mark key="^" line="2122" column="75" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/CodecController.java" timestamp="1589939114350">
         <mark key="[" line="5" column="15" />
@@ -197,17 +197,17 @@
         <mark key="^" line="128" column="61" />
         <mark key="." line="128" column="60" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/protocol/SoundProtocol.java" timestamp="1590027543582">
-        <mark key="[" line="40" column="76" />
-        <mark key="]" line="40" column="79" />
-        <mark key="." line="40" column="78" />
-        <mark key="^" line="40" column="79" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/protocol/SoundProtocol.java" timestamp="1590028802201">
+        <mark key="[" line="40" column="59" />
+        <mark key="]" line="40" column="91" />
+        <mark key="." line="40" column="90" />
+        <mark key="^" line="40" column="91" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/AppConnectListener.java" timestamp="1590027444035">
-        <mark key="[" line="101" column="28" />
-        <mark key="]" line="101" column="17" />
-        <mark key="^" line="101" column="17" />
-        <mark key="." line="101" column="16" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/AppConnectListener.java" timestamp="1590028738886">
+        <mark key="[" line="101" column="26" />
+        <mark key="]" line="101" column="26" />
+        <mark key="^" line="101" column="26" />
+        <mark key="." line="101" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -316,10 +316,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>连接字符串</text>
+        <text>CallbackID</text>
       </register>
       <register name="-" type="4">
-        <text>连接字符串</text>
+        <text>CallbackID</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzmmK/lkKbmlK/mjIHpgJrov4fovabmnLrok53niZnmjqfliLbmiYvmnLrmi6jmiZPnlLXor53vvIwwXD4=</text>
