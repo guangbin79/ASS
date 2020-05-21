@@ -101,11 +101,11 @@
         <mark key="." line="49" column="48" />
         <mark key="^" line="49" column="49" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1590031937235">
-        <mark key="[" line="846" column="19" />
-        <mark key="]" line="846" column="19" />
-        <mark key="." line="846" column="18" />
-        <mark key="^" line="846" column="19" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1590032061762">
+        <mark key="[" line="837" column="13" />
+        <mark key="]" line="837" column="13" />
+        <mark key="." line="837" column="12" />
+        <mark key="^" line="837" column="13" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/CodecController.java" timestamp="1589939114350">
         <mark key="[" line="5" column="15" />
@@ -173,11 +173,11 @@
         <mark key="^" line="50" column="52" />
         <mark key="." line="50" column="51" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/WLServer.java" timestamp="1590031954277">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="65" column="0" />
-        <mark key="." line="65" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/WLServer.java" timestamp="1590032085055">
+        <mark key="[" line="57" column="6" />
+        <mark key="]" line="57" column="6" />
+        <mark key="^" line="57" column="6" />
+        <mark key="." line="57" column="5" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/AutoClient.java" timestamp="1589949522793">
         <mark key="[" line="105" column="58" />
