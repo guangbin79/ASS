@@ -120,12 +120,6 @@
         <mark key="^" line="2158" column="1" />
         <mark key="." line="2067" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/CodecController.java" timestamp="1589939114350">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="5" column="32" />
-        <mark key="^" line="5" column="32" />
-        <mark key="." line="5" column="31" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WLServiceManager.java" timestamp="1590031911583">
         <mark key="[" line="303" column="7" />
         <mark key="]" line="303" column="7" />
@@ -198,6 +192,7 @@
         <mark key="^" line="128" column="61" />
         <mark key="." line="128" column="60" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/WLMusic.java" timestamp="1590114925559" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/protocol/SoundProtocol.java" timestamp="1590040478181">
         <mark key="[" line="42" column="77" />
         <mark key="]" line="43" column="12" />
