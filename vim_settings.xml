@@ -135,11 +135,11 @@
         <mark key="^" line="231" column="14" />
         <mark key="." line="231" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/BackgroundAwake.java" timestamp="1591587916413">
-        <mark key="[" line="67" column="46" />
-        <mark key="]" line="66" column="16" />
-        <mark key="." line="66" column="15" />
-        <mark key="^" line="66" column="16" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/BackgroundAwake.java" timestamp="1591593789390">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="68" column="15" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/Connector.java" timestamp="1591581092974" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/AutoClient.java" timestamp="1591336768602">
@@ -284,10 +284,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZEF3YWtlLnJlbGVhc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>O</text>
+        <text encoding="base64">IGJhY2tncm91bmRBd2FrZS5pc0hlbGQoKQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzmmK/lkKbmlK/mjIHpgJrov4fovabmnLrok53niZnmjqfliLbmiYvmnLrmi6jmiZPnlLXor53vvIwwXD4=</text>
@@ -296,18 +296,21 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZEF3YWtlLnJlbGVhc2UoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoV0xQbGF0Zm9ybSAhPSBudWxsKSB7CiAgICAgICAgICAgIGlmIChCdWlsZC5WRVJTSU9OLlNES19JTlQgPj0gQnVpbGQuVkVSU0lPTl9DT0RFUy5PKSB7CiAgICAgICAgICAgICAgICBjb250ZXh0LnN0YXJ0U2VydmljZShuZXcgSW50ZW50KCJjb20uYXV0b2FpLndlbGluay5wbGF0Zm9ybS5LZWVwQXdha2VFbmQiKQogICAgICAgICAgICAgICAgICAgICAgICAuc2V0UGFja2FnZShjb250ZXh0LmdldFBhY2thZ2VOYW1lKCkpKTsKICAgICAgICAgICAgICAgIGNvbnRleHQuc3RvcFNlcnZpY2UobUZvcmVncm91bmRJbnRlbnQpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBtRm9yZWdyb3VuZEludGVudCA9IG51bGw7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoV0xQbGF0Zm9ybSAhPSBudWxsKSB7CiAgICAgICAgICAgIGlmIChCdWlsZC5WRVJTSU9OLlNES19JTlQgPj0gQnVpbGQuVkVSU0lPTl9DT0RFUy5PKSB7CiAgICAgICAgICAgICAgICBjb250ZXh0LnN0YXJ0U2VydmljZShuZXcgSW50ZW50KCJjb20uYXV0b2FpLndlbGluay5wbGF0Zm9ybS5LZWVwQXdha2VFbmQiKQogICAgICAgICAgICAgICAgICAgICAgICAuc2V0UGFja2FnZShjb250ZXh0LmdldFBhY2thZ2VOYW1lKCkpKTsKICAgICAgICAgICAgICAgIGNvbnRleHQuc3RvcFNlcnZpY2UobUZvcmVncm91bmRJbnRlbnQpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBtRm9yZWdyb3VuZEludGVudCA9IG51bGw7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoV0xQbGF0Zm9ybSAhPSBudWxsKSB7CiAgICAgICAgICAgIGlmIChCdWlsZC5WRVJTSU9OLlNES19JTlQgPj0gQnVpbGQuVkVSU0lPTl9DT0RFUy5PKSB7CiAgICAgICAgICAgICAgICBjb250ZXh0LnN0YXJ0U2VydmljZShuZXcgSW50ZW50KCJjb20uYXV0b2FpLndlbGluay5wbGF0Zm9ybS5LZWVwQXdha2VFbmQiKQogICAgICAgICAgICAgICAgICAgICAgICAuc2V0UGFja2FnZShjb250ZXh0LmdldFBhY2thZ2VOYW1lKCkpKTsKICAgICAgICAgICAgICAgIGNvbnRleHQuc3RvcFNlcnZpY2UobUZvcmVncm91bmRJbnRlbnQpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBtRm9yZWdyb3VuZEludGVudCA9IG51bGw7CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="5" type="4">
         <text>new BackgroundAwake.Listener() {
                 @Override
                 public void onForeground() {
@@ -374,17 +377,14 @@
                 }
             }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcC5zdGFydEZvcmVncm91bmRTZXJ2aWNlKG1JbnRlbnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQuc3RhcnRGb3JlZ3JvdW5kU2VydmljZShtRm9yZWdyb3VuZEludGVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcC5zdGFydEZvcmVncm91bmRTZXJ2aWNlKG1JbnRlbnQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQuc3RhcnRGb3JlZ3JvdW5kU2VydmljZShtRm9yZWdyb3VuZEludGVudCk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
