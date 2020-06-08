@@ -136,11 +136,11 @@
         <mark key="^" line="231" column="14" />
         <mark key="." line="231" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/BackgroundAwake.java" timestamp="1591600121991">
-        <mark key="[" line="74" column="32" />
-        <mark key="]" line="74" column="32" />
-        <mark key="." line="74" column="32" />
-        <mark key="^" line="56" column="47" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/BackgroundAwake.java" timestamp="1591604208275">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="71" column="8" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/Connector.java" timestamp="1591581092974" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/AutoClient.java" timestamp="1591336768602">
@@ -162,11 +162,11 @@
         <mark key="." line="29" column="32" />
         <mark key="^" line="29" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1591600085081">
-        <mark key="[" line="154" column="11" />
-        <mark key="]" line="154" column="11" />
-        <mark key="^" line="139" column="0" />
-        <mark key="." line="154" column="11" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1591602626414">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="8" />
+        <mark key="^" line="105" column="8" />
+        <mark key="." line="105" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHub.java" timestamp="1591328202679" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/gradle.properties" timestamp="1591338876473">
@@ -284,11 +284,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">TWVkaWFQbGF5ZXIg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzmmK/lkKbmlK/mjIHpgJrov4fovabmnLrok53niZnmjqfliLbmiYvmnLrmi6jmiZPnlLXor53vvIwwXD4=</text>
@@ -297,34 +297,37 @@
         <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uRk9SRUdST1VORF9TRVJWSUNFIiAvPgogICAgPHVzZXMtcGVybWlzc2lvbiBhbmRyb2lkOm5hbWU9ImFuZHJvaWQucGVybWlzc2lvbi5XQUtFX0xPQ0siIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0YXJ0Rm9yZWdyb3VuZChOT1RJRklDQVRJT05fSUQsIG5vdGlmaWNhdGlvbik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0b3BGb3JlZ3JvdW5kKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdG9wRm9yZWdyb3VuZCh0cnVlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uRk9SRUdST1VORF9TRVJWSUNFIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICBhcHAudW5yZWdpc3RlckFjdGl2aXR5TGlmZWN5Y2xlQ2FsbGJhY2tzKGNhbGxiYWNrKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1lciB0aW1lciA9IG5ldyBUaW1lcigpOwogICAgICAgIHRpbWVyLnNjaGVkdWxlKG5ldyBUaW1lclRhc2soKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICBpZiAoYmFja2dyb3VuZEF3YWtlICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAiYWNxdWlyZSIpOwoKCiAgICAgICAgICAgICAgICAgICAgaWYgKGJhY2tncm91bmRBd2FrZS5pc0hlbGQoKSkgewogICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kQXdha2UucmVsZWFzZSgpOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZEF3YWtlLmFjcXVpcmUoNTAwMCk7CgogICAgICAgICAgICAgICAgICAgIE5vdGlmaWNhdGlvbk1hbmFnZXIgbU5vdGlmaWNhdGlvbk1hbmFnZXIgPSAoTm90aWZpY2F0aW9uTWFuYWdlcikgZ2V0U3lzdGVtU2VydmljZShOT1RJRklDQVRJT05fU0VSVklDRSk7CiAgICAgICAgICAgICAgICAgICAgbU5vdGlmaWNhdGlvbk1hbmFnZXIubm90aWZ5KE5PVElGSUNBVElPTl9JRCwgbm90aWZpY2F0aW9uKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0sIDAsIDMwMDApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBOb3RpZmljYXRpb25NYW5hZ2VyIG1Ob3RpZmljYXRpb25NYW5hZ2VyID0gKE5vdGlmaWNhdGlvbk1hbmFnZXIpIGdldFN5c3RlbVNlcnZpY2UoTk9USUZJQ0FUSU9OX1NFUlZJQ0UpOwogICAgICAgICAgICAgICAgICAgIG1Ob3RpZmljYXRpb25NYW5hZ2VyLm5vdGlmeShOT1RJRklDQVRJT05fSUQsIG5vdGlmaWNhdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYmFja2dyb3VuZEF3YWtlICE9IG51bGwpIHsKICAgICAgICAgICAgYmFja2dyb3VuZEF3YWtlLnJlbGVhc2UoKTsKICAgICAgICAgICAgYmFja2dyb3VuZEF3YWtlID0gbnVsbDsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAiYWNxdWlyZSIpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGludGVudC5nZXRBY3Rpb24oKS5lcXVhbHMoImNvbS5hdXRvYWkud2VsaW5rLnBsYXRmb3JtLktlZXBBd2FrZUVuZCIpKSB7CiAgICAgICAgICAgIHN0b3BGb3JlZ3JvdW5kKHRydWUpOwo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="4">
+        <text>if (backgroundAwake != null) {
+            backgroundAwake.release();
+            backgroundAwake = null;
+        }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
