@@ -89,17 +89,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/AndroidManifest.xml" timestamp="1591349475571">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="67" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/AndroidManifest.xml" timestamp="1591595913249">
+        <mark key="[" line="28" column="38" />
+        <mark key="]" line="28" column="74" />
+        <mark key="." line="28" column="73" />
+        <mark key="^" line="28" column="74" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1591587248376">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1591596222868">
         <mark key="'" line="680" column="0" />
-        <mark key="[" line="639" column="33" />
-        <mark key="]" line="639" column="32" />
-        <mark key="." line="639" column="31" />
-        <mark key="^" line="639" column="32" />
+        <mark key="[" line="641" column="34" />
+        <mark key="]" line="641" column="93" />
+        <mark key="." line="641" column="92" />
+        <mark key="^" line="641" column="93" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/build.gradle" timestamp="1591347910079">
         <mark key="[" line="9" column="23" />
@@ -135,11 +136,11 @@
         <mark key="^" line="231" column="14" />
         <mark key="." line="231" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/BackgroundAwake.java" timestamp="1591593789390">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="68" column="15" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/BackgroundAwake.java" timestamp="1591596423121">
+        <mark key="[" line="116" column="53" />
+        <mark key="]" line="116" column="54" />
+        <mark key="." line="116" column="53" />
+        <mark key="^" line="116" column="54" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/Connector.java" timestamp="1591581092974" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/AutoClient.java" timestamp="1591336768602">
@@ -155,7 +156,7 @@
         <mark key="^" line="30" column="32" />
         <mark key="." line="30" column="31" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/KeepAwake.java" timestamp="1591581818784">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/KeepAwake.java" timestamp="1591595592816">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="29" column="33" />
         <mark key="." line="29" column="32" />
@@ -284,19 +285,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9wRm9yZWdyb3VuZCh0cnVlKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGJhY2tncm91bmRBd2FrZS5pc0hlbGQoKQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzmmK/lkKbmlK/mjIHpgJrov4fovabmnLrok53niZnmjqfliLbmiYvmnLrmi6jmiZPnlLXor53vvIwwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZEF3YWtlLnJlbGVhc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RvcEZvcmVncm91bmQodHJ1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9wRm9yZWdyb3VuZCh0cnVlKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -305,89 +306,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoV0xQbGF0Zm9ybSAhPSBudWxsKSB7CiAgICAgICAgICAgIGlmIChCdWlsZC5WRVJTSU9OLlNES19JTlQgPj0gQnVpbGQuVkVSU0lPTl9DT0RFUy5PKSB7CiAgICAgICAgICAgICAgICBjb250ZXh0LnN0YXJ0U2VydmljZShuZXcgSW50ZW50KCJjb20uYXV0b2FpLndlbGluay5wbGF0Zm9ybS5LZWVwQXdha2VFbmQiKQogICAgICAgICAgICAgICAgICAgICAgICAuc2V0UGFja2FnZShjb250ZXh0LmdldFBhY2thZ2VOYW1lKCkpKTsKICAgICAgICAgICAgICAgIGNvbnRleHQuc3RvcFNlcnZpY2UobUZvcmVncm91bmRJbnRlbnQpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBtRm9yZWdyb3VuZEludGVudCA9IG51bGw7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBhcHAucmVnaXN0ZXJBY3Rpdml0eUxpZmVjeWNsZUNhbGxiYWNrcyhjYWxsYmFjayk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoV0xQbGF0Zm9ybSAhPSBudWxsKSB7CiAgICAgICAgICAgIGlmIChCdWlsZC5WRVJTSU9OLlNES19JTlQgPj0gQnVpbGQuVkVSU0lPTl9DT0RFUy5PKSB7CiAgICAgICAgICAgICAgICBjb250ZXh0LnN0YXJ0U2VydmljZShuZXcgSW50ZW50KCJjb20uYXV0b2FpLndlbGluay5wbGF0Zm9ybS5LZWVwQXdha2VFbmQiKQogICAgICAgICAgICAgICAgICAgICAgICAuc2V0UGFja2FnZShjb250ZXh0LmdldFBhY2thZ2VOYW1lKCkpKTsKICAgICAgICAgICAgICAgIGNvbnRleHQuc3RvcFNlcnZpY2UobUZvcmVncm91bmRJbnRlbnQpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBtRm9yZWdyb3VuZEludGVudCA9IG51bGw7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFBvd2VyTWFuYWdlciBwb3dlck1hbmFnZXIgPSAoUG93ZXJNYW5hZ2VyKWFwcC5nZXRTeXN0ZW1TZXJ2aWNlKFBPV0VSX1NFUlZJQ0UpOwogICAgICAgICAgICAgICAgYmFja2dyb3VuZEF3YWtlID0gcG93ZXJNYW5hZ2VyLm5ld1dha2VMb2NrKFBvd2VyTWFuYWdlci5QQVJUSUFMX1dBS0VfTE9DSywKICAgICAgICAgICAgICAgICAgICAgICAgIldlTGlua1BsYXRmb3JtOjpCYWNrZ3JvdW5kV2FrZUxvY2tUYWciKTsKCiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kQXdha2UuYWNxdWlyZSg1MDAwKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>new BackgroundAwake.Listener() {
-                @Override
-                public void onForeground() {
-                    Log.e(&quot;guangbin&quot;, &quot;onForeground&quot;);
-
-                    if (wakeLock != null) {
-                        wakeLock.release();
-                        wakeLock = null;
-                    }
-
-                    context.startService(new Intent(&quot;com.autoai.welink.platform.KeepAwakeEnd&quot;)
-                            .setPackage(context.getPackageName()));
-                    context.stopService(mForegroundIntent);
-                }
-
-                @Override
-                public void onBackground() {
-                    Log.e(&quot;guangbin&quot;, &quot;onBackground&quot;);
-
-
-                }
-
-                @Override
-                public void onLockscreen() {
-                    Log.e(&quot;guangbin&quot;, &quot;onLockscreen&quot;);
-
-                    PowerManager powerManager = (PowerManager)context.getSystemService(POWER_SERVICE);
-                    wakeLock = powerManager.newWakeLock(PowerManager.PARTIAL_WAKE_LOCK,
-                            &quot;WeLinkPlatform::WakeUp&quot;);
-                    wakeLock.acquire();
-
-                    context.startForegroundService(mForegroundIntent);
-
-                    Timer timer = new Timer();
-                    timer.schedule(new TimerTask() {
-                        @Override
-                        public void run() {
-                            Log.e(&quot;guangbin&quot;, &quot;newWakeLock&quot;);
-                            wakeLock.release();
-
-                            context.startService(new Intent(&quot;com.autoai.welink.platform.KeepAwakeEnd&quot;)
-                                    .setPackage(context.getPackageName()));
-                            context.stopService(mForegroundIntent);
-
-                            wakeLock.acquire();
-
-                            context.startForegroundService(mForegroundIntent);
-                        }
-                    }, 1, 1000);
-                }
-
-                @Override
-                public void onUnlockscreen() {
-                    Log.e(&quot;guangbin&quot;, &quot;onUnlockscreen&quot;);
-
-                    if (wakeLock != null) {
-                        wakeLock.release();
-                        wakeLock = null;
-                    }
-
-                    context.startService(new Intent(&quot;com.autoai.welink.platform.KeepAwakeEnd&quot;)
-                            .setPackage(context.getPackageName()));
-                    context.stopService(mForegroundIntent);
-                }
-            }</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcHAucmVnaXN0ZXJBY3Rpdml0eUxpZmVjeWNsZUNhbGxiYWNrcyhjYWxsYmFjayk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcC5zdGFydEZvcmVncm91bmRTZXJ2aWNlKG1JbnRlbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhcHAucmVnaXN0ZXJBY3Rpdml0eUxpZmVjeWNsZUNhbGxiYWNrcyhjYWxsYmFjayk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQuc3RhcnRGb3JlZ3JvdW5kU2VydmljZShtRm9yZWdyb3VuZEludGVudCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgKGFwcGxpY2F0aW9uICE9IG51bGwpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
