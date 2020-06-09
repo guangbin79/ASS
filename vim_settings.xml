@@ -89,11 +89,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1591670585219">
-        <mark key="[" line="165" column="5" />
-        <mark key="]" line="98" column="43" />
-        <mark key="^" line="98" column="43" />
-        <mark key="." line="98" column="42" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1591685604500">
+        <mark key="[" line="142" column="41" />
+        <mark key="]" line="142" column="41" />
+        <mark key="^" line="142" column="41" />
+        <mark key="." line="142" column="40" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/AndroidManifest.xml" timestamp="1591605064878">
         <mark key="[" line="9" column="0" />
@@ -101,18 +101,20 @@
         <mark key="." line="28" column="73" />
         <mark key="^" line="28" column="74" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1591671686127">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1591685613170">
         <mark key="'" line="679" column="0" />
-        <mark key="[" line="668" column="36" />
-        <mark key="]" line="668" column="36" />
-        <mark key="." line="668" column="35" />
-        <mark key="^" line="668" column="36" />
+        <mark key="[" line="653" column="7" />
+        <mark key="]" line="653" column="7" />
+        <mark key="." line="653" column="6" />
+        <mark key="^" line="653" column="7" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1591685631112" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/build.gradle" timestamp="1591347910079">
         <mark key="[" line="9" column="23" />
         <mark key="]" line="9" column="24" />
         <mark key="." line="9" column="24" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WLServiceManager.java" timestamp="1591685633639" />
       <file name="/a.dummy" timestamp="1591666344420">
         <mark key="[" line="0" column="0" />
       </file>
