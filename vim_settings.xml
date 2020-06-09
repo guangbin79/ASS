@@ -147,11 +147,11 @@
         <mark key="." line="68" column="30" />
         <mark key="^" line="68" column="31" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/gradle.properties" timestamp="1591338876473">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="31" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/gradle.properties" timestamp="1591672572293">
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="16" column="31" />
+        <mark key="^" line="16" column="31" />
+        <mark key="." line="16" column="30" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/AutoClient.java" timestamp="1591336768602">
         <mark key="[" line="105" column="58" />
