@@ -128,6 +128,7 @@
         <mark key="^" line="59" column="54" />
         <mark key="." line="89" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/modulephoneadapter/vivo/build.gradle" timestamp="1591692966058" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/AndroidManifest.xml" timestamp="1591670530707">
         <mark key="[" line="24" column="35" />
         <mark key="]" line="24" column="35" />
@@ -149,8 +150,11 @@
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/gradle.properties" timestamp="1591672572293">
         <mark key="[" line="15" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/modulephoneadapter/app/build.gradle" timestamp="1591691923673">
-        <mark key="[" line="90" column="5" />
+      <file name="$USER_HOME$/Workspace/modulephoneadapter/app/build.gradle" timestamp="1591692988748">
+        <mark key="[" line="123" column="82" />
+        <mark key="]" line="123" column="38" />
+        <mark key="^" line="123" column="38" />
+        <mark key="." line="123" column="37" />
       </file>
       <file name="$USER_HOME$/.gradle/gradle.properties" timestamp="1591690579077" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/AutoClient.java" timestamp="1591336768602">
