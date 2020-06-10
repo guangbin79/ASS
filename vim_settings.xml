@@ -95,6 +95,9 @@
         <mark key="^" line="142" column="41" />
         <mark key="." line="142" column="40" />
       </file>
+      <file name="/Dummy.txt" timestamp="1591757846761">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/AndroidManifest.xml" timestamp="1591605064878">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="10" column="67" />
@@ -154,12 +157,6 @@
         <mark key="]" line="59" column="96" />
         <mark key="^" line="59" column="96" />
         <mark key="." line="59" column="95" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/AppKeepAwake.java" timestamp="1591339625449">
-        <mark key="[" line="30" column="31" />
-        <mark key="]" line="30" column="32" />
-        <mark key="^" line="30" column="32" />
-        <mark key="." line="30" column="31" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/KeepAwake.java" timestamp="1591595592816">
         <mark key="[" line="31" column="0" />
