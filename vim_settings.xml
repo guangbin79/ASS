@@ -129,6 +129,7 @@
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/gradle.properties" timestamp="1591672572293">
         <mark key="[" line="15" column="27" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/codec/CodecInputSurface.java" timestamp="1591784730092" />
       <file name="$USER_HOME$/Workspace/modulephoneadapter/app/build.gradle" timestamp="1591692988748">
         <mark key="[" line="123" column="82" />
         <mark key="]" line="123" column="38" />
@@ -146,6 +147,7 @@
         <mark key="^" line="59" column="96" />
         <mark key="." line="59" column="95" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/codec/SurfaceRecorder.java" timestamp="1591783550834" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WlMuSDKManager.java" timestamp="1591757185177">
         <mark key="[" line="236" column="22" />
         <mark key="]" line="236" column="22" />
