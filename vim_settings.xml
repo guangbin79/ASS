@@ -90,9 +90,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1591841739976">
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="168" column="13" />
-        <mark key="." line="164" column="0" />
+        <mark key="]" line="157" column="13" />
       </file>
       <file name="/Dummy.txt" timestamp="1591757846761">
         <mark key="[" line="0" column="0" />
