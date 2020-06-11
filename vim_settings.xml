@@ -117,6 +117,12 @@
       <file name="/a.dummy" timestamp="1591666344420">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/AirplayServer/android/example/local.properties" timestamp="1591861789098">
+        <mark key="[" line="8" column="43" />
+        <mark key="]" line="8" column="2" />
+        <mark key="^" line="8" column="2" />
+        <mark key="." line="8" column="1" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/AndroidManifest.xml" timestamp="1591670530707">
         <mark key="[" line="24" column="35" />
         <mark key="]" line="24" column="35" />
@@ -276,11 +282,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3lzdGVtUHJvcC5odHRwcy5wcm94eVBvcnQ9ODExOAo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>1111111111111</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzmmK/lkKbmlK/mjIHpgJrov4fovabmnLrok53niZnmjqfliLbmiYvmnLrmi6jmiZPnlLXor53vvIwwXD4=</text>
