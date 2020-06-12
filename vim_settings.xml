@@ -169,7 +169,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/xml/apduservice.xml" timestamp="1591945558073" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/xml/apduservice.xml" timestamp="1591945645676">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="4" column="39" />
+        <mark key="^" line="4" column="39" />
+        <mark key="." line="4" column="38" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/codec/SurfaceRecorder.java" timestamp="1591845258018">
         <mark key="." line="182" column="12" />
         <mark key="^" line="182" column="12" />
