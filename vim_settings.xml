@@ -103,9 +103,9 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="63" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/AndroidManifest.xml" timestamp="1592190810152">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/AndroidManifest.xml" timestamp="1592201126302">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="78" />
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/AndroidManifest.xml" timestamp="1592195399108">
@@ -125,7 +125,7 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="25" column="58" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/auto/hardwarehub/CardService.java" timestamp="1592200872324">
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/auto/hardwarehub/CardService.java" timestamp="1592201122223">
         <mark key="[" line="128" column="0" />
         <mark key="]" line="128" column="0" />
         <mark key="^" line="126" column="45" />
@@ -143,8 +143,11 @@
         <mark key="^" line="17" column="89" />
         <mark key="." line="17" column="88" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591945387757">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1592201843370">
+        <mark key="[" line="94" column="40" />
+        <mark key="]" line="94" column="41" />
+        <mark key="." line="94" column="40" />
+        <mark key="^" line="94" column="41" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/build.gradle" timestamp="1592195509493">
         <mark key="[" line="10" column="23" />
@@ -162,11 +165,11 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/HostCardEmulatorService.java" timestamp="1592195576945">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="51" column="23" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/HostCardEmulatorService.java" timestamp="1592201977896">
+        <mark key="[" line="60" column="49" />
+        <mark key="]" line="60" column="50" />
+        <mark key="^" line="60" column="50" />
+        <mark key="." line="60" column="49" />
       </file>
       <file name="$USER_HOME$/Workspace/NFC/CardEmulatorSample/app/src/main/AndroidManifest.xml" timestamp="1591952166841">
         <mark key="[" line="4" column="0" />
@@ -295,46 +298,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYmx1ZXRvb3RoTGVTY2FubmVyID09IG51bGwpIHJldHVybjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>deviceAddress</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzmmK/lkKbmlK/mjIHpgJrov4fovabmnLrok53niZnmjqfliLbmiYvmnLrmi6jmiZPnlLXor53vvIwwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uTkZDIiAvPgoKICAgIDx1c2VzLWZlYXR1cmUgYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmhhcmR3YXJlLm5mYy5oY2UiIGFuZHJvaWQ6cmVxdWlyZWQ9InRydWUiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJndWFuZ2JpbiIsICJudWxsbGxsbGxsbGxsbGxsIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYmx1ZXRvb3RoTGVTY2FubmVyID09IG51bGwpIHJldHVybjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnNldFBhY2thZ2UoZ2V0UGFja2FnZU5hbWUoKSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBJbnRlbnQoImNvbS5hdXRvYWkud2VsaW5rLmF1dG8uaGFyZHdhcmVodWIuYmx1ZXRvb3RoLldha2VVcCIpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IEJsdWV0b290aE1hbmFnZXIgYmx1ZXRvb3RoTWFuYWdlciA9IChCbHVldG9vdGhNYW5hZ2VyKWdldFN5c3RlbVNlcnZpY2UoQ29udGV4dC5CTFVFVE9PVEhfU0VSVklDRSk7CiAgICAgICAgICAgIEJsdWV0b290aEFkYXB0ZXIgYmx1ZXRvb3RoQWRhcHRlciA9IGJsdWV0b290aE1hbmFnZXIuZ2V0QWRhcHRlcigpOwogICAgICAgICAgICBCbHVldG9vdGhMZVNjYW5uZXIgYmx1ZXRvb3RoTGVTY2FubmVyID0gYmx1ZXRvb3RoQWRhcHRlci5nZXRCbHVldG9vdGhMZVNjYW5uZXIoKTsKICAgICAgICAgICAgaWYgKGJsdWV0b290aExlU2Nhbm5lciA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAibm5ubm5ubm5ubm5ubm5uIik7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAibGxsbGxsbGxsbGxsbGwiKTsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgIjExMTExMTExMTExMSIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYmx1ZXRvb3RoQWRhcHRlciA9PSBudWxsKSByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAic3RhcnRTY2FuIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYmx1ZXRvb3RoTWFuYWdlciA9PSBudWxsKSByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAic3RhcnRTY2FuIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydEFjdGl2aXR5KGludGVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYmx1ZXRvb3RoTGVTY2FubmVyID09IG51bGwpIHJldHVybjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlbnQuc2V0RmxhZ3MoSW50ZW50LkZMQUdfQUNUSVZJVFlfTkVXX1RBU0spOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnNldFBhY2thZ2UoZ2V0UGFja2FnZU5hbWUoKSksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
