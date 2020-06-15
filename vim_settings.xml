@@ -160,10 +160,10 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/HostCardEmulatorService.java" timestamp="1592209901152">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/HostCardEmulatorService.java" timestamp="1592210571116">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="55" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/NFC/CardEmulatorSample/app/src/main/AndroidManifest.xml" timestamp="1591952166841">
         <mark key="[" line="4" column="0" />
@@ -176,11 +176,11 @@
         <mark key="." line="26" column="58" />
         <mark key="^" line="26" column="59" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/xml/apduservice.xml" timestamp="1591948902487">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/xml/apduservice.xml" timestamp="1592210824575">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="33" />
         <mark key="^" line="5" column="49" />
-        <mark key="." line="6" column="0" />
+        <mark key="." line="3" column="33" />
       </file>
       <file name="/fragment.java" timestamp="1592190519538">
         <mark key="[" line="0" column="0" />
@@ -291,11 +291,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>getPackageManager().getLaunchIntentForPackage(&quot;com.autoai.welink.wllauncher&quot;);</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzmmK/lkKbmlK/mjIHpgJrov4fovabmnLrok53niZnmjqfliLbmiYvmnLrmi6jmiZPnlLXor53vvIwwXD4=</text>
@@ -304,37 +304,37 @@
         <text encoding="base64">ICAgICAgICBJbnRlbnQgaW50ZW50ID0gZ2V0UGFja2FnZU1hbmFnZXIoKS5nZXRMYXVuY2hJbnRlbnRGb3JQYWNrYWdlKCJjb20uYXV0b2FpLndlbGluay53bGxhdW5jaGVyIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRlbnQuYWRkRmxhZ3MoSW50ZW50LkZMQUdfQUNUSVZJVFlfTkVXX1RBU0spOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBpbnRlbnQuYWRkRmxhZ3MoSW50ZW50LkZMQUdfQUNUSVZJVFlfTkVXX1RBU0spOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIGFuZHJvaWQ6dGhlbWU9IkBhbmRyb2lkOnN0eWxlL1RoZW1lLldhbGxwYXBlci5Ob1RpdGxlQmFyIg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBnCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>etWindow().addFlags(
                 WindowManager.LayoutParams.FLAG_SHOW_WHEN_LOCKED|               //这个在锁屏状态下
                         WindowManager.LayoutParams.FLAG_TURN_SCREEN_ON
                         | WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfCBXaW5kb3dNYW5hZ2VyLkxheW91dFBhcmFtcy5GTEFHX0RJU01JU1NfS0VZR1VBUkQK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICDljp/mlofpk77mjqXvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvel94X1FpYW5nL2phdmEvYXJ0aWNsZS9kZXRhaWxzLzU1MjEwODA3Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLpDU0RO5Y2a5Li744CM5ZCv5LmL54G144CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qQ0MgNC4wIEJZLVNB54mI5p2D5Y2P6K6u77yM6L2s6L296K+36ZmE5LiK5Y6f5paH5Ye65aSE6ZO+5o6l5Y+K5pys5aOw5piO44CCCg==</text>
+        <text encoding="base64">ICAgICAgICDljp/mlofpk77mjqXvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvel94X1FpYW5nL2phdmEvYXJ0aWNsZS9kZXRhaWxzLzU1MjEwODA3Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
