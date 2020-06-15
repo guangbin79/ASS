@@ -137,7 +137,7 @@
         <mark key="^" line="22" column="13" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/AwakeLock.java" timestamp="1592205677272" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/AwakeLock.java" timestamp="1592264373820" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1592207478416">
         <mark key="[" line="95" column="0" />
         <mark key="]" line="95" column="0" />
@@ -176,11 +176,11 @@
         <mark key="." line="26" column="58" />
         <mark key="^" line="26" column="59" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/xml/apduservice.xml" timestamp="1592210824575">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/xml/apduservice.xml" timestamp="1592210949635">
         <mark key="[" line="3" column="33" />
-        <mark key="]" line="3" column="33" />
-        <mark key="^" line="5" column="49" />
-        <mark key="." line="3" column="33" />
+        <mark key="]" line="3" column="38" />
+        <mark key="^" line="3" column="38" />
+        <mark key="." line="3" column="37" />
       </file>
       <file name="/fragment.java" timestamp="1592190519538">
         <mark key="[" line="0" column="0" />
