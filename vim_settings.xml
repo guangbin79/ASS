@@ -89,6 +89,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1591945387757">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1591955081995">
         <mark key="'" line="680" column="0" />
         <mark key="[" line="629" column="0" />
@@ -106,48 +109,16 @@
         <mark key="^" line="8" column="60" />
         <mark key="." line="8" column="59" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/xml/accessory_filter.xml" timestamp="1591928219688">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/AndroidManifest.xml" timestamp="1591952173840">
         <mark key="[" line="18" column="84" />
         <mark key="]" line="19" column="4" />
         <mark key="^" line="19" column="4" />
         <mark key="." line="19" column="3" />
-      </file>
-      <file name="$USER_HOME$/Workspace/MyApplication/app/src/main/AndroidManifest.xml" timestamp="1591949519011">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="25" column="58" />
-      </file>
-      <file name="$USER_HOME$/.gradle/gradle.properties" timestamp="1591861668176">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/MyApplication/app/src/main/java/com/autoai/welink/myapplication/MainActivity.java" timestamp="1591949803163">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="^" line="22" column="13" />
-        <mark key="." line="72" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/WeLinkHostApduService.java" timestamp="1591948779229">
-        <mark key="[" line="9" column="66" />
-        <mark key="]" line="17" column="89" />
-        <mark key="^" line="17" column="89" />
-        <mark key="." line="17" column="88" />
-      </file>
-      <file name="$USER_HOME$/Workspace/MyApplication/app/src/main/java/com/autoai/welink/myapplication/BaseNFCActivity.java" timestamp="1591925541500">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="3" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591945387757">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/xml/accessory_filter.xml" timestamp="1591928219688">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/WLSound.java" timestamp="1591854954099">
         <mark key="[" line="12" column="20" />
@@ -166,11 +137,38 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/HostCardEmulatorService.java" timestamp="1591953479043" />
+      <file name="$USER_HOME$/Workspace/MyApplication/app/src/main/AndroidManifest.xml" timestamp="1591949519011">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="25" column="58" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/HostCardEmulatorService.java" timestamp="1592190186684">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/gradle.properties" timestamp="1591861668176">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/MyApplication/app/src/main/java/com/autoai/welink/myapplication/MainActivity.java" timestamp="1591949803163">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="22" column="13" />
+        <mark key="." line="72" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/NFC/CardEmulatorSample/app/src/main/AndroidManifest.xml" timestamp="1591952166841">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="6" column="84" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/WeLinkHostApduService.java" timestamp="1591948779229">
+        <mark key="[" line="9" column="66" />
+        <mark key="]" line="17" column="89" />
+        <mark key="^" line="17" column="89" />
+        <mark key="." line="17" column="88" />
       </file>
       <file name="$USER_HOME$/Workspace/NFC/CardEmulatorSample/app/src/main/java/io/github/stevenocean/cardemulatorsample/HostCardEmulatorService.java" timestamp="1591951528049">
         <mark key="[" line="26" column="58" />
@@ -183,6 +181,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="5" column="49" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/MyApplication/app/src/main/java/com/autoai/welink/myapplication/BaseNFCActivity.java" timestamp="1591925541500">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1591951700636">
         <mark key="[" line="0" column="0" />
@@ -294,7 +298,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtQXdha2VMb2NrLmxvY2sobm90aWZpY2F0aW9uKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -306,34 +310,34 @@
         <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uTkZDIiAvPgoKICAgIDx1c2VzLWZlYXR1cmUgYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmhhcmR3YXJlLm5mYy5oY2UiIGFuZHJvaWQ6cmVxdWlyZWQ9InRydWUiIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtQXdha2VMb2NrLmxvY2sobm90aWZpY2F0aW9uKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtQXdha2VMb2NrLmxvY2sobU5vdGlmaWNhdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtQXdha2VMb2NrLmxvY2sobm90aWZpY2F0aW9uKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUF3YWtlTG9jay5sb2NrKG1Ob3RpZmljYXRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICBtQXdha2VMb2NrLmxvY2sobU5vdGlmaWNhdGlvbik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUF3YWtlTG9jay5sb2NrKG1Ob3RpZmljYXRpb24pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8bWV0YS1kYXRhCiAgICAgICAgICAgIGFuZHJvaWQ6bmFtZT0iY29tLmdvb2dsZS5hbmRyb2lkLmFjdGlvbnMiCiAgICAgICAgICAgIGFuZHJvaWQ6cmVzb3VyY2U9IkB4bWwvbmZjX3RlY2hfZmlsdGVyIiAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8bWV0YS1kYXRhCiAgICAgICAgICAgIGFuZHJvaWQ6bmFtZT0iY29tLmdvb2dsZS5hbmRyb2lkLmFjdGlvbnMiCiAgICAgICAgICAgIGFuZHJvaWQ6cmVzb3VyY2U9IkB4bWwvbmZjX3RlY2hfZmlsdGVyIiAvPgo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IDxpbnRlbnQtZmlsdGVyPgogICAgICAgICAgICAgICAgPGFjdGlvbiBhbmRyb2lkOm5hbWU9ImFuZHJvaWQubmZjLmFjdGlvbi5OREVGX0RJU0NPVkVSRUQiLz4KICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkRFRkFVTFQiLz4KICAgICAgICAgICAgPC9pbnRlbnQtZmlsdGVyPgoKICAgICAgICAgICAgPGludGVudC1maWx0ZXI+CiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5uZmMuYWN0aW9uLlRFQ0hfRElTQ09WRVJFRCIgLz4KICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkRFRkFVTFQiLz4KICAgICAgICAgICAgPC9pbnRlbnQtZmlsdGVyPgogICAgICAgICAgICA8bWV0YS1kYXRhIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5uZmMuYWN0aW9uLlRFQ0hfRElTQ09WRVJFRCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6cmVzb3VyY2U9IkB4bWwvbmZjX3RlY2hfZmlsdGVyIiAvPgoKICAgICAgICAgICAgPGludGVudC1maWx0ZXI+CiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5uZmMuYWN0aW9uLlRBR19ESVNDT1ZFUkVEIiAvPgogICAgICAgICAgICAgICAgPGNhdGVnb3J5IGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuY2F0ZWdvcnkuREVGQVVMVCIvPgogICAgICAgICAgICA8L2ludGVudC1maWx0ZXI+</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
