@@ -89,11 +89,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/build.gradle" timestamp="1592195509493">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="24" />
-        <mark key="." line="10" column="24" />
-      </file>
       <file name="$USER_HOME$/Workspace/AlarmManager/app/src/main/java/com/example/alarmmanagertest/VoiceActivity.java" timestamp="1592265582879">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -128,6 +123,10 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="10" column="63" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/NFC/CardEmulatorSample/app/src/main/res/xml/apduservice.xml" timestamp="1592274411517">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="30" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/VoiceActivity.java" timestamp="1592265621815">
         <mark key="[" line="12" column="27" />
@@ -291,8 +290,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgTUQ1ICgid2VsaW5rX25mYyIpID0gNWYwNDYxYzMyMzM0NjFjODJlMDFiN2I0ZTBkMzRjYjYtLT4K</text>
+      <register name="&quot;" type="4">
+        <text>android:requireDeviceUnlock</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -300,8 +299,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDzmmK/lkKbmlK/mjIHpgJrov4fovabmnLrok53niZnmjqfliLbmiYvmnLrmi6jmiZPnlLXor53vvIwwXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uTkZDIiAvPgoKICAgIDx1c2VzLWZlYXR1cmUgYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmhhcmR3YXJlLm5mYy5oY2UiIGFuZHJvaWQ6cmVxdWlyZWQ9InRydWUiIC8+Cg==</text>
+      <register name="0" type="4">
+        <text>android:requireDeviceUnlock</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgTUQ1ICgid2VsaW5rX25mYyIpID0gNWYwNDYxYzMyMzM0NjFjODJlMDFiN2I0ZTBkMzRjYjYtLT4K</text>
