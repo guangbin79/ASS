@@ -95,11 +95,11 @@
         <mark key="^" line="19" column="43" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/WeLinkService.java" timestamp="1592272066070">
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="12" column="26" />
-        <mark key="^" line="12" column="26" />
-        <mark key="." line="12" column="25" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/WeLinkService.java" timestamp="1592276820723">
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="39" />
+        <mark key="^" line="17" column="39" />
+        <mark key="." line="17" column="38" />
       </file>
       <file name="/a.dummy" timestamp="1592271336666">
         <mark key="[" line="0" column="0" />
@@ -291,16 +291,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>android:requireDeviceUnlock</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzmmK/lkKbmlK/mjIHpgJrov4fovabmnLrok53niZnmjqfliLbmiYvmnLrmi6jmiZPnlLXor53vvIwwXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>android:requireDeviceUnlock</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAiMTExMTExMTExMTExMTEiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgTUQ1ICgid2VsaW5rX25mYyIpID0gNWYwNDYxYzMyMzM0NjFjODJlMDFiN2I0ZTBkMzRjYjYtLT4K</text>
