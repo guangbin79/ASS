@@ -124,11 +124,6 @@
         <mark key="^" line="56" column="44" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/auto/hardwarehub/WakeUpService.java" timestamp="1592191046918">
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/values/strings.xml" timestamp="1592271444353">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="10" column="63" />
@@ -152,6 +147,7 @@
         <mark key="^" line="126" column="45" />
         <mark key="." line="128" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/NFC/CardReaderSample/app/src/main/java/io/github/stevenocean/cardreadersample/MainActivity.java" timestamp="1592272718119" />
       <file name="$USER_HOME$/Workspace/NFC/CardEmulatorSample/app/src/main/AndroidManifest.xml" timestamp="1592271375799">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="6" column="84" />
