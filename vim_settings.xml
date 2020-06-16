@@ -89,10 +89,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1592294873646">
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1592296919496">
+        <mark key="[" line="149" column="65" />
+        <mark key="]" line="149" column="66" />
+        <mark key="." line="149" column="65" />
+        <mark key="^" line="149" column="66" />
       </file>
       <file name="$USER_HOME$/Workspace/AlarmManager/app/src/main/java/com/example/alarmmanagertest/VoiceActivity.java" timestamp="1592265582879">
         <mark key="[" line="26" column="0" />
@@ -123,10 +124,11 @@
         <mark key="]" line="5" column="45" />
         <mark key="." line="5" column="45" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/values/strings.xml" timestamp="1592271444353">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="63" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/values/strings.xml" timestamp="1592296914400">
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="2" column="43" />
+        <mark key="." line="2" column="42" />
+        <mark key="^" line="2" column="43" />
       </file>
       <file name="$USER_HOME$/Workspace/NFC/CardEmulatorSample/app/src/main/res/xml/apduservice.xml" timestamp="1592274411517">
         <mark key="[" line="3" column="4" />
@@ -287,48 +289,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDov5nph4zlu7rorq7lsIblpITnkIZORkPnmoTlrZDnsbvnmoRsYXVuY2hNb2Rl6K6+572u5oiQc2luZ2xlVG9w5qih5byP77yM6L+Z5qC35oSf5bqU5Yiw5qCH562+5pe25bCx5Lya5Zue6LCDb25OZXdJbnRlbnTvvIzogIzkuI3kvJrph43lpI3miZPlvIDpobXpnaIK</text>
+      <register name="&quot;" type="4">
+        <text>WLauncher</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>WLauncher</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzmmK/lkKbmlK/mjIHpgJrov4fovabmnLrok53niZnmjqfliLbmiYvmnLrmi6jmiZPnlLXor53vvIwwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNYWluQWN0aXZpdHkudGhpcy5zZXRUaXRsZSgiV0xMYXVuY2hlciIpOwo=</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYXBwX25hbWUiPldMYXVuY2hlcjwvc3RyaW5nPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDov5nph4zlu7rorq7lsIblpITnkIZORkPnmoTlrZDnsbvnmoRsYXVuY2hNb2Rl6K6+572u5oiQc2luZ2xlVG9w5qih5byP77yM6L+Z5qC35oSf5bqU5Yiw5qCH562+5pe25bCx5Lya5Zue6LCDb25OZXdJbnRlbnTvvIzogIzkuI3kvJrph43lpI3miZPlvIDpobXpnaIK</text>
+        <text encoding="base64">ICAgIGZpbmFsIHN0YXRpYyBTdHJpbmcgTkZDX1dSSVRFUl9UQUcgPSAiTkZDV3JpdGVyIjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDnlKjkuo7mhJ/lupTliLBORkPml7blkK/liqjor6VBY3Rpdml0eQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICDljp/mlofpk77mjqXvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvbXFkeGlhb3hpYW8vamF2YS9hcnRpY2xlL2RldGFpbHMvOTk2MjU1ODAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGFnIHRhZyA9IDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLpDU0RO5Y2a5Li744CM6YeO54y/5paw5LiA44CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qQ0MgNC4wIEJZLVNB54mI5p2D5Y2P6K6u77yM6L2s6L296K+36ZmE5LiK5Y6f5paH5Ye65aSE6ZO+5o6l5Y+K5pys5aOw5piO44CCCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDmoLzlvI/ljJblubblhpnlhaVOZWRm5YaF5a65Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOS4jeS4uuepuuihqOekuuivpeagh+etvuWFgeiuuOagvOW8j+WMluaIkE5kZWbmoLzlvI8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWGmeWFpeaVsOaNrgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWIpOaWreWGmeWFpeWGheWuueWkp+Wwj+aYr+WQpui2heWHuuWFgeiuuOWGmeWFpeeahOacgOWkp+WAvAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>.subSequence(0,
-                            textView.getText().length() - NFC_WRITER_TAG.length()).toString();</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOaYr+WQpuWPr+WGmQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
