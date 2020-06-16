@@ -89,6 +89,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1592293089776">
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/AlarmManager/app/src/main/java/com/example/alarmmanagertest/VoiceActivity.java" timestamp="1592265582879">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -108,15 +112,10 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="59" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/AndroidManifest.xml" timestamp="1592201126302">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="7" column="78" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/AndroidManifest.xml" timestamp="1592290804872">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="60" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/AndroidManifest.xml" timestamp="1592292843213">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/xml/nfc_tech_filter.xml" timestamp="1592292201853">
         <mark key="[" line="5" column="31" />
@@ -143,12 +142,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="11" column="44" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/auto/hardwarehub/CardService.java" timestamp="1592201122223">
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="^" line="126" column="45" />
-        <mark key="." line="128" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/NFC/CardEmulatorSample/app/src/main/AndroidManifest.xml" timestamp="1592271375799">
         <mark key="[" line="4" column="0" />
@@ -294,7 +287,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8dGVjaD5hbmRyb2lkLm5mYy50ZWNoLk1pZmFyZVVsdHJhbGlnaHQ8L3RlY2g+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -306,34 +299,34 @@
         <text encoding="base64">ICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAiMTExMTExMTExMTExMTEiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8dGVjaD5hbmRyb2lkLm5mYy50ZWNoLk1pZmFyZVVsdHJhbGlnaHQ8L3RlY2g+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8dGVjaD5hbmRyb2lkLm5mYy50ZWNoLk1pZmFyZUNsYXNzaWM8L3RlY2g+Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25Db25maWd1cmF0aW9uQ2hhbmdlZChATm9uTnVsbCBDb25maWd1cmF0aW9uIG5ld0NvbmZpZykgewogICAgICAgIHN1cGVyLm9uQ29uZmlndXJhdGlvbkNoYW5nZWQobmV3Q29uZmlnKTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8dGVjaD5hbmRyb2lkLm5mYy50ZWNoLk5kZWZGb3JtYXRhYmxlPC90ZWNoPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8dGVjaD5hbmRyb2lkLm5mYy50ZWNoLk5mY1Y8L3RlY2g+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8dGVjaD5hbmRyb2lkLm5mYy50ZWNoLk5mY0Y8L3RlY2g+Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">PGludGVudC1maWx0ZXI+CiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5uZmMuYWN0aW9uLlRFQ0hfRElTQ09WRVJFRCIgLz4KICAgICAgICAgICAgICAgIDxjYXRlZ29yeSBhbmRyb2lkOm5hbWU9ImFuZHJvaWQuaW50ZW50LmNhdGVnb3J5LkRFRkFVTFQiLz4KICAgICAgICAgICAgPC9pbnRlbnQtZmlsdGVyPgogICAgICAgICAgICA8bWV0YS1kYXRhIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5uZmMuYWN0aW9uLlRFQ0hfRElTQ09WRVJFRCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6cmVzb3VyY2U9IkB4bWwvbmZjX3RlY2hfZmlsdGVyIiAvPg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8dGVjaD5hbmRyb2lkLm5mYy50ZWNoLk5mY0I8L3RlY2g+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8dGVjaD5hbmRyb2lkLm5mYy50ZWNoLk5mY0E8L3RlY2g+Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">PG1ldGEtZGF0YQogICAgICAgICAgICBhbmRyb2lkOm5hbWU9ImNvbS5nb29nbGUuYW5kcm9pZC5hY3Rpb25zIgogICAgICAgICAgICBhbmRyb2lkOnJlc291cmNlPSJAeG1sL25mY190ZWNoX2ZpbHRlciIgLz4=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8dGVjaD5hbmRyb2lkLm5mYy50ZWNoLklzb0RlcDwvdGVjaD4K</text>
+        <text encoding="base64">ICAgICAgICA8dGVjaD5hbmRyb2lkLm5mYy50ZWNoLk1pZmFyZVVsdHJhbGlnaHQ8L3RlY2g+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uTkZDIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dGVjaD5hbmRyb2lkLm5mYy50ZWNoLk1pZmFyZUNsYXNzaWM8L3RlY2g+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
