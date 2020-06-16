@@ -94,18 +94,17 @@
         <mark key="]" line="10" column="24" />
         <mark key="." line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1591955081995">
-        <mark key="'" line="680" column="0" />
-        <mark key="[" line="629" column="0" />
-        <mark key="]" line="629" column="38" />
-        <mark key="." line="629" column="0" />
-        <mark key="^" line="649" column="8" />
-      </file>
       <file name="$USER_HOME$/Workspace/AlarmManager/app/src/main/java/com/example/alarmmanagertest/VoiceActivity.java" timestamp="1592265582879">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="^" line="19" column="43" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/WeLinkService.java" timestamp="1592272066070">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="26" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="12" column="25" />
       </file>
       <file name="/a.dummy" timestamp="1592271336666">
         <mark key="[" line="0" column="0" />
@@ -164,7 +163,7 @@
         <mark key="^" line="22" column="44" />
         <mark key="." line="22" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/NFC/CardEmulatorSample/app/src/main/java/io/github/stevenocean/cardemulatorsample/HostCardEmulatorService.java" timestamp="1592270712650">
+      <file name="$USER_HOME$/Workspace/NFC/CardEmulatorSample/app/src/main/java/io/github/stevenocean/cardemulatorsample/HostCardEmulatorService.java" timestamp="1592272248864">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
