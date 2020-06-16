@@ -118,6 +118,11 @@
         <mark key="]" line="5" column="60" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/xml/nfc_tech_filter.xml" timestamp="1592292201853">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="45" />
+        <mark key="." line="5" column="45" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/values/strings.xml" timestamp="1592271444353">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="10" column="63" />
@@ -289,7 +294,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uTkZDIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dGVjaD5hbmRyb2lkLm5mYy50ZWNoLk1pZmFyZVVsdHJhbGlnaHQ8L3RlY2g+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -301,34 +306,34 @@
         <text encoding="base64">ICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAiMTExMTExMTExMTExMTEiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uTkZDIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dGVjaD5hbmRyb2lkLm5mYy50ZWNoLk1pZmFyZVVsdHJhbGlnaHQ8L3RlY2g+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dGVjaD5hbmRyb2lkLm5mYy50ZWNoLk1pZmFyZUNsYXNzaWM8L3RlY2g+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGludGVudC1maWx0ZXI+CiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5uZmMuYWN0aW9uLlRBR19ESVNDT1ZFUkVEIiAvPgogICAgICAgICAgICAgICAgPGNhdGVnb3J5IGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuY2F0ZWdvcnkuREVGQVVMVCIvPgogICAgICAgICAgICA8L2ludGVudC1maWx0ZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dGVjaD5hbmRyb2lkLm5mYy50ZWNoLk5kZWZGb3JtYXRhYmxlPC90ZWNoPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dGVjaD5hbmRyb2lkLm5mYy50ZWNoLk5mY1Y8L3RlY2g+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGludGVudC1maWx0ZXI+CiAgICAgICAgICAgICAgICA8YWN0aW9uIGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5uZmMuYWN0aW9uLk5ERUZfRElTQ09WRVJFRCIvPgogICAgICAgICAgICAgICAgPGNhdGVnb3J5IGFuZHJvaWQ6bmFtZT0iYW5kcm9pZC5pbnRlbnQuY2F0ZWdvcnkuREVGQVVMVCIvPgogICAgICAgICAgICA8L2ludGVudC1maWx0ZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dGVjaD5hbmRyb2lkLm5mYy50ZWNoLk5mY0Y8L3RlY2g+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgTUQ1ICgid2VsaW5rX25mYyIpID0gNWYwNDYxYzMyMzM0NjFjODJlMDFiN2I0ZTBkMzRjYjYtLT4K</text>
+        <text encoding="base64">ICAgICAgICA8dGVjaD5hbmRyb2lkLm5mYy50ZWNoLk5mY0I8L3RlY2g+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dGVjaD5hbmRyb2lkLm5mYy50ZWNoLk5mY0E8L3RlY2g+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLWZlYXR1cmUgYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmhhcmR3YXJlLm5mYy5oY2UiIGFuZHJvaWQ6cmVxdWlyZWQ9InRydWUiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dGVjaD5hbmRyb2lkLm5mYy50ZWNoLklzb0RlcDwvdGVjaD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uTkZDIi8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
