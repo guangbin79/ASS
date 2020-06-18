@@ -94,7 +94,6 @@
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/build.gradle" timestamp="1592465369776" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHub.java" timestamp="1592464212116">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -137,6 +136,11 @@
         <mark key="^" line="5" column="25" />
         <mark key="." line="5" column="24" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/gradle/wrapper/gradle-wrapper.properties" timestamp="1592466293003">
+        <mark key="[" line="5" column="70" />
+        <mark key="]" line="5" column="71" />
+        <mark key="." line="5" column="71" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/WLConnector.java" timestamp="1592464083048">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -177,7 +181,9 @@
         <mark key="]" line="29" column="5" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/build.gradle" timestamp="1592465238331" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/build.gradle" timestamp="1592466249762">
+        <mark key="[" line="12" column="55" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/build.gradle" timestamp="1592462053749">
         <mark key="[" line="26" column="5" />
         <mark key="]" line="25" column="19" />
@@ -189,9 +195,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="22" column="4" />
-      </file>
-      <file name="/fragment.java" timestamp="1592461436332">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
