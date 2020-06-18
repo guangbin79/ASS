@@ -121,17 +121,16 @@
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/build.gradle" timestamp="1592466249762">
         <mark key="[" line="12" column="55" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/gradle/wrapper/gradle-wrapper.properties" timestamp="1592466856790">
+        <mark key="[" line="5" column="70" />
+        <mark key="]" line="5" column="71" />
+        <mark key="." line="5" column="71" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHub.java" timestamp="1592464212116">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="48" column="30" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/AnFileLog.java" timestamp="1592463858720">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="29" column="5" />
-        <mark key="." line="23" column="26" />
-        <mark key="^" line="23" column="27" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/AnFileLog.java" timestamp="1592464002702">
         <mark key="[" line="2" column="0" />
@@ -166,10 +165,10 @@
         <mark key="]" line="5" column="71" />
         <mark key="." line="5" column="71" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/build.gradle" timestamp="1592465341229">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/build.gradle" timestamp="1592466849910">
+        <mark key="[" line="11" column="54" />
+        <mark key="]" line="11" column="55" />
+        <mark key="." line="11" column="55" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/protocol/AnFileLog.java" timestamp="1592464146609">
         <mark key="[" line="23" column="0" />
