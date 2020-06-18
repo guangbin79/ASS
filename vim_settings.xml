@@ -145,16 +145,16 @@
         <mark key="^" line="11" column="44" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/gradle.properties" timestamp="1592450409120">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="29" />
+        <mark key="." line="12" column="28" />
+        <mark key="^" line="12" column="29" />
+      </file>
       <file name="$USER_HOME$/Workspace/NFC/CardEmulatorSample/app/src/main/AndroidManifest.xml" timestamp="1592271375799">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="6" column="84" />
         <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MyAlarm.java" timestamp="1592265812342">
-        <mark key="[" line="22" column="43" />
-        <mark key="]" line="22" column="44" />
-        <mark key="^" line="22" column="44" />
-        <mark key="." line="22" column="43" />
       </file>
       <file name="$USER_HOME$/Workspace/NFC/CardEmulatorSample/app/src/main/java/io/github/stevenocean/cardemulatorsample/HostCardEmulatorService.java" timestamp="1592272248864">
         <mark key="[" line="23" column="0" />
@@ -179,7 +179,7 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/build.gradle" timestamp="1592363527716">
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/build.gradle" timestamp="1592450228150">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -293,8 +293,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>huSDKVersion</text>
+      <register name="&quot;" type="2">
+        <text>systemProp.http.proxyHost=127.0.0.1
+systemProp.http.proxyPort=8118
+systemProp.https.proxyHost=127.0.0.1
+systemProp.https.proxyPort=8118</text>
       </register>
       <register name="-" type="4">
         <text>huSDKVersion</text>
@@ -306,7 +309,10 @@
         <text>String vehicleType, int huWidth, int huHeight, int huFP</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>systemProp.http.proxyHost=127.0.0.1
+systemProp.http.proxyPort=8118
+systemProp.https.proxyHost=127.0.0.1
+systemProp.https.proxyPort=8118</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -315,25 +321,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgT2JqZWN0IGF3YWtlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgT2JqZWN0IGF3YWtlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3luY2hyb25pemVkICgobUF3YWtlTG9jaykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3luY2hyb25pemVkICgobUF3YWtlTG9jaykpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIHN0YXRpYyBTdHJpbmcgTkZDX1dSSVRFUl9UQUcgPSAiTkZDV3JpdGVyIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
