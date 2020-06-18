@@ -118,12 +118,6 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="660" column="30" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/utiliy/AnFileLog.java" timestamp="1592461513634">
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="4" column="27" />
-        <mark key="." line="4" column="26" />
-        <mark key="^" line="4" column="27" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WLServiceManager.java" timestamp="1592462307523">
         <mark key="[" line="60" column="85" />
         <mark key="]" line="61" column="8" />
@@ -153,11 +147,10 @@
         <mark key="^" line="22" column="25" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/AndroidManifest.xml" timestamp="1592461738314">
-        <mark key="[" line="1" column="33" />
-        <mark key="]" line="1" column="31" />
-        <mark key="^" line="1" column="31" />
-        <mark key="." line="1" column="30" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/gradle/wrapper/gradle-wrapper.properties" timestamp="1592466440712">
+        <mark key="[" line="5" column="70" />
+        <mark key="]" line="5" column="71" />
+        <mark key="." line="5" column="71" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/WLServer.java" timestamp="1592464149161">
         <mark key="[" line="12" column="0" />
@@ -183,6 +176,11 @@
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/build.gradle" timestamp="1592466249762">
         <mark key="[" line="12" column="55" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/build.gradle" timestamp="1592466430449">
+        <mark key="[" line="12" column="54" />
+        <mark key="]" line="12" column="55" />
+        <mark key="." line="12" column="55" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/build.gradle" timestamp="1592462053749">
         <mark key="[" line="26" column="5" />
