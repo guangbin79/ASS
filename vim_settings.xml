@@ -89,17 +89,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/build.gradle" timestamp="1592466883683">
+        <mark key="[" line="11" column="54" />
+        <mark key="]" line="11" column="55" />
+        <mark key="." line="11" column="55" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/gradle/wrapper/gradle-wrapper.properties" timestamp="1592466892384">
+        <mark key="[" line="5" column="70" />
+        <mark key="]" line="5" column="71" />
+        <mark key="." line="5" column="71" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1592464359418">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="660" column="30" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/utiliy/AnFileLog.java" timestamp="1592463958511">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="29" column="5" />
-        <mark key="^" line="5" column="25" />
-        <mark key="." line="5" column="24" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/gradle/wrapper/gradle-wrapper.properties" timestamp="1592466440712">
         <mark key="[" line="5" column="70" />
