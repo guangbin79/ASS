@@ -94,9 +94,6 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1592271336666">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/AndroidManifest.xml" timestamp="1592292843213">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -125,6 +122,12 @@
         <mark key="]" line="19" column="75" />
         <mark key="." line="19" column="74" />
         <mark key="^" line="19" column="75" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/build.gradle" timestamp="1592455252959">
+        <mark key="[" line="26" column="24" />
+        <mark key="]" line="26" column="25" />
+        <mark key="^" line="26" column="25" />
+        <mark key="." line="26" column="24" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/WeLinkSdkApi/include/WeLinkSdkApi.h" timestamp="1592454376613" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1592296919496">
