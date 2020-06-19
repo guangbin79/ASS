@@ -112,7 +112,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/AndroidManifest.xml" timestamp="1592536574189">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/AndroidManifest.xml" timestamp="1592539642164">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="10" column="64" />
@@ -128,6 +128,10 @@
         <mark key="[" line="5" column="70" />
         <mark key="]" line="5" column="71" />
         <mark key="." line="5" column="71" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1592541437855">
+        <mark key="[" line="101" column="8" />
+        <mark key="]" line="105" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/gradle/wrapper/gradle-wrapper.properties" timestamp="1592466826282">
         <mark key="[" line="5" column="70" />
@@ -160,11 +164,6 @@
         <mark key="[" line="11" column="54" />
         <mark key="]" line="11" column="55" />
         <mark key="." line="11" column="55" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/build.gradle" timestamp="1592466430449">
-        <mark key="[" line="12" column="54" />
-        <mark key="]" line="12" column="55" />
-        <mark key="." line="12" column="55" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/build.gradle" timestamp="1592466820217">
         <mark key="[" line="12" column="54" />
@@ -278,8 +277,12 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX05FVFdPUktfU1RBVEUiIC8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ActivityCompat.requestPermissions(this, new String[] {
+                        Manifest.permission.ACCESS_FINE_LOCATION,
+                        Manifest.permission.ACCESS_NETWORK_STATE,
+                        Manifest.permission.WRITE_EXTERNAL_STORAGE
+                }, PERMISSION_CODE);</text>
       </register>
       <register name="-" type="4">
         <text>ACCESS_NETWORK_STATE</text>
@@ -287,8 +290,12 @@
       <register name="/" type="4">
         <text encoding="base64">XDzmmK/lkKbmlK/mjIHpgJrov4fovabmnLrok53niZnmjqfliLbmiYvmnLrmi6jmiZPnlLXor53vvIwwXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">PC9tYW5pZmVzdD4K</text>
+      <register name="0" type="4">
+        <text>ActivityCompat.requestPermissions(this, new String[] {
+                        Manifest.permission.ACCESS_FINE_LOCATION,
+                        Manifest.permission.ACCESS_NETWORK_STATE,
+                        Manifest.permission.WRITE_EXTERNAL_STORAGE
+                }, PERMISSION_CODE);</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX05FVFdPUktfU1RBVEUiIC8+Cg==</text>
