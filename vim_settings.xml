@@ -165,11 +165,11 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1592650695053">
-        <mark key="[" line="30" column="26" />
-        <mark key="]" line="30" column="30" />
-        <mark key="." line="30" column="29" />
-        <mark key="^" line="30" column="30" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1592652713461">
+        <mark key="[" line="119" column="9" />
+        <mark key="]" line="116" column="34" />
+        <mark key="." line="116" column="33" />
+        <mark key="^" line="116" column="34" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/proguard-rules.pro" timestamp="1592642592679">
         <mark key="[" line="23" column="62" />
@@ -289,10 +289,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>treu</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>treu</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzmmK/lkKbmlK/mjIHpgJrov4fovabmnLrok53niZnmjqfliLbmiYvmnLrmi6jmiZPnlLXor53vvIwwXD4=</text>
