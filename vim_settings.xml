@@ -94,11 +94,6 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/gradle/wrapper/gradle-wrapper.properties" timestamp="1592466892384">
-        <mark key="[" line="5" column="70" />
-        <mark key="]" line="5" column="71" />
-        <mark key="." line="5" column="71" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/AndroidManifest.xml" timestamp="1592547833074">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="76" />
@@ -116,12 +111,14 @@
         <mark key="." line="119" column="12" />
         <mark key="^" line="119" column="13" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1592812280875" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/build.gradle" timestamp="1592554195694">
         <mark key="[" line="44" column="31" />
         <mark key="]" line="44" column="35" />
         <mark key="^" line="44" column="35" />
         <mark key="." line="44" column="34" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WLServiceManager.java" timestamp="1592812211449" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/utiliy/AnFileLog.java" timestamp="1592563581874">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="61" />
@@ -157,10 +154,6 @@
         <mark key="]" line="1" column="40" />
         <mark key="." line="1" column="39" />
         <mark key="^" line="1" column="40" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/AndroidManifest.xml" timestamp="1592533417630">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="11" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/WLAutoConnectListener.java" timestamp="1592624026111">
         <mark key="[" line="19" column="4" />
