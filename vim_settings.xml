@@ -142,18 +142,15 @@
         <mark key="^" line="75" column="4" />
         <mark key="." line="75" column="3" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/build.gradle" timestamp="1592814327157">
+        <mark key="[" line="48" column="28" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/com_autoai_welink_channel_WLChannel.h" timestamp="1592811520847" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/WLConnector.java" timestamp="1592553634630">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="71" />
         <mark key="^" line="21" column="20" />
         <mark key="." line="21" column="19" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/AndroidManifest.xml" timestamp="1592533430424">
-        <mark key="[" line="1" column="39" />
-        <mark key="]" line="1" column="40" />
-        <mark key="." line="1" column="39" />
-        <mark key="^" line="1" column="40" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/WLAutoConnectListener.java" timestamp="1592624026111">
         <mark key="[" line="19" column="4" />
