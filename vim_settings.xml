@@ -162,11 +162,11 @@
         <mark key="^" line="19" column="5" />
         <mark key="." line="19" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1592811707176">
-        <mark key="[" line="157" column="39" />
-        <mark key="]" line="157" column="40" />
-        <mark key="." line="157" column="39" />
-        <mark key="^" line="157" column="40" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1592894050662">
+        <mark key="[" line="213" column="41" />
+        <mark key="]" line="213" column="41" />
+        <mark key="^" line="210" column="41" />
+        <mark key="." line="213" column="41" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1592891195253">
         <mark key="'" line="244" column="4" />
@@ -187,6 +187,7 @@
         <mark key="." line="40" column="69" />
         <mark key="^" line="25" column="53" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/WeLinkSdkApi/include/WeLinkSdkApi.h" timestamp="1592894062328" />
     </filemarks>
     <jumps>
       <jump line="203" column="20" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/auto/hardwarehub/hardware/WifiDirectGo.java" />
@@ -293,11 +294,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoVXNiTWFuYWdlci5BQ1RJT05fVVNCX0FDQ0VTU09SWV9ERVRBQ0hFRC5lcXVhbHMoYWN0aW9uKSkgewovLyAgICAgICAgICAgIH0gZWxzZSBpZihNeVVzYk1hbmFnZXIuQUNUSU9OX1VTQl9TVEFURS5lcXVhbHMoYWN0aW9uKSl7Ci8vICAgICAgICAgICAgICAgIGJvb2xlYW4gZnVuY3Rpb25fbXRwID0gaW50ZW50LmdldEJvb2xlYW5FeHRyYShNeVVzYk1hbmFnZXIuVVNCX0ZVTkNUSU9OX01UUCwgZmFsc2UpOwovLyAgICAgICAgICAgICAgICBib29sZWFuIGZ1bmN0aW9uX3B0cCA9IGludGVudC5nZXRCb29sZWFuRXh0cmEoTXlVc2JNYW5hZ2VyLlVTQl9GVU5DVElPTl9QVFAsIGZhbHNlKTsKLy8gICAgICAgICAgICAgICAgYm9vbGVhbiBmdW5jdGlvbl9taWRpID0gaW50ZW50LmdldEJvb2xlYW5FeHRyYShNeVVzYk1hbmFnZXIuVVNCX0ZVTkNUSU9OX01JREksIGZhbHNlKTsKLy8gICAgICAgICAgICAgICAgaWYoIWlzQ29ubmVjdGVkKXsKLy8gICAgICAgICAgICAgICAgfWVsc2UgewovLyAgICAgICAgICAgICAgICAgICAgaWYgKGZ1bmN0aW9uX210cHx8ZnVuY3Rpb25fcHRwfHxmdW5jdGlvbl9taWRpKXsKLy8gICAgICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>broadcastReceiver</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzmmK/lkKbmlK/mjIHpgJrov4fovabmnLrok53niZnmjqfliLbmiYvmnLrmi6jmiZPnlLXor53vvIwwXD4=</text>
@@ -306,39 +307,34 @@
         <text encoding="base64">ICAgICAgICBpc1JlYWR5ID0gZmFsc2U7CiAgICAgICAgdGltZXIuY2FuY2VsKCk7CiAgICAgICAgd2xhb2EuZGlzY29ubmVjdCgpOwogICAgICAgIHN0b3Bfd2VMaW5rKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoVXNiTWFuYWdlci5BQ1RJT05fVVNCX0FDQ0VTU09SWV9ERVRBQ0hFRC5lcXVhbHMoYWN0aW9uKSkgewovLyAgICAgICAgICAgIH0gZWxzZSBpZihNeVVzYk1hbmFnZXIuQUNUSU9OX1VTQl9TVEFURS5lcXVhbHMoYWN0aW9uKSl7Ci8vICAgICAgICAgICAgICAgIGJvb2xlYW4gZnVuY3Rpb25fbXRwID0gaW50ZW50LmdldEJvb2xlYW5FeHRyYShNeVVzYk1hbmFnZXIuVVNCX0ZVTkNUSU9OX01UUCwgZmFsc2UpOwovLyAgICAgICAgICAgICAgICBib29sZWFuIGZ1bmN0aW9uX3B0cCA9IGludGVudC5nZXRCb29sZWFuRXh0cmEoTXlVc2JNYW5hZ2VyLlVTQl9GVU5DVElPTl9QVFAsIGZhbHNlKTsKLy8gICAgICAgICAgICAgICAgYm9vbGVhbiBmdW5jdGlvbl9taWRpID0gaW50ZW50LmdldEJvb2xlYW5FeHRyYShNeVVzYk1hbmFnZXIuVVNCX0ZVTkNUSU9OX01JREksIGZhbHNlKTsKLy8gICAgICAgICAgICAgICAgaWYoIWlzQ29ubmVjdGVkKXsKLy8gICAgICAgICAgICAgICAgfWVsc2UgewovLyAgICAgICAgICAgICAgICAgICAgaWYgKGZ1bmN0aW9uX210cHx8ZnVuY3Rpb25fcHRwfHxmdW5jdGlvbl9taWRpKXsKLy8gICAgICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8KLy8gICAgcHJpdmF0ZSAgQnJvYWRjYXN0UmVjZWl2ZXIgbVVzYlJlY2VpdmVyID0gbmV3IEJyb2FkY2FzdFJlY2VpdmVyKCkgewovLyAgICAgICAgQE92ZXJyaWRlCi8vICAgICAgICBwdWJsaWMgdm9pZCBvblJlY2VpdmUoQ29udGV4dCBjb250ZXh0LCBJbnRlbnQgaW50ZW50KSB7Ci8vCi8vICAgICAgICAgICAgfQovLyAgICAgICAgICAgIH0KLy8gICAgICAgIH0KLy8gICAgfTsK</text>
+        <text encoding="base64">c3RhdGljIHZvaWQgb25Nb3Rpb25FdmVudDIoSk5JRW52ICplbnYsIGNvbnN0IHZvaWQgKmRhdGEsIGludCBsZW4pIHsKICAgIGlmIChnX2NiID09IG51bGxwdHIpIHJldHVybjsKCiAgICBqY2xhc3MgY2JDbGF6eiA9IGVudi0+R2V0T2JqZWN0Q2xhc3MoZ19jYik7CiAgICBqbWV0aG9kSUQgb25Nb3Rpb25FdmVudDJJZCA9IGVudi0+R2V0TWV0aG9kSUQoY2JDbGF6eiwgIm9uTW90aW9uRXZlbnQyIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiKFtCKVYiKTsKCiAgICBqYnl0ZUFycmF5IGJ5dGVEYXRhID0gZW52LT5OZXdCeXRlQXJyYXkobGVuKTsKICAgIGVudi0+U2V0Qnl0ZUFycmF5UmVnaW9uKGJ5dGVEYXRhLCAwLCBsZW4sIHN0YXRpY19jYXN0PGNvbnN0IGpieXRlICo+KGRhdGEpKTsKICAgIGVudi0+Q2FsbFZvaWRNZXRob2QoZ19jYiwgb25Nb3Rpb25FdmVudDJJZCwgYnl0ZURhdGEpOwogICAgZW52LT5EZWxldGVMb2NhbFJlZihieXRlRGF0YSk7Cn0KCnN0YXRpYyB2b2lkIG9uTW90aW9uRXZlbnQzKEpOSUVudiAqZW52LCBjb25zdCB2b2lkICpkYXRhLCBpbnQgbGVuKSB7CiAgICBpZiAoZ19jYiA9PSBudWxscHRyKSByZXR1cm47CgogICAgamNsYXNzIGNiQ2xhenogPSBlbnYtPkdldE9iamVjdENsYXNzKGdfY2IpOwogICAgam1ldGhvZElEIG9uTW90aW9uRXZlbnQzSWQgPSBlbnYtPkdldE1ldGhvZElEKGNiQ2xhenosICJvbk1vdGlvbkV2ZW50MyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIihbQilWIik7CgogICAgamJ5dGVBcnJheSBieXRlRGF0YSA9IGVudi0+TmV3Qnl0ZUFycmF5KGxlbik7CiAgICBlbnYtPlNldEJ5dGVBcnJheVJlZ2lvbihieXRlRGF0YSwgMCwgbGVuLCBzdGF0aWNfY2FzdDxjb25zdCBqYnl0ZSAqPihkYXRhKSk7CiAgICBlbnYtPkNhbGxWb2lkTWV0aG9kKGdfY2IsIG9uTW90aW9uRXZlbnQzSWQsIGJ5dGVEYXRhKTsKICAgIGVudi0+RGVsZXRlTG9jYWxSZWYoYnl0ZURhdGEpOwp9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTdHJpbmcgYWN0aW9uID0gaW50ZW50LmdldEFjdGlvbigpOwovLyAgICAgICAgICAgIGlmIChVc2JNYW5hZ2VyLkFDVElPTl9VU0JfQUNDRVNTT1JZX0RFVEFDSEVELmVxdWFscyhhY3Rpb24pKSB7Ci8vICAgICAgICAgICAgfSBlbHNlIGlmKE15VXNiTWFuYWdlci5BQ1RJT05fVVNCX1NUQVRFLmVxdWFscyhhY3Rpb24pKXsKLy8gICAgICAgICAgICAgICAgYm9vbGVhbiBmdW5jdGlvbl9tdHAgPSBpbnRlbnQuZ2V0Qm9vbGVhbkV4dHJhKE15VXNiTWFuYWdlci5VU0JfRlVOQ1RJT05fTVRQLCBmYWxzZSk7Ci8vICAgICAgICAgICAgICAgIGJvb2xlYW4gZnVuY3Rpb25fcHRwID0gaW50ZW50LmdldEJvb2xlYW5FeHRyYShNeVVzYk1hbmFnZXIuVVNCX0ZVTkNUSU9OX1BUUCwgZmFsc2UpOwovLyAgICAgICAgICAgICAgICBib29sZWFuIGZ1bmN0aW9uX21pZGkgPSBpbnRlbnQuZ2V0Qm9vbGVhbkV4dHJhKE15VXNiTWFuYWdlci5VU0JfRlVOQ1RJT05fTUlESSwgZmFsc2UpOwovLyAgICAgICAgICAgICAgICBpZighaXNDb25uZWN0ZWQpewovLyAgICAgICAgICAgICAgICB9ZWxzZSB7Ci8vICAgICAgICAgICAgICAgICAgICBpZiAoZnVuY3Rpb25fbXRwfHxmdW5jdGlvbl9wdHB8fGZ1bmN0aW9uX21pZGkpewovLyAgICAgICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIG9uRGlzY29ubmVjdGVkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXNldCgpOwo=</text>
+        <text encoding="base64">I2RlZmluZSBMT0dEKC4uLikgIF9fYW5kcm9pZF9sb2dfcHJpbnQoQU5EUk9JRF9MT0dfREVCVUcsVEFHLF9fVkFfQVJHU19fKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIHdsYW9hLiAK</text>
+        <text encoding="base64">I2luY2x1ZGUgPHN0ZGxpYi5oPgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>new BroadcastReceiver() {
-            @Override
-            public void onReceive(Context context, Intent intent) {
-
-            }
-        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">c3RhdGljIHZvaWQgZnVuY1ZpZGVvRGF0YSh2b2lkICpwRGF0YSwgaW50IGlMZW5ndGgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXIuYWRkQWN0aW9uKFVzYk1hbmFnZXIuKTsK</text>
+        <text encoding="base64">c3RhdGljIHZvaWQgZnVuY0F1ZGlvRGF0YSh3ZWxpbmtTZGtBdWRpb0NoYW5uZWxDYWxsYmFja0RhdGFUeXBlIGVuVHlwZSwgdm9pZCAqcERhdGEsIGludCBpTGVuZ3RoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXIuYWRkQWN0aW9uKFVzYk1hbmFnZXIuRVhUUkFfUEVSTUlTU0lPTl9HUkFOVEVEKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
