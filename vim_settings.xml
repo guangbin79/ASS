@@ -138,11 +138,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannelListener.java" timestamp="1592811732200">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="4" />
-        <mark key="^" line="75" column="4" />
-        <mark key="." line="75" column="3" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannelListener.java" timestamp="1592898650243">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="70" column="4" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/build.gradle" timestamp="1592897935245">
         <mark key="[" line="21" column="50" />
@@ -162,17 +162,19 @@
         <mark key="^" line="19" column="5" />
         <mark key="." line="19" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1592894659103">
-        <mark key="[" line="341" column="21" />
-        <mark key="]" line="341" column="35" />
-        <mark key="^" line="341" column="35" />
-        <mark key="." line="341" column="34" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1592898790945">
+        <mark key="'" line="288" column="0" />
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="185" column="0" />
+        <mark key="^" line="184" column="32" />
+        <mark key="." line="185" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1592895738154">
-        <mark key="'" line="248" column="4" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1592899320649">
+        <mark key="'" line="239" column="4" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="84" column="24" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/proguard-rules.pro" timestamp="1592816644631">
         <mark key="[" line="23" column="62" />
@@ -186,10 +188,9 @@
         <mark key="." line="40" column="69" />
         <mark key="^" line="25" column="53" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/WeLinkSdkApi/include/WeLinkSdkApi.h" timestamp="1592895078825" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/WeLinkSdkApi/include/WeLinkSdkApi.h" timestamp="1592898405998" />
     </filemarks>
     <jumps>
-      <jump line="203" column="20" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/auto/hardwarehub/hardware/WifiDirectGo.java" />
       <jump line="245" column="17" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/auto/hardwarehub/hardware/WifiDirectGo.java" />
       <jump line="152" column="8" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/server/code/AutoServer.java" />
       <jump line="165" column="8" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/server/code/AutoServer.java" />
@@ -289,12 +290,13 @@
       <jump line="53" column="20" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" />
       <jump line="204" column="31" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" />
       <jump line="231" column="4" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" />
+      <jump line="289" column="0" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;x86&quot;, &quot;x86_64&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;x86&quot;, &quot;x86_64&quot;</text>
@@ -303,7 +305,7 @@
         <text encoding="base64">XDzmmK/lkKbmlK/mjIHpgJrov4fovabmnLrok53niZnmjqfliLbmiYvmnLrmi6jmiZPnlLXor53vvIwwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog6I635Y+W5Y2V5L6LCiAgICAgKiBAcGFyYW0gY29udGV4dCBDb250ZXh0CiAgICAgKiBAcGFyYW0gbGlzdGVuZXIg5LqS6IGU54q25oCB5Zue6LCDCiAgICAgKgogICAgICovCiAgICBwdWJsaWMgc3RhdGljIFdMQ2hhbm5lbCBnZXRJbnN0YW5jZShDb250ZXh0IGNvbnRleHQsIEBOb25OdWxsIGZpbmFsIFdMQ2hhbm5lbExpc3RlbmVyIGxpc3RlbmVyKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWVyLmNhbmNlbCgpOwogICAgICAgICAgICAgICAgd2xhb2EuZGlzY29ubmVjdCgpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -312,28 +314,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWVyLmNhbmNlbCgpOwogICAgICAgICAgICAgICAgd2xhb2EuZGlzY29ubmVjdCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBsaXN0ZW5lciDkupLogZTnirbmgIHlm57osIMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25Db25uZWN0RXJyb3IoZW52KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBjb250ZXh0IENvbnRleHQK</text>
+        <text encoding="base64">c3RhdGljIHZvaWQgb25Db25uZWN0RXJyb3IoSk5JRW52ICplbnYpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbmEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">c3RhdGljIHZvaWQgb25Db25uZWN0RXJyb3IoSk5JRW52ICplbnYpIHsKICAgIGlmIChnX2NiID09IG51bGxwdHIpIHJldHVybjsKCiAgICBqY2xhc3MgY2JDbGF6eiA9IGVudi0+R2V0T2JqZWN0Q2xhc3MoZ19jYik7CiAgICBqbWV0aG9kSUQgb25Db25uZWN0RXJyb3JJZCA9IGVudi0+R2V0TWV0aG9kSUQoY2JDbGF6eiwgIm9uQ29ubmVjdEZhaWxlZCIsICIoKVYiKTsKICAgIGVudi0+Q2FsbFZvaWRNZXRob2QoZ19jYiwgb25Db25uZWN0RXJyb3JJZCk7Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQ29ubmVjdEZhaWxlZCgpIHsKICAgICAgICAgICAgICAgIHdsYW9hLmRpc2Nvbm5lY3QoKTsKCiAgICAgICAgICAgICAgICBsaXN0ZW5lci5vbkNvbm5lY3RGYWlsZWQoKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3RhdGljIHZvaWQgb25Nb3Rpb25FdmVudDMoSk5JRW52ICplbnYsIGNvbnN0IHZvaWQgKmRhdGEsIGludCBsZW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICB2b2lkIG9uQ29ubmVjdEZhaWxlZCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
