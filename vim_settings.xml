@@ -144,11 +144,11 @@
         <mark key="^" line="75" column="4" />
         <mark key="." line="75" column="3" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/build.gradle" timestamp="1592881173468">
-        <mark key="[" line="44" column="25" />
-        <mark key="]" line="44" column="26" />
-        <mark key="^" line="44" column="24" />
-        <mark key="." line="44" column="26" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/build.gradle" timestamp="1592897935245">
+        <mark key="[" line="21" column="50" />
+        <mark key="]" line="21" column="49" />
+        <mark key="^" line="21" column="49" />
+        <mark key="." line="21" column="48" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/WLConnector.java" timestamp="1592553634630">
         <mark key="[" line="21" column="0" />
@@ -293,11 +293,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;x86&quot;, &quot;x86_64&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>listener</text>
+        <text>&quot;x86&quot;, &quot;x86_64&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzmmK/lkKbmlK/mjIHpgJrov4fovabmnLrok53niZnmjqfliLbmiYvmnLrmi6jmiZPnlLXor53vvIwwXD4=</text>
