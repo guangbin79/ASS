@@ -157,8 +157,12 @@
         <mark key="^" line="19" column="5" />
         <mark key="." line="19" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1592969344067">
-        <mark key="'" line="288" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1592972193442">
+        <mark key="'" line="294" column="0" />
+        <mark key="[" line="76" column="33" />
+        <mark key="]" line="76" column="34" />
+        <mark key="^" line="76" column="34" />
+        <mark key="." line="76" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1592966954345">
         <mark key="'" line="244" column="4" />
