@@ -89,6 +89,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1593332126634">
+        <mark key="[" line="224" column="42" />
+        <mark key="]" line="224" column="42" />
+        <mark key="^" line="224" column="57" />
+        <mark key="." line="224" column="42" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/WIFI_v1.java" timestamp="1593311355438">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -190,12 +196,6 @@
         <mark key="]" line="23" column="19" />
         <mark key="." line="23" column="18" />
         <mark key="^" line="23" column="19" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Aoa2WifiBuffer_v1.java" timestamp="1592986343126">
-        <mark key="[" line="2" column="48" />
-        <mark key="]" line="2" column="55" />
-        <mark key="." line="2" column="54" />
-        <mark key="^" line="2" column="55" />
       </file>
       <file name="$USER_HOME$/Workspace/NFC/CardEmulatorSample/app/src/main/java/io/github/stevenocean/cardemulatorsample/MainActivity.kt" timestamp="1593323351540">
         <mark key="[" line="8" column="26" />
@@ -315,11 +315,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSJ0ZXN0LmNvbSIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>payment</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzmmK/lkKbmlK/mjIHpgJrov4fovabmnLrok53niZnmjqfliLbmiYvmnLrmi6jmiZPnlLXor53vvIwwXD4=</text>
