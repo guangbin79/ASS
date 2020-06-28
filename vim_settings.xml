@@ -160,31 +160,31 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="73" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/build.gradle" timestamp="1592897935245">
-        <mark key="[" line="21" column="50" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/build.gradle" timestamp="1593313848032">
+        <mark key="[" line="21" column="49" />
         <mark key="]" line="21" column="49" />
         <mark key="^" line="21" column="49" />
-        <mark key="." line="21" column="48" />
+        <mark key="." line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1593311852375">
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1593314221946">
         <mark key="'" line="355" column="0" />
-        <mark key="[" line="127" column="32" />
-        <mark key="]" line="127" column="37" />
-        <mark key="." line="127" column="36" />
-        <mark key="^" line="127" column="37" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="73" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1593313153118">
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1593314261460">
         <mark key="'" line="265" column="4" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="63" column="36" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/proguard-rules.pro" timestamp="1592816644631">
-        <mark key="[" line="23" column="62" />
-        <mark key="]" line="23" column="63" />
-        <mark key="." line="23" column="63" />
-        <mark key="^" line="22" column="22" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/proguard-rules.pro" timestamp="1593314290614">
+        <mark key="[" line="22" column="54" />
+        <mark key="]" line="22" column="63" />
+        <mark key="." line="22" column="62" />
+        <mark key="^" line="22" column="63" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Aoa2WifiBuffer_v1.java" timestamp="1592986343126">
         <mark key="[" line="2" column="48" />
@@ -311,46 +311,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5Ccm9hZGNhc3RSZWNlaXZlcjsK</text>
+        <text encoding="base64">LWtlZXAgcHVibGljIGNsYXNzIGNvbS5hdXRvYWkud2VsaW5rLmNoYW5uZWwuV0xDaGFubmVsIHsgcHVibGljICo7IH0K</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>__android_log_print(ANDROID_LOG_DEBUG,TAG,__VA_ARGS__)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzmmK/lkKbmlK/mjIHpgJrov4fovabmnLrok53niZnmjqfliLbmiYvmnLrmi6jmiZPnlLXor53vvIwwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2cuZSgid2xjaGFubmVsIiwgImFvYS1kYXRhIDQiKTsK</text>
+        <text encoding="base64">LWtlZXAgcHVibGljIGNsYXNzIGNvbS5hdXRvYWkud2VsaW5rLmNoYW5uZWwuV0xDaGFubmVsIHsgcHVibGljICo7IH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5Ccm9hZGNhc3RSZWNlaXZlcjsK</text>
+        <text encoding="base64">I2RlZmluZSBMT0dEKC4uLikgIF9fYW5kcm9pZF9sb2dfcHJpbnQoQU5EUk9JRF9MT0dfREVCVUcsVEFHLF9fVkFfQVJHU19fKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuaGFyZHdhcmUudXNiLlVzYk1hbmFnZXI7Cg==</text>
+        <text encoding="base64">I2RlZmluZSBMT0dEKC4uLikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuaGFyZHdhcmUudXNiLlVzYkFjY2Vzc29yeTsK</text>
+        <text encoding="base64">ICAgIExPR0QoImpuaS1mdW46IHNlbmRfaDI2NCIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5Ccm9hZGNhc3RSZWNlaXZlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuaGFyZHdhcmUudXNiLlVzYk1hbmFnZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJ3bGNoYW5uZWwiLCAid2lmaS1kYXRhIik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuaGFyZHdhcmUudXNiLlVzYkFjY2Vzc29yeTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoIndsY2hhbm5lbCIsICJvbkZhaWxlZCIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoIndsY2hhbm5lbCIsICJvbkNvbm5lY3RlZCIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJ3bGNoYW5uZWwiLCAic3RhcnRfcHJveHkiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJ3bGNoYW5uZWwiLCAid2lmaS1kYXRhIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
