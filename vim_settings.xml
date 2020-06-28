@@ -124,10 +124,10 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="258" column="40" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1593322300198">
-        <mark key="[" line="309" column="65" />
-        <mark key="]" line="309" column="65" />
-        <mark key="." line="309" column="64" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1593322461258">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
         <mark key="^" line="309" column="65" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/PCMManager.java" timestamp="1593321241884">
@@ -311,7 +311,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>(),</text>
@@ -323,15 +323,21 @@
         <text encoding="base64">LWtlZXAgcHVibGljIGNsYXNzIGNvbS5hdXRvYWkud2VsaW5rLmNoYW5uZWwuV0xDaGFubmVsIHsgcHVibGljICo7IH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgImNvbm5lY3QiKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>@Override
         public void onAOASuccessed() {
 
@@ -342,20 +348,14 @@
 
         }</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">QE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBvbkFPQUZhaWxlZCgpIHsKICAgICAgICBBbkZpbGVMb2cuZSgid2xfcGxhdGZvcm0iLCAib25BT0FGYWlsZWQtLS0+Iik7CiAgICAgICAgICAgICAgICBzeW5jaHJvbml6ZWQgKG1Mb2NrKSB7CiAgICAgICAgICAgICAgICAgICAgbUNvbm5lY3RlZCA9IGZhbHNlOwogICAgICAgICAgICAgICAgICAgIHdsQ2hhbm5lbC5zdG9wUmVjb3JkKCk7CiAgICAgICAgICAgICAgICAgICAgY2FsbEJhY2subGlua0Vycm9yKCk7CiAgICAgICAgICAgICAgICB9CiAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="8" type="4">
+        <text encoding="base64">QE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBvbkFPQUZhaWxlZCgpIHsKICAgICAgICBBbkZpbGVMb2cuZSgid2xfcGxhdGZvcm0iLCAib25BT0FGYWlsZWQtLS0+Iik7CiAgICAgICAgICAgICAgICBzeW5jaHJvbml6ZWQgKG1Mb2NrKSB7CiAgICAgICAgICAgICAgICAgICAgbUNvbm5lY3RlZCA9IGZhbHNlOwogICAgICAgICAgICAgICAgICAgIHdsQ2hhbm5lbC5zdG9wUmVjb3JkKCk7CiAgICAgICAgICAgICAgICAgICAgY2FsbEJhY2subGlua0Vycm9yKCk7CiAgICAgICAgICAgICAgICB9CiAgICB9</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
