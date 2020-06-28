@@ -107,12 +107,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="23" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/CMakeLists.txt" timestamp="1592897643153">
-        <mark key="[" line="38" column="8" />
-        <mark key="]" line="38" column="24" />
-        <mark key="." line="38" column="23" />
-        <mark key="^" line="38" column="24" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link/WIFI.java" timestamp="1593230606544">
         <mark key="[" line="11" column="43" />
         <mark key="]" line="11" column="0" />
@@ -173,6 +167,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="17" />
       </file>
+      <file name="$USER_HOME$/Workspace/NFC/CardEmulatorSample/app/src/main/java/io/github/stevenocean/cardemulatorsample/HostCardEmulatorService.java" timestamp="1593323379505">
+        <mark key="[" line="25" column="44" />
+        <mark key="]" line="25" column="45" />
+        <mark key="^" line="25" column="45" />
+        <mark key="." line="25" column="44" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1593314682080">
         <mark key="'" line="265" column="4" />
         <mark key="[" line="268" column="4" />
@@ -191,6 +191,12 @@
         <mark key="]" line="2" column="55" />
         <mark key="." line="2" column="54" />
         <mark key="^" line="2" column="55" />
+      </file>
+      <file name="$USER_HOME$/Workspace/NFC/CardEmulatorSample/app/src/main/java/io/github/stevenocean/cardemulatorsample/MainActivity.kt" timestamp="1593323351540">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="26" />
+        <mark key="^" line="8" column="26" />
+        <mark key="." line="8" column="25" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/codec/SurfaceRecorder.java" timestamp="1592968867273">
         <mark key="[" line="86" column="35" />
