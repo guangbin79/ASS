@@ -184,12 +184,12 @@
         <mark key="^" line="17" column="67" />
         <mark key="." line="17" column="66" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1593314682080">
-        <mark key="'" line="265" column="4" />
-        <mark key="[" line="268" column="4" />
-        <mark key="]" line="268" column="14" />
-        <mark key="^" line="268" column="14" />
-        <mark key="." line="268" column="13" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1593337700270">
+        <mark key="'" line="268" column="4" />
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="174" column="0" />
+        <mark key="^" line="174" column="9" />
+        <mark key="." line="174" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/proguard-rules.pro" timestamp="1593314590785">
         <mark key="[" line="23" column="13" />
@@ -315,8 +315,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2xhb2EK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -328,42 +328,34 @@
         <text encoding="base64">LWtlZXAgcHVibGljIGNsYXNzIGNvbS5hdXRvYWkud2VsaW5rLmNoYW5uZWwuV0xDaGFubmVsIHsgcHVibGljICo7IH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSJ0ZXN0LmNvbSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2xhb2EK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSJ0ZXN0LmNvbSIK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDplbmFibGVkPSJ0cnVlIgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgImNvbm5lY3QiKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text>@Override
-        public void onAOASuccessed() {
-
-        }
-
-        @Override
-        public void onAOAFailed() {
-
-        }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoaDI2NEhlYXJ0YmVhdCAhPSBudWxsKSB7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSJ0ZXN0LmNvbSIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSJ0ZXN0LmNvbSIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDplbmFibGVkPSJ0cnVlIgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgImNvbm5lY3QiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
