@@ -142,17 +142,22 @@
         <mark key="^" line="21" column="49" />
         <mark key="." line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/Workspace/NFC/CardEmulatorSample/app/src/main/res/xml/apduservice.xml" timestamp="1593327576402" />
+      <file name="$USER_HOME$/Workspace/NFC/CardEmulatorSample/app/src/main/res/xml/apduservice.xml" timestamp="1593329241734">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="31" />
+        <mark key="^" line="5" column="31" />
+        <mark key="." line="5" column="30" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/ID3Manager.java" timestamp="1593321254147">
         <mark key="[" line="51" column="30" />
         <mark key="]" line="36" column="37" />
         <mark key="^" line="36" column="37" />
         <mark key="." line="36" column="36" />
       </file>
-      <file name="$USER_HOME$/Workspace/NFC/CardReaderSample/app/src/main/java/io/github/stevenocean/cardreadersample/MainActivity.java" timestamp="1593326998937">
+      <file name="$USER_HOME$/Workspace/NFC/CardReaderSample/app/src/main/java/io/github/stevenocean/cardreadersample/MainActivity.java" timestamp="1593328843948">
         <mark key="[" line="78" column="51" />
         <mark key="]" line="78" column="52" />
-        <mark key="^" line="78" column="38" />
+        <mark key="^" line="93" column="67" />
         <mark key="." line="78" column="52" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1593314221946">
@@ -162,17 +167,16 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/Workspace/NFC/CardEmulatorSample/app/src/main/AndroidManifest.xml" timestamp="1593327234786">
-        <mark key="[" line="26" column="29" />
-        <mark key="]" line="26" column="33" />
-        <mark key="^" line="26" column="33" />
-        <mark key="." line="26" column="32" />
+      <file name="$USER_HOME$/Workspace/NFC/CardEmulatorSample/app/src/main/AndroidManifest.xml" timestamp="1593329391875">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/NFC/CardEmulatorSample/app/src/main/java/io/github/stevenocean/cardemulatorsample/HostCardEmulatorService.java" timestamp="1593326898190">
-        <mark key="[" line="25" column="44" />
-        <mark key="]" line="25" column="45" />
-        <mark key="^" line="25" column="45" />
-        <mark key="." line="25" column="44" />
+      <file name="$USER_HOME$/Workspace/NFC/CardEmulatorSample/app/src/main/java/io/github/stevenocean/cardemulatorsample/HostCardEmulatorService.java" timestamp="1593328841438">
+        <mark key="[" line="17" column="65" />
+        <mark key="]" line="17" column="66" />
+        <mark key="^" line="17" column="67" />
+        <mark key="." line="17" column="66" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1593314682080">
         <mark key="'" line="265" column="4" />
@@ -312,10 +316,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSJ0ZXN0LmNvbSIK</text>
       </register>
       <register name="-" type="4">
-        <text>(),</text>
+        <text>payment</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzmmK/lkKbmlK/mjIHpgJrov4fovabmnLrok53niZnmjqfliLbmiYvmnLrmi6jmiZPnlLXor53vvIwwXD4=</text>
@@ -324,21 +328,30 @@
         <text encoding="base64">LWtlZXAgcHVibGljIGNsYXNzIGNvbS5hdXRvYWkud2VsaW5rLmNoYW5uZWwuV0xDaGFubmVsIHsgcHVibGljICo7IH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSJ0ZXN0LmNvbSIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgImNvbm5lY3QiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcm9jZXNzPSJ0ZXN0LmNvbSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDplbmFibGVkPSJ0cnVlIgo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgImNvbm5lY3QiKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>@Override
         public void onAOASuccessed() {
 
@@ -348,15 +361,6 @@
         public void onAOAFailed() {
 
         }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">QE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBvbkFPQUZhaWxlZCgpIHsKICAgICAgICBBbkZpbGVMb2cuZSgid2xfcGxhdGZvcm0iLCAib25BT0FGYWlsZWQtLS0+Iik7CiAgICAgICAgICAgICAgICBzeW5jaHJvbml6ZWQgKG1Mb2NrKSB7CiAgICAgICAgICAgICAgICAgICAgbUNvbm5lY3RlZCA9IGZhbHNlOwogICAgICAgICAgICAgICAgICAgIHdsQ2hhbm5lbC5zdG9wUmVjb3JkKCk7CiAgICAgICAgICAgICAgICAgICAgY2FsbEJhY2subGlua0Vycm9yKCk7CiAgICAgICAgICAgICAgICB9CiAgICB9</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
