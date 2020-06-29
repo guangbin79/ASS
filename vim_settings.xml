@@ -116,11 +116,11 @@
       <file name="/a.dummy" timestamp="1593414921641">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/ChannelHandler.java" timestamp="1593416631320">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="8" column="50" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/ChannelHandler.java" timestamp="1593418683476">
+        <mark key="[" line="16" column="65" />
+        <mark key="]" line="16" column="82" />
+        <mark key="^" line="16" column="65" />
+        <mark key="." line="16" column="65" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/ID3Manager.java" timestamp="1593404922415">
         <mark key="[" line="46" column="0" />
@@ -152,11 +152,11 @@
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/TouchTranslator.java" timestamp="1593414052392">
-        <mark key="[" line="222" column="0" />
-        <mark key="]" line="222" column="0" />
-        <mark key="^" line="45" column="25" />
-        <mark key="." line="222" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/TouchTranslator.java" timestamp="1593418597409">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="5" />
+        <mark key="^" line="52" column="5" />
+        <mark key="." line="52" column="4" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/ILinkCallback.java" timestamp="1593401297625">
         <mark key="[" line="10" column="0" />
@@ -301,8 +301,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>huWidth, huHeight</text>
       </register>
       <register name="-" type="4">
         <text>context</text>
@@ -310,38 +310,38 @@
       <register name="/" type="4">
         <text encoding="base64">XDzmmK/lkKbmlK/mjIHpgJrov4fovabmnLrok53niZnmjqfliLbmiYvmnLrmi6jmiZPnlLXor53vvIwwXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2VydmVyTWFuYWdlciAhPSBudWxsKSB7CiAgICAgICAgICAgIEFuRmlsZUxvZy5lKCJ3bF9wbGF0Zm9ybSIsICJTVEFUVVNfQU9BX1ZJREVPX1NUQVJUIHNlcnZpY2VNYW5hZ2VyLnN0YXJ0Iik7CiAgICAgICAgICAgIHNlcnZlck1hbmFnZXIuc3RhcnQoKTsKICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>huWidth, huHeight</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGRvT25IVVJlYWR5KFN0cmluZyBzdHJpbmcpIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBKU09OT2JqZWN0IG9iaiA9IG5ldyBKU09OT2JqZWN0KHN0cmluZyk7CiAgICAgICAgICAgIGlmIChvYmouaGFzKCJtSGVpZ2h0IikgJiYgb2JqLmhhcygibVdpZHRoIikpIHsKICAgICAgICAgICAgICAgIGludCB3aWR0aCA9IG9iai5nZXRJbnQoIm1XaWR0aCIpOwogICAgICAgICAgICAgICAgaW50IGhlaWdodCA9IG9iai5nZXRJbnQoIm1IZWlnaHQiKTsKICAgICAgICAgICAgICAgIG11bHRpVG91Y2guc2V0RGV2aWNlV0god2lkdGgsIGhlaWdodCk7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChKU09ORXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSAgICAgICAgbVRvdWNoVHJhbnNsYXRvci5zZXRXSCh3aWR0aCwgaGVpZ2h0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0b3VjaFRyYW5zbGF0b3IgPSBuZXcgVG91Y2hUcmFuc2xhdG9yKCk7Cg==</text>
+        <text encoding="base64">LSAgICAgICAgbVRvdWNoVHJhbnNsYXRvci5zZXRXSCh3aWR0aCwgaGVpZ2h0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1Ub3VjaFRyYW5zbGF0b3IgPSBuZXcgVG91Y2hUcmFuc2xhdG9yKGNvbnRleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0b3VjaFRyYW5zbGF0b3IgPSBuZXcgVG91Y2hUcmFuc2xhdG9yKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1Ub3VjaFRyYW5zbGF0b3IgPSBuZXcgVG91Y2hUcmFuc2xhdG9yKGNvbnRleHQpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBjbGFzcyBSZWZyZXNoU2NyZWVuVGhyZWFkIGV4dGVuZHMgVGhyZWFkIHsKLy8gICAgICAgIEBPdmVycmlkZQovLyAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewovLyAgICAgICAgICAgIHN1cGVyLnJ1bigpOwovLyAgICAgICAgICAgIGludCB0aW1lcyA9IDA7Ci8vICAgICAgICAgICAgLy8g5Yik5pat54q25oCB77yM5aaC5p6c6KKr5omT5pat5YiZ6Lez5Ye65bm25bCG57q/56iL572u56m6Ci8vICAgICAgICAgICAgd2hpbGUgKCFpc0ludGVycnVwdGVkKCkgJiYgdGltZXMgPCAzMCkgewovLyAgICAgICAgICAgICAgICB0cnkgewovLyAgICAgICAgICAgICAgICAgICAgc2xlZXAoMzApOwovLyAgICAgICAgICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7Ci8vICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgIHJlZnJlc2hTY3JlZW4oKTsKLy8gICAgICAgICAgICAgICAgdGltZXMrKzsKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Ci8vICAgIH0KLy8KLy8gICAgcHVibGljIHZvaWQgc3RhcnRSZWZyZXNoVGhyZWFkKCkgewovLyAgICAgICAgaWYgKG51bGwgPT0gbXlUaHJlYWQpIHsKLy8gICAgICAgICAgICBteVRocmVhZCA9IG5ldyBSZWZyZXNoU2NyZWVuVGhyZWFkKCk7Ci8vICAgICAgICB9Ci8vICAgICAgICBpbnQgZ3JlZW4gPSAwOwovLyAgICAgICAgbXlUaHJlYWQuc3RhcnQoKTsKLy8gICAgfQovLwovLyAgICBwcml2YXRlIHZvaWQgc3RvcFJlZnJlc2hUaHJlYWQoKSB7Ci8vICAgICAgICBpZiAobnVsbCAhPSBteVRocmVhZCAmJiBteVRocmVhZC5pc0FsaXZlKCkpIHsKLy8gICAgICAgICAgICBteVRocmVhZC5pbnRlcnJ1cHQoKTsKLy8gICAgICAgICAgICBteVRocmVhZCA9IG51bGw7Ci8vICAgICAgICB9Ci8vICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQW5GaWxlTG9nLmUoIndsX3BsYXRmb3JtIiwgIlNUQVRVU19BT0FfVklERU9fU1RBUlQgc2VydmljZU1hbmFnZXIuc3RhcnQiKTsK</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBjbGFzcyBSZWZyZXNoU2NyZWVuVGhyZWFkIGV4dGVuZHMgVGhyZWFkIHsKLy8gICAgICAgIEBPdmVycmlkZQovLyAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewovLyAgICAgICAgICAgIHN1cGVyLnJ1bigpOwovLyAgICAgICAgICAgIGludCB0aW1lcyA9IDA7Ci8vICAgICAgICAgICAgLy8g5Yik5pat54q25oCB77yM5aaC5p6c6KKr5omT5pat5YiZ6Lez5Ye65bm25bCG57q/56iL572u56m6Ci8vICAgICAgICAgICAgd2hpbGUgKCFpc0ludGVycnVwdGVkKCkgJiYgdGltZXMgPCAzMCkgewovLyAgICAgICAgICAgICAgICB0cnkgewovLyAgICAgICAgICAgICAgICAgICAgc2xlZXAoMzApOwovLyAgICAgICAgICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7Ci8vICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgIHJlZnJlc2hTY3JlZW4oKTsKLy8gICAgICAgICAgICAgICAgdGltZXMrKzsKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Ci8vICAgIH0KLy8KLy8gICAgcHVibGljIHZvaWQgc3RhcnRSZWZyZXNoVGhyZWFkKCkgewovLyAgICAgICAgaWYgKG51bGwgPT0gbXlUaHJlYWQpIHsKLy8gICAgICAgICAgICBteVRocmVhZCA9IG5ldyBSZWZyZXNoU2NyZWVuVGhyZWFkKCk7Ci8vICAgICAgICB9Ci8vICAgICAgICBpbnQgZ3JlZW4gPSAwOwovLyAgICAgICAgbXlUaHJlYWQuc3RhcnQoKTsKLy8gICAgfQovLwovLyAgICBwcml2YXRlIHZvaWQgc3RvcFJlZnJlc2hUaHJlYWQoKSB7Ci8vICAgICAgICBpZiAobnVsbCAhPSBteVRocmVhZCAmJiBteVRocmVhZC5pc0FsaXZlKCkpIHsKLy8gICAgICAgICAgICBteVRocmVhZC5pbnRlcnJ1cHQoKTsKLy8gICAgICAgICAgICBteVRocmVhZCA9IG51bGw7Ci8vICAgICAgICB9Ci8vICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQW5GaWxlTG9nLmUoIndsX3BsYXRmb3JtIiwgIlNUQVRVU19BT0FfVklERU9fU1RBUlQgc2VydmljZU1hbmFnZXIuc3RhcnQiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
