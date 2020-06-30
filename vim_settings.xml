@@ -89,11 +89,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/WIFI_v1.java" timestamp="1593528059293">
-        <mark key="[" line="175" column="29" />
-        <mark key="]" line="175" column="35" />
-        <mark key="." line="175" column="34" />
-        <mark key="^" line="175" column="35" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/WIFI_v1.java" timestamp="1593528593797">
+        <mark key="[" line="33" column="35" />
+        <mark key="]" line="33" column="50" />
+        <mark key="." line="33" column="49" />
+        <mark key="^" line="33" column="50" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/build.gradle" timestamp="1593494454988">
         <mark key="[" line="48" column="34" />
@@ -299,17 +299,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBBbkZpbGVMb2cuZSgibGluayIsICJjb25uZWN0LXByZXBhcmUiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>2222222222222</text>
       </register>
       <register name="-" type="4">
-        <text>ready</text>
+        <text>2222222222222</text>
       </register>
       <register name="/" type="4">
         <text>lock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFuRmlsZUxvZy5lKCJsaW5rIiwgInJlYWR5Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBbkZpbGVMb2cuZSgibGluay1wb2ludCIsICIyMjIyMjIyMjIyMjIyIik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBBbkZpbGVMb2cuZSgibGluayIsICJjb25uZWN0LXByZXBhcmUiKTsK</text>
