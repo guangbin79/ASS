@@ -89,11 +89,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/WIFI_v1.java" timestamp="1593527125937">
-        <mark key="[" line="173" column="24" />
-        <mark key="]" line="175" column="51" />
-        <mark key="." line="175" column="31" />
-        <mark key="^" line="175" column="32" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/WIFI_v1.java" timestamp="1593528059293">
+        <mark key="[" line="175" column="29" />
+        <mark key="]" line="175" column="35" />
+        <mark key="." line="175" column="34" />
+        <mark key="^" line="175" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/build.gradle" timestamp="1593494454988">
         <mark key="[" line="48" column="34" />
@@ -142,11 +142,11 @@
         <mark key="^" line="99" column="15" />
         <mark key="." line="99" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/AOA_v1.java" timestamp="1593527091803">
-        <mark key="[" line="86" column="40" />
-        <mark key="]" line="88" column="66" />
-        <mark key="." line="119" column="7" />
-        <mark key="^" line="119" column="8" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/AOA_v1.java" timestamp="1593528050770">
+        <mark key="[" line="88" column="45" />
+        <mark key="]" line="88" column="51" />
+        <mark key="." line="88" column="50" />
+        <mark key="^" line="88" column="51" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/aidl/com/autoai/welink/auto/client/IClientService.aidl" timestamp="1593504229197">
         <mark key="[" line="17" column="4" />
