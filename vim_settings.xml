@@ -165,11 +165,11 @@
         <mark key="." line="50" column="47" />
         <mark key="^" line="94" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1593529713679">
-        <mark key="[" line="322" column="45" />
-        <mark key="]" line="231" column="8" />
-        <mark key="." line="231" column="7" />
-        <mark key="^" line="231" column="8" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1593530059372">
+        <mark key="[" line="231" column="54" />
+        <mark key="]" line="231" column="54" />
+        <mark key="." line="231" column="54" />
+        <mark key="^" line="231" column="50" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/ServerManager.java" timestamp="1593523971290">
         <mark key="[" line="136" column="58" />
@@ -299,11 +299,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>h264</text>
       </register>
       <register name="-" type="4">
-        <text>2222222222222</text>
+        <text>h264</text>
       </register>
       <register name="/" type="4">
         <text>lock</text>
