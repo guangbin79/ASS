@@ -107,11 +107,9 @@
         <mark key="." line="21" column="63" />
         <mark key="^" line="21" column="64" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1593508663753">
-        <mark key="[" line="851" column="26" />
-        <mark key="]" line="851" column="26" />
-        <mark key="^" line="851" column="26" />
-        <mark key="." line="851" column="25" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1593512373014">
+        <mark key="[" line="510" column="0" />
+        <mark key="]" line="510" column="46" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1593504479943">
         <mark key="'" line="400" column="0" />
@@ -146,7 +144,6 @@
         <mark key="[" line="17" column="4" />
         <mark key="]" line="17" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/com_autoai_welink_channel_WLChannel.h" timestamp="1593508107955" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/utiliy/CommandSource.java" timestamp="1593507187413">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="4" column="4" />
@@ -294,17 +291,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2NrLm5vdGlmeSgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>44444444444</text>
       </register>
       <register name="/" type="4">
         <text>lock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgbG9nUGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2NrLm5vdGlmeSgpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
