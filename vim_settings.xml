@@ -89,17 +89,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1593568770728">
+        <mark key="[" line="332" column="28" />
+        <mark key="]" line="332" column="27" />
+        <mark key="^" line="332" column="27" />
+        <mark key="." line="332" column="26" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/WIFI_v1.java" timestamp="1593529528231">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="30" column="36" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/build.gradle" timestamp="1593494454988">
-        <mark key="[" line="48" column="34" />
-        <mark key="]" line="48" column="34" />
-        <mark key="^" line="48" column="34" />
-        <mark key="." line="48" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1593560324050">
         <mark key="[" line="85" column="67" />
@@ -130,10 +130,10 @@
         <mark key="^" line="99" column="15" />
         <mark key="." line="99" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/AOA_v1.java" timestamp="1593529477184">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/AOA_v1.java" timestamp="1593568436235">
+        <mark key="[" line="62" column="56" />
+        <mark key="]" line="62" column="59" />
+        <mark key="." line="62" column="0" />
         <mark key="^" line="28" column="37" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/aidl/com/autoai/welink/auto/client/IClientService.aidl" timestamp="1593504229197">
@@ -168,9 +168,9 @@
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/res/xml/headunit_specs.xml" timestamp="1593561185203">
         <mark key="[" line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1593531483053">
-        <mark key="[" line="166" column="37" />
-        <mark key="]" line="167" column="16" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1593568367803">
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="165" column="59" />
         <mark key="." line="167" column="15" />
         <mark key="^" line="167" column="16" />
       </file>
@@ -308,10 +308,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>catch (IOException e) {
-            e.printStackTrace();
-        }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFuRmlsZUxvZy5lKCJsaW5rLXBvaW50IiwgImNvbm5lY3Qtc3RhcnQiKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cmF0ZSA=</text>
@@ -320,39 +318,39 @@
         <text>lock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJhdGUgPSB4bWxQYXJzZXIuZ2V0QXR0cmlidXRlSW50VmFsdWUobnVsbCwgInJhdGUiLCBSQVRFKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFuRmlsZUxvZy5lKCJsaW5rLXBvaW50IiwgImNvbm5lY3Qtc3RhcnQiKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>catch (IOException e) {
-            e.printStackTrace();
-        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFuRmlsZUxvZy5lKCJsaW5rLXBvaW50IiwgImNvbm5lY3Qtc3RhcnQiKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+      <register name="2" type="4">
+        <text>catch (IOException e) {
+            e.printStackTrace();
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlIFhtbFB1bGxQYXJzZXIuVEVYVDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlIFhtbFB1bGxQYXJzZXIuVEVYVDoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHhtbFBhcnNlci5nZXRBCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHhtbFBhcnNlci5nZXRBdHRyaWJ1dGVJbnRWYWx1ZSgpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHhtbFBhcnNlci5nZXRBCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHhtbFBhcnNlci5nZXRBdHRyaWJ1dGVJbnRWYWx1ZSgpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpbmRUYWcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGZpbmRUYWcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
