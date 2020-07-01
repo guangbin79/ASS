@@ -189,6 +189,12 @@
         <mark key="." line="70" column="67" />
         <mark key="^" line="70" column="68" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1593611644651">
+        <mark key="[" line="38" column="93" />
+        <mark key="]" line="36" column="8" />
+        <mark key="^" line="36" column="11" />
+        <mark key="." line="36" column="8" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/TouchTranslator.java" timestamp="1593523980824">
         <mark key="[" line="237" column="42" />
         <mark key="]" line="237" column="42" />
@@ -301,11 +307,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9vcGVyLmdldE1haW5Mb29wZXIoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>66666666</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>lock</text>
