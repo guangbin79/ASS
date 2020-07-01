@@ -165,7 +165,7 @@
         <mark key="." line="50" column="47" />
         <mark key="^" line="94" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/res/xml/headunit_specs.xml" timestamp="1593558417843">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/res/xml/headunit_specs.xml" timestamp="1593561185203">
         <mark key="[" line="1" column="1" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1593531483053">
@@ -179,11 +179,11 @@
         <mark key="^" line="58" column="14" />
         <mark key="." line="58" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/HeadUnitSpec.java" timestamp="1593560500652">
-        <mark key="[" line="23" column="89" />
-        <mark key="]" line="55" column="19" />
-        <mark key="^" line="55" column="19" />
-        <mark key="." line="55" column="18" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/HeadUnitSpec.java" timestamp="1593561622410">
+        <mark key="[" line="14" column="41" />
+        <mark key="]" line="14" column="41" />
+        <mark key="^" line="14" column="41" />
+        <mark key="." line="14" column="40" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/ServerManager.java" timestamp="1593523971290">
         <mark key="[" line="136" column="58" />
@@ -308,47 +308,51 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>catch (IOException e) {
+            e.printStackTrace();
+        }</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text encoding="base64">cmF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text>lock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFuRmlsZUxvZy5lKCJsaW5rLXBvaW50IiwgInNkay1yZWFkeTExMTExMTExMTExIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJhdGUgPSB4bWxQYXJzZXIuZ2V0QXR0cmlidXRlSW50VmFsdWUobnVsbCwgInJhdGUiLCBSQVRFKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>catch (IOException e) {
+            e.printStackTrace();
+        }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlIFhtbFB1bGxQYXJzZXIuVEVYVDoK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IC8v5Lik56eN5pa55rOV6I635Y+W5bGe5oCn5YC8CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsIuesrOS4gOS4quWxnuaAp++8miIgKyB4bWxQYXJzZXIuZ2V0QXR0cmlidXRlTmFtZSgwKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArICI6ICIgKyB4bWxQYXJzZXIuZ2V0QXR0cmlidXRlVmFsdWUoMCkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoVEFHLCLnrKzkuozkuKrlsZ7mgKfvvJoiICsgeG1sUGFyc2VyLmdldEF0dHJpYnV0ZU5hbWUoMSkrIjogIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArIHhtbFBhcnNlci5nZXRBdHRyaWJ1dGVWYWx1ZShudWxsLCJhdHQyIikpOw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHhtbFBhcnNlci5nZXRBCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGNhc2UgWG1sUHVsbFBhcnNlci5TVEFSVF9ET0NVTUVOVDoKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHhtbFBhcnNlci5nZXRBdHRyaWJ1dGVJbnRWYWx1ZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGNhc2UgWG1sUHVsbFBhcnNlci5URVhUOgogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICBjYXNlIFhtbFB1bGxQYXJzZXIuRU5EX1RBRzoKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGZpbmRUYWcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLnBsYXRmb3JtLlI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
