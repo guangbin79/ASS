@@ -93,10 +93,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/WIFI_v1.java" timestamp="1593586826416">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="168" column="39" />
-        <mark key="." line="30" column="0" />
+        <mark key="^" line="30" column="39" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1593593362387">
         <mark key="[" line="497" column="0" />
@@ -116,16 +113,10 @@
         <mark key="[" line="1" column="11" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/WLAOA.java" timestamp="1593590844032">
-        <mark key="[" line="268" column="68" />
-        <mark key="]" line="268" column="71" />
-        <mark key="." line="268" column="70" />
-        <mark key="^" line="268" column="71" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/AOA_v1.java" timestamp="1593590873275">
-        <mark key="[" line="40" column="9" />
-        <mark key="]" line="41" column="8" />
-        <mark key="^" line="41" column="8" />
-        <mark key="." line="41" column="7" />
+        <mark key="[" line="17" column="68" />
+        <mark key="]" line="17" column="71" />
+        <mark key="." line="17" column="70" />
+        <mark key="^" line="17" column="71" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/res/values/headunit_specs.xml" timestamp="1593558007766">
         <mark key="[" line="2" column="20" />
@@ -147,12 +138,6 @@
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/res/xml/headunit_specs.xml" timestamp="1593561185203">
         <mark key="[" line="1" column="1" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1593586860510">
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="^" line="166" column="16" />
-        <mark key="." line="166" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/AwakeLock.java" timestamp="1593558504977">
         <mark key="]" line="58" column="14" />
@@ -177,7 +162,7 @@
         <mark key="." line="70" column="67" />
         <mark key="^" line="70" column="68" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1593615385500">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1593615438140">
         <mark key="[" line="62" column="13" />
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
