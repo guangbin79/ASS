@@ -111,10 +111,10 @@
         <mark key="'" line="400" column="0" />
         <mark key="l" line="43" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/WLAOA.java" timestamp="1593678050497">
-        <mark key="[" line="252" column="0" />
-        <mark key="]" line="252" column="0" />
-        <mark key="." line="252" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/WLAOA.java" timestamp="1593678893879">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
         <mark key="^" line="254" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/AOA_v1.java" timestamp="1593678168113">
@@ -320,22 +320,22 @@
         <text encoding="base64">ICAgICAgICBkaXNjb25uZWN0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVEZXNjcmlwdG9yID0gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBkaXNjb25uZWN0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNjb25uZWN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVEZXNjcmlwdG9yID0gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkaXNjb25uZWN0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXNjb25uZWN0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL+S6kuiBlOi/h+eoi+S4re+8jOi9puacuummluWFiOWPkemAgea2iOaBr++8jOaJgOS7peWFiOi/nuaOpeaJi+acuuWGjei/nuaOpei9puacugo=</text>
+        <text encoding="base64">ICAgICAgICBkaXNjb25uZWN0KCk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
