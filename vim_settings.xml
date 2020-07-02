@@ -129,12 +129,6 @@
         <mark key="." line="102" column="12" />
         <mark key="^" line="102" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/xml/usb_accessory_filter.xml" timestamp="1593558282273">
-        <mark key="[" line="0" column="38" />
-        <mark key="]" line="1" column="11" />
-        <mark key="^" line="1" column="11" />
-        <mark key="." line="1" column="10" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/AndroidManifest.xml" timestamp="1593614677348">
         <mark key="[" line="14" column="43" />
       </file>
@@ -149,6 +143,12 @@
         <mark key="]" line="87" column="38" />
         <mark key="." line="87" column="37" />
         <mark key="^" line="87" column="38" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/utiliy/CommandSource.java" timestamp="1593681847451">
+        <mark key="[" line="41" column="29" />
+        <mark key="]" line="41" column="38" />
+        <mark key="." line="41" column="37" />
+        <mark key="^" line="41" column="38" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/res/xml/headunit_specs.xml" timestamp="1593561185203">
         <mark key="[" line="1" column="1" />
@@ -298,11 +298,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFBhcmNlbEZpbGVEZXNjcmlwdG9yIGZpbGVEZXNjcmlwdG9yID0gbnVsbDsK</text>
+      <register name="&quot;" type="4">
+        <text>wl_platform</text>
       </register>
       <register name="-" type="4">
-        <text>bAOAConnected</text>
+        <text>wl_platform</text>
       </register>
       <register name="/" type="4">
         <text>lock</text>
