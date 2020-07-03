@@ -123,6 +123,12 @@
         <mark key="^" line="1302" column="0" />
         <mark key="." line="1302" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1593769442170">
+        <mark key="[" line="502" column="18" />
+        <mark key="]" line="502" column="18" />
+        <mark key="^" line="502" column="18" />
+        <mark key="." line="502" column="18" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WLServiceManager.java" timestamp="1593754952137">
         <mark key="[" line="151" column="0" />
         <mark key="]" line="151" column="0" />
@@ -279,11 +285,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBBbkZpbGVMb2cuZSgiZ3VhbmdiaW4iLCAicmVzZXQyMjIyMjIyMiIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>333333333</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>lock</text>
