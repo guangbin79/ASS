@@ -151,9 +151,9 @@
         <mark key="." line="5" column="50" />
         <mark key="^" line="5" column="51" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/res/values/strings.xml" timestamp="1593747664424">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/res/values/strings.xml" timestamp="1593748258130">
         <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="106" />
+        <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/WLConfiguration.java" timestamp="1593747092927">
@@ -298,10 +298,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0id2VsaW5rX2Rpc3BsYXlfdGVzdF92aWRlb191cmwiPmh0dHA6Ly9nc2xiLm1pYW9wYWkuY29tL3N0cmVhbS9lZDVIQ2ZuaG92dTN0eUlRQWl2NjBRX18ubXA0PC9zdHJpbmc+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>myVideoView</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>lock</text>
@@ -310,7 +310,7 @@
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZGlzcGxheV90ZXN0X3ZpZGVvIj5odHRwOi8vZ3NsYi5taWFvcGFpLmNvbS9zdHJlYW0vZWQ1SENmbmhvdnUzdHlJUUFpdjYwUV9fLm1wNDwvc3RyaW5nPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0id2VsaW5rX2Rpc3BsYXlfdGVzdF92aWRlb191cmwiPmh0dHA6Ly9nc2xiLm1pYW9wYWkuY29tL3N0cmVhbS9lZDVIQ2ZuaG92dTN0eUlRQWl2NjBRX18ubXA0PC9zdHJpbmc+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -322,25 +322,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc0Rpc3BsYXlUZXN0ID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc0Rpc3BsYXlUZXN0ID0gZmFsc2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG9wZW5EaXNwbGF5VGVzdCgpIHsKICAgICAgICBpc0Rpc3BsYXlUZXN0ID0gdHJ1ZTsKICAgIH0KCiAgICBwdWJsaWMgYm9vbGVhbiBpc0Rpc3BsYXlUZXN0KCkgewogICAgICAgIHJldHVybiBpc0Rpc3BsYXlUZXN0OwogICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>/**
-     * 开启显示测试
-     */
-    void openDisplayTest();</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG9wZW5EaXNwbGF5VGVzdCgpIHsKICAgICAgICBpc0Rpc3BsYXlUZXN0ID0gdHJ1ZTsKICAgIH0KCiAgICBwdWJsaWMgYm9vbGVhbiBpc0Rpc3BsYXlUZXN0KCkgewogICAgICAgIHJldHVybiBpc0Rpc3BsYXlUZXN0OwogICAgfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
