@@ -126,6 +126,7 @@
         <mark key="." line="112" column="0" />
         <mark key="^" line="203" column="64" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/statemanager/StateManager.java" timestamp="1593755896634" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/utiliy/CommandSource.java" timestamp="1593681847451">
         <mark key="[" line="41" column="29" />
         <mark key="]" line="41" column="38" />
@@ -144,13 +145,7 @@
         <mark key="^" line="200" column="54" />
         <mark key="." line="200" column="53" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/WLServer.java" timestamp="1593755071460" />
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Aoa2WifiBuffer_v1.java" timestamp="1593676108696">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="54" />
-        <mark key="." line="5" column="50" />
-        <mark key="^" line="5" column="51" />
-      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/WLServer.java" timestamp="1593755912024" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/res/values/strings.xml" timestamp="1593748258130">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
