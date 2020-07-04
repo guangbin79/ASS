@@ -158,11 +158,11 @@
         <mark key="^" line="4" column="38" />
         <mark key="." line="4" column="37" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1593785622469">
-        <mark key="[" line="14" column="21" />
-        <mark key="]" line="14" column="21" />
-        <mark key="." line="14" column="20" />
-        <mark key="^" line="14" column="21" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1593858608809">
+        <mark key="[" line="152" column="8" />
+        <mark key="]" line="153" column="43" />
+        <mark key="." line="153" column="0" />
+        <mark key="^" line="147" column="43" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/Connector.java" timestamp="1593747868515">
         <mark key="[" line="73" column="0" />
@@ -170,11 +170,11 @@
         <mark key="^" line="80" column="12" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1593835492887">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="18" column="4" />
-        <mark key="." line="18" column="3" />
-        <mark key="^" line="18" column="4" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1593857955125">
+        <mark key="[" line="293" column="45" />
+        <mark key="]" line="293" column="46" />
+        <mark key="." line="293" column="46" />
+        <mark key="^" line="293" column="47" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link/Wifi2AoaBuffer.java" timestamp="1593826770437">
         <mark key="[" line="14" column="4" />
@@ -306,16 +306,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgT2JqZWN0IGFvYWVzX2xvY2sgPSBuZXcgT2JqZWN0KCk7CiAgICBwcml2YXRlIGZpbmFsIE9iamVjdCB3aWZpZXNfbG9jayA9IG5ldyBPYmplY3QoKTsKICAgIHByaXZhdGUgZmluYWwgT2JqZWN0IHcyYWVzX2xvY2sgPSBuZXcgT2JqZWN0KCk7CiAgICBwcml2YXRlIGZpbmFsIE9iamVjdCBhMndlc19sb2NrID0gbmV3IE9iamVjdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMT0dEKCJzZW5kdmlkZW86ICVkOiVkIiwgbGVuLCByZXQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>lock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgT2JqZWN0IGFvYV9sb2NrID0gbmV3IE9iamVjdCgpOwogICAgcHJpdmF0ZSBmaW5hbCBPYmplY3Qgd2lmaV9sb2NrID0gbmV3IE9iamVjdCgpOwogICAgcHJpdmF0ZSBmaW5hbCBPYmplY3QgdzJhX2xvY2sgPSBuZXcgT2JqZWN0KCk7CiAgICBwcml2YXRlIGZpbmFsIE9iamVjdCBhMndfbG9jayA9IG5ldyBPYmplY3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICBMT0dEKCJzZW5kdmlkZW86ICVkOiVkIiwgbGVuLCByZXQpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgT2JqZWN0IGFvYWVzX2xvY2sgPSBuZXcgT2JqZWN0KCk7CiAgICBwcml2YXRlIGZpbmFsIE9iamVjdCB3aWZpZXNfbG9jayA9IG5ldyBPYmplY3QoKTsKICAgIHByaXZhdGUgZmluYWwgT2JqZWN0IHcyYWVzX2xvY2sgPSBuZXcgT2JqZWN0KCk7CiAgICBwcml2YXRlIGZpbmFsIE9iamVjdCBhMndlc19sb2NrID0gbmV3IE9iamVjdCgpOwo=</text>
