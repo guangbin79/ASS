@@ -185,11 +185,11 @@
         <mark key="^" line="45" column="4" />
         <mark key="." line="45" column="3" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1594098143539">
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="0" />
-        <mark key="." line="176" column="0" />
-        <mark key="^" line="176" column="59" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1594106520740">
+        <mark key="[" line="216" column="48" />
+        <mark key="]" line="216" column="49" />
+        <mark key="." line="216" column="48" />
+        <mark key="^" line="216" column="49" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link/Wifi2AoaBuffer.java" timestamp="1594007812255">
         <mark key="[" line="5" column="0" />
@@ -309,17 +309,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdhbmRyb2lkeC5jb3JlOmNvcmU6MS4zLjAnCg==</text>
+      <register name="&quot;" type="4">
+        <text>11111111111</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>11111111111</text>
       </register>
       <register name="/" type="4">
         <text>lock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IG1heENhY2hlQ291bnQgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFuRmlsZUxvZy5lKCJsaW5rLXBvaW50IiwgIjExMTExMTExMTExIik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdhbmRyb2lkeC5jb3JlOmNvcmU6MS4zLjAnCg==</text>
