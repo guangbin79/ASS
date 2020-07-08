@@ -89,8 +89,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1594178416005">
-        <mark key="[" line="163" column="43" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1594178574292">
+        <mark key="[" line="163" column="82" />
         <mark key="]" line="163" column="43" />
         <mark key="^" line="164" column="47" />
         <mark key="." line="163" column="43" />
@@ -161,11 +161,11 @@
         <mark key="]" line="144" column="45" />
         <mark key="." line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1594173873755">
-        <mark key="[" line="180" column="13" />
-        <mark key="]" line="181" column="12" />
-        <mark key="." line="181" column="11" />
-        <mark key="^" line="181" column="12" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1594182167263">
+        <mark key="[" line="173" column="16" />
+        <mark key="]" line="173" column="16" />
+        <mark key="." line="173" column="15" />
+        <mark key="^" line="173" column="16" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/WLServer.java" timestamp="1594167158009">
         <mark key="[" line="44" column="41" />
