@@ -89,18 +89,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1594110762893">
-        <mark key="[" line="351" column="61" />
-        <mark key="]" line="351" column="62" />
-        <mark key="^" line="351" column="62" />
-        <mark key="." line="351" column="61" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHub.java" timestamp="1594093772840">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/WIFI_v1.java" timestamp="1594099991627">
         <mark key="[" line="13" column="25" />
         <mark key="]" line="13" column="25" />
@@ -112,11 +100,6 @@
         <mark key="]" line="13" column="9" />
         <mark key="." line="13" column="8" />
         <mark key="^" line="13" column="9" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/build.gradle" timestamp="1594100667252">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatformListener.java" timestamp="1594091365852" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/WLAOA.java" timestamp="1594100040467">
@@ -138,12 +121,6 @@
         <mark key="." line="108" column="71" />
         <mark key="^" line="108" column="72" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link/WIFI.java" timestamp="1594006971637">
-        <mark key="[" line="9" column="46" />
-        <mark key="]" line="9" column="56" />
-        <mark key="." line="9" column="55" />
-        <mark key="^" line="9" column="56" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Wifi2AoaBuffer_v1.java" timestamp="1594104527262">
         <mark key="'" line="53" column="20" />
         <mark key="[" line="75" column="46" />
@@ -151,17 +128,58 @@
         <mark key="." line="75" column="45" />
         <mark key="^" line="75" column="46" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/utiliy/CommandSource.java" timestamp="1594020831997">
+        <mark key="[" line="44" column="5" />
+        <mark key="]" line="45" column="4" />
+        <mark key="^" line="45" column="4" />
+        <mark key="." line="45" column="3" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1594121517985">
+        <mark key="[" line="159" column="20" />
+        <mark key="]" line="159" column="42" />
+        <mark key="." line="159" column="41" />
+        <mark key="^" line="159" column="42" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Aoa2WifiBuffer_v1.java" timestamp="1594087666210">
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="14" column="70" />
+        <mark key="." line="14" column="69" />
+        <mark key="^" line="14" column="70" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/ServerManager.java" timestamp="1594166170780">
+        <mark key="[" line="33" column="18" />
+        <mark key="]" line="33" column="24" />
+        <mark key="^" line="33" column="24" />
+        <mark key="." line="33" column="23" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1594110762893">
+        <mark key="[" line="351" column="61" />
+        <mark key="]" line="351" column="62" />
+        <mark key="^" line="351" column="62" />
+        <mark key="." line="351" column="61" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHub.java" timestamp="1594093772840">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/build.gradle" timestamp="1594100667252">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link/WIFI.java" timestamp="1594006971637">
+        <mark key="[" line="9" column="46" />
+        <mark key="]" line="9" column="56" />
+        <mark key="." line="9" column="55" />
+        <mark key="^" line="9" column="56" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/AOA_v1.java" timestamp="1594099965579">
         <mark key="[" line="16" column="48" />
         <mark key="]" line="16" column="48" />
         <mark key="." line="16" column="47" />
         <mark key="^" line="16" column="48" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/values/strings.xml" timestamp="1593786664672">
-        <mark key="[" line="5" column="38" />
-        <mark key="]" line="5" column="39" />
-        <mark key="." line="5" column="38" />
-        <mark key="^" line="5" column="40" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link/Aoa2WifiBuffer.java" timestamp="1594007810054">
         <mark key="[" line="5" column="1" />
@@ -180,29 +198,11 @@
         <mark key="]" line="144" column="45" />
         <mark key="." line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/utiliy/CommandSource.java" timestamp="1594020831997">
-        <mark key="[" line="44" column="5" />
-        <mark key="]" line="45" column="4" />
-        <mark key="^" line="45" column="4" />
-        <mark key="." line="45" column="3" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1594121517985">
-        <mark key="[" line="159" column="20" />
-        <mark key="]" line="159" column="42" />
-        <mark key="." line="159" column="41" />
-        <mark key="^" line="159" column="42" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link/Wifi2AoaBuffer.java" timestamp="1594007812255">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="6" column="18" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Aoa2WifiBuffer_v1.java" timestamp="1594087666210">
-        <mark key="[" line="14" column="42" />
-        <mark key="]" line="14" column="70" />
-        <mark key="." line="14" column="69" />
-        <mark key="^" line="14" column="70" />
       </file>
     </filemarks>
     <jumps>
