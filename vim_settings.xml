@@ -122,17 +122,11 @@
         <mark key="." line="75" column="45" />
         <mark key="^" line="75" column="46" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/utiliy/CommandSource.java" timestamp="1594020831997">
-        <mark key="[" line="44" column="5" />
-        <mark key="]" line="45" column="4" />
-        <mark key="^" line="45" column="4" />
-        <mark key="." line="45" column="3" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1594121517985">
-        <mark key="[" line="159" column="20" />
-        <mark key="]" line="159" column="42" />
-        <mark key="." line="159" column="41" />
-        <mark key="^" line="159" column="42" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1594173873755">
+        <mark key="[" line="180" column="13" />
+        <mark key="]" line="181" column="12" />
+        <mark key="." line="181" column="11" />
+        <mark key="^" line="181" column="12" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/WLServer.java" timestamp="1594167158009">
         <mark key="[" line="44" column="41" />
@@ -158,11 +152,11 @@
         <mark key="^" line="33" column="18" />
         <mark key="." line="33" column="17" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1594167484898">
-        <mark key="[" line="132" column="35" />
-        <mark key="]" line="132" column="51" />
-        <mark key="^" line="132" column="51" />
-        <mark key="." line="132" column="50" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1594176770863">
+        <mark key="[" line="164" column="57" />
+        <mark key="]" line="164" column="57" />
+        <mark key="^" line="164" column="57" />
+        <mark key="." line="164" column="56" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHub.java" timestamp="1594093772840">
         <mark key="[" line="71" column="0" />
@@ -181,6 +175,12 @@
         <mark key="." line="16" column="47" />
         <mark key="^" line="16" column="48" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/values/strings.xml" timestamp="1594176589292">
+        <mark key="[" line="6" column="42" />
+        <mark key="]" line="6" column="42" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="5" column="40" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WelinkHardwareClient.java" timestamp="1594093957430">
         <mark key="[" line="12" column="36" />
         <mark key="]" line="12" column="36" />
@@ -191,12 +191,6 @@
         <mark key="[" line="144" column="0" />
         <mark key="]" line="144" column="45" />
         <mark key="." line="144" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link/Wifi2AoaBuffer.java" timestamp="1594007812255">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/codec/SurfaceRecorder.java" timestamp="1594166772176">
         <mark key="[" line="103" column="31" />
@@ -310,71 +304,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdscGxhdGZvcm0gCg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>codec</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>deinit</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFuRmlsZUxvZy5lKCJXZWxpbmtQbGF0Zm9ybSIsICJpbml0MTExMTExMTEiKTsK</text>
+      <register name="0" type="4">
+        <text>：</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdscGxhdGZvcm0gCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGFja2FnZU5hbWUgPQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>if (mNFCWriteMode) {
-                    mNFCWriteMode = false;
-                    String version = getString(R.string.wllauncher) + BuildConfig.VERSION_NAME + &quot;/&quot; + BuildConfig.BUILD_TYPE;
-                    textView.setText(version);
-                    MainActivity.this.setTitle(R.string.app_name);
-
-                    NfcAdapter nfcAdapter = NfcAdapter.getDefaultAdapter(MainActivity.this);
-                    nfcAdapter.disableForegroundDispatch(MainActivity.this);
-                } else {
-                    NfcManager manager = (NfcManager) MainActivity.this.getSystemService(Context.NFC_SERVICE);
-                    NfcAdapter adapter = manager.getDefaultAdapter();
-                    if (adapter == null || !adapter.isEnabled()) {
-                        Toast.makeText(MainActivity.this, R.string.nfc_enable, Toast.LENGTH_SHORT).show();
-                        return;
-                    }
-
-                    mNFCWriteMode = true;
-                    String version = getString(R.string.nfcwriter) + MainActivity.this.getPackageName();
-                    textView.setText(version);
-                    MainActivity.this.setTitle(R.string.nfcwriter_name);
-
-                    NfcAdapter nfcAdapter = NfcAdapter.getDefaultAdapter(MainActivity.this);
-                    PendingIntent pendingIntent = PendingIntent.getActivity(MainActivity.this, 0, new Intent(MainActivity.this, MainActivity.class), 0);
-                    nfcAdapter.enableForegroundDispatch(MainActivity.this, pendingIntent, null, null);
-                }</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAiMTExMTExMTExMTExMSIpOwogICAgICAgIG1QbGF0Zm9ybS5pbml0KDEyMzMsIDY0MCwgMzIwLCAiZmYiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAiMTExMTExMTExMTExMSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBFZGl0VGV4dCBlZGl0VGV4dCA9IG5ldyBFZGl0VGV4dChNYWluQWN0aXZpdHkudGhpcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtUGxhdGZvcm0uaW5pdChIVVNjcmVlbldpZHRoLCBIVVNjcmVlbkhlaWdodCwgcmVjdCwgZGVuc2l0eURwaSwgdmVoaWNsZVR5cGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlZGl0VGV4dC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3bHBsYXRmb3JtCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXh0Vmlldy5lbmRCYXRjaEVkaXQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpc0FPQTJIVUNvbm5lY3RpbmcgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlcGFyZSA9IG51bGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHByZXBhcmUgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgKyAgICAgICAgICAgICAgICBjb25uZWN0UHJlcGFyZS5yZW1vdmVDYWxsYmFja3MocHJlcGFyZSk7CiAgICAgICAgICAgICAgICArICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpc0Nvbm5lY3RlZCA9IGZhbHNlOwogICAgICAgIGlzQU9BMkhVQ29ubmVjdGVkID0gZmFsc2U7CiAgICAgICAgaXNBT0EySFVDb25uZWN0aW5nID0gZmFsc2U7CiAgICAgICAgaXNBT0EyV2VMaW5rQ29ubmVjdGVkID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdscGxhdGZvcm0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
