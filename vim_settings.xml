@@ -89,11 +89,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1594261738910">
-        <mark key="[" line="532" column="38" />
-        <mark key="]" line="533" column="25" />
-        <mark key="." line="533" column="24" />
-        <mark key="^" line="533" column="25" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1594263823468">
+        <mark key="[" line="247" column="57" />
+        <mark key="]" line="247" column="57" />
+        <mark key="." line="247" column="56" />
+        <mark key="^" line="247" column="57" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/WIFI_v1.java" timestamp="1594099991627">
         <mark key="[" line="13" column="25" />
@@ -118,12 +118,12 @@
         <mark key="^" line="121" column="67" />
         <mark key="." line="121" column="66" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1594167321398">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1594262391981">
         <mark key="'" line="568" column="12" />
-        <mark key="[" line="614" column="0" />
-        <mark key="]" line="614" column="62" />
-        <mark key="." line="614" column="0" />
-        <mark key="^" line="594" column="59" />
+        <mark key="[" line="954" column="11" />
+        <mark key="]" line="954" column="18" />
+        <mark key="." line="954" column="17" />
+        <mark key="^" line="954" column="18" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Wifi2AoaBuffer_v1.java" timestamp="1594104527262">
         <mark key="'" line="53" column="20" />
@@ -290,47 +290,60 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVGV4dFZpZXcgdHYgPSBNYWluQWN0aXZpdHkudGhpcy5maW5kVmlld0J5SWQoUi5pZC50ZXh0Vmlld19XTEhhcmR3YXJlSHViKTsK</text>
+      <register name="&quot;" type="4">
+        <text>checkResult</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IldMSGFyZHdhcmVIdWLvvJoiICsgV0xIYXJkd2FyZUh1Yi5nZXRWZXJzaW9uKCkgKyAiIC0tPiAiICsgaQ==</text>
+        <text>checkResult</text>
       </register>
       <register name="/" type="4">
         <text>deinit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgcyA9IGdldFN0cmluZyhSLnN0cmluZy53bGhhcmR3YXJlaHViKSArIFdMSGFyZHdhcmVIdWIuZ2V0VmVyc2lvbigpICsgIiAtLT4gIiArIG1XaXJlbGVzc0NvZGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjaGVja1Jlc3VsdCArPSAiXHLmiJDlip8iOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVGV4dFZpZXcgdHYgPSBNYWluQWN0aXZpdHkudGhpcy5maW5kVmlld0J5SWQoUi5pZC50ZXh0Vmlld19XTEhhcmR3YXJlSHViKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2V0UG9zaXRpdmVCdXR0b24oIuehruWumu+8iOenr+aege+8iSIsIG5ldyBEaWFsb2dJbnRlcmZhY2UuT25DbGlja0xpc3RlbmVyKCkgewovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25DbGljayhEaWFsb2dJbnRlcmZhY2UgZGlhbG9nSW50ZXJmYWNlLCBpbnQgaSkgewovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy9Ub0RvOiDkvaDmg7PlgZrnmoTkuovmg4UKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KE1haW5BY3Rpdml0eS50aGlzLCAi56Gu5a6a5oyJ6ZKuIiwgVG9hc3QuTEVOR1RIX0xPTkcpLnNob3coKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnNldE5lZ2F0aXZlQnV0dG9uKCLlj5bmtojvvIjmtojmnoHvvIkiLCBuZXcgRGlhbG9nSW50ZXJmYWNlLk9uQ2xpY2tMaXN0ZW5lcigpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQ2xpY2soRGlhbG9nSW50ZXJmYWNlIGRpYWxvZ0ludGVyZmFjZSwgaW50IGkpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vVG9Ebzog5L2g5oOz5YGa55qE5LqL5oOFCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChNYWluQWN0aXZpdHkudGhpcywgIuWFs+mXreaMiemSriIsIFRvYXN0LkxFTkdUSF9MT05HKS5zaG93KCk7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkaWFsb2dJbnRlcmZhY2UuZGlzbWlzcygpOwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtV2lyZWxlc3NTdGF0dXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1XaXJlbGVzc1N0YXR1cyA9IGZhbHNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text>.setPositiveButton(&quot;确定（积极）&quot;, new DialogInterface.OnClickListener() {
+                                        @Override
+                                        public void onClick(DialogInterface dialogInterface, int i) {
+                                            //ToDo: 你想做的事情
+                                            Toast.makeText(MainActivity.this, &quot;确定按钮&quot;, Toast.LENGTH_LONG).show();
+                                        }
+                                    }).setNegativeButton(&quot;取消（消极）&quot;, new DialogInterface.OnClickListener() {
+                                        @Override
+                                        public void onClick(DialogInterface dialogInterface, int i) {
+                                            //ToDo: 你想做的事情
+                                            Toast.makeText(MainActivity.this, &quot;关闭按钮&quot;, Toast.LENGTH_LONG).show();
+                                            dialogInterface.dismiss();
+                                        }
+                                    })</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsIFRleHRWaWV3IHRleHRWaWV3ID0gZmluZFZpZXdCeUlkKFIuaWQudGV4dFZpZXdfV0xQbGF0Zm9ybSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVGV4dFZpZXcgdHYgPSBNYWluQWN0aXZpdHkudGhpcy5maW5kVmlld0J5SWQoUi5pZC50ZXh0Vmlld19XTEhhcmR3YXJlSHViKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICogICAgICAgICAgICAgICA2OiDliJvlu7pXaS1GaSBEaXJlY3QgR0/lpLHotKUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICogICAgICAgICAgICAgICA1OiDmnI3liqHlj5HnlJ/lvILluLgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtV2lyZWxlc3NTdGF0dXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICogICAgICAgICAgICAgICA0OiDpnIDopoHor7fmsYLlrprkvY3mnYPpmZAoQUNDRVNTX0ZJTkVfTE9DQVRJT04pCg==</text>
+        <text encoding="base64">ICAgIG1XaXJlbGVzc1N0YXR1cyA9IGZhbHNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
