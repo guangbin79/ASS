@@ -290,8 +290,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>checkResult</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTWFuaWZlc3QucGVybWlzc2lvbi5BQ0NFU1NfTkVUV09SS19TVEFURSwK</text>
       </register>
       <register name="-" type="4">
         <text>checkResult</text>
@@ -303,21 +303,24 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjaGVja1Jlc3VsdCArPSAiXHLmiJDlip8iOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTWFuaWZlc3QucGVybWlzc2lvbi5BQ0NFU1NfTkVUV09SS19TVEFURSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2V0UG9zaXRpdmVCdXR0b24oIuehruWumu+8iOenr+aege+8iSIsIG5ldyBEaWFsb2dJbnRlcmZhY2UuT25DbGlja0xpc3RlbmVyKCkgewovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25DbGljayhEaWFsb2dJbnRlcmZhY2UgZGlhbG9nSW50ZXJmYWNlLCBpbnQgaSkgewovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy9Ub0RvOiDkvaDmg7PlgZrnmoTkuovmg4UKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KE1haW5BY3Rpdml0eS50aGlzLCAi56Gu5a6a5oyJ6ZKuIiwgVG9hc3QuTEVOR1RIX0xPTkcpLnNob3coKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnNldE5lZ2F0aXZlQnV0dG9uKCLlj5bmtojvvIjmtojmnoHvvIkiLCBuZXcgRGlhbG9nSW50ZXJmYWNlLk9uQ2xpY2tMaXN0ZW5lcigpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQ2xpY2soRGlhbG9nSW50ZXJmYWNlIGRpYWxvZ0ludGVyZmFjZSwgaW50IGkpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vVG9Ebzog5L2g5oOz5YGa55qE5LqL5oOFCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChNYWluQWN0aXZpdHkudGhpcywgIuWFs+mXreaMiemSriIsIFRvYXN0LkxFTkdUSF9MT05HKS5zaG93KCk7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkaWFsb2dJbnRlcmZhY2UuZGlzbWlzcygpOwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2V0UG9zaXRpdmVCdXR0b24oIuehruWumu+8iOenr+aege+8iSIsIG5ldyBEaWFsb2dJbnRlcmZhY2UuT25DbGlja0xpc3RlbmVyKCkgewovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25DbGljayhEaWFsb2dJbnRlcmZhY2UgZGlhbG9nSW50ZXJmYWNlLCBpbnQgaSkgewovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy9Ub0RvOiDkvaDmg7PlgZrnmoTkuovmg4UKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KE1haW5BY3Rpdml0eS50aGlzLCAi56Gu5a6a5oyJ6ZKuIiwgVG9hc3QuTEVOR1RIX0xPTkcpLnNob3coKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnNldE5lZ2F0aXZlQnV0dG9uKCLlj5bmtojvvIjmtojmnoHvvIkiLCBuZXcgRGlhbG9nSW50ZXJmYWNlLk9uQ2xpY2tMaXN0ZW5lcigpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQ2xpY2soRGlhbG9nSW50ZXJmYWNlIGRpYWxvZ0ludGVyZmFjZSwgaW50IGkpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vVG9Ebzog5L2g5oOz5YGa55qE5LqL5oOFCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChNYWluQWN0aXZpdHkudGhpcywgIuWFs+mXreaMiemSriIsIFRvYXN0LkxFTkdUSF9MT05HKS5zaG93KCk7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkaWFsb2dJbnRlcmZhY2UuZGlzbWlzcygpOwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>.setPositiveButton(&quot;确定（积极）&quot;, new DialogInterface.OnClickListener() {
                                         @Override
                                         public void onClick(DialogInterface dialogInterface, int i) {
@@ -333,17 +336,14 @@
                                         }
                                     })</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVGV4dFZpZXcgdHYgPSBNYWluQWN0aXZpdHkudGhpcy5maW5kVmlld0J5SWQoUi5pZC50ZXh0Vmlld19XTEhhcmR3YXJlSHViKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtV2lyZWxlc3NTdGF0dXMK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1XaXJlbGVzc1N0YXR1cyA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtV2lyZWxlc3NTdGF0dXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
