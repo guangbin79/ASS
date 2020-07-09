@@ -154,7 +154,12 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="22" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/res/xml/headunit_specs.xml" timestamp="1594277131153" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/res/xml/headunit_specs.xml" timestamp="1594277743633">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="6" column="14" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1594189503718">
         <mark key="[" line="221" column="0" />
         <mark key="]" line="221" column="0" />
@@ -173,11 +178,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="46" column="30" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/HeadUnitSpec.java" timestamp="1594277491137">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="64" column="4" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/HeadUnitSpec.java" timestamp="1594277616139">
+        <mark key="[" line="82" column="26" />
+        <mark key="]" line="82" column="22" />
+        <mark key="^" line="82" column="22" />
+        <mark key="." line="82" column="21" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/ServerManager.java" timestamp="1594166420384">
         <mark key="[" line="32" column="24" />
@@ -297,11 +302,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>channel</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>deinit</text>
