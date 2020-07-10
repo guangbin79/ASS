@@ -156,11 +156,11 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="22" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1594370227595">
-        <mark key="[" line="248" column="51" />
-        <mark key="]" line="248" column="61" />
-        <mark key="." line="248" column="60" />
-        <mark key="^" line="248" column="61" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1594372064246">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="6" column="25" />
+        <mark key="^" line="6" column="26" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/res/xml/headunit_specs.xml" timestamp="1594277743633">
         <mark key="[" line="6" column="15" />
@@ -311,10 +311,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmVzZXQg</text>
+        <text>wlchannel</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVzZXQg</text>
+        <text>wlchannel</text>
       </register>
       <register name="/" type="4">
         <text>deinit</text>
