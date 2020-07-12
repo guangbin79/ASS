@@ -96,11 +96,6 @@
         <mark key="." line="469" column="76" />
         <mark key="^" line="469" column="77" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/build.gradle" timestamp="1594100667252">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link/AOA.java" timestamp="1594432471343">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -118,13 +113,6 @@
         <mark key="]" line="578" column="0" />
         <mark key="." line="578" column="0" />
         <mark key="^" line="577" column="11" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Wifi2AoaBuffer_v1.java" timestamp="1594104527262">
-        <mark key="'" line="53" column="20" />
-        <mark key="[" line="75" column="46" />
-        <mark key="]" line="75" column="46" />
-        <mark key="." line="75" column="45" />
-        <mark key="^" line="75" column="46" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/AndroidManifest.xml" timestamp="1594273706722">
         <mark key="[" line="44" column="68" />
@@ -183,12 +171,6 @@
         <mark key="^" line="20" column="43" />
         <mark key="." line="20" column="42" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/ServerManager.java" timestamp="1594166420384">
-        <mark key="[" line="32" column="24" />
-        <mark key="]" line="33" column="18" />
-        <mark key="^" line="33" column="18" />
-        <mark key="." line="33" column="17" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/aidl/com/autoai/welink/platform/service/IWeLinkService.aidl" timestamp="1594383471058">
         <mark key="[" line="15" column="4" />
         <mark key="]" line="15" column="9" />
@@ -198,11 +180,23 @@
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Aoa2WifiBuffer_v1.java" timestamp="1594388913157">
         <mark key="[" line="2" column="35" />
       </file>
+      <file name="$USER_HOME$/Workspace/MyApplication/app/build.gradle" timestamp="1594550547002">
+        <mark key="[" line="26" column="4" />
+        <mark key="]" line="26" column="4" />
+        <mark key="." line="26" column="4" />
+        <mark key="^" line="26" column="50" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/codec/SurfaceRecorder.java" timestamp="1594166772176">
         <mark key="[" line="103" column="31" />
         <mark key="]" line="103" column="31" />
         <mark key="^" line="103" column="31" />
         <mark key="." line="103" column="30" />
+      </file>
+      <file name="$USER_HOME$/Workspace/MyApplication/build.gradle" timestamp="1594550485758">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="25" />
+        <mark key="^" line="7" column="25" />
+        <mark key="." line="7" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -310,11 +304,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y29tcGlsZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>isRight</text>
+        <text encoding="base64">Y29tcGlsZSA=</text>
       </register>
       <register name="/" type="4">
         <text>deinit</text>
