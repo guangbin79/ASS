@@ -94,11 +94,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/WIFI_v1.java" timestamp="1594621124231">
-        <mark key="[" line="268" column="53" />
-        <mark key="]" line="268" column="55" />
-        <mark key="^" line="268" column="55" />
-        <mark key="." line="268" column="54" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/WIFI_v1.java" timestamp="1594623516865">
+        <mark key="[" line="268" column="80" />
+        <mark key="]" line="268" column="81" />
+        <mark key="^" line="268" column="81" />
+        <mark key="." line="268" column="80" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1594383801442">
         <mark key="[" line="570" column="37" />
@@ -142,11 +142,11 @@
         <mark key="." line="15" column="8" />
         <mark key="^" line="15" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Aoa2WifiBuffer_v1.java" timestamp="1594621173101">
-        <mark key="[" line="31" column="11" />
-        <mark key="]" line="31" column="24" />
-        <mark key="." line="31" column="23" />
-        <mark key="^" line="31" column="24" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Aoa2WifiBuffer_v1.java" timestamp="1594623907990">
+        <mark key="[" line="73" column="45" />
+        <mark key="]" line="73" column="46" />
+        <mark key="." line="73" column="46" />
+        <mark key="^" line="82" column="46" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1594368712827">
         <mark key="'" line="477" column="12" />
@@ -290,8 +290,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFuRmlsZUxvZy5lKCJhb2Etc2VuZC13aWZpLTEiLCAicG9ydDogIiArIHBvcnQgKyAiZGF0YTogIiArIG5ldyBTdHJpbmcoc3ViKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>data</text>
       </register>
       <register name="-" type="4">
         <text>data</text>
