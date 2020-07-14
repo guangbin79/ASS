@@ -101,11 +101,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/WIFI_v1.java" timestamp="1594631915104">
-        <mark key="[" line="268" column="80" />
-        <mark key="]" line="268" column="81" />
-        <mark key="^" line="268" column="81" />
-        <mark key="." line="268" column="80" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/WIFI_v1.java" timestamp="1594690983499">
+        <mark key="[" line="268" column="0" />
+        <mark key="]" line="268" column="0" />
+        <mark key="." line="268" column="0" />
+        <mark key="^" line="268" column="1" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1594383801442">
         <mark key="[" line="570" column="37" />
@@ -141,7 +141,7 @@
         <mark key="." line="118" column="48" />
         <mark key="^" line="118" column="49" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1594373026649">
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1594690871555">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -289,11 +289,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgQW5GaWxlTG9nLmUoIi0yIiwgIiwgcG9ydDogIiArIHBvcnQgKyAiLCBkYXRhOiAiICsgbmV3IFN0cmluZyhkYXRhKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>aoa-send-wifi</text>
       </register>
       <register name="/" type="4">
         <text>deinit</text>
@@ -302,19 +302,19 @@
         <text encoding="base64">ICAgICAgICAgICAgQW5GaWxlTG9nLmUoImxpbmstcG9pbnQiLCAic2hlbmd5dTogIiArIGxlbmd0aCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNIZWFkZXIgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgQW5GaWxlTG9nLmUoIi0yIiwgIiwgcG9ydDogIiArIHBvcnQgKyAiLCBkYXRhOiAiICsgbmV3IFN0cmluZyhkYXRhKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXNIZWFkZXIgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgQW5GaWxlTG9nLmUoIi0yIiwgIiwgcG9ydDogIiArIHBvcnQgKyAiLCBkYXRhOiAiICsgbmV3IFN0cmluZyhkYXRhKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgIG9zLndyaXRlKGRhdGEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXNIZWFkZXIgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgQW5GaWxlTG9nLmUoImFvYS1zZW5kLXdpZmktMiIsICIsIHBvcnQ6ICIgKyBwb3J0ICsgIiwgZGF0YTogIiArIG5ldyBTdHJpbmcoZGF0YSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXNIZWFkZXIgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNIZWFkZXIgPSB0cnVlOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXNIZWFkZXIgPSB0cnVlOwo=</text>
@@ -326,7 +326,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXNIZWFkZXIgPSB0cnVlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzSGVhZGVyID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXNIZWFkZXIgPSB0cnVlOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXNIZWFkZXIgPSB0cnVlOwo=</text>
