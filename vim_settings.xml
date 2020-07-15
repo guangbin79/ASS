@@ -124,7 +124,7 @@
         <mark key="." line="107" column="0" />
         <mark key="^" line="116" column="64" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/media/MediaFormat.java" timestamp="1594797909030">
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/media/MediaFormat.java" timestamp="1594798498088">
         <mark key="[" line="104" column="44" />
         <mark key="]" line="104" column="44" />
         <mark key="^" line="104" column="44" />
@@ -170,11 +170,11 @@
         <mark key="^" line="15" column="51" />
         <mark key="." line="15" column="50" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/src/main/java/com/autoai/welink/audiolive/HLSDecoder.java" timestamp="1594798028663">
-        <mark key="[" line="277" column="47" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="189" column="16" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/src/main/java/com/autoai/welink/audiolive/HLSDecoder.java" timestamp="1594798876235">
+        <mark key="[" line="256" column="0" />
+        <mark key="]" line="256" column="0" />
+        <mark key="." line="256" column="0" />
+        <mark key="^" line="250" column="25" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/build.gradle" timestamp="1594777690715">
         <mark key="[" line="39" column="0" />
@@ -301,19 +301,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5sb2dnaW5nLkhhbmRsZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVjb2RlVHJhY2tzKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gbmV3IE9iamVjdCgpOw==</text>
+        <text>== 2? AudioFormat.CHANNEL_OUT_STEREO: AudioFormat.CHANNEL_OUT_MONO</text>
       </register>
       <register name="/" type="4">
         <text>deinit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGhsc1VSTCA9IG51bGw7CiAgICBwcml2YXRlIEhMU0RlY29kZXJMaXN0ZW5lciBsaXN0ZW5lciA9IG51bGw7CiAgICBwcml2YXRlIGZpbmFsIE9iamVjdCBsaXN0ZW5lckxvY2sgPSBuZXcgT2JqZWN0KCk7CiAgICBwcml2YXRlIHZvbGF0aWxlIGJvb2xlYW4gaXNEZWNvZGUgPSBmYWxzZTsKICAgIHByaXZhdGUgU3RyaW5nIGhsc0Jhc2VVUkwgPSBudWxsOwogICAgcHJpdmF0ZSBTdHJpbmcgaGxzTGFzdE1lZGlhVVJMID0gbnVsbDsKICAgIHByaXZhdGUgTGlzdDxUcmFja0RhdGE+IGhsc1RyYWNrcyA9IG51bGw7CiAgICBwcml2YXRlIGZpbmFsIE9iamVjdCB0cmFja3NMb2NrID0gbmV3IE9iamVjdCgpOwogICAgcHJpdmF0ZSBNZWRpYUV4dHJhY3RvciBtZWRpYUV4dHJhY3RvciA9IG5ldyBNZWRpYUV4dHJhY3RvcigpOwogICAgcHJpdmF0ZSBNZWRpYUNvZGVjIG1lZGlhQ29kZWMgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFRocmVhZChuZXcgUnVubmFibGUoKSB7CiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAgICAgICAgICAgICBkZWNvZGVUcmFja3MoKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSkuc3RhcnQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5sb2dnaW5nLkhhbmRsZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVjb2RlVHJhY2tzKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -325,22 +325,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVjb2RlVHJhY2tzKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZWQgKGxpc3RlbmVyTG9jaykgewogICAgICAgICAgICBsaXN0ZW5lciA9IG51bGw7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5sb2dnaW5nLkhhbmRsZXI7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBobHNUcmFja3MgPSBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmhsc1VSTCA9IG51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
