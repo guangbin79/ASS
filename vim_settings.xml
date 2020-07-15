@@ -92,7 +92,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1594805675829">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1594817243434">
         <mark key="[" line="413" column="0" />
         <mark key="]" line="413" column="0" />
         <mark key="^" line="413" column="0" />
@@ -117,6 +117,7 @@
         <mark key="]" line="12" column="43" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/server/code/Client.java" timestamp="1594817337878" />
       <file name="$USER_HOME$/Workspace/MyApplication/app/src/main/java/com/autoai/welink/myapplication/MainActivity.java" timestamp="1594806317108">
         <mark key="[" line="155" column="0" />
         <mark key="]" line="155" column="40" />
@@ -163,7 +164,6 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/AndroidManifest.xml" timestamp="1594736089378" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/audiolivetest/src/main/java/com/autoai/welink/audiolivetest/MainActivity.java" timestamp="1594776754159">
         <mark key="[" line="4" column="25" />
         <mark key="]" line="15" column="51" />
