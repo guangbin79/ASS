@@ -105,6 +105,7 @@
         <mark key="^" line="103" column="12" />
         <mark key="." line="108" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/AndroidManifest.xml" timestamp="1594816839437" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/build.gradle" timestamp="1594736143656">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="40" column="9" />
@@ -161,11 +162,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/src/main/AndroidManifest.xml" timestamp="1594736066461">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/AndroidManifest.xml" timestamp="1594736089378" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/audiolivetest/src/main/java/com/autoai/welink/audiolivetest/MainActivity.java" timestamp="1594776754159">
