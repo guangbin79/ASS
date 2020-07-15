@@ -98,12 +98,7 @@
         <mark key="." line="212" column="39" />
         <mark key="^" line="212" column="40" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1594712548605">
-        <mark key="[" line="508" column="26" />
-        <mark key="]" line="509" column="24" />
-        <mark key="^" line="509" column="24" />
-        <mark key="." line="509" column="23" />
-      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1594803944084" />
       <file name="/a.dummy" timestamp="1594735997792">
         <mark key="[" line="0" column="0" />
       </file>
@@ -130,7 +125,7 @@
         <mark key="^" line="104" column="44" />
         <mark key="." line="104" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1594796111348">
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1594803872569">
         <mark key="[" line="373" column="35" />
         <mark key="]" line="250" column="0" />
         <mark key="^" line="249" column="27" />
@@ -170,11 +165,11 @@
         <mark key="^" line="15" column="51" />
         <mark key="." line="15" column="50" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/src/main/java/com/autoai/welink/audiolive/HLSDecoder.java" timestamp="1594802203756">
-        <mark key="[" line="216" column="69" />
-        <mark key="]" line="216" column="70" />
-        <mark key="." line="216" column="69" />
-        <mark key="^" line="216" column="70" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/src/main/java/com/autoai/welink/audiolive/HLSDecoder.java" timestamp="1594803582271">
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="0" />
+        <mark key="." line="223" column="0" />
+        <mark key="^" line="236" column="17" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/build.gradle" timestamp="1594777690715">
         <mark key="[" line="39" column="0" />
@@ -300,47 +295,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>aaaaaaaaa</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>aaaaaaaaa</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>deinit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAiYWFhYWFhYWFhIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJndWFuZ2JpbiIsICJzb3VyY2U6ICIgKyBobHNMYXN0TWVkaWFVUkwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAib25PdXRwdXRGb3JtYXRDaGFuZ2VkIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAib25FcnJvciIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAib25PdXRwdXRCdWZmZXJBdmFpbGFibGUiKTsK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgc3luY2hyb25pemVkIChleHRyYWN0b3JMb2NrKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAib25JbnB1dEJ1ZmZlckF2YWlsYWJsZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzeW5jaHJvbml6ZWQgKGV4dHJhY3RvckxvY2spIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgIm1lZGlhQ29kZWMuc3RhcnQgMjIyMjIyIik7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGhsc0Jhc2VVUkwgPSBudWxsOwogICAgcHJpdmF0ZSBTdHJpbmcgaGxzTGFzdE1lZGlhVVJMID0gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgIm1lZGlhQ29kZWMuc3RhcnQgMTExMTExMSIpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGhsc1VSTCA9IG51bGw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAidHJhY2tzOiAiICsgaGxzVHJhY2tzKTsK</text>
+        <text encoding="base64">ICAgICAgICBtZWRpYUV4dHJhY3Rvci5zdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAiZGVjb2RlVHJhY2tzIDMzMzMzMzMzMzMiKTsK</text>
+        <text encoding="base64">ICAgICAgICBtZWRpYUV4dHJhY3Rvci5yZWxlYXNlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAiZGVjb2RlVHJhY2tzIDIyMjIyMjIyMiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAib25PdXRwdXRGb3JtYXRDaGFuZ2VkIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
