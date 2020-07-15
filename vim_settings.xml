@@ -172,11 +172,11 @@
         <mark key="^" line="133" column="23" />
         <mark key="." line="133" column="22" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/src/main/java/com/autoai/welink/audiolive/HLSDecoder.java" timestamp="1594783088144">
-        <mark key="[" line="112" column="13" />
-        <mark key="]" line="113" column="12" />
-        <mark key="." line="113" column="11" />
-        <mark key="^" line="113" column="12" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/src/main/java/com/autoai/welink/audiolive/HLSDecoder.java" timestamp="1594795493868">
+        <mark key="[" line="236" column="37" />
+        <mark key="]" line="236" column="37" />
+        <mark key="^" line="218" column="40" />
+        <mark key="." line="236" column="37" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/build.gradle" timestamp="1594777690715">
         <mark key="[" line="39" column="0" />
@@ -184,11 +184,11 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1594777327900">
-        <mark key="[" line="40" column="78" />
-        <mark key="]" line="43" column="16" />
-        <mark key="." line="43" column="15" />
-        <mark key="^" line="43" column="16" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1594793875954">
+        <mark key="[" line="87" column="28" />
+        <mark key="]" line="87" column="28" />
+        <mark key="." line="87" column="27" />
+        <mark key="^" line="87" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/MyApplication/app/build.gradle" timestamp="1594772274396">
         <mark key="[" line="26" column="0" />
@@ -302,49 +302,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>onError(ERROR_AUDIO_FORMAT);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TWFsZm9ybWVkVVJMRXhjZXB0aW9uIA==</text>
+        <text>onError(ERROR_AUDIO_FORMAT);</text>
       </register>
       <register name="/" type="4">
         <text>deinit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmaW5hbCBpbnQgRVJST1JfVVJMX0ZPUk1BVCA9IDA7IC8vdXJs5qC85byP6ZSZ6K+vCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RvcCgpOwogICAgICAgICAgICBzeW5jaHJvbml6ZWQgKGxpc3RlbmVyTG9jaykgewogICAgICAgICAgICAgICAgaWYgKGxpc3RlbmVyICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICBsaXN0ZW5lci5vbkVycm9yKEVSUk9SX0dFVF9BVURJTyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBvbkxpbnN0ZW5lcigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>catch (MalformedURLException e) {
-    }
-    }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdG9wKCk7CiAgICAgICAgICAgICAgICAgICAgc3luY2hyb25pemVkIChsaXN0ZW5lckxvY2spIHsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGxpc3RlbmVyICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpc3RlbmVyLm9uRXJyb3IoRVJST1JfR0VUX0FVRElPKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobGlzdGVuZXIpCiAgICAgICAgICAgIGxpc3RlbmVyLm9uRXJyb3IoRVJST1JfVVJMX0ZPUk1BVCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE1hbGZvcm1lZFVSTEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdWRpb1RyYWNrLndyaXRlKGJ5dGVCdWZmZXIsIGluZm8uc2l6ZSwgQXVkaW9UcmFjay5XUklURV9OT05fQkxPQ0tJTkcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmFubm90YXRpb24uTm9uTnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKG1lZGlhQ29kZWMgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWVkaWFDb2RlYyA9IE1lZGlhQ29kZWMuY3JlYXRlRGVjb2RlckJ5VHlwZShtaW5lKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1lZGlhQ29kZWMuY29uZmlndXJlKG1lZGlhRm9ybWF0LCBudWxsLCBudWxsLCAwKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxpc3RlbmVyICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBobHNMYXN0TWVkaWFVUkwgPSBobHNCYXNlVVJMICsgIi8iICsgaGxzVHJhY2tzLmdldCgwKS5nZXRVcmkoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
