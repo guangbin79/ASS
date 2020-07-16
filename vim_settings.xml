@@ -191,11 +191,11 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="26" column="42" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1594881917890">
-        <mark key="[" line="92" column="75" />
-        <mark key="]" line="92" column="81" />
-        <mark key="." line="92" column="80" />
-        <mark key="^" line="92" column="81" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1594882429163">
+        <mark key="[" line="88" column="70" />
+        <mark key="]" line="88" column="73" />
+        <mark key="." line="88" column="72" />
+        <mark key="^" line="88" column="73" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/WLMusic.java" timestamp="1594881678442" />
     </filemarks>
@@ -304,11 +304,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgIjExMTExMTExMSIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aW50IA==</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text encoding="base64">aW50IA==</text>
       </register>
       <register name="/" type="4">
         <text>deinit</text>
