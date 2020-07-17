@@ -159,11 +159,11 @@
         <mark key="^" line="54" column="34" />
         <mark key="." line="379" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1594973450883">
-        <mark key="[" line="129" column="45" />
-        <mark key="]" line="129" column="54" />
-        <mark key="." line="129" column="53" />
-        <mark key="^" line="129" column="54" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1594974715861">
+        <mark key="[" line="100" column="27" />
+        <mark key="]" line="100" column="27" />
+        <mark key="." line="100" column="26" />
+        <mark key="^" line="100" column="27" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/proguard-rules.pro" timestamp="1594971688580">
         <mark key="[" line="22" column="54" />
@@ -286,8 +286,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>bbbbbbbbb</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQW5GaWxlTG9nLmUoImd1YW5nYmluIiwgIjIyMjIyMjIyMjIiKTsK</text>
       </register>
       <register name="-" type="4">
         <text>bbbbbbbbb</text>
@@ -296,7 +296,7 @@
         <text>deinit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQW5GaWxlTG9nLmUoImd1YW5nYmluIiwgImJiYmJiYmJiYiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQW5GaWxlTG9nLmUoImd1YW5nYmluIiwgIjIyMjIyMjIyMjIiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
