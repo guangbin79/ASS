@@ -104,11 +104,11 @@
         <mark key="^" line="44" column="48" />
         <mark key="." line="44" column="47" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1594876261402">
-        <mark key="[" line="373" column="73" />
-        <mark key="]" line="373" column="75" />
-        <mark key="^" line="373" column="75" />
-        <mark key="." line="373" column="74" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1594948319680">
+        <mark key="[" line="285" column="65" />
+        <mark key="]" line="285" column="66" />
+        <mark key="^" line="285" column="66" />
+        <mark key="." line="285" column="65" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/statemanager/StateManager.java" timestamp="1594947677349">
         <mark key="[" line="212" column="28" />
@@ -182,10 +182,10 @@
         <mark key="]" line="26" column="42" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1594947092209">
-        <mark key="[" line="78" column="50" />
-        <mark key="]" line="78" column="51" />
-        <mark key="^" line="78" column="51" />
-        <mark key="." line="78" column="50" />
+        <mark key="[" line="9" column="50" />
+        <mark key="]" line="9" column="51" />
+        <mark key="^" line="9" column="51" />
+        <mark key="." line="9" column="50" />
       </file>
     </filemarks>
     <jumps>
