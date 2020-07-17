@@ -92,9 +92,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1594956645505">
+        <mark key="[" line="75" column="80" />
+        <mark key="]" line="75" column="80" />
+        <mark key="^" line="75" column="80" />
+        <mark key="." line="75" column="79" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/proguard-rules.pro" timestamp="1594964686351">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="44" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1594953603323">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/WIFI_v1.java" timestamp="1594955446107">
         <mark key="[" line="232" column="39" />
@@ -102,7 +111,6 @@
         <mark key="^" line="232" column="40" />
         <mark key="." line="232" column="39" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WeLinkCB.java" timestamp="1594968044114" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1594964612451">
         <mark key="[" line="419" column="43" />
         <mark key="]" line="419" column="54" />
@@ -121,35 +129,6 @@
         <mark key="." line="212" column="27" />
         <mark key="^" line="212" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/build.gradle" timestamp="1594969453385" />
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/statemanager/StateController.java" timestamp="1594947400811">
-        <mark key="[" line="32" column="77" />
-        <mark key="]" line="42" column="1" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="42" column="1" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1594967990840">
-        <mark key="[" line="366" column="0" />
-        <mark key="]" line="366" column="0" />
-        <mark key="^" line="54" column="34" />
-        <mark key="." line="366" column="0" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/java/lang/Throwable.java" timestamp="1594949647698" />
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/proguard-rules.pro" timestamp="1594964696243">
-        <mark key="[" line="22" column="36" />
-        <mark key="]" line="22" column="46" />
-        <mark key="." line="22" column="45" />
-        <mark key="^" line="22" column="46" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1594956645505">
-        <mark key="[" line="75" column="80" />
-        <mark key="]" line="75" column="80" />
-        <mark key="^" line="75" column="80" />
-        <mark key="." line="75" column="79" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1594953603323">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/AOA_v1.java" timestamp="1594955436667">
         <mark key="[" line="71" column="35" />
         <mark key="]" line="71" column="36" />
@@ -162,11 +141,11 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1594969049594">
-        <mark key="[" line="404" column="24" />
-        <mark key="]" line="404" column="30" />
-        <mark key="." line="404" column="29" />
-        <mark key="^" line="404" column="30" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/statemanager/StateController.java" timestamp="1594947400811">
+        <mark key="[" line="32" column="77" />
+        <mark key="]" line="42" column="1" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="42" column="1" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/utiliy/WeinkCB.java" timestamp="1594967985593">
         <mark key="[" line="3" column="0" />
@@ -180,11 +159,23 @@
         <mark key="." line="135" column="24" />
         <mark key="^" line="135" column="25" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1594967990840">
+        <mark key="[" line="379" column="0" />
+        <mark key="]" line="379" column="0" />
+        <mark key="^" line="54" column="34" />
+        <mark key="." line="379" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/proguard-rules.pro" timestamp="1594968076152">
         <mark key="[" line="22" column="54" />
         <mark key="]" line="22" column="53" />
         <mark key="^" line="22" column="53" />
         <mark key="." line="22" column="52" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/proguard-rules.pro" timestamp="1594970960191">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1594968006671">
         <mark key="[" line="0" column="0" />
