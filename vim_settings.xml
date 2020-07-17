@@ -116,11 +116,11 @@
         <mark key="^" line="222" column="53" />
         <mark key="." line="222" column="52" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/statemanager/AppState.java" timestamp="1594890686785">
-        <mark key="[" line="40" column="37" />
-        <mark key="]" line="40" column="48" />
-        <mark key="^" line="40" column="48" />
-        <mark key="." line="40" column="47" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/statemanager/AppState.java" timestamp="1594892264065">
+        <mark key="[" line="46" column="37" />
+        <mark key="]" line="46" column="46" />
+        <mark key="^" line="46" column="46" />
+        <mark key="." line="46" column="45" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/server/code/Client.java" timestamp="1594818675514">
         <mark key="[" line="55" column="38" />
@@ -295,16 +295,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>33333333333</text>
+        <text>44444444444</text>
       </register>
       <register name="-" type="4">
-        <text>33333333333</text>
+        <text>44444444444</text>
       </register>
       <register name="/" type="4">
         <text>deinit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBBbkZpbGVMb2cuZSgiZ3VhbmdiaW4iLCAiMzMzMzMzMzMzMzMiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQW5GaWxlTG9nLmUoImd1YW5nYmluIiwgIjQ0NDQ0NDQ0NDQ0Iik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
