@@ -146,6 +146,12 @@
         <mark key="." line="9" column="36" />
         <mark key="^" line="9" column="37" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1594956409080">
+        <mark key="[" line="55" column="70" />
+        <mark key="]" line="55" column="69" />
+        <mark key="^" line="55" column="69" />
+        <mark key="." line="55" column="68" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/protocol/MusicProtocol.java" timestamp="1594890308965" />
       <file name="/Dummy.txt" timestamp="1594953603323">
         <mark key="[" line="0" column="0" />
@@ -292,10 +298,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>5 * 3</text>
+        <text>ACCESS_NETWORK_STATE、WRITE_EXTERNAL_STORAGE</text>
       </register>
       <register name="-" type="4">
-        <text>5 * 3</text>
+        <text>ACCESS_NETWORK_STATE、WRITE_EXTERNAL_STORAGE</text>
       </register>
       <register name="/" type="4">
         <text>deinit</text>
