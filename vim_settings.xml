@@ -130,6 +130,12 @@
         <mark key="^" line="199" column="87" />
         <mark key="." line="199" column="86" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/res/values/strings.xml" timestamp="1595230638994">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="29" />
+        <mark key="." line="11" column="28" />
+        <mark key="^" line="11" column="29" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/build.gradle" timestamp="1595225086027">
         <mark key="[" line="11" column="5" />
         <mark key="]" line="16" column="0" />
@@ -188,7 +194,12 @@
         <mark key="^" line="33" column="98" />
         <mark key="." line="33" column="97" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1595229508182" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1595230675720">
+        <mark key="[" line="83" column="52" />
+        <mark key="]" line="83" column="93" />
+        <mark key="^" line="83" column="93" />
+        <mark key="." line="83" column="92" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="108" column="0" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/auto/hardwarehub/BLEConnector.java" />
@@ -295,17 +306,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;http://rtmpcnr003.cnr.cn/live/yyzs/playlist.m3u8&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;http://rtmpcnr003.cnr.cn/live/yyzs/playlist.m3u8&quot;</text>
       </register>
       <register name="/" type="4">
         <text>deinit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBNQVhfVkVSID0gMTsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBNSU5fVkVSID0gMTsK</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYXVkaW9fZXJyb3IiPueUteWPsOebtOaSremUmeivrzwvc3RyaW5nPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
