@@ -181,10 +181,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1595233655439">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1595234317596">
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="148" column="17" />
+        <mark key="." line="147" column="0" />
+        <mark key="^" line="86" column="39" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/Transmisson.java" timestamp="1595226907603">
         <mark key="[" line="173" column="0" />
@@ -304,7 +305,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd2xNdXNpYy51cGRhdGVJRDMobnVsbCwgZ2V0UmVzb3VyY2VzKCkuZ2V0U3RyaW5nKFIuc3RyaW5nLnJhZGlvX3RpdGxlKSwgbnVsbCwgbnVsbCwgbnVsbCwgSW50ZWdlci5NQVhfVkFMVUUsIG51bGwpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -313,7 +314,7 @@
         <text>deinit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmluYWwgQnV0dG9uIGF1ZGlvX2J1dHRvbiA9IHdsRGlhbG9nLmZpbmRWaWV3QnlJZChSLmlkLmF1ZGlvX2J1dHRvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd2xNdXNpYy51cGRhdGVJRDMobnVsbCwgZ2V0UmVzb3VyY2VzKCkuZ2V0U3RyaW5nKFIuc3RyaW5nLnJhZGlvX3RpdGxlKSwgbnVsbCwgbnVsbCwgbnVsbCwgSW50ZWdlci5NQVhfVkFMVUUsIG51bGwpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
