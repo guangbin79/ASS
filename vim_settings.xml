@@ -181,11 +181,10 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/proguard-rules.pro" timestamp="1594971132717">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/proguard-rules.pro" timestamp="1595206802762">
         <mark key="[" line="21" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1594968006671">
         <mark key="[" line="0" column="0" />
@@ -296,8 +295,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>proguard</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>proguard</text>
@@ -309,7 +308,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQW5GaWxlTG9nLmUoImJsZS1zY2FuIiwgImRldmljZSBjb25uZWN0ZWQiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LXJlcGFja2FnZWNsYXNzZXMgY29tLmF1dG9haS53ZWxpbmsuY2hhbm5lbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -318,30 +317,30 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LWtlZXAgcHVibGljIGNsYXNzIGNvbS5hdXRvYWkud2VsaW5rLmNoYW5uZWwuV0xDaGFubmVsTGlzdGVuZXIkQ29uZmlnIHsgcHVibGljICo7IH0K</text>
+        <text encoding="base64">LWtlZXAgcHVibGljIGludGVyZmFjZSBjb20uYXV0b2FpLndlbGluay5jaGFubmVsLldMQ2hhbm5lbCRXZUxpbmtDQiB7IHB1YmxpYyAqOyB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LWtlZXAgcHVibGljIGludGVyZmFjZSBjb20uYXV0b2FpLndlbGluay5jaGFubmVsLldMQ2hhbm5lbExpc3RlbmVyIHsgcHVibGljICo7IH0K</text>
+        <text encoding="base64">LXJlcGFja2FnZWNsYXNzZXMgY29tLmF1dG9haS53ZWxpbmsuY2hhbm5lbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LWtlZXAgcHVibGljIGNsYXNzIGNvbS5hdXRvYWkud2VsaW5rLmNoYW5uZWwuV0xDaGFubmVsIHsgcHVibGljICo7IH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">LWtlZXAgcHVibGljIGNsYXNzIGNvbS5hdXRvYWkud2VsaW5rLmNoYW5uZWwuV0xDaGFubmVsTGlzdGVuZXIkQ29uZmlnIHsgcHVibGljICo7IH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LWtlZXAgcHVibGljIGludGVyZmFjZSBjb20uYXV0b2FpLndlbGluay5jaGFubmVsLldMQ2hhbm5lbExpc3RlbmVyIHsgcHVibGljICo7IH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">LWtlZXAgcHVibGljIGNsYXNzIGNvbS5hdXRvYWkud2VsaW5rLmNoYW5uZWwuV0xDaGFubmVsIHsgcHVibGljICo7IH0K</text>
+      </register>
+      <register name="9" type="2">
         <text>-keep public class com.autoai.welink.channel.WLChannel { public *; }
 -keep public interface com.autoai.welink.channel.WLChannel$WeLinkCB { public *; }
 -keep public interface com.autoai.welink.channel.WLChannelListener { public *; }
 -keep public class com.autoai.welink.channel.WLChannelListener$Config { public *; }
 
 -repackageclasses com.autoai.welink.channel</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQW5GaWxlTG9nLmUoImJsZS1zY2FuIiwgInNlcnZpY2UgY29ubmVjdGluZyIpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQW5GaWxlTG9nLmUoImJsZS1zY2FuIiwgInNlcnZpY2UgY29ubmVjdGluZyIpOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
