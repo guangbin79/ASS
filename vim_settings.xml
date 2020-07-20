@@ -123,6 +123,11 @@
         <mark key="^" line="286" column="53" />
         <mark key="." line="286" column="52" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/consumer-rules.pro" timestamp="1595206402753">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/statemanager/StateManager.java" timestamp="1594947677349">
         <mark key="[" line="212" column="28" />
         <mark key="]" line="212" column="28" />
@@ -134,6 +139,12 @@
         <mark key="]" line="71" column="36" />
         <mark key="^" line="71" column="36" />
         <mark key="." line="71" column="35" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/build.gradle" timestamp="1595206487013">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="39" />
+        <mark key="^" line="14" column="39" />
+        <mark key="." line="14" column="38" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WeinkCB.java" timestamp="1594968018430">
         <mark key="[" line="2" column="15" />
@@ -165,11 +176,10 @@
         <mark key="^" line="39" column="57" />
         <mark key="." line="39" column="56" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/proguard-rules.pro" timestamp="1594971688580">
-        <mark key="[" line="22" column="54" />
-        <mark key="]" line="22" column="53" />
-        <mark key="^" line="22" column="53" />
-        <mark key="." line="22" column="52" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/proguard-rules.pro" timestamp="1595206112481">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/proguard-rules.pro" timestamp="1594971132717">
         <mark key="[" line="21" column="0" />
@@ -286,11 +296,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQW5GaWxlTG9nLmUoImJsZS1zY2FuIiwgImRldmljZSBjb25uZWN0ZWQiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>proguard</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2VydmljZSA=</text>
+        <text>proguard</text>
       </register>
       <register name="/" type="4">
         <text>deinit</text>
@@ -299,34 +309,39 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQW5GaWxlTG9nLmUoImJsZS1zY2FuIiwgImRldmljZSBjb25uZWN0ZWQiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQW5GaWxlTG9nLmUoImJsZS1zY2FuIiwgInNlcnZpY2UgY29ubmVjdGluZyIpOwo=</text>
+        <text encoding="base64">LXJlcGFja2FnZWNsYXNzZXMgY29tLmF1dG9haS53ZWxpbmsuY2hhbm5lbAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQW5GaWxlTG9nLmUoImJsZS1zY2FuIiwgInNlcnZpY2UgY29ubmVjdGluZyIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LWtlZXAgcHVibGljIGNsYXNzIGNvbS5hdXRvYWkud2VsaW5rLmNoYW5uZWwuV0xDaGFubmVsTGlzdGVuZXIkQ29uZmlnIHsgcHVibGljICo7IH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LWtlZXAgcHVibGljIGludGVyZmFjZSBjb20uYXV0b2FpLndlbGluay5jaGFubmVsLldMQ2hhbm5lbExpc3RlbmVyIHsgcHVibGljICo7IH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2lnbmF0dXJlIHdyaXRlIHN1Y2Nlc3MK</text>
+        <text encoding="base64">LWtlZXAgcHVibGljIGNsYXNzIGNvbS5hdXRvYWkud2VsaW5rLmNoYW5uZWwuV0xDaGFubmVsIHsgcHVibGljICo7IH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBbkZpbGVMb2cuZSgiYmxlLXNjYW4iLCAidmVyc2lvbjogIiArIHZlcnNpb24pOwo=</text>
+        <text>-keep public class com.autoai.welink.channel.WLChannel { public *; }
+-keep public interface com.autoai.welink.channel.WLChannel$WeLinkCB { public *; }
+-keep public interface com.autoai.welink.channel.WLChannelListener { public *; }
+-keep public class com.autoai.welink.channel.WLChannelListener$Config { public *; }
+
+-repackageclasses com.autoai.welink.channel</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFuRmlsZUxvZy5lKCJibGUtc2NhbiIsICJ2ZXJzaW9uIHJlYWRpbmciKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQW5GaWxlTG9nLmUoImJsZS1zY2FuIiwgInNlcnZpY2UgY29ubmVjdGluZyIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQW5GaWxlTG9nLmUoImJsZS1zY2FuIiwgInNlcnZpY2UgY29ubmVjdGluZyIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQW5GaWxlTG9nLmUoImJsZS1zY2FuIiwgInNlcnZpY2UgY29ubmVjdGluZyIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
