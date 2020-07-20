@@ -103,15 +103,6 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594953603323">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/WIFI_v1.java" timestamp="1594955446107">
-        <mark key="[" line="232" column="39" />
-        <mark key="]" line="232" column="40" />
-        <mark key="^" line="232" column="40" />
-        <mark key="." line="232" column="39" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1594964612451">
         <mark key="[" line="419" column="43" />
         <mark key="]" line="419" column="54" />
@@ -165,6 +156,12 @@
         <mark key="." line="383" column="52" />
         <mark key="^" line="383" column="53" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/Connector.java" timestamp="1595215790219">
+        <mark key="[" line="89" column="27" />
+        <mark key="]" line="89" column="38" />
+        <mark key="^" line="89" column="38" />
+        <mark key="." line="89" column="37" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1595211749238">
         <mark key="^" line="225" column="12" />
       </file>
@@ -187,6 +184,12 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/Transmisson.java" timestamp="1595215839109">
+        <mark key="[" line="119" column="46" />
+        <mark key="]" line="119" column="47" />
+        <mark key="." line="119" column="47" />
+        <mark key="^" line="119" column="47" />
       </file>
       <file name="/fragment.java" timestamp="1594968006671">
         <mark key="[" line="0" column="0" />
@@ -303,17 +306,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHRyeSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgc2xlZXAoaGxzTGFzdE1lZGlhRHVyYXRpb24pOwovLyAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewovLyAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybjsKLy8gICAgICAgICAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>111111111</text>
       </register>
       <register name="-" type="4">
-        <text>mac</text>
+        <text>111111111</text>
       </register>
       <register name="/" type="4">
         <text>deinit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzY2FuRmlsdGVyTGlzdC5hZGQobmV3IFNjYW5GaWx0ZXIuQnVpbGRlcigpLnNldERldmljZU5hbWUobmFtZSkuYnVpbGQoKSk7Cg==</text>
+        <text encoding="base64">CQkJTG9nLmUoImd1YW5nYmluIiwgIjExMTExMTExMSIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIHRyeSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgc2xlZXAoaGxzTGFzdE1lZGlhRHVyYXRpb24pOwovLyAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewovLyAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybjsKLy8gICAgICAgICAgICAgICAgICAgIH0K</text>
