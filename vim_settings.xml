@@ -110,6 +110,9 @@
         <mark key="." line="4" column="11" />
         <mark key="^" line="4" column="12" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/statemanager/StateManager.java" timestamp="1595226856899">
+        <mark key="[" line="571" column="5" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/proguard-rules.pro" timestamp="1595226031636">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -175,14 +178,9 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/proguard-rules.pro" timestamp="1595206802762">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/Transmisson.java" timestamp="1595225450360">
-        <mark key="[" line="115" column="54" />
-        <mark key="]" line="115" column="61" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/Transmisson.java" timestamp="1595226907603">
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="174" column="41" />
         <mark key="." line="115" column="60" />
         <mark key="^" line="115" column="61" />
       </file>
@@ -304,7 +302,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBNQVhfVkVSID0gMTsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBNSU5fVkVSID0gMTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -313,7 +311,7 @@
         <text>deinit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LWtlZXAgY2xhc3MgKiouUiQqIHsqO30K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBNQVhfVkVSID0gMTsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBNSU5fVkVSID0gMTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
