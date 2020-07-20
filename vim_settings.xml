@@ -143,11 +143,11 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/src/main/java/com/autoai/welink/audiolive/HLSDecoder.java" timestamp="1595231795882">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/src/main/java/com/autoai/welink/audiolive/HLSDecoder.java" timestamp="1595232159663">
         <mark key="'" line="354" column="8" />
-        <mark key="[" line="321" column="0" />
-        <mark key="]" line="321" column="30" />
-        <mark key="." line="321" column="0" />
+        <mark key="[" line="40" column="11" />
+        <mark key="]" line="40" column="11" />
+        <mark key="." line="40" column="11" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1595211749238">
         <mark key="^" line="225" column="12" />
@@ -181,11 +181,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1595230675720">
-        <mark key="[" line="83" column="52" />
-        <mark key="]" line="83" column="93" />
-        <mark key="^" line="83" column="93" />
-        <mark key="." line="83" column="92" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1595232131282">
+        <mark key="[" line="95" column="39" />
+        <mark key="]" line="95" column="45" />
+        <mark key="^" line="95" column="45" />
+        <mark key="." line="95" column="44" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/Transmisson.java" timestamp="1595226907603">
         <mark key="[" line="173" column="0" />
@@ -304,11 +304,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWxlYXNlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dm9pZCA=</text>
       </register>
       <register name="-" type="4">
-        <text>stop</text>
+        <text encoding="base64">dm9pZCA=</text>
       </register>
       <register name="/" type="4">
         <text>deinit</text>
