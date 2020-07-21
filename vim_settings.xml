@@ -96,9 +96,9 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="32" column="48" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/MusicProtocol.java" timestamp="1595296808963">
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/MusicProtocol.java" timestamp="1595296879667">
         <mark key="[" line="167" column="0" />
-        <mark key="]" line="168" column="16" />
+        <mark key="]" line="167" column="26" />
         <mark key="." line="167" column="0" />
         <mark key="^" line="170" column="90" />
       </file>
@@ -111,6 +111,11 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/protocol/MicrophoneProtocol.java" timestamp="1595296884358">
+        <mark key="[" line="24" column="55" />
+        <mark key="]" line="21" column="26" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/build.gradle" timestamp="1595226207570">
         <mark key="[" line="14" column="31" />
@@ -147,9 +152,6 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1595211749238">
-        <mark key="^" line="225" column="12" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/build.gradle" timestamp="1595224011754">
         <mark key="[" line="21" column="9" />
@@ -305,7 +307,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBjb3VudCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGNvdW50ID0gMDsK</text>
       </register>
       <register name="-" type="4">
         <text>44444444</text>
@@ -314,7 +316,7 @@
         <text>deinit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAiNDQ0NDQ0NDQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGNvdW50ID0gMDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBjb3VudCA9IDA7Cg==</text>
