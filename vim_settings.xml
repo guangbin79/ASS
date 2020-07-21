@@ -92,11 +92,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/WIFI_v1.java" timestamp="1595310838499">
-        <mark key="[" line="229" column="0" />
-        <mark key="]" line="229" column="0" />
-        <mark key="." line="229" column="0" />
-        <mark key="^" line="228" column="24" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/WIFI_v1.java" timestamp="1595311445217">
+        <mark key="[" line="226" column="40" />
+        <mark key="]" line="226" column="40" />
+        <mark key="." line="226" column="39" />
+        <mark key="^" line="226" column="40" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/statemanager/StateManager.java" timestamp="1595226939744">
         <mark key="[" line="573" column="0" />
@@ -133,11 +133,11 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1595311233775">
-        <mark key="[" line="295" column="24" />
-        <mark key="]" line="295" column="23" />
-        <mark key="^" line="295" column="23" />
-        <mark key="." line="295" column="22" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1595311842336">
+        <mark key="[" line="297" column="58" />
+        <mark key="]" line="297" column="59" />
+        <mark key="^" line="297" column="59" />
+        <mark key="." line="297" column="58" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1595227892225">
         <mark key="[" line="199" column="75" />
@@ -306,7 +306,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgic2VuZF9wY20iLCAic2l6ZTogIiArIGRhdGEubGVuZ3RoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>h</text>
@@ -315,7 +315,7 @@
         <text>deinit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgImNjOiAiICsgY2MgKyAiLCBzaXplOiAiICsgYnl0ZXMubGVuZ3RoICsgOCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgic2VuZF9wY20iLCAic2l6ZTogIiArIGRhdGEubGVuZ3RoKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
