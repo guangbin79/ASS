@@ -92,12 +92,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/WIFI_v1.java" timestamp="1595484866181">
-        <mark key="[" line="274" column="56" />
-        <mark key="]" line="274" column="57" />
-        <mark key="." line="274" column="56" />
-        <mark key="^" line="274" column="57" />
-      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/WIFI_v1.java" timestamp="1595485675175" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/MusicProtocol.java" timestamp="1595308107386">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
