@@ -92,11 +92,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/WIFI_v1.java" timestamp="1595474206149">
-        <mark key="[" line="24" column="50" />
-        <mark key="]" line="24" column="54" />
-        <mark key="." line="24" column="53" />
-        <mark key="^" line="24" column="54" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/WIFI_v1.java" timestamp="1595484866181">
+        <mark key="[" line="274" column="56" />
+        <mark key="]" line="274" column="57" />
+        <mark key="." line="274" column="56" />
+        <mark key="^" line="274" column="57" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/MusicProtocol.java" timestamp="1595308107386">
         <mark key="[" line="3" column="0" />
@@ -133,11 +133,11 @@
         <mark key="." line="30" column="7" />
         <mark key="^" line="30" column="8" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/AOA_v1.java" timestamp="1595474198302">
-        <mark key="[" line="16" column="49" />
-        <mark key="]" line="16" column="53" />
-        <mark key="." line="16" column="52" />
-        <mark key="^" line="16" column="53" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/AOA_v1.java" timestamp="1595484809870">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="83" />
+        <mark key="." line="99" column="79" />
+        <mark key="^" line="99" column="80" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1595471011658">
         <mark key="[" line="204" column="0" />
@@ -311,16 +311,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFuRmlsZUxvZy5lKCJ3aWZpLT5hb2EiLCAiYW9hLXNlbmRlciBleGNlcHRpb24hISEhISEiKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>maxCacheCount</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>deinit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgc2xlZXAoMTApOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFuRmlsZUxvZy5lKCJ3aWZpLT5hb2EiLCAiYW9hLXNlbmRlciBleGNlcHRpb24hISEhISEiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
