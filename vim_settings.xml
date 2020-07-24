@@ -128,6 +128,7 @@
         <mark key="." line="538" column="63" />
         <mark key="^" line="538" column="64" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1595568913994" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Wifi2AoaBuffer_v1.java" timestamp="1595474178860">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -181,12 +182,6 @@
         <mark key="^" line="259" column="58" />
         <mark key="." line="259" column="57" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/HeadUnitSpec.java" timestamp="1595310871129">
-        <mark key="[" line="42" column="77" />
-        <mark key="]" line="42" column="77" />
-        <mark key="^" line="42" column="77" />
-        <mark key="." line="42" column="76" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Aoa2WifiBuffer_v1.java" timestamp="1595486138140">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -205,6 +200,12 @@
         <mark key="]" line="59" column="16" />
         <mark key="." line="59" column="15" />
         <mark key="^" line="59" column="16" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/WLMusic.java" timestamp="1595569007269">
+        <mark key="[" line="68" column="27" />
+        <mark key="]" line="68" column="35" />
+        <mark key="^" line="68" column="35" />
+        <mark key="." line="68" column="34" />
       </file>
     </filemarks>
     <jumps>
