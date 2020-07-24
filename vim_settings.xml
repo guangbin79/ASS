@@ -145,11 +145,11 @@
         <mark key="." line="105" column="51" />
         <mark key="^" line="105" column="52" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHubListener.java" timestamp="1595552610531">
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="22" />
-        <mark key="^" line="8" column="23" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHubListener.java" timestamp="1595553193854">
+        <mark key="[" line="18" column="24" />
+        <mark key="]" line="18" column="30" />
+        <mark key="." line="18" column="29" />
+        <mark key="^" line="18" column="30" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/xml/usb_accessory_filter.xml" timestamp="1595494206674">
         <mark key="[" line="4" column="77" />
@@ -174,11 +174,11 @@
         <mark key="." line="190" column="8" />
         <mark key="^" line="190" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1595552749019">
-        <mark key="[" line="212" column="52" />
-        <mark key="]" line="212" column="53" />
-        <mark key="^" line="71" column="41" />
-        <mark key="." line="212" column="53" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1595553858755">
+        <mark key="[" line="275" column="67" />
+        <mark key="]" line="277" column="25" />
+        <mark key="^" line="277" column="25" />
+        <mark key="." line="277" column="24" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/HeadUnitSpec.java" timestamp="1595310871129">
         <mark key="[" line="42" column="77" />
@@ -317,17 +317,19 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsaXN0ZW5lci5vbkJMRVN0YXR1c0NoYW5nZWQoNyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>synchronized (listenerLock) {
+                            if (listener != null) {</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">V0xIYXJkd2FyZUh1Ykxpc3RlbmVyIA==</text>
+        <text>连接</text>
       </register>
       <register name="/" type="4">
         <text>deinit</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsaXN0ZW5lci5vbkJMRVN0YXR1c0NoYW5nZWQoNyk7Cg==</text>
+      <register name="0" type="4">
+        <text>synchronized (listenerLock) {
+                            if (listener != null) {</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -336,32 +338,32 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQkxF5omr5o+P54q25oCBCiAgICAgKiBAcGFyYW0gc3RhdHVzIGJsZeeKtuaAgQogICAgICovCiAgICB2b2lkIG9uQkxFU3RhdHVzQ2hhbmdlZChpbnQgc3RhdHVzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaXN0ZW5lciA9IG51bGw7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQkxF5omr5o+P54q25oCBCiAgICAgKiBAcGFyYW0gc3RhdHVzIGJsZeeKtuaAgQogICAgICovCiAgICB2b2lkIG9uQkxFU3RhdHVzQ2hhbmdlZChpbnQgc3RhdHVzKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>synchronized (receiveDataCBLock) {
                                     if (connectStatus != null) {
                                         connectStatus.onConnectFailed();
                                     }
                                 }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXRyeToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
