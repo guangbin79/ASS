@@ -92,11 +92,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1595831165479">
-        <mark key="[" line="129" column="14" />
-        <mark key="]" line="129" column="14" />
-        <mark key="^" line="129" column="14" />
-        <mark key="." line="129" column="13" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1595831392329">
+        <mark key="[" line="129" column="34" />
+        <mark key="]" line="129" column="36" />
+        <mark key="^" line="129" column="36" />
+        <mark key="." line="129" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHub.java" timestamp="1595552285839">
         <mark key="[" line="50" column="109" />
@@ -310,8 +310,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAicXEgYWlkbCIpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
