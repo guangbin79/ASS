@@ -92,11 +92,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1595836100042">
-        <mark key="[" line="125" column="27" />
-        <mark key="]" line="125" column="52" />
-        <mark key="^" line="124" column="69" />
-        <mark key="." line="126" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1595838061425">
+        <mark key="[" line="127" column="6" />
+        <mark key="]" line="141" column="49" />
+        <mark key="." line="132" column="38" />
+        <mark key="^" line="132" column="39" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHub.java" timestamp="1595552285839">
         <mark key="[" line="50" column="109" />
@@ -311,46 +311,47 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>android.intent.action.MAIN</text>
+        <text encoding="base64">ICBJbnRlbnQgaW50ZW50ID0gbmV3IEludGVudCgpOwogICAgICAgIGludGVudC5zZXRDb21wb25lbnQobmV3IENvbXBvbmVudE5hbWUoImNvbS50ZW5jZW50LnFxbXVzaWMiLCAiY29tLnRlbmNlbnQucXFtdXNpYy50aGlyZC5hcGkuUVFNdXNpY0FwaVNlcnZpY2UiKSk7CiAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgInFxIGFpZGwgMSIpOwoKICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAicXEgYWlkbCAyIik7CiAgICAgICAgCiAgICAgICAgYm9vbGVhbiByZXN1bHQgPSBnZXRBcHBsaWNhdGlvbkNvbnRleHQoKS5iaW5kU2VydmljZShpbnRlbnQsIG5ldyBTZXJ2aWNlQ29ubmVjdGlvbigpIHsKICAgICAgICAgICAgcHVibGljIHZvaWQgb25TZXJ2aWNlQ29ubmVjdGVkKENvbXBvbmVudE5hbWUgdmFyMSwgSUJpbmRlciB2YXIyKSB7CiAgICAgICAgICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAicXEgY29ubmVjdGVkIik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcHVibGljIHZvaWQgb25TZXJ2aWNlRGlzY29ubmVjdGVkKENvbXBvbmVudE5hbWUgdmFyMSkgewogICAgICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgInFxIGRpc2Nvbm5lY3RlZCIpOwogICAgICAgICAgICB9CiAgICAgICAgfSwgQ29udGV4dC5CSU5EX0FVVE9fQ1JFQVRFKTsKICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAicXEgYWlkbCAtLSAiICsgcmVzdWx0KTs=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;com.tencent.qqmusic.third.api.QQMusicApiService&quot;));</text>
+        <text>bindService</text>
       </register>
       <register name="/" type="4">
         <text>deinit</text>
       </register>
       <register name="0" type="4">
-        <text>android.intent.action.MAIN</text>
+        <text encoding="base64">ICBJbnRlbnQgaW50ZW50ID0gbmV3IEludGVudCgpOwogICAgICAgIGludGVudC5zZXRDb21wb25lbnQobmV3IENvbXBvbmVudE5hbWUoImNvbS50ZW5jZW50LnFxbXVzaWMiLCAiY29tLnRlbmNlbnQucXFtdXNpYy50aGlyZC5hcGkuUVFNdXNpY0FwaVNlcnZpY2UiKSk7CiAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgInFxIGFpZGwgMSIpOwoKICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAicXEgYWlkbCAyIik7CiAgICAgICAgCiAgICAgICAgYm9vbGVhbiByZXN1bHQgPSBnZXRBcHBsaWNhdGlvbkNvbnRleHQoKS5iaW5kU2VydmljZShpbnRlbnQsIG5ldyBTZXJ2aWNlQ29ubmVjdGlvbigpIHsKICAgICAgICAgICAgcHVibGljIHZvaWQgb25TZXJ2aWNlQ29ubmVjdGVkKENvbXBvbmVudE5hbWUgdmFyMSwgSUJpbmRlciB2YXIyKSB7CiAgICAgICAgICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAicXEgY29ubmVjdGVkIik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcHVibGljIHZvaWQgb25TZXJ2aWNlRGlzY29ubmVjdGVkKENvbXBvbmVudE5hbWUgdmFyMSkgewogICAgICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgInFxIGRpc2Nvbm5lY3RlZCIpOwogICAgICAgICAgICB9CiAgICAgICAgfSwgQ29udGV4dC5CSU5EX0FVVE9fQ1JFQVRFKTsKICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAicXEgYWlkbCAtLSAiICsgcmVzdWx0KTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlbnQxLnB1dEV4dHJhKCJ1c2VyIixHQ0FwcGxpY2F0aW9uLmdldExvY2FsVXNlcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdGFydAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlbnQxLnNldENvbXBvbmVudChjbik7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wb25lbnROYW1lIGNuID0gbmV3IENvbXBvbmVudE5hbWUoIuWMheWQjSIsICLpppbkuKphY3Rpdml0eSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRlbnQuc2V0Q29tcG9uZW50KG5ldyBDb21wb25lbnROYW1lKCJjb20udG5kcm9pZC5pbnRlbnQuYWN0aW9uLk1BSU4iKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICDljp/mlofpk77mjqXvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvc2t5eWFueXVqaWFuZ25hbi9qYXZhL2FydGljbGUvZGV0YWlscy83MjgxMDg2MQo=</text>
+      <register name="4" type="4">
+        <text>encent.qqmusic&quot;));
+        intent1.setAction(&quot;a</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLpDU0RO5Y2a5Li744CMc2t55rGf6aOO44CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qQ0MgNC4wIEJZLVNB54mI5p2D5Y2P6K6u77yM6L2s6L296K+36ZmE5LiK5Y6f5paH5Ye65aSE6ZO+5o6l5Y+K5pys5aOw5piO44CCCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRlbnQxLnB1dEV4dHJhKCJ1c2VyIixHQ0FwcGxpY2F0aW9uLmdldExvY2FsVXNlcigpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRlbnQxLnNldENvbXBvbmVudChjbik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydEFjdGl2aXRpZXMoKTsK</text>
+        <text encoding="base64">ICAgICAgICBDb21wb25lbnROYW1lIGNuID0gbmV3IENvbXBvbmVudE5hbWUoIuWMheWQjSIsICLpppbkuKphY3Rpdml0eSIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydEFjdGl2aXR5KGludGVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICDljp/mlofpk77mjqXvvJpodHRwczovL2Jsb2cuY3Nkbi5uZXQvc2t5eWFueXVqaWFuZ25hbi9qYXZhL2FydGljbGUvZGV0YWlscy83MjgxMDg2MQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydEFjdGl2aXR5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLpDU0RO5Y2a5Li744CMc2t55rGf6aOO44CN55qE5Y6f5Yib5paH56ug77yM6YG15b6qQ0MgNC4wIEJZLVNB54mI5p2D5Y2P6K6u77yM6L2s6L296K+36ZmE5LiK5Y6f5paH5Ye65aSE6ZO+5o6l5Y+K5pys5aOw5piO44CCCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
