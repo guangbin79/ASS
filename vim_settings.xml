@@ -128,11 +128,11 @@
         <mark key="." line="538" column="63" />
         <mark key="^" line="538" column="64" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1595838103215">
-        <mark key="[" line="102" column="141" />
-        <mark key="]" line="103" column="12" />
-        <mark key="." line="103" column="11" />
-        <mark key="^" line="103" column="12" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1595840175039">
+        <mark key="[" line="94" column="29" />
+        <mark key="]" line="94" column="29" />
+        <mark key="." line="94" column="28" />
+        <mark key="^" line="94" column="29" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Wifi2AoaBuffer_v1.java" timestamp="1595474178860">
         <mark key="[" line="12" column="0" />
@@ -311,10 +311,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICBJbnRlbnQgaW50ZW50ID0gbmV3IEludGVudCgpOwogICAgICAgIGludGVudC5zZXRDb21wb25lbnQobmV3IENvbXBvbmVudE5hbWUoImNvbS50ZW5jZW50LnFxbXVzaWMiLCAiY29tLnRlbmNlbnQucXFtdXNpYy50aGlyZC5hcGkuUVFNdXNpY0FwaVNlcnZpY2UiKSk7CiAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgInFxIGFpZGwgMSIpOwoKICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAicXEgYWlkbCAyIik7CiAgICAgICAgCiAgICAgICAgYm9vbGVhbiByZXN1bHQgPSBnZXRBcHBsaWNhdGlvbkNvbnRleHQoKS5iaW5kU2VydmljZShpbnRlbnQsIG5ldyBTZXJ2aWNlQ29ubmVjdGlvbigpIHsKICAgICAgICAgICAgcHVibGljIHZvaWQgb25TZXJ2aWNlQ29ubmVjdGVkKENvbXBvbmVudE5hbWUgdmFyMSwgSUJpbmRlciB2YXIyKSB7CiAgICAgICAgICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAicXEgY29ubmVjdGVkIik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcHVibGljIHZvaWQgb25TZXJ2aWNlRGlzY29ubmVjdGVkKENvbXBvbmVudE5hbWUgdmFyMSkgewogICAgICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgInFxIGRpc2Nvbm5lY3RlZCIpOwogICAgICAgICAgICB9CiAgICAgICAgfSwgQ29udGV4dC5CSU5EX0FVVE9fQ1JFQVRFKTsKICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAicXEgYWlkbCAtLSAiICsgcmVzdWx0KTs=</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>bindService</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>deinit</text>
