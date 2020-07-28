@@ -116,12 +116,11 @@
         <mark key="." line="538" column="63" />
         <mark key="^" line="538" column="64" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1595840313666">
-        <mark key="'" line="88" column="0" />
-        <mark key="[" line="346" column="161" />
-        <mark key="]" line="344" column="37" />
-        <mark key="." line="332" column="0" />
-        <mark key="^" line="88" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1595909038014">
+        <mark key="[" line="1378" column="64" />
+        <mark key="]" line="1378" column="64" />
+        <mark key="^" line="1378" column="64" />
+        <mark key="." line="1378" column="63" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHubListener.java" timestamp="1595554382692">
         <mark key="[" line="3" column="0" />
@@ -129,30 +128,30 @@
         <mark key="." line="18" column="29" />
         <mark key="^" line="18" column="30" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9904d0e713562667da09f9a63e79f039/jetified-wlchannel/jars/classes.jar!/com/autoai/welink/channel/WLChannel.class" timestamp="1595907471944">
+        <mark key="[" line="97" column="68" />
+        <mark key="]" line="97" column="68" />
+        <mark key="^" line="97" column="68" />
+        <mark key="." line="97" column="67" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1595569233649">
         <mark key="[" line="82" column="122" />
         <mark key="]" line="82" column="127" />
         <mark key="." line="82" column="126" />
         <mark key="^" line="82" column="127" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/AwakeLock.java" timestamp="1595901209948" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/AwakeLock.java" timestamp="1595909067047" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1595555515330">
         <mark key="[" line="259" column="72" />
         <mark key="]" line="259" column="58" />
         <mark key="^" line="259" column="58" />
         <mark key="." line="259" column="57" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Aoa2WifiBuffer_v1.java" timestamp="1595486138140">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="105" column="16" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1595838061425">
-        <mark key="[" line="127" column="6" />
-        <mark key="]" line="141" column="49" />
-        <mark key="." line="132" column="38" />
-        <mark key="^" line="132" column="39" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1595907579263">
+        <mark key="[" line="134" column="60" />
+        <mark key="]" line="134" column="60" />
+        <mark key="^" line="134" column="60" />
+        <mark key="." line="134" column="59" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHub.java" timestamp="1595552285839">
         <mark key="[" line="50" column="109" />
@@ -309,10 +308,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">aW50IA==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">aW50IA==</text>
       </register>
       <register name="/" type="4">
         <text>forground</text>
