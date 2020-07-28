@@ -117,12 +117,6 @@
         <mark key="^" line="153" column="36" />
         <mark key="." line="153" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/WLAOA.java" timestamp="1595322279281">
-        <mark key="[" line="127" column="19" />
-        <mark key="]" line="129" column="20" />
-        <mark key="." line="129" column="19" />
-        <mark key="^" line="129" column="20" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1595554405368">
         <mark key="[" line="537" column="38" />
         <mark key="]" line="538" column="64" />
@@ -182,6 +176,7 @@
         <mark key="." line="82" column="126" />
         <mark key="^" line="82" column="127" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/AwakeLock.java" timestamp="1595901209948" />
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1595555515330">
         <mark key="[" line="259" column="72" />
         <mark key="]" line="259" column="58" />
