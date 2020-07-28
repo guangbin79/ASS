@@ -98,7 +98,12 @@
         <mark key="^" line="26" column="51" />
         <mark key="." line="26" column="50" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/AndroidManifest.xml" timestamp="1595898483941" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/AndroidManifest.xml" timestamp="1595904332547">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="42" />
+        <mark key="^" line="15" column="42" />
+        <mark key="." line="15" column="41" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatformListener.java" timestamp="1595569135793">
         <mark key="[" line="153" column="28" />
         <mark key="]" line="153" column="36" />
@@ -303,11 +308,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJjb20uYXV0b2FpLndlbGluay5hdXRvIi8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>forground</text>
