@@ -110,11 +110,11 @@
         <mark key="^" line="153" column="36" />
         <mark key="." line="153" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1595910151061">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-        <mark key="^" line="111" column="13" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1595910952401">
+        <mark key="[" line="43" column="43" />
+        <mark key="]" line="43" column="43" />
+        <mark key="." line="43" column="43" />
+        <mark key="^" line="475" column="59" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1595910585013">
         <mark key="[" line="1382" column="0" />
@@ -313,16 +313,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>bbbbbbbbbbbbbb</text>
+        <text>1000 * 60 * 2</text>
       </register>
       <register name="-" type="4">
-        <text>bbbbbbbbbbbbbb</text>
+        <text>1000 * 60 * 2</text>
       </register>
       <register name="/" type="4">
         <text>forground</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAiYmJiYmJiYmJiYmJiYmIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAiYXdha2UgbG9jayAyMjIyMjIyMjIiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
