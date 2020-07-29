@@ -176,11 +176,10 @@
         <mark key="^" line="97" column="68" />
         <mark key="." line="97" column="67" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/AndroidManifest.xml" timestamp="1595903763531">
-        <mark key="[" line="3" column="57" />
-        <mark key="]" line="3" column="62" />
-        <mark key="." line="3" column="61" />
-        <mark key="^" line="3" column="62" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/AndroidManifest.xml" timestamp="1596007437822">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1595569233649">
         <mark key="[" line="82" column="122" />
@@ -317,8 +316,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICsgbmV3IFN0cmluZyhkYXRhKQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwZXJtaXNzaW9uPSJjb20uYXV0b2FpLndlbGluay5hdXRvIgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICsgbmV3IFN0cmluZyhkYXRhKQ==</text>
@@ -330,34 +329,34 @@
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGluaXQoaW50IHdpZHRoLCBpbnQgaGVpZ2h0LCBpbnQgZHBpLCBTdHJpbmcgdHlwZSkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkbyB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwZXJtaXNzaW9uPSJjb20uYXV0b2FpLndlbGluay5hdXRvIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IHdoaWxlIChjb25uZWN0U3RhdHVzICE9IG51bGwgJiYgKytjb3VudCA8PSBXUklURV9SRVRSWV9DT1VOVCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIDxwZXJtaXNzaW9uCiAgICAgICAgYW5kcm9pZDpuYW1lPSJjb20uYXV0b2FpLndlbGluay5hdXRvIgogICAgICAgIGFuZHJvaWQ6bGFiZWw9IldlTGluayBBdXRvIgogICAgICAgIGFuZHJvaWQ6cHJvdGVjdGlvbkxldmVsPSJub3JtYWwiIC8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY291bnQgPiBXUklURV9SRVRSWV9DT1VOVCkgewo=</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJjb20uYXV0b2FpLndlbGluay5hdXRvcHJveHkiLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzbGVlcCgxKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBpZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3luY2hyb25pemVkIChyZWNlaXZlRGF0YUNCTG9jaykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGNvbm5lY3RTdGF0dXMgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbm5lY3RTdGF0dXMub25Db25uZWN0RmFpbGVkKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkbyB7Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IHdoaWxlIChjb25uZWN0U3RhdHVzICE9IG51bGwgJiYgKytjb3VudCA8PSBXUklURV9SRVRSWV9DT1VOVCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
