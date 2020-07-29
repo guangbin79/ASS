@@ -104,11 +104,11 @@
         <mark key="^" line="91" column="164" />
         <mark key="." line="91" column="119" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/WIFI_v1.java" timestamp="1596009930253">
-        <mark key="[" line="287" column="28" />
-        <mark key="]" line="287" column="33" />
-        <mark key="^" line="287" column="33" />
-        <mark key="." line="287" column="32" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/WIFI_v1.java" timestamp="1596031762334">
+        <mark key="[" line="274" column="0" />
+        <mark key="]" line="274" column="75" />
+        <mark key="^" line="278" column="55" />
+        <mark key="." line="274" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/AndroidManifest.xml" timestamp="1595912540748">
         <mark key="[" line="24" column="43" />
@@ -146,11 +146,11 @@
         <mark key="." line="18" column="29" />
         <mark key="^" line="18" column="30" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/AOA_v1.java" timestamp="1596010128045">
-        <mark key="[" line="114" column="28" />
-        <mark key="]" line="114" column="34" />
-        <mark key="." line="114" column="33" />
-        <mark key="^" line="114" column="34" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/AOA_v1.java" timestamp="1596031750733">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="75" />
+        <mark key="." line="101" column="27" />
+        <mark key="^" line="101" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/values/strings.xml" timestamp="1595560890931">
         <mark key="[" line="26" column="46" />
@@ -315,8 +315,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>return</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFuRmlsZUxvZy5lKCJ3aWZpLT5hb2EiLCAib3V0cHV0U3RyZWFtLndyaXRlIik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>return</text>
@@ -325,7 +325,7 @@
         <text>forground</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGluaXQoaW50IHdpZHRoLCBpbnQgaGVpZ2h0LCBpbnQgZHBpLCBTdHJpbmcgdHlwZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFuRmlsZUxvZy5lKCJ3aWZpLT5hb2EiLCAib3V0cHV0U3RyZWFtLndyaXRlIik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
