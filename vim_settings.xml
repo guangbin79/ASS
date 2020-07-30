@@ -128,11 +128,11 @@
         <mark key="^" line="1396" column="38" />
         <mark key="." line="1396" column="37" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Wifi2AoaBuffer_v1.java" timestamp="1595987766112">
-        <mark key="[" line="84" column="62" />
-        <mark key="]" line="84" column="62" />
-        <mark key="^" line="84" column="65" />
-        <mark key="." line="84" column="62" />
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Wifi2AoaBuffer_v1.java" timestamp="1596071325821">
+        <mark key="[" line="61" column="89" />
+        <mark key="]" line="61" column="84" />
+        <mark key="^" line="61" column="84" />
+        <mark key="." line="61" column="83" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHubListener.java" timestamp="1595554382692">
         <mark key="[" line="3" column="0" />
@@ -140,7 +140,7 @@
         <mark key="." line="18" column="29" />
         <mark key="^" line="18" column="30" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/AOA_v1.java" timestamp="1596031899125">
+      <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/AOA_v1.java" timestamp="1596071274970">
         <mark key="[" line="108" column="29" />
         <mark key="]" line="109" column="28" />
         <mark key="." line="109" column="27" />
@@ -317,10 +317,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGF0YS5sZW5ndGggPiAw</text>
+        <text>+ new String(data)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGF0YS5sZW5ndGggPiAw</text>
+        <text>+ new String(data)</text>
       </register>
       <register name="/" type="4">
         <text>forground</text>
