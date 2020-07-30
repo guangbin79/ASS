@@ -140,11 +140,8 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="38" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/values/strings.xml" timestamp="1595560890931">
-        <mark key="[" line="26" column="46" />
-        <mark key="]" line="26" column="46" />
-        <mark key="^" line="34" column="52" />
-        <mark key="." line="26" column="46" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/values/strings.xml" timestamp="1596087311422">
+        <mark key="^" line="27" column="52" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Auto/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannelListener.java" timestamp="1595569208179">
         <mark key="[" line="46" column="92" />
@@ -309,11 +306,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc1NlbmRVZHAgPXRydWU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>...</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>...</text>
       </register>
       <register name="/" type="4">
         <text>forground</text>
