@@ -92,6 +92,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1596099399947">
+        <mark key="[" line="492" column="0" />
+        <mark key="]" line="492" column="0" />
+        <mark key="." line="492" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/MirrorDialog.java" timestamp="1596178260381">
+        <mark key="[" line="14" column="56" />
+        <mark key="]" line="14" column="68" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/AndroidManifest.xml" timestamp="1596161284118">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="66" />
@@ -101,32 +111,6 @@
         <mark key="]" line="81" column="106" />
         <mark key="^" line="81" column="106" />
         <mark key="." line="81" column="105" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/QPlayAuto/QPlayAutoJNI/src/main/java/tencent/qplayauto/device/QPlayAutoJNI.java" timestamp="1596177634913" />
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/QPlayAuto/QPlayAutoJNI/build.gradle" timestamp="1596177036574">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Wifi2AoaBuffer_v1.java" timestamp="1596163921527">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="87" />
-        <mark key="." line="60" column="45" />
-        <mark key="^" line="60" column="46" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/build.gradle" timestamp="1596161475903">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="42" column="9" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1596099399947">
-        <mark key="[" line="492" column="0" />
-        <mark key="]" line="492" column="0" />
-        <mark key="." line="492" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/MirrorDialog.java" timestamp="1596157874212">
-        <mark key="[" line="14" column="56" />
-        <mark key="]" line="14" column="68" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Aoa2WifiBuffer_v1.java" timestamp="1596164036981">
         <mark key="[" line="181" column="0" />
@@ -139,13 +123,27 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/QPlayAuto/QPlayAutoJNI/build.gradle" timestamp="1596177036574">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Wifi2AoaBuffer_v1.java" timestamp="1596163921527">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="87" />
+        <mark key="." line="60" column="45" />
+        <mark key="^" line="60" column="46" />
+      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/hardware/display/DisplayManager.java" timestamp="1596094938975">
         <mark key="[" line="617" column="84" />
         <mark key="]" line="617" column="84" />
         <mark key="^" line="617" column="84" />
         <mark key="." line="617" column="83" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/build.gradle" timestamp="1596162944334" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/build.gradle" timestamp="1596161475903">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="42" column="9" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1596173070039">
         <mark key="'" line="138" column="16" />
         <mark key="[" line="98" column="0" />
