@@ -102,10 +102,10 @@
         <mark key="^" line="81" column="106" />
         <mark key="." line="81" column="105" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/QPlayAuto/QPlayAutoJNI/build.gradle" timestamp="1596161697041">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/QPlayAuto/QPlayAutoJNI/build.gradle" timestamp="1596177036574">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Wifi2AoaBuffer_v1.java" timestamp="1596163921527">
         <mark key="[" line="88" column="0" />
@@ -267,7 +267,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGxzRGVjb2RlciA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVUcmVlKGRpcjogImxpYnMiLCBpbmNsdWRlOiBbJyouamFyJywnKi5hYXInXSkK</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -279,34 +279,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdWRpb19idXR0b24uc2V0VGV4dChnZXRTdHJpbmcoUi5zdHJpbmcuc3RvcF9hdWRpbykpOwogICAgICAgICAgICAgICAgICAgIHdsTXVzaWMucmVxdWVzdEZvY3VzKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGxzRGVjb2RlciA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIGZpbGVUcmVlKGRpcjogImxpYnMiLCBpbmNsdWRlOiBbJyouamFyJywnKi5hYXInXSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmluYWwgQnV0dG9uIGF1ZGlvX2J1dHRvbiA9IHdsRGlhbG9nLmZpbmRWaWV3QnlJZChSLmlkLmF1ZGlvX2J1dHRvbik7CiAgICAgICAgICAgICAgICAgICAgICAgIGF1ZGlvX2J1dHRvbi5zZXRUZXh0KGdldFN0cmluZyhSLnN0cmluZy5wbGF5X2F1ZGlvKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIHVkaW9fYnV0dG9uLnNldFRleHQoZ2V0U3RyaW5nKFIuc3RyaW5nLnN0b3BfYXVkaW8pKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGxzRGVjb2RlciA9IG51bGw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmluYWwgQnV0dG9uIGF1ZGlvX2J1dHRvbiA9IHdsRGlhbG9nLmZpbmRWaWV3QnlJZChSLmlkLmF1ZGlvX2J1dHRvbik7CiAgICAgICAgICAgICAgICAgICAgICAgIGF1ZGlvX2J1dHRvbi5zZXRUZXh0KGdldFN0cmluZyhSLnN0cmluZy5wbGF5X2F1ZGlvKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGF1ZGlvX2J1dHRvbi5zZXRUZXh0KGdldFN0cmluZyhSLnN0cmluZy5zdG9wX2F1ZGlvKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmluYWwgQnV0dG9uIGF1ZGlvX2J1dHRvbiA9IHdsRGlhbG9nLmZpbmRWaWV3QnlJZChSLmlkLmF1ZGlvX2J1dHRvbik7CiAgICAgICAgICAgICAgICAgICAgICAgIGF1ZGlvX2J1dHRvbi5zZXRUZXh0KGdldFN0cmluZyhSLnN0cmluZy5wbGF5X2F1ZGlvKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIHVkaW9fYnV0dG9uLnNldFRleHQoZ2V0U3RyaW5nKFIuc3RyaW5nLnN0b3BfYXVkaW8pKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXIgPSBubGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmluYWwgQnV0dG9uIGF1ZGlvX2J1dHRvbiA9IHdsRGlhbG9nLmZpbmRWaWV3QnlJZChSLmlkLmF1ZGlvX2J1dHRvbik7CiAgICAgICAgICAgICAgICAgICAgICAgIGF1ZGlvX2J1dHRvbi5zZXRUZXh0KGdldFN0cmluZyhSLnN0cmluZy5wbGF5X2F1ZGlvKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGF1ZGlvX2J1dHRvbi5zZXRUZXh0KGdldFN0cmluZyhSLnN0cmluZy5zdG9wX2F1ZGlvKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXIgPSBubGw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlYWRlciA9IGRhdGE7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVhZGVyID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlYWRlciA9IGRhdGE7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSGFzaE1hcDxJbnRlZ2VyLCBieXRlW10+IGhlYWRlck1hcCA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVhZGVyID0gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYnl0ZVtdIGhlYWRlciA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSGFzaE1hcDxJbnRlZ2VyLCBieXRlW10+IGhlYWRlck1hcCA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
