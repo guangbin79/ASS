@@ -136,6 +136,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/AndroidManifest.xml" timestamp="1596250045352">
+        <mark key="[" line="30" column="20" />
+        <mark key="]" line="32" column="15" />
+        <mark key="." line="32" column="14" />
+        <mark key="^" line="32" column="15" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/QPlayAuto/QPlayAutoJNI/build.gradle" timestamp="1596177036574">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -282,7 +288,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRRUU11c2ljUHJvY2Vzcyhjb250ZXh0LHBhY2thZ2VOYW1lKTsKICAgICAgICAgICAgb3BlblFRTXVzaWMoY29udGV4dCwgInFxbXVzaWNhcGlkZW1vOi8veHh4Iik7CiAgICAgICAgICAgIGxvZ2luUVFNdXNpYyhjb250ZXh0LCAicXFtdXNpY2FwaWRlbW86Ly94eHgiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnBvcnQ9IjgwODAiCg==</text>
       </register>
       <register name="-" type="4">
         <text>11111111</text>
@@ -294,34 +300,34 @@
         <text encoding="base64">ICAgICAgICAgICAgc3RhcnRRUU11c2ljUHJvY2Vzcyhjb250ZXh0LHBhY2thZ2VOYW1lKTsKICAgICAgICAgICAgb3BlblFRTXVzaWMoY29udGV4dCwgInFxbXVzaWNhcGlkZW1vOi8veHh4Iik7CiAgICAgICAgICAgIGxvZ2luUVFNdXNpYyhjb250ZXh0LCAicXFtdXNpY2FwaWRlbW86Ly94eHgiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnBvcnQ9IjgwODAiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydFFRTXVzaWNQcm9jZXNzKGNvbnRleHQscGFja2FnZU5hbWUpOwogICAgICAgIG9wZW5RUU11c2ljKGNvbnRleHQsICJxcW11c2ljYXBpZGVtbzovL3h4eCIpOwogICAgICAgIGxvZ2luUVFNdXNpYyhjb250ZXh0LCAicXFtdXNpY2FwaWRlbW86Ly94eHgiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnBhdGg9Ii9sb2FkdG9vbGRldGFpbCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydFFRTXVzaWNQcm9jZXNzKGNvbnRleHQscGFja2FnZU5hbWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS4K</text>
+        <text encoding="base64">ICAgICAgICBzdGFydFFRTXVzaWNQcm9jZXNzKGNvbnRleHQscGFja2FnZU5hbWUpOwogICAgICAgIG9wZW5RUU11c2ljKGNvbnRleHQsICJxcW11c2ljYXBpZGVtbzovL3h4eCIpOwogICAgICAgIGxvZ2luUVFNdXNpYyhjb250ZXh0LCAicXFtdXNpY2FwaWRlbW86Ly94eHgiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZCh0YWcsIEhlYWQgKyBSZXN1bHQudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFydFFRTXVzaWNQcm9jZXNzKGNvbnRleHQscGFja2FnZU5hbWUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJQcmludEhhc2hNYXA6ICIgKyBIZWFkICsgUmVzdWx0LnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQodGFnLCBIZWFkICsgIi0tUmVzdWx0IGlzIG51bGwiKTsK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZCh0YWcsIEhlYWQgKyBSZXN1bHQudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCAiUHJpbnRIYXNoTWFwOiAiICsgSGVhZCArICItLVJlc3VsdCBpcyBudWxsIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJQcmludEhhc2hNYXA6ICIgKyBIZWFkICsgUmVzdWx0LnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZCh0YWcsIGluZm9zKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQodGFnLCBIZWFkICsgIi0tUmVzdWx0IGlzIG51bGwiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
