@@ -125,11 +125,11 @@
         <mark key="^" line="181" column="22" />
         <mark key="." line="181" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/QPlayAuto/QPlayAutoJNI/src/main/Java/com/tencent/qplayauto/device/QPlayAutoJNI.java" timestamp="1596243063621">
-        <mark key="[" line="847" column="0" />
-        <mark key="]" line="847" column="0" />
-        <mark key="^" line="163" column="8" />
-        <mark key="." line="847" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/QPlayAuto/QPlayAutoJNI/src/main/Java/com/tencent/qplayauto/device/QPlayAutoJNI.java" timestamp="1596244986252">
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="162" column="19" />
+        <mark key="^" line="162" column="19" />
+        <mark key="." line="162" column="18" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/QPlayAuto/QPlayAutoJNI/src/main/AndroidManifest.xml" timestamp="1596161287611">
         <mark key="[" line="2" column="0" />
@@ -169,7 +169,7 @@
         <mark key="^" line="867" column="55" />
         <mark key="." line="867" column="54" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/89fb673ddfd33570d0d07f93aa8b6983/jetified-qqmusic-innovation-aidl-api-sdk-1.0.10/jars/classes.jar!/com/tencent/qqmusic/third/api/contract/CommonCmd.class" timestamp="1596244335914">
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/89fb673ddfd33570d0d07f93aa8b6983/jetified-qqmusic-innovation-aidl-api-sdk-1.0.10/jars/classes.jar!/com/tencent/qqmusic/third/api/contract/CommonCmd.class" timestamp="1596244967212">
         <mark key="[" line="89" column="13" />
         <mark key="]" line="89" column="13" />
         <mark key="^" line="89" column="13" />
