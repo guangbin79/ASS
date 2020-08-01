@@ -92,10 +92,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1596243418377">
-        <mark key="[" line="119" column="26" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1596244483151">
+        <mark key="[" line="120" column="54" />
+        <mark key="]" line="120" column="99" />
+        <mark key="." line="120" column="98" />
+        <mark key="^" line="120" column="99" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/MirrorDialog.java" timestamp="1596178260381">
         <mark key="[" line="14" column="56" />
@@ -106,11 +107,11 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="66" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/build.gradle" timestamp="1596243463654">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="24" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/build.gradle" timestamp="1596244001908">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="41" />
         <mark key="^" line="44" column="39" />
-        <mark key="." line="10" column="24" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1596088791791">
         <mark key="[" line="81" column="98" />
@@ -167,6 +168,12 @@
         <mark key="]" line="867" column="55" />
         <mark key="^" line="867" column="55" />
         <mark key="." line="867" column="54" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/89fb673ddfd33570d0d07f93aa8b6983/jetified-qqmusic-innovation-aidl-api-sdk-1.0.10/jars/classes.jar!/com/tencent/qqmusic/third/api/contract/CommonCmd.class" timestamp="1596244335914">
+        <mark key="[" line="89" column="13" />
+        <mark key="]" line="89" column="13" />
+        <mark key="^" line="89" column="13" />
+        <mark key="." line="89" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -275,7 +282,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS4K</text>
+        <text encoding="base64">ICAgIGFwaShuYW1lOiAnUVBsYXlBdXRvSk5JJywgZXh0OiAnYWFyJykK</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -284,7 +291,7 @@
         <text>forground</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdWRpb19idXR0b24uc2V0VGV4dChnZXRTdHJpbmcoUi5zdHJpbmcuc3RvcF9hdWRpbykpOwogICAgICAgICAgICAgICAgICAgIHdsTXVzaWMucmVxdWVzdEZvY3VzKCk7Cg==</text>
+        <text encoding="base64">ICAgIGFwaShuYW1lOiAnUVBsYXlBdXRvSk5JJywgZXh0OiAnYWFyJykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS4K</text>
