@@ -92,6 +92,43 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/QPlayAuto/QPlayAutoJNI/src/main/Java/com/tencent/qplayauto/device/QPlayAutoJNI.java" timestamp="1596254064946">
+        <mark key="[" line="181" column="24" />
+        <mark key="]" line="181" column="23" />
+        <mark key="^" line="181" column="23" />
+        <mark key="." line="181" column="22" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/AndroidManifest.xml" timestamp="1596251433346">
+        <mark key="[" line="38" column="64" />
+        <mark key="]" line="38" column="68" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/build.gradle" timestamp="1596418251233">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/QPlayAuto/QPlayAutoJNI/build.gradle" timestamp="1596177036574">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/build.gradle" timestamp="1596418440893">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/build.gradle" timestamp="1596418443282">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/89fb673ddfd33570d0d07f93aa8b6983/jetified-qqmusic-innovation-aidl-api-sdk-1.0.10/jars/classes.jar!/com/tencent/qqmusic/third/api/contract/CommonCmd.class" timestamp="1596250802741">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="49" column="40" />
+        <mark key="^" line="89" column="13" />
+        <mark key="." line="89" column="12" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1596252152727">
         <mark key="[" line="130" column="40" />
         <mark key="]" line="130" column="51" />
@@ -112,49 +149,6 @@
         <mark key="^" line="44" column="39" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Aoa2WifiBuffer_v1.java" timestamp="1596164036981">
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="181" column="0" />
-        <mark key="^" line="181" column="22" />
-        <mark key="." line="181" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/QPlayAuto/QPlayAutoJNI/src/main/Java/com/tencent/qplayauto/device/QPlayAutoJNI.java" timestamp="1596254064946">
-        <mark key="[" line="181" column="24" />
-        <mark key="]" line="181" column="23" />
-        <mark key="^" line="181" column="23" />
-        <mark key="." line="181" column="22" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/QPlayAuto/QPlayAutoJNI/src/main/AndroidManifest.xml" timestamp="1596161287611">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/AndroidManifest.xml" timestamp="1596251433346">
-        <mark key="[" line="38" column="64" />
-        <mark key="]" line="38" column="68" />
-        <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/build.gradle" timestamp="1596418251233">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/QPlayAuto/QPlayAutoJNI/build.gradle" timestamp="1596177036574">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Wifi2AoaBuffer_v1.java" timestamp="1596163921527">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="87" />
-        <mark key="." line="60" column="45" />
-        <mark key="^" line="60" column="46" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/build.gradle" timestamp="1596418247334">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1596251611778">
         <mark key="'" line="146" column="16" />
         <mark key="]" line="59" column="0" />
@@ -163,12 +157,6 @@
       <file name="$USER_HOME$/Workspace/MyApplication/app/build.gradle" timestamp="1596418016973">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="30" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/89fb673ddfd33570d0d07f93aa8b6983/jetified-qqmusic-innovation-aidl-api-sdk-1.0.10/jars/classes.jar!/com/tencent/qqmusic/third/api/contract/CommonCmd.class" timestamp="1596250802741">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="49" column="40" />
-        <mark key="^" line="89" column="13" />
-        <mark key="." line="89" column="12" />
       </file>
     </filemarks>
     <jumps>
