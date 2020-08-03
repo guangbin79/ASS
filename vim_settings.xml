@@ -92,12 +92,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/WLAOA.java" timestamp="1596424416985">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="68" />
-        <mark key="." line="91" column="64" />
-        <mark key="^" line="91" column="65" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/build.gradle" timestamp="1596419859335">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="30" />
@@ -114,11 +108,6 @@
         <mark key="^" line="90" column="12" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/build.gradle" timestamp="1596419855673">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/aidl/com/autoai/welink/autoproxy/server/IServerService.aidl" timestamp="1596418793767">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -129,6 +118,28 @@
         <mark key="]" line="3" column="40" />
         <mark key="." line="3" column="39" />
         <mark key="^" line="3" column="40" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/aidl/com/autoai/welink/auto/client/IClientService.aidl" timestamp="1596418790392">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkServer/wlserver/build.gradle" timestamp="1596418887998">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/AOA_v1.java" timestamp="1596438236500" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/WLAOA.java" timestamp="1596424416985">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="68" />
+        <mark key="." line="91" column="64" />
+        <mark key="^" line="91" column="65" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/build.gradle" timestamp="1596419855673">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/build.gradle" timestamp="1596418443282">
         <mark key="[" line="4" column="0" />
@@ -144,16 +155,6 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/aidl/com/autoai/welink/auto/client/IClientService.aidl" timestamp="1596418790392">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkServer/wlserver/build.gradle" timestamp="1596418887998">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
