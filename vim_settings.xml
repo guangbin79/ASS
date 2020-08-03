@@ -97,18 +97,12 @@
         <mark key="]" line="4" column="30" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/QPlayAuto/QPlayAutoJNI/src/main/Java/com/tencent/qplayauto/device/QPlayAutoJNI.java" timestamp="1596254064946">
-        <mark key="[" line="181" column="24" />
-        <mark key="]" line="181" column="23" />
-        <mark key="^" line="181" column="23" />
-        <mark key="." line="181" column="22" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/build.gradle" timestamp="1596418251233">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="30" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/build.gradle" timestamp="1596419156747">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/build.gradle" timestamp="1596419855673">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="30" />
         <mark key="." line="4" column="0" />
@@ -120,6 +114,11 @@
       </file>
       <file name="/Dummy.txt" timestamp="1596417798299">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/build.gradle" timestamp="1596419859335">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/aidl/com/autoai/welink/autoproxy/server/IServerService.aidl" timestamp="1596418793767">
         <mark key="[" line="8" column="0" />
