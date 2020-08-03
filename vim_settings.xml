@@ -106,10 +106,6 @@
       <file name="/Dummy.txt" timestamp="1596417798299">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/AndroidManifest.xml" timestamp="1596161284118">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="66" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/build.gradle" timestamp="1596244001908">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="41" />
@@ -138,6 +134,11 @@
         <mark key="]" line="38" column="68" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/build.gradle" timestamp="1596418251233">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/QPlayAuto/QPlayAutoJNI/build.gradle" timestamp="1596177036574">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -149,13 +150,7 @@
         <mark key="." line="60" column="45" />
         <mark key="^" line="60" column="46" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/hardware/display/DisplayManager.java" timestamp="1596094938975">
-        <mark key="[" line="617" column="84" />
-        <mark key="]" line="617" column="84" />
-        <mark key="^" line="617" column="84" />
-        <mark key="." line="617" column="83" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/build.gradle" timestamp="1596418019363">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/build.gradle" timestamp="1596418247334">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="30" />
         <mark key="." line="4" column="0" />
@@ -168,12 +163,6 @@
       <file name="$USER_HOME$/Workspace/MyApplication/app/build.gradle" timestamp="1596418016973">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="30" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/content/res/Resources.java" timestamp="1596097930447">
-        <mark key="[" line="867" column="55" />
-        <mark key="]" line="867" column="55" />
-        <mark key="^" line="867" column="55" />
-        <mark key="." line="867" column="54" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/89fb673ddfd33570d0d07f93aa8b6983/jetified-qqmusic-innovation-aidl-api-sdk-1.0.10/jars/classes.jar!/com/tencent/qqmusic/third/api/contract/CommonCmd.class" timestamp="1596250802741">
         <mark key="[" line="48" column="0" />
