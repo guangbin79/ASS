@@ -97,6 +97,12 @@
         <mark key="]" line="4" column="30" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/res/layout/headunit.xml" timestamp="1596420319269">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="40" />
+        <mark key="." line="3" column="39" />
+        <mark key="^" line="3" column="40" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/build.gradle" timestamp="1596419855673">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="30" />
@@ -111,6 +117,11 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/res/values/strings.xml" timestamp="1596420262871">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/build.gradle" timestamp="1596419859335">
         <mark key="[" line="4" column="0" />
@@ -238,11 +249,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>android:background=&quot;#00574B&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>android:background=&quot;#00574B&quot;</text>
       </register>
       <register name="/" type="4">
         <text>forground</text>
@@ -251,7 +262,7 @@
         <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIzMC4wLjEiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYXVkaW9fZXJyb3IiPueUteWPsOebtOaSremUmeivrzwvc3RyaW5nPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -260,25 +271,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuUmVtb3RlRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuUmVtb3RlRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuQmluZGVyOwo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuUmVtb3RlRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuQmluZGVyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuQmluZGVyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wZW5RUU11c2ljKGNvbnRleHQsICJjYWlzaGlsaXZlOi8vY2Fpc2hpOjgwODAvbG9hZHRvb2xkZXRhaWw/dG9vbF9pZD0xMDAiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXJ0KERldmljZVR5cGUsQ29ubmVjdFR5cGUsRGV2aWNlSUQsRGV2aWNlQnJhbmQsRGV2aWNlTmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wZW5RUU11c2ljKGNvbnRleHQsICJjYWlzaGlsaXZlOi8vY2Fpc2hpOjgwODAvbG9hZHRvb2xkZXRhaWw/dG9vbF9pZD0xMDAiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
