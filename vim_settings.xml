@@ -129,11 +129,6 @@
         <mark key="^" line="282" column="74" />
         <mark key="." line="282" column="73" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/build.gradle" timestamp="1596419158989">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1596421423965">
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="0" />
@@ -167,6 +162,9 @@
         <mark key="[" line="231" column="0" />
         <mark key="]" line="231" column="0" />
         <mark key="." line="231" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/gradle.properties" timestamp="1596613184767">
+        <mark key="[" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/AOA_v1.java" timestamp="1596443365838">
         <mark key="[" line="70" column="0" />
