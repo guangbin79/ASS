@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>connectCheckList</entry>
         <entry>connectStr</entry>
         <entry>InitGO</entry>
         <entry>Init</entry>
@@ -27,6 +26,7 @@
         <entry>deinit</entry>
         <entry>for</entry>
         <entry>forground</entry>
+        <entry encoding="base64">XDxmaWxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</entry>
@@ -97,12 +97,23 @@
         <mark key="]" line="4" column="30" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/AnFileLog.java" timestamp="1596589394839" />
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1596590189635">
-        <mark key="[" line="25" column="42" />
-        <mark key="]" line="25" column="51" />
-        <mark key="." line="25" column="50" />
-        <mark key="^" line="25" column="51" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/AnFileLog.java" timestamp="1596592205715">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="25" column="27" />
+        <mark key="." line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1596591657963">
+        <mark key="[" line="477" column="0" />
+        <mark key="]" line="477" column="94" />
+        <mark key="." line="477" column="91" />
+        <mark key="^" line="477" column="92" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1596591724114">
+        <mark key="[" line="282" column="75" />
+        <mark key="]" line="282" column="74" />
+        <mark key="^" line="282" column="74" />
+        <mark key="." line="282" column="73" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/build.gradle" timestamp="1596419158989">
         <mark key="[" line="4" column="0" />
@@ -290,47 +301,48 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>OverlayDialog</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgInNzOiAiICsgZmlsZW5hbWUpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>OverlayDialog</text>
+        <text>file: &quot; + filename);</text>
       </register>
       <register name="/" type="4">
-        <text>forground</text>
+        <text encoding="base64">XDxmaWxlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBbkZpbGVMb2cuZSgiYW9hLT53aWZpIiwgImNhY2hlLXNpemUgLSAiICsgcG9ydCArICIgOiAiICsgY291bnQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgImZpbGU6ICIgKyBmaWxlbmFtZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBd2FrZUxvY2suCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgInNzOiAiICsgZmlsZW5hbWUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLnBsYXRmb3JtLnV0aWxpeS5PdmVybGF5RGlhbG9nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJndWFuZ2JpbiIsICIxMTExMTExMTExIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLnBsYXRmb3JtLnV0aWxpeS5Bd2FrZUxvY2s7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgImZpbGU6ICIgKyBmaWxlbmFtZSk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLnBsYXRmb3JtLnV0aWxpeS5BbkZpbGVMb2c7Cg==</text>
+      <register name="4" type="4">
+        <text>file.isDirectory()) {
+                Log.e(&quot;guangbin&quot;, &quot;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW9hLgo=</text>
+        <text encoding="base64">ICAgICAgICAiL1Rlc3Qvd2VsaW5rbG9nL3dscGxhdGZvcm0tbG9nLnR4dCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBbkZpbGVMb2cuZSgiYW9hLT53aWZpIiwgImNhY2hlLXNpemUgLSAiICsgcG9ydCArICIgOiAiICsgY291bnQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBbkZpbGVMb2cuaW5pdChjb250ZXh0LmdldEFwcGxpY2F0aW9uQ29udGV4dCgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFuRmlsZUxvZy5lKCJ3aWZpLT5hb2EiLCAid2lmaSByZWNlaXZlIGRhdGEgLSAiICsgcG9ydCArICIgOiBlbmQiKTsK</text>
+        <text encoding="base64">ICAgICAgICBBd2FrZUxvY2suCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFuRmlsZUxvZy5lKCJ3aWZpLT5hb2EiLCAiY2FjaGUtc2l6ZTogIiArIGNvdW50KTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLnBsYXRmb3JtLnV0aWxpeS5PdmVybGF5RGlhbG9nOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBbkZpbGVMb2cuZSgiYW9hLT53aWZpIiwgImFvYSByZWNlaXZlIGRhdGE6IGVuZCIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLnBsYXRmb3JtLnV0aWxpeS5Bd2FrZUxvY2s7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -339,10 +351,10 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>forground</last-search>
+      <last-search encoding="base64">XDxmaWxlXD4=</last-search>
       <last-offset />
-      <last-pattern>forground</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxmaWxlXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
