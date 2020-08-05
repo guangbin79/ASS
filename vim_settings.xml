@@ -153,11 +153,6 @@
         <mark key="^" line="171" column="23" />
         <mark key="." line="171" column="22" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/res/values/strings.xml" timestamp="1596420262871">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/MirrorDialog.java" timestamp="1596604944796">
         <mark key="[" line="21" column="35" />
         <mark key="]" line="21" column="35" />
@@ -174,6 +169,9 @@
         <mark key="]" line="68" column="0" />
         <mark key="^" line="25" column="27" />
         <mark key="." line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/gradle.properties" timestamp="1596613302499">
+        <mark key="[" line="18" column="27" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Aoa2WifiBuffer_v1.java" timestamp="1596443919117">
         <mark key="[" line="121" column="56" />
