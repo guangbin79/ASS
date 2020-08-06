@@ -132,12 +132,6 @@
         <mark key="^" line="287" column="56" />
         <mark key="." line="287" column="55" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1596421423965">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="^" line="90" column="12" />
-        <mark key="." line="87" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Aoa2WifiBuffer_v1.java" timestamp="1596443919117">
         <mark key="[" line="121" column="56" />
         <mark key="]" line="121" column="62" />
@@ -168,6 +162,11 @@
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/gradle.properties" timestamp="1596613184767">
         <mark key="[" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/build.gradle" timestamp="1596702226181">
+        <mark key="[" line="37" column="51" />
+        <mark key="]" line="37" column="52" />
+        <mark key="." line="37" column="52" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/AOA_v1.java" timestamp="1596443365838">
         <mark key="[" line="70" column="0" />
