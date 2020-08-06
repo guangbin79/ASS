@@ -112,16 +112,21 @@
         <mark key="^" line="25" column="27" />
         <mark key="." line="68" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/build.gradle" timestamp="1596702131077">
+        <mark key="[" line="51" column="51" />
+        <mark key="]" line="51" column="52" />
+        <mark key="." line="51" column="52" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/gradle.properties" timestamp="1596613302499">
         <mark key="[" line="18" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1596591657963">
-        <mark key="[" line="477" column="0" />
-        <mark key="]" line="477" column="94" />
-        <mark key="." line="477" column="91" />
-        <mark key="^" line="477" column="92" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1596701275215">
+        <mark key="[" line="654" column="32" />
+        <mark key="]" line="654" column="32" />
+        <mark key="." line="654" column="31" />
+        <mark key="^" line="654" column="32" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1596614538118">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1596701252542">
         <mark key="[" line="282" column="74" />
         <mark key="]" line="287" column="56" />
         <mark key="^" line="287" column="56" />
@@ -149,12 +154,6 @@
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/res/layout/headunit.xml" timestamp="1596420319269">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="40" />
-        <mark key="." line="3" column="39" />
-        <mark key="^" line="3" column="40" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/WIFI_v1.java" timestamp="1596616721603">
         <mark key="[" line="231" column="0" />
