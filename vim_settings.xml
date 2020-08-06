@@ -95,11 +95,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/MirrorDialog.java" timestamp="1596604944796">
-        <mark key="[" line="21" column="35" />
-        <mark key="]" line="21" column="35" />
-        <mark key="." line="21" column="34" />
-        <mark key="^" line="21" column="35" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/MirrorDialog.java" timestamp="1596704632054">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="19" />
+        <mark key="." line="26" column="18" />
+        <mark key="^" line="26" column="19" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1596608356130">
         <mark key="[" line="149" column="0" />
@@ -144,10 +144,11 @@
         <mark key="^" line="20" column="30" />
         <mark key="." line="20" column="29" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/OverlayDialog.java" timestamp="1596704148414">
-        <mark key="[" line="57" column="23" />
-        <mark key="]" line="57" column="74" />
-        <mark key="." line="118" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/OverlayDialog.java" timestamp="1596704611075">
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="29" column="24" />
+        <mark key="." line="29" column="24" />
+        <mark key="^" line="33" column="9" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/WIFI_v1.java" timestamp="1596616721603">
         <mark key="[" line="231" column="0" />
@@ -304,10 +305,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>WindowManager.LayoutParams.TYPE_PRIVATE_PRESENTATION</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlXD4=</text>
@@ -316,34 +317,34 @@
         <text>WindowManager.LayoutParams.TYPE_PRIVATE_PRESENTATION</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VyZmFjZS5zZQo=</text>
+        <text encoding="base64">ICAgICAgICBXaW5kb3cgd2luZG93ID0gZGlhbG9nLmdldFdpbmRvdygpOwogICAgICAgIHdpbmRvdy5zZXRUeXBlKFdpbmRvd01hbmFnZXIuTGF5b3V0UGFyYW1zLlRZUEVfUFJJVkFURV9QUkVTRU5UQVRJT04pOwogICAgICAgIHdpbmRvdy5zZXRCYWNrZ3JvdW5kRHJhd2FibGVSZXNvdXJjZShhbmRyb2lkLlIuY29sb3IudHJhbnNwYXJlbnQpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldFJlc291cmNlcygpLmdldEYK</text>
+        <text encoding="base64">ICAgICAgICBnZXRXaW5kb3coKS5zZXRUeXBlKFdpbmRvd01hbmFnZXIuTGF5b3V0UGFyYW1zLlRZUEVfUFJJVkFURV9QUkVTRU5UQVRJT04pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnRleHQgY29udGV4dDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VyZmFjZS5zZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQuZ2V0UmVzb3VyY2VzKCkuc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldFJlc291cmNlcygpLmdldEYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICB0ZXh0Vmlldy4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnRleHQgY29udGV4dDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERpYWxvZyBkaWFsb2c7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQuZ2V0UmVzb3VyY2VzKCkuc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpYWxvZy5nZXRDb250ZXh0KCkuZ2V0UmVzb3VyY2VzKCkuc2V0VAo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICB0ZXh0Vmlldy4oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERpYWxvZyBkaWFsb2c7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpYWxvZy5nZXRDb250ZXh0KCkuZ2V0UmVzb3VyY2VzKCkuc2V0VAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
