@@ -184,10 +184,11 @@
         <mark key="." line="94" column="50" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/res/values/strings.xml" timestamp="1596787193616" />
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1596791711438">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="35" />
-        <mark key="." line="84" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1596792767933">
+        <mark key="[" line="101" column="84" />
+        <mark key="]" line="101" column="85" />
+        <mark key="." line="101" column="84" />
+        <mark key="^" line="101" column="85" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/utiliy/CommandSource.java" timestamp="1596763885193">
         <mark key="[" line="59" column="0" />
@@ -300,11 +301,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGJGaXJzdCA9IDA7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>channel</text>
       </register>
       <register name="-" type="4">
-        <text>bit</text>
+        <text>channel</text>
       </register>
       <register name="/" type="4">
         <text>onUnbind</text>
