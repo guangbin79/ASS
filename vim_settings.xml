@@ -127,10 +127,11 @@
         <mark key="." line="156" column="0" />
         <mark key="^" line="155" column="86" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/build.gradle" timestamp="1597049773950">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="42" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/build.gradle" timestamp="1597050582232">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="5" column="8" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1596762654599">
         <mark key="[" line="94" column="51" />
@@ -138,10 +139,10 @@
         <mark key="^" line="94" column="51" />
         <mark key="." line="94" column="50" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/build.gradle" timestamp="1597049759017">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="64" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/build.gradle" timestamp="1597050615155">
+        <mark key="[" line="31" column="51" />
+        <mark key="]" line="31" column="52" />
+        <mark key="." line="31" column="52" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/MirrorDialog.java" timestamp="1596704632054">
         <mark key="[" line="26" column="12" />
@@ -168,16 +169,10 @@
         <mark key="." line="159" column="0" />
         <mark key="^" line="69" column="75" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/src/main/java/com/autoai/welink/audiolive/HLSDecoder.java" timestamp="1597050070603">
-        <mark key="[" line="374" column="39" />
-        <mark key="]" line="374" column="46" />
-        <mark key="." line="374" column="45" />
-        <mark key="^" line="374" column="46" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/build.gradle" timestamp="1597049751543">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="64" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/build.gradle" timestamp="1597050605900">
+        <mark key="[" line="40" column="51" />
+        <mark key="]" line="40" column="52" />
+        <mark key="." line="40" column="52" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/build.gradle" timestamp="1597049767905">
         <mark key="[" line="16" column="0" />
@@ -185,7 +180,7 @@
         <mark key="^" line="16" column="42" />
         <mark key="." line="16" column="41" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1597047906969">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1597050394176">
         <mark key="[" line="89" column="139" />
         <mark key="]" line="89" column="24" />
         <mark key="." line="89" column="23" />
@@ -297,8 +292,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>bbbbbbb</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>bbbbbbb</text>
@@ -310,34 +305,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAiYmJiYmJiYiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc2FtcGxlLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhY2hlZC5wdXQob3V0cHV0LmFycmF5KCksIG91dHB1dC5hcnJheU9mZnNldCgpLCBvdXRwdXRfbGVuKTsK</text>
+        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG91dHB1dC5wb3NpdGlvbgo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdjb20uZ2l0aHViLmFzaHFhbDphbmRyb2lkLWxpYnJlc2FtcGxlOjAuMy4wJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbiB7IHVybCAnaHR0cHM6Ly9qaXRwYWNrLmlvJyB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGludCBvdXRwdXRfbGVuID0gcmVzYW1wbGUucmVzYW1wbGUoaW5wdXQsIG91dHB1dCwgaW5wdXQucmVtYWluaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc2FtcGxlLgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhY2hlZC5wdXQob3V0cHV0LmFycmF5KCksIG91dHB1dC5hcnJheU9mZnNldCgpLCBvdXRwdXRfbGVuKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gdXNhZ2Ugb2Ygb3V0cHV0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG91dHB1dC5wb3NpdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
