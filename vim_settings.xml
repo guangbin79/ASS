@@ -134,17 +134,12 @@
         <mark key="." line="29" column="24" />
         <mark key="^" line="33" column="9" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/media/MediaRecorder.java" timestamp="1597046152290" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/WIFI_v1.java" timestamp="1596765188755">
         <mark key="[" line="211" column="52" />
         <mark key="]" line="211" column="50" />
         <mark key="." line="211" column="49" />
         <mark key="^" line="211" column="50" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/gradle.properties" timestamp="1596613218845">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="30" />
-        <mark key="^" line="14" column="30" />
-        <mark key="." line="14" column="29" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/build.gradle" timestamp="1596702226181">
         <mark key="[" line="37" column="51" />
@@ -163,18 +158,15 @@
         <mark key="." line="159" column="0" />
         <mark key="^" line="69" column="75" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkServer/gradle.properties" timestamp="1596613232842">
-        <mark key="[" line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/gradle.properties" timestamp="1596613263311">
         <mark key="[" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/src/main/java/com/autoai/welink/audiolive/HLSDecoder.java" timestamp="1597044981119">
-        <mark key="[" line="267" column="42" />
-        <mark key="]" line="267" column="43" />
-        <mark key="." line="267" column="42" />
-        <mark key="^" line="267" column="43" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/src/main/java/com/autoai/welink/audiolive/HLSDecoder.java" timestamp="1597047312511">
+        <mark key="[" line="231" column="0" />
+        <mark key="]" line="231" column="0" />
+        <mark key="." line="231" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/media/MediaFormat.java" timestamp="1597046653093" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Wifi2AoaBuffer_v1.java" timestamp="1597029792284">
         <mark key="[" line="156" column="0" />
         <mark key="]" line="156" column="73" />
@@ -300,7 +292,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtZWRpYUZvcm1hdC5zZXRJbnRlZ2VyKE1lZGlhRm9ybWF0LktFWV9TQU1QTEVfUkFURSwgNDQxMDApOwogICAgICAgIG1lZGlhRm9ybWF0LnNldEludGVnZXIoTWVkaWFGb3JtYXQuS0VZX0NIQU5ORUxfQ09VTlQsIDIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lZGlhRXh0cmFjdG9yLgo=</text>
       </register>
       <register name="-" type="4">
         <text>w</text>
@@ -312,34 +304,34 @@
         <text encoding="base64">ICAgICAgICBtZWRpYUZvcm1hdC5zZXRJbnRlZ2VyKE1lZGlhRm9ybWF0LktFWV9TQU1QTEVfUkFURSwgKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtZWRpYUZvcm1hdC5zZXRJbnRlZ2VyKE1lZGlhRm9ybWF0LktFWV9TQU1QTEVfUkFURSwgNDQxMDApOwogICAgICAgIG1lZGlhRm9ybWF0LnNldEludGVnZXIoTWVkaWFGb3JtYXQuS0VZX0NIQU5ORUxfQ09VTlQsIDIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lZGlhRXh0cmFjdG9yLgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluZS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb2RlYy5mb3IK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXQuZ2V0SW50ZWdlcihNZWRpYUZvcm1hdC5LRVlfU0FNUExFX1JBVEUpLCBmb3JtYXQuZ2V0SW50ZWdlcihLRVlfQ0hBTk5FTF9DT1VOVCkK</text>
+        <text encoding="base64">ICAgICAgICBtZWRpYUZvcm1hdC5zZXRJbnRlZ2VyKE1lZGlhRm9ybWF0LktFbWluZSk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">WV9TQU1QTEVfUkFURSwgNDQxMDApOwogICAgICAgIG1lZGlhRm9ybWF0LnNldEludGVnZXIoTWVkaWFGb3JtYXQuS0VZX0NIQU5ORUxfQ09VTlQsIDIpOwogICAgICAgIExvZy5lKCJndWFuZ2JpbiIsICJtaW5lOiAiICsg</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaHR0cDovL3J0bXBjbnIwMDEuY25yLmNuL2xpdmUvemd6cy9wbGF5bGlzdC5tM3U4Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQW5GaWxlTG9nLmUoIndpZmktPmFvYSIsICJtdWx0aSAtICIgKyBwb3J0ICsgIiA6ICIgKyBsZW5ndGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWVkaWFSZWNvcmRlci5BdWRpb1NvdXJjZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFuRmlsZUxvZy5lKCJhb2EtPndpZmkiLCAibXVsdGktZGF0YTogIiArIChkYXRhLmxlbmd0aCAtIGxlbmd0aCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVkaWFDb2RlYy5zZXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlKEFycmF5cy5jb3B5T2ZSYW5nZShkYXRhLCBsZW5ndGgsIGRhdGEubGVuZ3RoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtZWRpYUZvcm1hdC5zZXRJbnRlZ2VyKE1lZGlhRm9ybWF0LktFWV9TQU1QTEVfUkFURSwgNDQxMDApOwogICAgICAgIG1lZGlhRm9ybWF0LnNldEludGVnZXIoTWVkaWFGb3JtYXQuS0VZX0NIQU5ORUxfQ09VTlQsIDIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
