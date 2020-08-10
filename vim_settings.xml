@@ -128,12 +128,6 @@
         <mark key="." line="1401" column="0" />
         <mark key="^" line="1402" column="65" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Aoa2WifiBuffer_v1.java" timestamp="1597028186504">
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="77" />
-        <mark key="^" line="135" column="80" />
-        <mark key="." line="136" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/OverlayDialog.java" timestamp="1596704611075">
         <mark key="[" line="29" column="24" />
         <mark key="]" line="29" column="24" />
@@ -175,7 +169,7 @@
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/gradle.properties" timestamp="1596613263311">
         <mark key="[" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Wifi2AoaBuffer_v1.java" timestamp="1597028195943">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Wifi2AoaBuffer_v1.java" timestamp="1597029792284">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="73" />
         <mark key="." line="119" column="0" />
@@ -192,11 +186,6 @@
         <mark key="]" line="101" column="85" />
         <mark key="." line="101" column="84" />
         <mark key="^" line="101" column="85" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/utiliy/CommandSource.java" timestamp="1597022411310">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
       </file>
     </filemarks>
     <jumps>
