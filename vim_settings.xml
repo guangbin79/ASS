@@ -144,7 +144,12 @@
         <mark key="^" line="304" column="24" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/WLMusic.java" timestamp="1597376354862" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/WLMusic.java" timestamp="1597383662481">
+        <mark key="[" line="23" column="11" />
+        <mark key="]" line="22" column="17" />
+        <mark key="^" line="22" column="17" />
+        <mark key="." line="22" column="16" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/link_v1/Wifi2AoaBuffer_v1.java" timestamp="1597029792284">
         <mark key="[" line="156" column="0" />
         <mark key="]" line="156" column="73" />
