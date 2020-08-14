@@ -132,11 +132,11 @@
         <mark key="." line="52" column="75" />
         <mark key="^" line="52" column="76" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/MusicProtocol.java" timestamp="1597387030035">
-        <mark key="[" line="288" column="0" />
-        <mark key="]" line="290" column="0" />
-        <mark key="^" line="62" column="17" />
-        <mark key="." line="290" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/MusicProtocol.java" timestamp="1597388087727">
+        <mark key="[" line="280" column="7" />
+        <mark key="]" line="280" column="7" />
+        <mark key="^" line="280" column="9" />
+        <mark key="." line="280" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/WLAOA.java" timestamp="1596763805477">
         <mark key="[" line="159" column="0" />
@@ -144,7 +144,7 @@
         <mark key="." line="159" column="0" />
         <mark key="^" line="69" column="75" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/src/main/java/com/autoai/welink/audiolive/HLSDecoder.java" timestamp="1597375810250">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/src/main/java/com/autoai/welink/audiolive/HLSDecoder.java" timestamp="1597388029764">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="304" column="24" />
@@ -309,11 +309,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGZpbmFsIGxvbmcgcG9zID0gMTAwOw==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGZpbmFsIGxvbmcgcG9zID0gMTAwOw==</text>
       </register>
       <register name="/" type="4">
         <text>System</text>
