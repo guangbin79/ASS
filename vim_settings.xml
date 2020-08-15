@@ -132,11 +132,11 @@
         <mark key="." line="52" column="75" />
         <mark key="^" line="52" column="76" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/MusicProtocol.java" timestamp="1597395336240">
-        <mark key="[" line="303" column="44" />
-        <mark key="]" line="303" column="47" />
-        <mark key="." line="303" column="46" />
-        <mark key="^" line="303" column="47" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/MusicProtocol.java" timestamp="1597458914823">
+        <mark key="[" line="252" column="24" />
+        <mark key="]" line="252" column="23" />
+        <mark key="." line="252" column="22" />
+        <mark key="^" line="252" column="23" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/aoa/WLAOA.java" timestamp="1596763805477">
         <mark key="[" line="159" column="0" />
@@ -150,7 +150,7 @@
         <mark key="^" line="387" column="33" />
         <mark key="." line="387" column="32" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/WLMusic.java" timestamp="1597390976999">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/WLMusic.java" timestamp="1597396496486">
         <mark key="[" line="60" column="52" />
         <mark key="]" line="60" column="52" />
         <mark key="^" line="60" column="52" />
@@ -310,46 +310,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>tickPosition + rate * channel * bit / 8 * tickTimeMillis / 1000</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>tickPosition + rate * channel * bit / 8 * tickTimeMillis / 1000</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>System</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFzdFBvc2l0aW9uID0gMDsKICAgICAgICAgICAgbGFzdFNpemUgPSAwOwogICAgICAgICAgICB0aWNrVGhyZWFkLmludGVycnVwdCgpOwogICAgICAgICAgICB0aWNrVGhyZWFkID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzRm9jdXMgPSBmYWxzZTsKICAgICAgICAgICAgICAgIGxhc3RQb3NpdGlvbiA9IDA7CiAgICAgICAgICAgICAgICBsYXN0U2l6ZSA9IDA7CiAgICAgICAgICAgICAgICB0aWNrVGhyZWFkLmludGVycnVwdCgpOwogICAgICAgICAgICAgICAgdGlja1RocmVhZCA9IG51bGw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgICAgICBsYXN0UG9zaXRpb24gPSAwOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvcyA9IExvbmcubWluKHBvcywgdG90YWxMZW4pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocGNtID09IG51bGwgJiYgdGlja1RocmVhZCAhPSBudWxsKSB7CiAgICAgICAgICAgIGxhc3RQb3NpdGlvbiA9IDA7CiAgICAgICAgICAgIGxhc3RTaXplID0gMDsKICAgICAgICAgICAgdGlja1RocmVhZC5pbnRlcnJ1cHQoKTsKICAgICAgICAgICAgdGlja1RocmVhZCA9IG51bGw7CiAgICAgICAgfSBlbHNlIGlmIChwb3NpdGlvbiA+IGxhc3RQb3NpdGlvbiArIGxhc3RTaXplKSB7CiAgICAgICAgICAgIHVwZGF0ZVBDTSgwLCBudWxsLCB0b3RhbExlbiwgcmF0ZSwgYml0LCBjaGFubmVsKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFRocmVhZCgpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaW5hbCBUaHJlYWQgdGhyZWFkID0gdGlja1RocmVhZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvcyA9IExvbmcubWluKHBvcywgdG90YWxMZW4pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBjKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpY2tUaW1lTWlsbGlzICs9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFRocmVhZCgpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
