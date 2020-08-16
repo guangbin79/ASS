@@ -172,9 +172,9 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1596762654599">
-        <mark key="[" line="94" column="51" />
-        <mark key="]" line="94" column="51" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1597571350295">
+        <mark key="[" line="200" column="39" />
+        <mark key="]" line="200" column="51" />
         <mark key="^" line="94" column="51" />
         <mark key="." line="94" column="50" />
       </file>
@@ -309,8 +309,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpc0ZvY3VzID0gZmFsc2U7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>connect-start</text>
       </register>
       <register name="-" type="4">
         <text>channel</text>
@@ -318,8 +318,8 @@
       <register name="/" type="4">
         <text>System</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlUENNKDAsIG51bGwsIHRvdGFsTGVuLCByYXRlLCBiaXQsIGNoYW5uZWwpOwo=</text>
+      <register name="0" type="4">
+        <text>connect-start</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpc0ZvY3VzID0gZmFsc2U7Cg==</text>
