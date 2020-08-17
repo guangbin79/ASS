@@ -172,7 +172,8 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1597571640955">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/build.gradle" timestamp="1597634322300" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1597634351536">
         <mark key="[" line="200" column="39" />
         <mark key="]" line="200" column="51" />
         <mark key="^" line="94" column="51" />
