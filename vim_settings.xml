@@ -152,7 +152,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="8" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/src/main/java/com/autoai/welink/audiolive/HLSDecoderListener.java" timestamp="1597740163410">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/src/main/java/com/autoai/welink/audiolive/HLSDecoderListener.java" timestamp="1597742383880">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="27" />
       </file>
@@ -190,12 +190,15 @@
         <mark key="^" line="10" column="37" />
         <mark key="." line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1597194818161">
-        <mark key="^" line="9" column="27" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1597742685906">
+        <mark key="[" line="87" column="99" />
+        <mark key="]" line="87" column="100" />
+        <mark key="^" line="87" column="100" />
+        <mark key="." line="87" column="99" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/src/main/java/com/autoai/welink/audiolive/URLDecoderListener.java" timestamp="1597741289890">
-        <mark key="[" line="3" column="55" />
-        <mark key="]" line="6" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/src/main/java/com/autoai/welink/audiolive/URLDecoderListener.java" timestamp="1597742343594">
+        <mark key="[" line="3" column="62" />
+        <mark key="]" line="3" column="69" />
         <mark key="." line="6" column="0" />
       </file>
     </filemarks>
@@ -308,13 +311,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>dur</text>
       </register>
       <register name="/" type="4">
         <text>System</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVGhyZWFkIHVwZGF0ZVRyYWNrVGhyZWFkID0gbnVsbDsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLmF1ZGlvbGl2ZS5ITFNEZWNvZGVyTGlzdGVuZXI7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -323,28 +326,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubmV0LlVSTERlY29kZXI7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNZWRpYUV4dHJhY3RvciBtZWRpYUV4dHJhY3RvciA9IG51bGw7CiAgICAgICAgTWVkaWFGb3JtYXQgbWVkaWFGb3JtYXQgPSBudWxsOwogICAgICAgIFN0cmluZyBtaW5lID0gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWNvZGVUcmFjayhtaW5lLCBtZWRpYUZvcm1hdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBNZWRpYUV4dHJhY3RvciBtZWRpYUV4dHJhY3RvciA9IG51bGw7CiAgICAgICAgTWVkaWFGb3JtYXQgbWVkaWFGb3JtYXQgPSBudWxsOwogICAgICAgIFN0cmluZyBtaW5lID0gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWNvZGVUcmFjayhtaW5lLCBtZWRpYUZvcm1hdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
