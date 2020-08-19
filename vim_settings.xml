@@ -95,7 +95,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1597827051100">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1597830852763">
         <mark key="[" line="493" column="90" />
         <mark key="]" line="493" column="90" />
         <mark key="." line="493" column="89" />
@@ -113,7 +113,7 @@
         <mark key="." line="12" column="65" />
         <mark key="^" line="12" column="86" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1597827618938">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1597830397993">
         <mark key="[" line="616" column="57" />
         <mark key="]" line="616" column="70" />
         <mark key="." line="616" column="69" />
@@ -131,28 +131,20 @@
         <mark key="^" line="448" column="55" />
         <mark key="." line="448" column="54" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPCMPolicy.java" timestamp="1597829853487">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPCMPolicy.java" timestamp="1597830387592">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="7" column="31" />
         <mark key="^" line="7" column="31" />
         <mark key="." line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/AndroidManifest.xml" timestamp="1597646146152">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/WLPCMPolicy.java" timestamp="1597831194023" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/TestFF.java" timestamp="1597827045277">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="13" />
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/AndroidManifest.xml" timestamp="1597646206202">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/WLPCMPolicy.java" timestamp="1597831065623" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/PCMPolicy.java" timestamp="1597825999340">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="3" column="16" />
