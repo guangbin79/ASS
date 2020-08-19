@@ -37,10 +37,10 @@
         <entry>s</entry>
         <entry>q</entry>
         <entry>.w</entry>
-        <entry>qw</entry>
         <entry>wq</entry>
         <entry>we</entry>
         <entry>w</entry>
+        <entry>qw</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -107,17 +107,22 @@
         <mark key="." line="12" column="65" />
         <mark key="^" line="12" column="86" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1597820018723">
-        <mark key="[" line="469" column="53" />
-        <mark key="]" line="469" column="53" />
-        <mark key="." line="469" column="53" />
-        <mark key="^" line="466" column="23" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1597824961369">
+        <mark key="[" line="616" column="57" />
+        <mark key="]" line="616" column="70" />
+        <mark key="." line="616" column="69" />
+        <mark key="^" line="616" column="70" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/TestFF.java" timestamp="1597823903573">
         <mark key="[" line="8" column="16" />
         <mark key="]" line="8" column="20" />
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1597824962772">
+        <mark key="]" line="315" column="21" />
+        <mark key="^" line="315" column="21" />
+        <mark key="." line="315" column="20" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1597818849069" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/AndroidManifest.xml" timestamp="1597646146152">
@@ -141,6 +146,12 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/PCMPolicy.java" timestamp="1597824439762">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="3" column="16" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="3" column="15" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/src/main/java/com/autoai/welink/audiolive/HLSDecoder.java" timestamp="1597741517689">
         <mark key="[" line="408" column="0" />
@@ -174,16 +185,6 @@
         <mark key="]" line="200" column="51" />
         <mark key="^" line="94" column="51" />
         <mark key="." line="94" column="50" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/build.gradle" timestamp="1597050605900">
-        <mark key="[" line="40" column="51" />
-        <mark key="]" line="40" column="52" />
-        <mark key="." line="40" column="52" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/build.gradle" timestamp="1597112365580">
-        <mark key="[" line="31" column="51" />
-        <mark key="]" line="31" column="52" />
-        <mark key="." line="31" column="52" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/res/values/strings.xml" timestamp="1597743820640">
         <mark key="[" line="10" column="36" />
@@ -309,10 +310,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>lass clasz = Class.forName(className);</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>lass clasz = Class.forName(className);</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>System</text>
