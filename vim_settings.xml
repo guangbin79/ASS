@@ -191,11 +191,11 @@
         <mark key="^" line="10" column="37" />
         <mark key="." line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1597821215398">
-        <mark key="[" line="36" column="19" />
-        <mark key="]" line="36" column="19" />
-        <mark key="^" line="37" column="12" />
-        <mark key="." line="36" column="19" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1597822718092">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="32" column="32" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/src/main/java/com/autoai/welink/audiolive/URLDecoderListener.java" timestamp="1597743072172">
         <mark key="[" line="3" column="62" />
@@ -308,11 +308,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>ITest</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgIlRlc3QiKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>ITest</text>
+        <text encoding="base64">T2JqZWN0IA==</text>
       </register>
       <register name="/" type="4">
         <text>System</text>
@@ -321,34 +321,41 @@
         <text encoding="base64">ICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAiVVJMRGVjb2RlciIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIElUZXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgIlRlc3QiKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBJVGVzdCBuZXdJbnN0YW5jZSgpOwo=</text>
+      <register name="2" type="4">
+        <text>new ITest() {
+            public newInstance() {}
+
+            @Override
+            public int add(int i, int j) {
+                return 0;
+            }
+        }.getClass())</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJbGxlZ2FsQWNjZXNzRXhjZXB0aW9uIGV4KSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSgpIHt9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLmdldExvZ2dlcihBcHAuY2xhc3MuZ2V0TmFtZSgpKS5sb2coTGV2ZWwuU0VWRVJFLCBudWxsLCBleCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmcmFnbWVudDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLmdldExvZ2dlcihBcHAuY2xhc3MuZ2V0TmFtZSgpKS5sb2coTGV2ZWwuU0VWRVJFLCBudWxsLCBleCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyYWdtZW50LnNldEFyZ3VtZW50cyhhcmdzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT2JqZWN0IG9iID0gYy5uZXdJbnN0YW5jZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1haW5BY3Rpdml0eSBmcmFnbWVudCA9IG5ldyBNYWluQWN0aXZpdHkoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3Qgb2IgPSBjbGFzei5uZXdJbnN0YW5jZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
