@@ -95,6 +95,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/PCMPolicy.java" timestamp="1597885769241">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/proguard-rules.pro" timestamp="1597826268684">
         <mark key="[" line="24" column="52" />
         <mark key="]" line="24" column="62" />
@@ -124,27 +129,11 @@
         <mark key="]" line="447" column="0" />
         <mark key="." line="447" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1597886189942">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/WLPCMPolicy.java" timestamp="1597885772960">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1597885651976">
-        <mark key="[" line="149" column="37" />
-        <mark key="]" line="150" column="20" />
-        <mark key="." line="150" column="19" />
-        <mark key="^" line="150" column="20" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/PCMPolicy.java" timestamp="1597885769241">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/PCMPolicy.java" timestamp="1597883893064">
         <mark key="[" line="15" column="47" />
+      </file>
+      <file name="/a.dummy" timestamp="1597886189942">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPCMPolicy.java" timestamp="1597886570559">
         <mark key="[" line="8" column="43" />
@@ -158,13 +147,22 @@
         <mark key="." line="12" column="14" />
         <mark key="^" line="12" column="15" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/WLPCMPolicy.java" timestamp="1597885772960">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/TestFF.java" timestamp="1597827045277">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="13" />
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/WLPCMPolicy.java" timestamp="1597831065623" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/xml/usb_accessory_filter.xml" timestamp="1597895947535">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="77" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/PCMPolicy.java" timestamp="1597825999340">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="3" column="16" />
@@ -295,7 +293,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx1c2ItYWNjZXNzb3J5IG1hbnVmYWN0dXJlcj0iQXV0b0FpLCBJbmMiIG1vZGVsPSJTVldsaW5rIiB2ZXJzaW9uPSIxLjAiLz4K</text>
       </register>
       <register name="-" type="4">
         <text>densityDpi</text>
@@ -304,7 +302,7 @@
         <text>System</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHVibGljIGludGVyZmFjZSBXTFBDTVBvbGljeSB7CiAgICB2b2lkIHRlc3QoKTsKfQo=</text>
+        <text encoding="base64">ICAgIDx1c2ItYWNjZXNzb3J5IG1hbnVmYWN0dXJlcj0iQXV0b0FpLCBJbmMiIG1vZGVsPSJTVldsaW5rIiB2ZXJzaW9uPSIxLjAiLz4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
