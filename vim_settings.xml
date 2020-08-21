@@ -112,13 +112,13 @@
         <mark key="." line="24" column="61" />
         <mark key="^" line="24" column="62" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatformListener.java" timestamp="1597976998001">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatformListener.java" timestamp="1597977140267">
         <mark key="[" line="46" column="4" />
         <mark key="]" line="51" column="34" />
         <mark key="^" line="51" column="34" />
         <mark key="." line="51" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1597977029182">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1597977135947">
         <mark key="[" line="853" column="30" />
         <mark key="]" line="853" column="30" />
         <mark key="^" line="853" column="30" />
@@ -136,6 +136,7 @@
       <file name="/a.dummy" timestamp="1597886189942">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/WLMicrophone.java" timestamp="1597977083754" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPCMPolicy.java" timestamp="1597886570559">
         <mark key="[" line="8" column="43" />
         <mark key="]" line="8" column="43" />
