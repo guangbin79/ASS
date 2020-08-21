@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>0</entry>
         <entry>1111</entry>
         <entry>timer.cancel</entry>
         <entry>timer</entry>
@@ -27,6 +26,7 @@
         <entry>release</entry>
         <entry>onUnbind</entry>
         <entry>System</entry>
+        <entry encoding="base64">XDxnZXRMb2NhbEluZXRBZGRyZXNzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</entry>
@@ -112,17 +112,17 @@
         <mark key="." line="24" column="61" />
         <mark key="^" line="24" column="62" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatformListener.java" timestamp="1597910517291">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatformListener.java" timestamp="1597976998001">
         <mark key="[" line="46" column="4" />
         <mark key="]" line="51" column="34" />
         <mark key="^" line="51" column="34" />
         <mark key="." line="51" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1597974834255">
-        <mark key="[" line="760" column="0" />
-        <mark key="]" line="760" column="0" />
-        <mark key="^" line="763" column="36" />
-        <mark key="." line="760" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1597977029182">
+        <mark key="[" line="853" column="30" />
+        <mark key="]" line="853" column="30" />
+        <mark key="^" line="853" column="30" />
+        <mark key="." line="853" column="29" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1597912285201">
         <mark key="[" line="1674" column="1" />
@@ -300,46 +300,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgInNpemU6IiArIGRhdGEubGVuZ3RoKTsK</text>
+        <text encoding="base64">ICAgICAgICBBbkZpbGVMb2cuZSgiV2VsaW5rUGxhdGZvcm0iLCAic3RhcnRVRFBCcm9hZGNhc3QiKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>mIsLinkConnected</text>
+        <text>UDPBroadcast</text>
       </register>
       <register name="/" type="4">
-        <text>System</text>
+        <text encoding="base64">XDxnZXRMb2NhbEluZXRBZGRyZXNzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQW5GaWxlTG9nLmUoIndscGxhdGZvcm0iLCAib25WaWRlb0ZyYW1lICIrZnJhbWUubGVuZ3RoKTsK</text>
+        <text encoding="base64">ICAgICAgICBBbkZpbGVMb2cuZSgiV2VsaW5rUGxhdGZvcm0iLCAic3RhcnRVRFBCcm9hZGNhc3QiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgInNpemU6IiArIGRhdGEubGVuZ3RoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZHMgPSBudWxsOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBtVURQQnJvYWRjYXN0ID0gZmFsc2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobVdlTGlua1NlcnZpY2UgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobVdlTGlua1NlcnZpY2UgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFuRmlsZUxvZy5lKCJ3bHBsYXRmb3JtIiwgImRkb25WaWRlb0ZyYW1lIDExMTExMTEiK2ZyYW1lLmxlbmd0aCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBtVURQQnJvYWRjYXN0ID0gdHJ1ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUlzTGlua0Nvbm5lY3RlZCA9IGZhbHNlOwogICAgICAgICAgICBtQXdha2VMb2NrLnVubG9jaygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtUGxhdGZvcm0uaW5pdCgxMDI0LCA3NjgsIG51bGwsIDMyMCwgInNkZnNmIik7CiAgICAgICAgbVBsYXRmb3JtLnN0YXJ0KDAsIDEsIDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtUGxhdGZvcm0uaW5pdCgxMDI0LCA3NjgsIG51bGwsIDMyMCwgInNkZnNmIik7CiAgICAgICAgbVBsYXRmb3JtLnN0YXJ0KDAsIDEsIDEpOwogICAgICAgIG1QbGF0Zm9ybS5zdGFydFVEUEJyb2FkY2FzdChudWxsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChkcyAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -348,10 +348,10 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>System</last-search>
+      <last-search encoding="base64">XDxnZXRMb2NhbEluZXRBZGRyZXNzXD4=</last-search>
       <last-offset />
-      <last-pattern>System</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxnZXRMb2NhbEluZXRBZGRyZXNzXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
