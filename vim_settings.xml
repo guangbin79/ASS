@@ -140,6 +140,12 @@
         <mark key="." line="212" column="55" />
         <mark key="^" line="192" column="58" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1598345647159">
+        <mark key="[" line="252" column="46" />
+        <mark key="]" line="252" column="46" />
+        <mark key="^" line="252" column="46" />
+        <mark key="." line="252" column="45" />
+      </file>
       <file name="/a.dummy" timestamp="1597886189942">
         <mark key="[" line="0" column="0" />
       </file>
@@ -183,6 +189,7 @@
         <mark key="^" line="60" column="52" />
         <mark key="." line="60" column="51" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1598345511889" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/aidl/com/autoai/welink/platform/service/IWeLinkService.aidl" timestamp="1597909682383">
         <mark key="[" line="20" column="14" />
         <mark key="]" line="20" column="17" />
