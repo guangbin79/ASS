@@ -96,10 +96,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1597912646269">
-        <mark key="[" line="514" column="0" />
-        <mark key="]" line="514" column="0" />
-        <mark key="^" line="515" column="8" />
-        <mark key="." line="514" column="0" />
+        <mark key="[" line="513" column="0" />
+        <mark key="]" line="513" column="0" />
+        <mark key="^" line="514" column="8" />
+        <mark key="." line="513" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/PCMPolicy.java" timestamp="1597885769241">
         <mark key="[" line="6" column="0" />
