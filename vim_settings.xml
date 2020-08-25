@@ -112,6 +112,12 @@
         <mark key="." line="24" column="61" />
         <mark key="^" line="24" column="62" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/build.gradle" timestamp="1598334892758">
+        <mark key="[" line="52" column="67" />
+        <mark key="]" line="52" column="68" />
+        <mark key="." line="52" column="68" />
+        <mark key="^" line="52" column="64" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatformListener.java" timestamp="1598320258465">
         <mark key="[" line="71" column="11" />
         <mark key="]" line="71" column="11" />
@@ -182,18 +188,10 @@
         <mark key="^" line="60" column="52" />
         <mark key="." line="60" column="51" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannelListener.java" timestamp="1598322356852" />
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1598322368093" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/aidl/com/autoai/welink/platform/service/IWeLinkService.aidl" timestamp="1597909682383">
         <mark key="[" line="20" column="14" />
         <mark key="]" line="20" column="17" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1597823978808">
-        <mark key="[" line="51" column="58" />
-        <mark key="]" line="36" column="13" />
-        <mark key="." line="36" column="12" />
-        <mark key="^" line="36" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -301,11 +299,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>suspend</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRMb2NhbEluZXRBZGRyZXNzXD4=</text>
