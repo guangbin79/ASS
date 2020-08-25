@@ -182,6 +182,8 @@
         <mark key="^" line="60" column="52" />
         <mark key="." line="60" column="51" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannelListener.java" timestamp="1598322356852" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1598322368093" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/aidl/com/autoai/welink/platform/service/IWeLinkService.aidl" timestamp="1597909682383">
         <mark key="[" line="20" column="14" />
         <mark key="]" line="20" column="17" />
