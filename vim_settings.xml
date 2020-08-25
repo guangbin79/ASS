@@ -119,7 +119,7 @@
         <mark key="." line="52" column="68" />
         <mark key="^" line="52" column="64" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatformListener.java" timestamp="1598320258465">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatformListener.java" timestamp="1598340586432">
         <mark key="[" line="71" column="11" />
         <mark key="]" line="71" column="11" />
         <mark key="^" line="71" column="11" />
@@ -140,7 +140,6 @@
         <mark key="." line="212" column="55" />
         <mark key="^" line="192" column="58" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1598340101463" />
       <file name="/a.dummy" timestamp="1597886189942">
         <mark key="[" line="0" column="0" />
       </file>
@@ -184,7 +183,6 @@
         <mark key="^" line="60" column="52" />
         <mark key="." line="60" column="51" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1598340129352" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/aidl/com/autoai/welink/platform/service/IWeLinkService.aidl" timestamp="1597909682383">
         <mark key="[" line="20" column="14" />
         <mark key="]" line="20" column="17" />
