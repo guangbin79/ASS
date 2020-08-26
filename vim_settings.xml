@@ -95,12 +95,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1598337296739">
-        <mark key="'" line="525" column="0" />
-        <mark key="[" line="528" column="17" />
-        <mark key="]" line="528" column="17" />
-        <mark key="." line="528" column="16" />
-        <mark key="^" line="528" column="17" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1598426637768">
+        <mark key="'" line="528" column="0" />
+        <mark key="[" line="519" column="85" />
+        <mark key="]" line="519" column="87" />
+        <mark key="." line="519" column="86" />
+        <mark key="^" line="519" column="87" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/PCMPolicy.java" timestamp="1597885769241">
         <mark key="[" line="6" column="0" />
@@ -189,11 +189,16 @@
         <mark key="^" line="60" column="52" />
         <mark key="." line="60" column="51" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1598345511889" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/aidl/com/autoai/welink/platform/service/IWeLinkService.aidl" timestamp="1597909682383">
         <mark key="[" line="20" column="14" />
         <mark key="]" line="20" column="17" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/TouchTranslator.java" timestamp="1598427318464">
+        <mark key="[" line="129" column="46" />
+        <mark key="]" line="129" column="53" />
+        <mark key="^" line="129" column="53" />
+        <mark key="." line="129" column="52" />
       </file>
     </filemarks>
     <jumps>
@@ -301,41 +306,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJndWFuZ2JpbiIsICJtb3Rpb25ldmVudCIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>+ &quot;, dpi:&quot; + densityDpi);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRMb2NhbEluZXRBZGRyZXNzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgImxpbmsgc3VzcGVuZCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJndWFuZ2JpbiIsICJtb3Rpb25ldmVudCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgImxpbmsgc3VzcGVuZCIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgImxpbmsgcmVzdW1lIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgImxpbmsgc3VzcGVuZCIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgImxpbmsgcmVzdW1lIik7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNlcnZlck1hbmFnZXIgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgQW5GaWxlTG9nLmUoIndscGxhdGZvcm0iLCAiU1RBVFVTX0FPQV9WSURFT19TVE9QIik7CiAgICAgICAgICAgICAgICBzZXJ2ZXJNYW5hZ2VyLnN0b3AoKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNlcnZlck1hbmFnZXIgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgQW5GaWxlTG9nLmUoIndscGxhdGZvcm0iLCAiU1RBVFVTX0FPQV9WSURFT19TVE9QIik7CiAgICAgICAgICAgICAgICBzZXJ2ZXJNYW5hZ2VyLnN0b3AoKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
