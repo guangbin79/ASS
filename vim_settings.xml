@@ -188,7 +188,12 @@
         <mark key="]" line="20" column="17" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/08157d81a28f98d26520ca3e7176d748/jetified-wlchannel/jars/classes.jar!/com/autoai/welink/channel/WLChannel.class" timestamp="1598427849977" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1598434085277">
+        <mark key="[" line="112" column="14" />
+        <mark key="]" line="112" column="14" />
+        <mark key="^" line="112" column="14" />
+        <mark key="." line="112" column="13" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/TouchTranslator.java" timestamp="1598427318464">
         <mark key="[" line="129" column="46" />
         <mark key="]" line="129" column="53" />
