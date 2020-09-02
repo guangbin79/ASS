@@ -113,11 +113,11 @@
         <mark key="^" line="52" column="64" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatformListener.java" timestamp="1599011627724" />
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1599012557889">
-        <mark key="[" line="1691" column="48" />
-        <mark key="]" line="1691" column="48" />
-        <mark key="." line="1691" column="47" />
-        <mark key="^" line="1691" column="48" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1599013180850">
+        <mark key="[" line="1715" column="1" />
+        <mark key="]" line="1715" column="1" />
+        <mark key="." line="1715" column="0" />
+        <mark key="^" line="1715" column="1" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/PCMPolicy.java" timestamp="1597883893064">
         <mark key="[" line="15" column="47" />
@@ -177,11 +177,11 @@
         <mark key="^" line="60" column="52" />
         <mark key="." line="60" column="51" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/aidl/com/autoai/welink/platform/service/IWeLinkService.aidl" timestamp="1599011729981">
-        <mark key="[" line="20" column="41" />
-        <mark key="]" line="20" column="51" />
-        <mark key="." line="20" column="50" />
-        <mark key="^" line="20" column="51" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/aidl/com/autoai/welink/platform/service/IWeLinkService.aidl" timestamp="1599013064343">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="29" />
+        <mark key="." line="20" column="28" />
+        <mark key="^" line="20" column="29" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1598434085277">
         <mark key="[" line="112" column="14" />
