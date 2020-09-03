@@ -140,7 +140,7 @@
         <mark key="^" line="252" column="46" />
         <mark key="." line="252" column="45" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1599104087273">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1599104208408">
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
@@ -312,8 +312,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYmx1ZXRvb3RoTGVTY2FubmVyLgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -325,34 +325,34 @@
         <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBJbnRlZ2VyIHJzc2lfdGhyZXNob2xkID0gLTcwOyAvL+aJq+aPj+S/oeWPt+mYgOWAvAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEludGVnZXIgcnNzaV90aHJlc2hvbGQgPSAtNzA7IC8v5omr5o+P5L+h5Y+36ZiA5YC8Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmx1ZXRvb3RoTGVTY2FubmVyLgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBPYmplY3QgcnNzaUxvY2sgPSBuZXcgT2JqZWN0KCk7IC8v5omr5o+P5L+h5Y+36ZiA5YC8CiAgICBzdGF0aWMgZmluYWwgSW50ZWdlciByc3NpX3RocmVzaG9sZCA9IC03MDsgLy/miavmj4/kv6Hlj7fpmIDlgLwK</text>
+        <text encoding="base64">ICAgIEludGVnZXIgcnNzaV90aHJlc2hvbGQgPSAtNzA7IC8v5omr5o+P5L+h5Y+36ZiA5YC8Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9kYXRhWzRd5Li6TkFMVeexu+WeiywgU1BTOiA3LCBQUFM6IDgsIElEUjogNSwgUDogMQo=</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBPYmplY3QgcnNzaUxvY2sgPSBuZXcgT2JqZWN0KCk7IC8v5omr5o+P5L+h5Y+36ZiA5YC8CiAgICBzdGF0aWMgZmluYWwgSW50ZWdlciByc3NpX3RocmVzaG9sZCA9IC03MDsgLy/miavmj4/kv6Hlj7fpmIDlgLwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9kYXRhWzRd5Li6TkFMVeexu+WeiywgU1BTOiA3LCBQUFM6IDgsIElEUjogNSwgUDogMQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICgobmFsdSAmIDB4MUYpID09IDUpID8gdHJ1ZSA6IGZhbHNlOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnl0ZSBuYWx1ID0gZGF0YVs0XTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRhdGFbMF0gPT0gMHgwICYmIGRhdGFbMV0gPT0gMHgwICYmIGRhdGFbMl0gPT0gMHgwICYmIGRhdGFbM10gPT0gMHgxICYmIGRhdGFbNF0gPT0gMHg2NykgewogICAgICAgICAgICAgICAgcmV0dXJuIDsKICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICgobmFsdSAmIDB4MUYpID09IDUpID8gdHJ1ZSA6IGZhbHNlOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnl0ZSBuYWx1ID0gZGF0YVs0XTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRhdGFbMF0gPT0gMHgwICYmIGRhdGFbMV0gPT0gMHgwICYmIGRhdGFbMl0gPT0gMHgwICYmIGRhdGFbM10gPT0gMHgxICYmIGRhdGFbNF0gPT0gMHg2NykgewogICAgICAgICAgICAgICAgcmV0dXJuIDsKICAgICAgICAgICAgfQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1QbGF0Zm9ybS4pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
