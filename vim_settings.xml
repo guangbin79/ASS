@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>link()</entry>
         <entry>touch(</entry>
         <entry encoding="base64">XDzmmK/lkKbmlK/mjIHpgJrov4fovabmnLrok53niZnmjqfliLbmiYvmnLrmi6jmiZPnlLXor53vvIwwXD4=</entry>
         <entry>lock</entry>
@@ -27,6 +26,7 @@
         <entry>startScan</entry>
         <entry>bPause</entry>
         <entry>onBLEStatusChanged(-1</entry>
+        <entry>writeFileLog</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</entry>
@@ -108,6 +108,13 @@
         <mark key="." line="55" column="71" />
         <mark key="^" line="52" column="64" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/AnFileLog.java" timestamp="1599207521707">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="37" column="43" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="32" column="25" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatformListener.java" timestamp="1599186458412">
         <mark key="[" line="40" column="24" />
         <mark key="]" line="40" column="26" />
@@ -176,7 +183,6 @@
         <mark key="." line="39" column="29" />
         <mark key="^" line="39" column="30" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1bfbc63deea886abd757b47ef764b2ab/jetified-wlplatform/jars/classes.jar!/com/autoai/welink/platform/WLPlatform.class" timestamp="1599187309976" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/xml/usb_accessory_filter.xml" timestamp="1597902312087">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="77" />
@@ -202,10 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1907" column="61" filename="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" />
-      <jump line="2066" column="12" filename="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" />
-      <jump line="1895" column="0" filename="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" />
-      <jump line="1294" column="12" filename="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" />
       <jump line="561" column="16" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/AutoClient.java" />
       <jump line="246" column="19" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/AutoClient.java" />
       <jump line="177" column="11" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/AutoClient.java" />
@@ -302,51 +304,56 @@
       <jump line="663" column="0" filename="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" />
       <jump line="316" column="20" filename="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" />
       <jump line="524" column="37" filename="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" />
+      <jump line="38" column="27" filename="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/AnFileLog.java" />
+      <jump line="46" column="12" filename="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/AnFileLog.java" />
+      <jump line="66" column="12" filename="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/AnFileLog.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/AnFileLog.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXh0Vmlld0NDLnNldFRleHQoIiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ble_signature_write_failed</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
-        <text>onBLEStatusChanged(-1</text>
+        <text>writeFileLog</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYmxlX3NpZ25hdHVyZV93cml0ZV9mYWlsZWQiPldlTGlua+etvuWQjeWGmeWksei0pTwvc3RyaW5nPgo=</text>
+      <register name="0" type="4">
+        <text>String filename = externalDir + FLAG_DIR;
+            File file = new File(filename);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXh0Vmlld0NDLnNldFRleHQoIiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWNoZWNrRmxhZ0ZpbGUpIHsKICAgICAgICAgICAgY2hlY2tGbGFnRmlsZSA9IHRydWU7CiAgICAgICAgICAgIFN0cmluZyBmaWxlbmFtZSA9IGV4dGVybmFsRGlyICsgRkxBR19ESVI7CiAgICAgICAgICAgIEZpbGUgZmlsZSA9IG5ldyBGaWxlKGZpbGVuYW1lKTsKICAgICAgICAgICAgaWYgKGZpbGUuZXhpc3RzKCkgJiYgZmlsZS5pc0RpcmVjdG9yeSgpKSB7CiAgICAgICAgICAgICAgICB3cml0ZUZpbGVMb2cgPSB0cnVlOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXh0Vmlld0NDLnNldFRleHQoIiIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJndWFuZ2JpbiIsICJ1c2Igc3RhdGU6ICIgKyBpbnRlbnQuZ2V0RXh0cmFzKCkuZ2V0Qm9vbGVhbigiY29ubmVjdGVkIikpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4gY29ubmVjdGVkID0gOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb25uZWN0ZWQpIHsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgbWFpbkFjdGl2aXR5LnJlY2VpdmVVU0JTdGF0dXMoZmFsc2UpOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJndWFuZ2JpbiIsICJ1c2Igc3RhdGU6ICIgKyBpbnRlbnQuZ2V0RXh0cmFzKCkuZ2V0Qm9vbGVhbigiY29ubmVjdGVkIikpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYWluQWN0aXZpdHkucmVjZWl2ZVVTQlN0YXR1cyh0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4gY29ubmVjdGVkID0gOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYWluQWN0aXZpdHkucmVjZWl2ZVVTQlN0YXR1cygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjb25uZWN0ZWQpIHsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgbWFpbkFjdGl2aXR5LnJlY2VpdmVVU0JTdGF0dXMoZmFsc2UpOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9Ub2FzdC5tYWtlVGV4dChNYWluQWN0aXZpdHkudGhpcywgIlVTQiDmlq3lvIAiLFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOyAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYWluQWN0aXZpdHkucmVjZWl2ZVVTQlN0YXR1cyh0cnVlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -355,9 +362,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onBLEStatusChanged(-1</last-search>
+      <last-search>writeFileLog</last-search>
       <last-offset />
-      <last-pattern>onBLEStatusChanged(-1</last-pattern>
+      <last-pattern>writeFileLog</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
