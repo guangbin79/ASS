@@ -113,17 +113,17 @@
         <mark key="^" line="40" column="26" />
         <mark key="." line="40" column="25" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1599186268833">
-        <mark key="[" line="77" column="57" />
-        <mark key="]" line="77" column="59" />
-        <mark key="^" line="77" column="59" />
-        <mark key="." line="77" column="58" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1599211262163">
+        <mark key="[" line="1494" column="43" />
+        <mark key="]" line="1494" column="42" />
+        <mark key="^" line="1494" column="42" />
+        <mark key="." line="1494" column="41" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1599210780798">
-        <mark key="[" line="1169" column="33" />
-        <mark key="]" line="1169" column="33" />
-        <mark key="^" line="1169" column="33" />
-        <mark key="." line="1169" column="32" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1599211421789">
+        <mark key="[" line="1180" column="39" />
+        <mark key="]" line="1181" column="36" />
+        <mark key="^" line="1181" column="36" />
+        <mark key="." line="1181" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHub.java" timestamp="1599208594868">
         <mark key="[" line="145" column="5" />
@@ -157,6 +157,12 @@
         <mark key="^" line="343" column="18" />
         <mark key="." line="343" column="17" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/aidl/com/autoai/welink/platform/service/IWeLinkService.aidl" timestamp="1599211364089">
+        <mark key="[" line="35" column="48" />
+        <mark key="]" line="20" column="29" />
+        <mark key="." line="20" column="28" />
+        <mark key="^" line="20" column="29" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/server/code/Client.java" timestamp="1599209466012">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -175,12 +181,6 @@
         <mark key="]" line="35" column="4" />
         <mark key="^" line="35" column="4" />
         <mark key="." line="35" column="3" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/aidl/com/autoai/welink/platform/service/IServiceCallback.aidl" timestamp="1599186191704">
-        <mark key="[" line="6" column="31" />
-        <mark key="]" line="6" column="31" />
-        <mark key="." line="6" column="31" />
-        <mark key="^" line="6" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/values/strings.xml" timestamp="1599190951611">
         <mark key="[" line="39" column="43" />
@@ -312,10 +312,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3RhaXRjIA==</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhaXRjIA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>writeFileLog</text>
