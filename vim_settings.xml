@@ -114,18 +114,17 @@
         <mark key="^" line="35" column="4" />
         <mark key="." line="35" column="3" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/aidl/com/autoai/welink/autohardware/wifigo/IWeLinkHardwareService.aidl" timestamp="1599228758626" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1599212491482">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="1493" column="42" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1599212471746">
-        <mark key="[" line="1174" column="33" />
-        <mark key="]" line="1175" column="44" />
-        <mark key="^" line="1175" column="44" />
-        <mark key="." line="1175" column="43" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1599265440773">
+        <mark key="[" line="630" column="66" />
+        <mark key="]" line="630" column="66" />
+        <mark key="^" line="630" column="66" />
+        <mark key="." line="630" column="65" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1599228280023">
         <mark key="[" line="262" column="0" />
