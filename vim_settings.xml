@@ -130,10 +130,11 @@
         <mark key="." line="150" column="3" />
         <mark key="^" line="150" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1599397928585">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1599399763347">
+        <mark key="[" line="1829" column="0" />
+        <mark key="]" line="1829" column="49" />
+        <mark key="." line="333" column="24" />
+        <mark key="^" line="333" column="25" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1599396124282">
         <mark key="[" line="646" column="40" />
@@ -319,7 +320,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ28ubWFuYWdlciA9IChXaWZpUDJwTWFuYWdlciljb250ZXh0LmdldFN5c3RlbVNlcnZpY2UoQ29udGV4dC5XSUZJX1AyUF9TRVJWSUNFKTsKICAgICAgICAgICAgZ28uY2hhbm5lbCA9IGdvLm1hbmFnZXIuaW5pdGlhbGl6ZShjb250ZXh0LCBjb250ZXh0LmdldE1haW5Mb29wZXIoKSwgbnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2xIYXJkd2FyZUh1Yi5kZXN0cm95SGFyZHdhcmVHcm91cCgpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>Destroy22222</text>
@@ -328,7 +329,7 @@
         <text>signup</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ28ubWFuYWdlciA9IChXaWZpUDJwTWFuYWdlciljb250ZXh0LmdldFN5c3RlbVNlcnZpY2UoQ29udGV4dC5XSUZJX1AyUF9TRVJWSUNFKTsKICAgICAgICAgICAgZ28uY2hhbm5lbCA9IGdvLm1hbmFnZXIuaW5pdGlhbGl6ZShjb250ZXh0LCBjb250ZXh0LmdldE1haW5Mb29wZXIoKSwgbnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2xIYXJkd2FyZUh1Yi5kZXN0cm95SGFyZHdhcmVHcm91cCgpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBMb2cuZSgid2xwbGF0Zm9ybSIsICJyZW1vdmVHcm91cCIpOwo=</text>
