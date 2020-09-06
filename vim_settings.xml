@@ -150,7 +150,7 @@
         <mark key="." line="28" column="30" />
         <mark key="^" line="28" column="31" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHub.java" timestamp="1599378362169">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHub.java" timestamp="1599384508360">
         <mark key="[" line="53" column="36" />
         <mark key="]" line="53" column="37" />
         <mark key="^" line="65" column="8" />
@@ -207,12 +207,11 @@
         <mark key="." line="66" column="30" />
         <mark key="^" line="65" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WifiDirectGo.java" timestamp="1599382389429">
-        <mark key="'" line="194" column="58" />
-        <mark key="[" line="186" column="28" />
-        <mark key="]" line="186" column="25" />
-        <mark key="." line="186" column="24" />
-        <mark key="^" line="186" column="25" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WifiDirectGo.java" timestamp="1599384886316">
+        <mark key="'" line="95" column="58" />
+        <mark key="[" line="239" column="42" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -320,47 +319,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLmF1dG9oZGRhcmR3YXJlLnV0aWxpeS5BbkZpbGVMb2c7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>onError(reason);</text>
       </register>
       <register name="/" type="4">
         <text>signup</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG5ld0ZpeGVkTGVuZ3RoUmVzcG9uc2UoInBvcnQgZXJyb3IiKTsK</text>
+      <register name="0" type="4">
+        <text>WLHardwareHubListener listener</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvYWkud2VsaW5rLmF1dG9oZGRhcmR3YXJlLnV0aWxpeS5BbkZpbGVMb2c7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhdmVyc2VBcHBMaXN0T25Db25uZWN0ZWQocGFja2FnZW5hbWUsIHJlbW90ZUlQLCBwb3J0LCBkZXZpY2UpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhdmVyc2VBcHBMaXN0T25Db25uZWN0ZWQocGFja2FnZW5hbWUsIHJlbW90ZUlQLCBwb3J0LCBkZXZpY2UpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmF2ZXJzZUFwcExpc3RPbkNvbm5lY3RlZChwYWNrYWdlbmFtZSwgcmVtb3RlSVAsIHJwb3J0LGRldmljZSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgT2JqZWN0IGluZm9Mb2NrID0gbmV3IE9iamVjdCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPFN0cmluZywgU3RyaW5nPiBtYXBEbnNTZEluZm8gPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICB0cmF2ZXJzZUFwcExpc3RPbkNvbm5lY3RlZChwYWNrYWdlbmFtZSwgcmVtb3RlSVAsIHJwb3J0LGRldmljZSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPFN0cmluZywgU3RyaW5nPiBtYXBEbnNTZEluZm8gPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGFja2FnZW5hbWUgPSBnZXRQYXJhbShwYXJhbXMsInBhY2thZ2UiKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZGV2aWNlID0gZ2V0UGFyYW0ocGFyYW1zLCJkZXZpY2UiKTsK</text>
+        <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZWQgKGluZm9Mb2NrKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVtb3RlUG9ydCA9IGdldFBhcmFtKHBhcmFtcywicG9ydCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
