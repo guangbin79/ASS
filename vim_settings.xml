@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>touch(</entry>
         <entry encoding="base64">XDzmmK/lkKbmlK/mjIHpgJrov4fovabmnLrok53niZnmjqfliLbmiYvmnLrmi6jmiZPnlLXor53vvIwwXD4=</entry>
         <entry>lock</entry>
         <entry>deinit</entry>
@@ -27,6 +26,7 @@
         <entry>bPause</entry>
         <entry>onBLEStatusChanged(-1</entry>
         <entry>writeFileLog</entry>
+        <entry>signup</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</entry>
@@ -207,16 +207,15 @@
         <mark key="." line="66" column="30" />
         <mark key="^" line="65" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WifiDirectGo.java" timestamp="1599381739224">
-        <mark key="[" line="20" column="74" />
-        <mark key="]" line="27" column="50" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="184" column="37" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WifiDirectGo.java" timestamp="1599382389429">
+        <mark key="'" line="194" column="58" />
+        <mark key="[" line="186" column="28" />
+        <mark key="]" line="186" column="25" />
+        <mark key="." line="186" column="24" />
+        <mark key="^" line="186" column="25" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="561" column="16" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/AutoClient.java" />
-      <jump line="246" column="19" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/AutoClient.java" />
       <jump line="177" column="11" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/AutoClient.java" />
       <jump line="232" column="61" filename="$USER_HOME$/Workspace/WeLink-Auto/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/AutoClient.java" />
       <jump line="56" column="0" filename="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" />
@@ -315,51 +314,53 @@
       <jump line="46" column="12" filename="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/AnFileLog.java" />
       <jump line="66" column="12" filename="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/AnFileLog.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/AnFileLog.java" />
+      <jump line="21" column="50" filename="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WifiDirectGo.java" />
+      <jump line="194" column="58" filename="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WifiDirectGo.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCIvc2lnbnVwIi5lcXVhbHModXJsKSAmJiBwYXJhbXMgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgU3RyaW5nIHZlciA9IGdldFBhcmFtKHBhcmFtcywidmVyIik7CiAgICAgICAgICAgICAgICBTdHJpbmcgcmVtb3RlUG9ydCA9IGdldFBhcmFtKHBhcmFtcywicG9ydCIpOwogICAgICAgICAgICAgICAgU3RyaW5nIGRldmljZSA9IGdldFBhcmFtKHBhcmFtcywiZGV2aWNlIik7CiAgICAgICAgICAgICAgICBTdHJpbmcgcGFja2FnZW5hbWUgPSBnZXRQYXJhbShwYXJhbXMsInBhY2thZ2UiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>writeFileLog</text>
+        <text>signup</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCIvc2lnbnVwIi5lcXVhbHModXJsKSAmJiBwYXJhbXMgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgU3RyaW5nIHZlciA9IGdldFBhcmFtKHBhcmFtcywidmVyIik7CiAgICAgICAgICAgICAgICBTdHJpbmcgcmVtb3RlUG9ydCA9IGdldFBhcmFtKHBhcmFtcywicG9ydCIpOwogICAgICAgICAgICAgICAgU3RyaW5nIGRldmljZSA9IGdldFBhcmFtKHBhcmFtcywiZGV2aWNlIik7CiAgICAgICAgICAgICAgICBTdHJpbmcgcGFja2FnZW5hbWUgPSBnZXRQYXJhbShwYXJhbXMsInBhY2thZ2UiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG5ld0ZpeGVkTGVuZ3RoUmVzcG9uc2UoInBvcnQgZXJyb3IiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBbkZpbGVMb2cuZShUQUcsICJ0cmF2ZXJzZUFwcExpc3RPbkNvbm5lY3RlZCBjbnQ9IiArYXBwSW5mb01hcC5zaXplKCkrIixwbj0iK2FwcEluZm8ucGFja2FnZW5hbWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBbkZpbGVMb2cuZShUQUcsICJ0cmF2ZXJzZUFwcExpc3RPbkNvbm5lY3RlZCBwYWNrYWdlbmFtZT0iICsgcGFja2FnZW5hbWUgKyAiLHJlbW90ZUlQPSIgKyBpcCsgIixnZXRQYXJhbWV0ZXJzPSIgKyBwb3J0KyIsZGV2aWNlPSIrZGV2aWNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQW5GaWxlTG9nLmUoVEFHLCBkIk5hbm9IVFRQRCBzZXJ2ZSB1cmw9IiArIHVybCArICIscmVtb3RlSVA9IiArIHJlbW90ZUlQKyAiLGdldFBhcmFtZXRlcnM9IiArIHBhcmFtcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmF2ZXJzZUFwcExpc3RPbkNvbm5lY3RlZChwYWNrYWdlbmFtZSwgcmVtb3RlSVAsIHJwb3J0LGRldmljZSk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWNlaXZlci5kZQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICB0cmF2ZXJzZUFwcExpc3RPbkNvbm5lY3RlZChwYWNrYWdlbmFtZSwgcmVtb3RlSVAsIHJwb3J0LGRldmljZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGFja2FnZW5hbWUgPSBnZXRQYXJhbShwYXJhbXMsInBhY2thZ2UiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZGV2aWNlID0gZ2V0UGFyYW0ocGFyYW1zLCJkZXZpY2UiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVjZWl2ZXIgIT0gbnVsbCAmJiBjb250ZXh0ICE9IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVtb3RlUG9ydCA9IGdldFBhcmFtKHBhcmFtcywicG9ydCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -368,9 +369,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>writeFileLog</last-search>
+      <last-search>signup</last-search>
       <last-offset />
-      <last-pattern>writeFileLog</last-pattern>
+      <last-pattern>signup</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
