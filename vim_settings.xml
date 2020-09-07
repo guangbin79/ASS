@@ -95,12 +95,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/WLServer.java" timestamp="1599208708137">
-        <mark key="[" line="259" column="11" />
-        <mark key="]" line="259" column="18" />
-        <mark key="^" line="259" column="18" />
-        <mark key="." line="259" column="17" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1599400517120">
         <mark key="[" line="373" column="0" />
         <mark key="]" line="373" column="0" />
@@ -147,6 +141,10 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="41" column="19" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1599442405004">
+        <mark key="[" line="97" column="4" />
+        <mark key="]" line="97" column="16" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/aidl/com/autoai/welink/platform/service/IServiceCallback.aidl" timestamp="1599268312289">
         <mark key="[" line="28" column="18" />
@@ -319,8 +317,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQucwo=</text>
+      <register name="&quot;" type="4">
+        <text>welinkSdkInit</text>
       </register>
       <register name="-" type="4">
         <text>Destroy22222</text>
@@ -328,8 +326,8 @@
       <register name="/" type="4">
         <text>signup</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2xIYXJkd2FyZUh1Yi5kZXN0cm95SGFyZHdhcmVHcm91cCgpOwo=</text>
+      <register name="0" type="4">
+        <text>welinkSdkInit</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBUaHJlYWQucwo=</text>
