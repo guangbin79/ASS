@@ -130,11 +130,11 @@
         <mark key="." line="646" column="39" />
         <mark key="^" line="646" column="40" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1599386965911">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="41" column="19" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1599447135870">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="57" />
+        <mark key="." line="84" column="56" />
+        <mark key="^" line="84" column="57" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1599445758486">
         <mark key="[" line="210" column="0" />
@@ -202,12 +202,12 @@
         <mark key="." line="66" column="30" />
         <mark key="^" line="65" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WifiDirectGo.java" timestamp="1599400249191">
-        <mark key="'" line="96" column="58" />
-        <mark key="[" line="121" column="22" />
-        <mark key="]" line="122" column="9" />
-        <mark key="." line="122" column="8" />
-        <mark key="^" line="122" column="9" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WifiDirectGo.java" timestamp="1599447185711">
+        <mark key="'" line="97" column="58" />
+        <mark key="[" line="149" column="40" />
+        <mark key="]" line="149" column="42" />
+        <mark key="." line="149" column="41" />
+        <mark key="^" line="149" column="42" />
       </file>
     </filemarks>
     <jumps>
@@ -315,8 +315,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgInNpZ25hdHVyZTogIiArIHNpZ25hdHVyZSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -324,8 +324,8 @@
       <register name="/" type="4">
         <text>signup</text>
       </register>
-      <register name="0" type="4">
-        <text>welinkSdkInit</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgInNpZ25hdHVyZTogIiArIHNpZ25hdHVyZSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBUaHJlYWQucwo=</text>
