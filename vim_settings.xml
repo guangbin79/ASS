@@ -105,6 +105,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.2.0/13e8ff89631c2e101eb6bddd12c2fb4bbd74b15d/appcompat-1.2.0-sources.jar!/androidx/appcompat/app/ActionBar.java" timestamp="1599463754867" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/cpp/com_autoai_welink_channel_WLChannel.h" timestamp="1599459008417" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1599459360235">
         <mark key="[" line="1668" column="33" />
@@ -142,29 +143,17 @@
         <mark key="." line="385" column="59" />
         <mark key="^" line="333" column="23" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/aidl/com/autoai/welink/platform/service/IWeLinkService.aidl" timestamp="1599268878534">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="37" column="28" />
-        <mark key="." line="36" column="37" />
-        <mark key="^" line="36" column="38" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WeLinkHardwareHub.java" timestamp="1599373542923">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="35" column="41" />
         <mark key="." line="66" column="30" />
         <mark key="^" line="65" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1599461991125">
-        <mark key="[" line="371" column="46" />
-        <mark key="]" line="371" column="31" />
-        <mark key="." line="371" column="30" />
-        <mark key="^" line="371" column="31" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/aidl/com/autoai/welink/autohardware/wifigo/IWeLinkHardwareService.aidl" timestamp="1599292319348">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="20" />
-        <mark key="^" line="10" column="20" />
-        <mark key="." line="10" column="19" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1599464170140">
+        <mark key="[" line="368" column="48" />
+        <mark key="]" line="371" column="17" />
+        <mark key="." line="371" column="16" />
+        <mark key="^" line="371" column="17" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1599457584780">
         <mark key="[" line="63" column="0" />
@@ -177,11 +166,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WelinkHardwareClient.java" timestamp="1599293135252">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="86" column="28" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.2.0/13e8ff89631c2e101eb6bddd12c2fb4bbd74b15d/appcompat-1.2.0-sources.jar!/androidx/appcompat/app/AppCompatActivity.java" timestamp="1599463459707" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/values/strings.xml" timestamp="1599464068007">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="21" />
+        <mark key="^" line="2" column="22" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHubListener.java" timestamp="1599450777738">
         <mark key="[" line="42" column="29" />
@@ -309,46 +299,52 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">d2luZG93IA==</text>
+        <text>button</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2luZG93IA==</text>
+        <text>button</text>
       </register>
       <register name="/" type="4">
         <text>signup</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcnVuT25VaVRocmVhZChuZXcgUnVubmFibGUoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZXRUaXRsZShnZXRUaXRsZSgpLnN1YlNlcXVlbmNlKDEsIC0xKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYXBwX25hbWUiPldMYXVuY2hlcjwvc3RyaW5nPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2Lgo=</text>
+        <text encoding="base64">ICAgICAgICBidXR0b24uc2V0VGV4dCgi6LCD6K+VIik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBWaWV3IHYgPSB3aW5kb3cuZ2V0RGVjb3JWaWV3KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBCdXR0b24gYnV0dG9uID0gbmV3IEJ1dHRvbih0aGlzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAiYWN0aW9uX2JhcjogIiArIGFiVGl0bGVJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRUaXRsZShnZXRUaXRsZSgpICsgIiAtLSBsaW1pdDogIiArIGxpbWl0X3llYXIpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGdldEFjdGlvbkJhcigpLnNldFRpdGxlKGdldFRpdGxlKCkgKyAiIC0tIGxpbWl0OiAiICsgbGltaXRfeWVhcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRXaW5kb3coKQo=</text>
+        <text>//        findViewById(abTitleId).setOnClickListener(new View.OnClickListener() {
+//
+//            @Override
+//            public void onClick(View v) {
+//                //Do something
+//            }
+//        });</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtQWMK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAiYWI6ICIgKyBhY3Rpb25CYXIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6aWQ9IkAraWQvdG9vbGJhcl90b3AiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBpbnQgYWJUaXRsZUlkID0gZ2V0UmVzb3VyY2VzKCkuZ2V0SWRlbnRpZmllcigiYWN0aW9uX2Jhcl90aXRsZSIsICJpZCIsICJhbmRyb2lkIik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYXBwLkFjdGlvbkJhcjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
