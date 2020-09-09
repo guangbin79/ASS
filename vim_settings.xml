@@ -145,6 +145,18 @@
         <mark key="^" line="47" column="31" />
         <mark key="." line="47" column="30" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/SoundProtocol.java" timestamp="1599614695318">
+        <mark key="[" line="122" column="47" />
+        <mark key="]" line="122" column="23" />
+        <mark key="^" line="122" column="23" />
+        <mark key="." line="122" column="22" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/Server.java" timestamp="1599614526707">
+        <mark key="[" line="129" column="62" />
+        <mark key="]" line="129" column="58" />
+        <mark key="^" line="129" column="58" />
+        <mark key="." line="129" column="57" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/gradle.properties" timestamp="1599471457397">
         <mark key="[" line="15" column="27" />
       </file>
@@ -152,7 +164,12 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="25" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/MusicProtocol.java" timestamp="1599579518362" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/protocol/MusicProtocol.java" timestamp="1599614671475">
+        <mark key="[" line="266" column="47" />
+        <mark key="]" line="268" column="38" />
+        <mark key="^" line="268" column="38" />
+        <mark key="." line="268" column="37" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/build.gradle" timestamp="1599528472201">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
