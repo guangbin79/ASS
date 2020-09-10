@@ -122,9 +122,9 @@
         <mark key="^" line="26" column="38" />
         <mark key="." line="26" column="37" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1599541737541">
-        <mark key="[" line="1676" column="0" />
-        <mark key="]" line="1680" column="33" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1599707550800">
+        <mark key="[" line="260" column="20" />
+        <mark key="]" line="260" column="35" />
         <mark key="." line="1670" column="36" />
         <mark key="^" line="1670" column="37" />
       </file>
@@ -299,8 +299,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>onAudioPlayStart</text>
       </register>
       <register name="-" type="4">
         <text>1111111111</text>
@@ -308,8 +308,8 @@
       <register name="/" type="4">
         <text>signup</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJndWFuZ2JpbiIsICJjaGVjazogIiArIG1hY0FkZHJlc3MpOwo=</text>
+      <register name="0" type="4">
+        <text>onAudioPlayStart</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
