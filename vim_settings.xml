@@ -101,11 +101,11 @@
         <mark key="." line="10" column="19" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1599806922438">
-        <mark key="[" line="284" column="35" />
-        <mark key="]" line="284" column="35" />
-        <mark key="." line="284" column="34" />
-        <mark key="^" line="284" column="35" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1599810101129">
+        <mark key="[" line="823" column="81" />
+        <mark key="]" line="823" column="91" />
+        <mark key="." line="823" column="90" />
+        <mark key="^" line="823" column="91" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatformListener.java" timestamp="1599809918857">
         <mark key="[" line="167" column="0" />
@@ -143,11 +143,11 @@
         <mark key="^" line="37" column="46" />
         <mark key="." line="37" column="45" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/values/strings.xml" timestamp="1599792902851">
-        <mark key="[" line="45" column="24" />
-        <mark key="]" line="45" column="29" />
-        <mark key="." line="45" column="28" />
-        <mark key="^" line="45" column="29" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/values/strings.xml" timestamp="1599810099481">
+        <mark key="[" line="28" column="31" />
+        <mark key="]" line="28" column="40" />
+        <mark key="." line="28" column="39" />
+        <mark key="^" line="28" column="40" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHubListener.java" timestamp="1599809914633">
         <mark key="[" line="6" column="0" />
@@ -179,7 +179,7 @@
         <mark key="." line="39" column="8" />
         <mark key="^" line="39" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WifiDirectGo.java" timestamp="1599809754692">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WifiDirectGo.java" timestamp="1599810171769">
         <mark key="[" line="195" column="44" />
         <mark key="]" line="195" column="56" />
         <mark key="^" line="195" column="56" />
@@ -291,11 +291,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqICAgICAgICAgICAgICAgMDog5Y+R546wQkxF6K6+5aSHCg==</text>
+      <register name="&quot;" type="4">
+        <text>discovered</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>discovered</text>
       </register>
       <register name="/" type="4">
         <text>resume</text>
