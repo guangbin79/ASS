@@ -95,7 +95,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1599786672656">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1599787763830">
         <mark key="[" line="839" column="21" />
         <mark key="]" line="839" column="21" />
         <mark key="." line="839" column="20" />
@@ -136,11 +136,11 @@
         <mark key="." line="437" column="58" />
         <mark key="^" line="437" column="59" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1599785720434">
-        <mark key="[" line="73" column="46" />
-        <mark key="]" line="73" column="48" />
-        <mark key="." line="73" column="47" />
-        <mark key="^" line="73" column="48" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1599787755464">
+        <mark key="[" line="355" column="55" />
+        <mark key="]" line="355" column="55" />
+        <mark key="." line="355" column="54" />
+        <mark key="^" line="355" column="55" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/xml/ble_signal_filter.xml" timestamp="1599709190626">
         <mark key="[" line="2" column="22" />
@@ -204,6 +204,12 @@
         <mark key="]" line="199" column="16" />
         <mark key="." line="199" column="15" />
         <mark key="^" line="199" column="16" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WifiDirectGo.java" timestamp="1599788017481">
+        <mark key="[" line="57" column="42" />
+        <mark key="]" line="57" column="43" />
+        <mark key="^" line="57" column="43" />
+        <mark key="." line="57" column="42" />
       </file>
     </filemarks>
     <jumps>
