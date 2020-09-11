@@ -149,17 +149,17 @@
         <mark key="." line="39" column="8" />
         <mark key="^" line="39" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1599793458010">
-        <mark key="[" line="649" column="0" />
-        <mark key="]" line="649" column="0" />
-        <mark key="." line="649" column="0" />
-        <mark key="^" line="701" column="67" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1599801849922">
+        <mark key="[" line="284" column="35" />
+        <mark key="]" line="284" column="35" />
+        <mark key="." line="284" column="34" />
+        <mark key="^" line="284" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1599795516593">
-        <mark key="[" line="368" column="0" />
-        <mark key="]" line="368" column="0" />
-        <mark key="^" line="440" column="0" />
-        <mark key="." line="368" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1599801355330">
+        <mark key="[" line="425" column="9" />
+        <mark key="]" line="426" column="8" />
+        <mark key="." line="426" column="7" />
+        <mark key="^" line="426" column="8" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/aidl/com/autoai/welink/platform/service/IServiceCallback.aidl" timestamp="1599790885887" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPCMPolicy.java" timestamp="1599793805636">
@@ -299,10 +299,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGdhdHQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgZ2F0dC5kaXNjb25uZWN0KCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoYmx1ZXRvb3RoR2F0dCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGJsdWV0b290aEdhdHQuY2xvc2UoKTsKICAgICAgICAgICAgICAgICAgICAgICAgYmx1ZXRvb3RoR2F0dC5kaXNjb25uZWN0KCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJsdWV0b290aEdhdHQgPSBudWxsOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>response_duration</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>signup</text>
@@ -311,34 +311,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGJsdWV0b290aEdhdHQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgYmx1ZXRvb3RoR2F0dC5jbG9zZSgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgYmx1ZXRvb3RoR2F0dC5kaXNjb25uZWN0KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBibHVldG9vdGhHYXR0ID0gbnVsbDsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGdhdHQgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgZ2F0dC5kaXNjb25uZWN0KCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoYmx1ZXRvb3RoR2F0dCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGJsdWV0b290aEdhdHQuY2xvc2UoKTsKICAgICAgICAgICAgICAgICAgICAgICAgYmx1ZXRvb3RoR2F0dC5kaXNjb25uZWN0KCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJsdWV0b290aEdhdHQgPSBudWxsOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBibHVldG9vdGhHYXR0ID0gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJsdWV0b290aEdhdHQuY2xvc2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYmx1ZXRvb3RoR2F0dCAhPSBudWxsKSB7CiAgICAgICAgICAgIGJsdWV0b290aEdhdHQuY2xvc2UoKTsKICAgICAgICAgICAgYmx1ZXRvb3RoR2F0dC5kaXNjb25uZWN0KCk7CiAgICAgICAgICAgIGJsdWV0b290aEdhdHQgPSBudWxsOwogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJsdWV0b290aEdhdHQuY2xvc2UoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJsdWV0b290aEdhdHQuZGlzY29ubmVjdCgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgYmx1ZXRvb3RoR2F0dCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZWQgKGJsdWV0b290aEdhdHRMb2NrKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5nYXR0ID0gZ2F0dAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEJsdWV0b290aEdhdHQgZ2F0dCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZWQgKGJsdWV0b290aEdhdHRMb2NrKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgIm9uTGlua0FPQVJlYWR5Iik7Cg==</text>
+        <text encoding="base64">ICAgIGZpbmFsIE9iamVjdCBibHVldG9vdGhHYXR0TG9jayA9IG5ldyBPYmplY3QoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
