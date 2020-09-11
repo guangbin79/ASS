@@ -153,9 +153,9 @@
         <mark key="." line="39" column="8" />
         <mark key="^" line="39" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1599791799578">
-        <mark key="[" line="413" column="46" />
-        <mark key="]" line="413" column="46" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1599792350648">
+        <mark key="[" line="647" column="0" />
+        <mark key="]" line="647" column="62" />
         <mark key="." line="413" column="45" />
         <mark key="^" line="413" column="46" />
       </file>
@@ -296,8 +296,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbVdlTGlua011UmVhZHlNb21lbnQgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -306,7 +306,7 @@
         <text>signup</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYmxlX3NpZ25hdHVyZV9zdWNjZXNzIj5XZUxpbmvnrb7lkI3lhpnmiJDlip/vvJo8L3N0cmluZz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbVdlTGlua011UmVhZHlNb21lbnQgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
