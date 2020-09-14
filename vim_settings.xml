@@ -36,10 +36,10 @@
         <entry>w'</entry>
         <entry>s</entry>
         <entry>q</entry>
-        <entry>.w</entry>
         <entry>wq</entry>
         <entry>we</entry>
         <entry>qw</entry>
+        <entry>.w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -95,7 +95,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1599814389847">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1600052726986">
         <mark key="[" line="336" column="61" />
         <mark key="]" line="336" column="61" />
         <mark key="." line="336" column="60" />
@@ -129,11 +129,11 @@
         <mark key="." line="249" column="34" />
         <mark key="^" line="249" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1599832319521">
-        <mark key="[" line="322" column="0" />
-        <mark key="]" line="322" column="0" />
-        <mark key="^" line="291" column="1" />
-        <mark key="." line="322" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1600052298452">
+        <mark key="[" line="321" column="0" />
+        <mark key="]" line="321" column="0" />
+        <mark key="." line="321" column="0" />
+        <mark key="^" line="320" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPCMPolicy.java" timestamp="1599793805636">
         <mark key="[" line="37" column="33" />
@@ -151,6 +151,10 @@
         <mark key="]" line="1279" column="72" />
         <mark key="^" line="1279" column="72" />
         <mark key="." line="1279" column="71" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/WeLinkLauncherBroadcast.java" timestamp="1600052741203">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="22" column="66" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/values/strings.xml" timestamp="1599810099481">
         <mark key="[" line="28" column="31" />
@@ -182,16 +186,16 @@
         <mark key="." line="39" column="8" />
         <mark key="^" line="39" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEStatus.java" timestamp="1599829106474">
-        <mark key="[" line="20" column="5" />
-        <mark key="]" line="23" column="25" />
-        <mark key="." line="23" column="24" />
-        <mark key="^" line="23" column="25" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEStatus.java" timestamp="1600052716627">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WifiDirectGo.java" timestamp="1599826491150">
-        <mark key="[" line="265" column="0" />
-        <mark key="]" line="265" column="0" />
-        <mark key="." line="265" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WifiDirectGo.java" timestamp="1600052710854">
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="203" column="81" />
+        <mark key="." line="202" column="11" />
+        <mark key="^" line="202" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -299,17 +303,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>onHardwareGroupStatusChanged</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBJbnRlbnRGaWx0ZXIgdXNiRGV2aWNlU3RhdGVGaWx0ZXIgPSBuZXcgSW50ZW50RmlsdGVyKFdFTElOS19SRVFVRVNUX0NPTk5FQ1RJT04pOwogICAgICAgIHVzYkRldmljZVN0YXRlRmlsdGVyLmFkZEFjdGlvbihBTkRST0lEX1VTQl9TVEFURSk7CiAgICAgICAgbWFpbkFjdGl2aXR5LnJlZ2lzdGVyUmVjZWl2ZXIodGhpcywgdXNiRGV2aWNlU3RhdGVGaWx0ZXIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>resume</text>
       </register>
-      <register name="0" type="4">
-        <text>onHardwareGroupStatusChanged</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBJbnRlbnRGaWx0ZXIgdXNiRGV2aWNlU3RhdGVGaWx0ZXIgPSBuZXcgSW50ZW50RmlsdGVyKFdFTElOS19SRVFVRVNUX0NPTk5FQ1RJT04pOwogICAgICAgIHVzYkRldmljZVN0YXRlRmlsdGVyLmFkZEFjdGlvbihBTkRST0lEX1VTQl9TVEFURSk7CiAgICAgICAgbWFpbkFjdGl2aXR5LnJlZ2lzdGVyUmVjZWl2ZXIodGhpcywgdXNiRGV2aWNlU3RhdGVGaWx0ZXIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -318,28 +322,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNjb25uZWN0X2dhdHQobnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW50ZW50RmlsdGVyIGludGVudEZpbHRlciA9IG5ldyBJbnRlbnRGaWx0ZXIoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZWQgKHJzc2lMb2NrKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQW5GaWxlTG9nLmUoImJsZS1zY2FuIiwgInNldENvbm5lY3RvciIgKyBjb25uZWN0b3IpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmxlU3RhdHVzID0gbmV3IEJMRVN0YXR1cyh0aGlzKTsK</text>
+        <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZWQgKGNvbm5lY3RvckxvY2spIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIE9iamVjdCBjb25uZWN0b3JMb2NrID0gbmV3IE9iamVjdCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBibGVDb25uZWN0b3IuYmxlU3RhdHVzID0gbmV3IEJMRVN0YXR1cyhibGVDb25uZWN0b3IpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5yZXMuQ29uZmlndXJhdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBPYmplY3QgY29ubmVjdG9yTG9jayA9IG5ldyBPYmplY3QoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
