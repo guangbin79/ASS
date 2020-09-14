@@ -105,9 +105,9 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatformListener.java" timestamp="1599809918857">
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatformListener.java" timestamp="1600050423965">
+        <mark key="[" line="181" column="9" />
+        <mark key="]" line="181" column="36" />
         <mark key="." line="167" column="0" />
         <mark key="^" line="175" column="43" />
       </file>
@@ -158,8 +158,6 @@
         <mark key="." line="28" column="39" />
         <mark key="^" line="28" column="40" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/net/wifi/WpsInfo.java" timestamp="1599824492341" />
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/Server.java" timestamp="1599832370998" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHubListener.java" timestamp="1599809914633">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="55" />
@@ -190,7 +188,6 @@
         <mark key="." line="23" column="24" />
         <mark key="^" line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/net/wifi/p2p/WifiP2pConfig.java" timestamp="1599825830031" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WifiDirectGo.java" timestamp="1599826491150">
         <mark key="[" line="265" column="0" />
         <mark key="]" line="265" column="0" />
@@ -302,8 +299,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>onHardwareGroupStatusChanged</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -311,8 +308,8 @@
       <register name="/" type="4">
         <text>resume</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFuYWdlci5jcmVhdGVHcm91cChjaGFubmVsLCBuZXcgV2lmaVAycE1hbmFnZXIuQWN0aW9uTGlzdGVuZXIoKSB7CiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uU3VjY2VzcygpIHsKICAgICAgICAgICAgICAgICAgICBpZiAobWFuYWdlciAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGluaXRHb1AycERuc1NkU2VydmljZSgpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uRmFpbHVyZShpbnQgcmVhc29uKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKHJlYXNvbiA9PSBXaWZpUDJwTWFuYWdlci5FUlJPUikgewogICAgICAgICAgICAgICAgICAgICAgICBPbkVycm9yKDYpOwogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIE9uRXJyb3IoNSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTsK</text>
+      <register name="0" type="4">
+        <text>onHardwareGroupStatusChanged</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
