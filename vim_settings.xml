@@ -95,11 +95,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1600150701779">
-        <mark key="[" line="87" column="34" />
-        <mark key="]" line="87" column="34" />
-        <mark key="^" line="87" column="34" />
-        <mark key="." line="87" column="33" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1600151456317">
+        <mark key="'" line="94" column="47" />
+        <mark key="[" line="132" column="13" />
+        <mark key="]" line="132" column="13" />
+        <mark key="^" line="132" column="13" />
+        <mark key="." line="132" column="12" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/AndroidManifest.xml" timestamp="1599815248025">
         <mark key="[" line="5" column="0" />
@@ -111,7 +112,7 @@
         <mark key="." line="165" column="21" />
         <mark key="^" line="175" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1600148800529">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1600152094221">
         <mark key="[" line="1819" column="25" />
         <mark key="]" line="1819" column="25" />
         <mark key="." line="1819" column="24" />
@@ -129,12 +130,12 @@
         <mark key="." line="249" column="34" />
         <mark key="^" line="249" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1600151114626">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1600152810041">
         <mark key="'" line="307" column="33" />
-        <mark key="[" line="363" column="44" />
-        <mark key="]" line="363" column="44" />
-        <mark key="^" line="363" column="44" />
-        <mark key="." line="363" column="43" />
+        <mark key="[" line="122" column="61" />
+        <mark key="]" line="122" column="61" />
+        <mark key="^" line="122" column="104" />
+        <mark key="." line="122" column="61" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/xml/ble_signal_filter.xml" timestamp="1600139781780">
         <mark key="[" line="2" column="38" />
@@ -213,7 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="29" filename="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/WeLinkLauncherBroadcast.java" />
       <jump line="22" column="0" filename="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/WeLinkLauncherBroadcast.java" />
       <jump line="34" column="0" filename="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/WeLinkLauncherBroadcast.java" />
       <jump line="19" column="40" filename="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/WeLinkConnectBroadcast.java" />
@@ -313,21 +313,22 @@
       <jump line="198" column="38" filename="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" />
       <jump line="307" column="33" filename="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" />
       <jump line="664" column="96" filename="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" />
+      <jump line="94" column="47" filename="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICsgaXNDb25uZWN0aW5nICsgIiwgc2Nhbm5pbmc6ICIgKyBpc1NjYW4gKyAiLCBnYXR0OiAiICsgKGJsdWV0b290aEdhdHQgIT0gbnVsbCkpOw==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgaXNDb25uZWN0aW5nICsgIiwgc2Nhbm5pbmc6ICIgKyBpc1NjYW4gKyAiLCBnYXR0OiAiICsgKGJsdWV0b290aEdhdHQgIT0gbnVsbCkpOw==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>resume</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQW5GaWxlTG9nLmUoImJsZS1zY2FuIiwgImRldmljZSBkaXNjb3ZlcmVkLCBjb25uZWN0aW5nOiIgKyBpc0Nvbm5lY3RpbmcgKyAiLCBzY2FubmluZzogIiArIGlzU2NhbiArICIsIGdhdHQ6ICIgKyAoYmx1ZXRvb3RoR2F0dCAhPSBudWxsKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFuRmlsZUxvZy5lKCJibGUtc2NhbiIsICJzaWduYXR1cmUgaXMgbnVsbCIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2xIYXJkd2FyZUh1YiA9IG51bGw7Cg==</text>
