@@ -129,11 +129,11 @@
         <mark key="." line="249" column="34" />
         <mark key="^" line="249" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1600076787630">
-        <mark key="[" line="142" column="50" />
-        <mark key="]" line="142" column="48" />
-        <mark key="^" line="142" column="48" />
-        <mark key="." line="142" column="47" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1600076835776">
+        <mark key="[" line="373" column="45" />
+        <mark key="]" line="373" column="52" />
+        <mark key="^" line="373" column="52" />
+        <mark key="." line="373" column="51" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPCMPolicy.java" timestamp="1599793805636">
         <mark key="[" line="37" column="33" />
@@ -300,16 +300,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>macAddress</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>macAddress</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>resume</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFuRmlsZUxvZy5lKCJibGUtc2NhbiIsICJkZXZpY2UgY29ubmVjdCBmYWlsZWQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQW5GaWxlTG9nLmUoImJsZS1zY2FuIiwgInN0b3BTY2FuIC0gc3RvcCIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
