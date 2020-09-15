@@ -95,11 +95,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1600135736054">
-        <mark key="[" line="662" column="58" />
-        <mark key="]" line="663" column="16" />
-        <mark key="." line="663" column="15" />
-        <mark key="^" line="663" column="16" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1600138196326">
+        <mark key="[" line="660" column="57" />
+        <mark key="]" line="660" column="58" />
+        <mark key="." line="660" column="57" />
+        <mark key="^" line="660" column="58" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/AndroidManifest.xml" timestamp="1599815248025">
         <mark key="[" line="5" column="0" />
@@ -305,11 +305,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBsb25nIHJlcGVhdF9zY2FuX2ludGVydmFsID0gNTAwMDsgLy/ph43lpI3miavmj4/ov57mjqXlkIzkuIDkuKrorr7lpIfnmoTpl7TpmpQK</text>
+      <register name="&quot;" type="4">
+        <text>Log</text>
       </register>
       <register name="-" type="4">
-        <text>repeat_scan_interval</text>
+        <text>Log</text>
       </register>
       <register name="/" type="4">
         <text>resume</text>
