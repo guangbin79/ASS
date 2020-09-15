@@ -129,12 +129,12 @@
         <mark key="." line="249" column="34" />
         <mark key="^" line="249" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1600148278618">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1600149975343">
         <mark key="'" line="307" column="33" />
-        <mark key="[" line="367" column="65" />
-        <mark key="]" line="367" column="65" />
-        <mark key="^" line="367" column="65" />
-        <mark key="." line="367" column="64" />
+        <mark key="[" line="128" column="61" />
+        <mark key="]" line="128" column="54" />
+        <mark key="^" line="128" column="54" />
+        <mark key="." line="128" column="53" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/xml/ble_signal_filter.xml" timestamp="1600139781780">
         <mark key="[" line="2" column="38" />
@@ -317,17 +317,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50ID0geG1sUGFyc2VyLm5leHQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICsgaXNDb25uZWN0aW5nICsgIiwgc2Nhbm5pbmc6ICIgKyBpc1NjYW4gKyAiLCBnYXR0OiAiICsgKGJsdWV0b290aEdhdHQgIT0gbnVsbCkpOw==</text>
       </register>
       <register name="-" type="4">
-        <text>aaaaaaaaaa</text>
+        <text encoding="base64">ICsgaXNDb25uZWN0aW5nICsgIiwgc2Nhbm5pbmc6ICIgKyBpc1NjYW4gKyAiLCBnYXR0OiAiICsgKGJsdWV0b290aEdhdHQgIT0gbnVsbCkpOw==</text>
       </register>
       <register name="/" type="4">
         <text>resume</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50ID0geG1sUGFyc2VyLm5leHQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQW5GaWxlTG9nLmUoImJsZS1zY2FuIiwgImRldmljZSBkaXNjb3ZlcmVkLCBjb25uZWN0aW5nOiIgKyBpc0Nvbm5lY3RpbmcgKyAiLCBzY2FubmluZzogIiArIGlzU2NhbiArICIsIGdhdHQ6ICIgKyAoYmx1ZXRvb3RoR2F0dCAhPSBudWxsKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2xIYXJkd2FyZUh1YiA9IG51bGw7Cg==</text>
