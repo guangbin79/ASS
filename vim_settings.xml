@@ -99,7 +99,6 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/build.gradle" timestamp="1600075347406" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatformListener.java" timestamp="1600064152134">
         <mark key="[" line="165" column="21" />
         <mark key="]" line="165" column="21" />
@@ -112,7 +111,7 @@
         <mark key="." line="1829" column="93" />
         <mark key="^" line="1829" column="94" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1600134982410">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1600135344920">
         <mark key="[" line="698" column="66" />
         <mark key="]" line="699" column="8" />
         <mark key="." line="699" column="7" />
@@ -193,7 +192,6 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="40" column="1" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WifiDirectGo.java" timestamp="1600073287500" />
     </filemarks>
     <jumps>
       <jump line="67" column="0" filename="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" />
