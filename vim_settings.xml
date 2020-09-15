@@ -95,11 +95,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1600148870837">
-        <mark key="[" line="943" column="0" />
-        <mark key="]" line="943" column="57" />
-        <mark key="^" line="39" column="34" />
-        <mark key="." line="943" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1600150701779">
+        <mark key="[" line="87" column="34" />
+        <mark key="]" line="87" column="34" />
+        <mark key="^" line="87" column="34" />
+        <mark key="." line="87" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/AndroidManifest.xml" timestamp="1599815248025">
         <mark key="[" line="5" column="0" />
@@ -129,12 +129,12 @@
         <mark key="." line="249" column="34" />
         <mark key="^" line="249" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1600149975343">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1600151114626">
         <mark key="'" line="307" column="33" />
-        <mark key="[" line="128" column="61" />
-        <mark key="]" line="128" column="54" />
-        <mark key="^" line="128" column="54" />
-        <mark key="." line="128" column="53" />
+        <mark key="[" line="363" column="44" />
+        <mark key="]" line="363" column="44" />
+        <mark key="^" line="363" column="44" />
+        <mark key="." line="363" column="43" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/xml/ble_signal_filter.xml" timestamp="1600139781780">
         <mark key="[" line="2" column="38" />
