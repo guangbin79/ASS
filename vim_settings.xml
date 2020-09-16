@@ -129,12 +129,12 @@
         <mark key="." line="421" column="45" />
         <mark key="^" line="421" column="46" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1600155832402">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1600235869920">
         <mark key="'" line="307" column="33" />
-        <mark key="[" line="365" column="15" />
-        <mark key="]" line="365" column="21" />
-        <mark key="^" line="365" column="21" />
-        <mark key="." line="365" column="20" />
+        <mark key="[" line="269" column="73" />
+        <mark key="]" line="269" column="74" />
+        <mark key="^" line="269" column="55" />
+        <mark key="." line="269" column="73" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/xml/ble_signal_filter.xml" timestamp="1600139781780">
         <mark key="[" line="2" column="38" />
@@ -311,17 +311,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IENyYXNoIC1fLSAtXy0gLV8tIC1fLSAtXy0gLS0+IAoK</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>resume</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZ0J1aWxkZXIgZXggPSBuZXcgU3RyaW5nQnVpbGRlcigiXG4gQ3Jhc2ggLV8tIC1fLSAtXy0gLV8tIC1fLSAtLT4gXG5cbiIpOwo=</text>
+      <register name="0" type="4">
+        <text>,</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
