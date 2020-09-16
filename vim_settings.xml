@@ -200,11 +200,11 @@
         <mark key="^" line="40" column="1" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/net/wifi/p2p/WifiP2pConfig.java" timestamp="1600237006426" />
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WifiDirectGo.java" timestamp="1600238376441">
-        <mark key="[" line="268" column="43" />
-        <mark key="]" line="268" column="44" />
-        <mark key="^" line="252" column="48" />
-        <mark key="." line="268" column="44" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WifiDirectGo.java" timestamp="1600240268052">
+        <mark key="[" line="274" column="46" />
+        <mark key="]" line="274" column="55" />
+        <mark key="^" line="274" column="55" />
+        <mark key="." line="274" column="54" />
       </file>
     </filemarks>
     <jumps>
@@ -312,17 +312,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgInN1Y2MxIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>succ</text>
       </register>
       <register name="-" type="4">
-        <text>3333333</text>
+        <text>succ</text>
       </register>
       <register name="/" type="4">
         <text>resume</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgInN1Y2MxIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAic3VjYyIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
