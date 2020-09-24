@@ -193,9 +193,9 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="40" column="1" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WifiDirectGo.java" timestamp="1600754078010">
-        <mark key="[" line="15" column="45" />
-        <mark key="]" line="17" column="48" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WifiDirectGo.java" timestamp="1600933575324">
+        <mark key="[" line="73" column="47" />
+        <mark key="]" line="73" column="63" />
         <mark key="." line="17" column="47" />
         <mark key="^" line="17" column="48" />
       </file>
@@ -306,7 +306,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Tm9uTnVsbCA=</text>
+        <text>hardware-register</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Tm9uTnVsbCA=</text>
@@ -314,8 +314,8 @@
       <register name="/" type="4">
         <text>resume</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsKICAgIGltcGxlbWVudGF0aW9uICdhbmRyb2lkeC5hbm5vdGF0aW9uOmFubm90YXRpb246MS4xLjAnCiAgICBpbXBsZW1lbnRhdGlvbiAnYW5kcm9pZHguYXBwY29tcGF0OmFwcGNvbXBhdDoxLjIuMCcKfQo=</text>
+      <register name="0" type="4">
+        <text>hardware-register</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vbm9pbnNwZWN0aW9uIEdyYWRsZUNvbXBhdGlibGUK</text>
