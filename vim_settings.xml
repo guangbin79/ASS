@@ -95,11 +95,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1600918301583">
-        <mark key="[" line="94" column="48" />
-        <mark key="]" line="94" column="49" />
-        <mark key="^" line="94" column="49" />
-        <mark key="." line="94" column="48" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1600918973898">
+        <mark key="[" line="94" column="49" />
+        <mark key="]" line="94" column="50" />
+        <mark key="^" line="94" column="50" />
+        <mark key="." line="94" column="49" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/build.gradle" timestamp="1600426387582">
         <mark key="[" line="53" column="0" />
