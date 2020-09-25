@@ -181,13 +181,7 @@
         <mark key="^" line="36" column="67" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/bluetooth/le/BluetoothLeScanner.java" timestamp="1600134376869">
-        <mark key="[" line="284" column="14" />
-        <mark key="]" line="284" column="14" />
-        <mark key="^" line="284" column="14" />
-        <mark key="." line="284" column="13" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1600224202625">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1601013086498">
         <mark key="[" line="172" column="0" />
         <mark key="]" line="172" column="105" />
         <mark key="." line="224" column="20" />
@@ -204,6 +198,12 @@
         <mark key="]" line="199" column="35" />
         <mark key="." line="199" column="34" />
         <mark key="^" line="199" column="35" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1601015987172">
+        <mark key="[" line="102" column="25" />
+        <mark key="]" line="102" column="30" />
+        <mark key="." line="102" column="29" />
+        <mark key="^" line="102" column="30" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WifiDirectGo.java" timestamp="1600933617917">
         <mark key="[" line="73" column="47" />
@@ -318,7 +318,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>WeLink签名写失败</text>
@@ -330,34 +330,34 @@
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYmxlX3NpZ25hdHVyZV93cml0ZV9mYWlsZWQiPldlTGlua+etvuWQjeWGmeWksei0pTwvc3RyaW5nPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiYmxlLXNjYW4iLCAiZmZmZmZmZiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd2xNdXNpYy5yZXF1ZXN0Rm9jdXMoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBbkZpbGVMb2cuZSgiYmxlLXNjYW4iLCAidGltZW91dCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiYmxlLXNjYW4iLCAiZmZmZmZmZiIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RvcF90aW1lb3V0KCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGRpc2Nvbm5lY3RfZ2F0dCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBbkZpbGVMb2cuZSgiYmxlLXNjYW4iLCAidGltZW91dCIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RvcF90aW1lb3V0KCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGRpc2Nvbm5lY3RfZ2F0dCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
