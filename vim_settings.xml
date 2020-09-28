@@ -163,9 +163,9 @@
         <mark key="." line="42" column="47" />
         <mark key="^" line="42" column="48" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/Server.java" timestamp="1601000116548">
-        <mark key="[" line="199" column="29" />
-        <mark key="]" line="199" column="35" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/Server.java" timestamp="1601258081581">
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="199" column="75" />
         <mark key="." line="199" column="34" />
         <mark key="^" line="199" column="35" />
       </file>
@@ -174,6 +174,12 @@
         <mark key="]" line="20" column="29" />
         <mark key="^" line="20" column="29" />
         <mark key="." line="20" column="28" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/AutoClient.java" timestamp="1601259578935">
+        <mark key="[" line="220" column="52" />
+        <mark key="]" line="220" column="50" />
+        <mark key="^" line="220" column="50" />
+        <mark key="." line="220" column="49" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/build.gradle" timestamp="1600427271360">
         <mark key="[" line="37" column="0" />
@@ -186,12 +192,6 @@
         <mark key="]" line="172" column="105" />
         <mark key="." line="224" column="20" />
         <mark key="^" line="224" column="21" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/aidl/com/autoai/welink/platform/service/IWeLinkService.aidl" timestamp="1600148187227">
-        <mark key="[" line="11" column="39" />
-        <mark key="]" line="11" column="52" />
-        <mark key="." line="11" column="51" />
-        <mark key="^" line="11" column="52" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/server/code/Client.java" timestamp="1601000069483">
         <mark key="[" line="199" column="29" />
@@ -318,7 +318,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFuRmlsZUxvZy5lKCJhaWRsX2MiLCAiTWVtb3J5RmlsZS1FeGNlcHRpb246ICIgKyBmaWxlbmFtZSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>WeLink签名写失败</text>
@@ -327,7 +327,7 @@
         <text>resume</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYmxlX3NpZ25hdHVyZV93cml0ZV9mYWlsZWQiPldlTGlua+etvuWQjeWGmeWksei0pTwvc3RyaW5nPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFuRmlsZUxvZy5lKCJhaWRsX2MiLCAiTWVtb3J5RmlsZS1FeGNlcHRpb246ICIgKyBmaWxlbmFtZSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
