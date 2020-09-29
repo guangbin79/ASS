@@ -123,12 +123,6 @@
         <mark key="." line="814" column="41" />
         <mark key="^" line="814" column="42" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1600224219759">
-        <mark key="[" line="421" column="46" />
-        <mark key="]" line="421" column="46" />
-        <mark key="." line="421" column="45" />
-        <mark key="^" line="421" column="46" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1601260182436">
         <mark key="'" line="311" column="33" />
         <mark key="[" line="393" column="0" />
@@ -142,6 +136,7 @@
         <mark key="^" line="2" column="65" />
         <mark key="." line="2" column="64" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/os/SharedMemory.java" timestamp="1601262307031" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHub.java" timestamp="1600427713177">
         <mark key="[" line="45" column="162" />
         <mark key="]" line="45" column="162" />
@@ -176,10 +171,10 @@
         <mark key="." line="20" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/client/code/AutoClient.java" timestamp="1601259578935">
-        <mark key="[" line="220" column="52" />
-        <mark key="]" line="220" column="50" />
-        <mark key="^" line="220" column="50" />
-        <mark key="." line="220" column="49" />
+        <mark key="[" line="204" column="52" />
+        <mark key="]" line="204" column="50" />
+        <mark key="^" line="204" column="50" />
+        <mark key="." line="204" column="49" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/build.gradle" timestamp="1600427271360">
         <mark key="[" line="37" column="0" />
@@ -193,11 +188,11 @@
         <mark key="." line="224" column="20" />
         <mark key="^" line="224" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/server/code/Client.java" timestamp="1601000069483">
-        <mark key="[" line="199" column="29" />
-        <mark key="]" line="199" column="35" />
-        <mark key="." line="199" column="34" />
-        <mark key="^" line="199" column="35" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/server/code/Client.java" timestamp="1601262324530">
+        <mark key="[" line="140" column="46" />
+        <mark key="]" line="140" column="68" />
+        <mark key="." line="140" column="67" />
+        <mark key="^" line="140" column="68" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1601015987172">
         <mark key="[" line="102" column="25" />
@@ -317,11 +312,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcy5nZXRDaGFubmVsKCkudHJ5TG9jaygwTCwgYnVmZmVyLmxlbmd0aCwgZmFsc2UpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>MAX_VALUE</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>MAX_VALUE</text>
       </register>
       <register name="/" type="4">
         <text>resume</text>
@@ -330,7 +325,7 @@
         <text encoding="base64">ICAgICAgICAgICAgQW5GaWxlTG9nLmUoImFpZGxfYyIsICJNZW1vcnlGaWxlLUNyZWF0ZTogIiArIGZpbGVuYW1lKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcy5nZXRDaGFubmVsKCkudHJ5TG9jaygwTCwgYnVmZmVyLmxlbmd0aCwgZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcy5nZXRDaGFubmVsKCkudHJ5TG9jaygwTCwgTG9uZy5NQVhfVkFMVUUsIGZhbHNlKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -339,25 +334,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcy5nZXRDaGFubmVsKCkudHJ5TG9jaygwTCwgYnVmZmVyLmxlbmd0aCwgZmFsc2UpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcy5nZXRDaGFubmVsKCkudHJ5TG9jaygwTCwgYnVmZmVyLmxlbmd0aCwgZmFsc2UpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd2xNdXNpYy5yZXF1ZXN0Rm9jdXMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd2xNdXNpYy5yZXF1ZXN0Rm9jdXMoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiYmxlLXNjYW4iLCAiZmZmZmZmZiIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZSgiYmxlLXNjYW4iLCAiZmZmZmZmZiIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBbkZpbGVMb2cuZSgiYmxlLXNjYW4iLCAidGltZW91dCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBbkZpbGVMb2cuZSgiYmxlLXNjYW4iLCAidGltZW91dCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
