@@ -124,12 +124,6 @@
         <mark key="." line="246" column="79" />
         <mark key="^" line="396" column="55" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/xml/ble_signal_filter.xml" timestamp="1600420812009">
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="2" column="65" />
-        <mark key="^" line="2" column="65" />
-        <mark key="." line="2" column="64" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHub.java" timestamp="1600427713177">
         <mark key="[" line="45" column="162" />
         <mark key="]" line="45" column="162" />
@@ -179,6 +173,11 @@
         <mark key="]" line="37" column="35" />
         <mark key="^" line="36" column="67" />
         <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/build.gradle" timestamp="1601345338057">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1601013086498">
         <mark key="[" line="172" column="0" />
