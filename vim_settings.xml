@@ -95,12 +95,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1601368957795">
-        <mark key="[" line="699" column="0" />
-        <mark key="]" line="699" column="0" />
-        <mark key="^" line="862" column="85" />
-        <mark key="." line="699" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1601431783754">
+        <mark key="[" line="177" column="122" />
+        <mark key="]" line="177" column="134" />
+        <mark key="^" line="177" column="134" />
+        <mark key="." line="177" column="133" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/build.gradle" timestamp="1601431771897" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatformListener.java" timestamp="1601012201088">
         <mark key="[" line="179" column="30" />
         <mark key="]" line="180" column="29" />
@@ -130,13 +131,6 @@
         <mark key="[" line="10" column="23" />
         <mark key="]" line="10" column="24" />
         <mark key="." line="10" column="24" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1601429958861" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/net/wifi/p2p/WifiP2pManager.java" timestamp="1600754075521">
-        <mark key="[" line="608" column="36" />
-        <mark key="]" line="608" column="36" />
-        <mark key="^" line="608" column="36" />
-        <mark key="." line="608" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/values/strings.xml" timestamp="1601368944185">
         <mark key="[" line="44" column="0" />
@@ -312,11 +306,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFuRmlsZUxvZy5lKCJ3bF9wbGF0Zm9ybSIsICJkZWluaXRTTSBzZW5kID0iICsgdGJ0U3RyaW5nKTsK</text>
+      <register name="&quot;" type="4">
+        <text>gitCount</text>
       </register>
       <register name="-" type="4">
-        <text>content</text>
+        <text>gitCount</text>
       </register>
       <register name="/" type="4">
         <text>resume</text>
