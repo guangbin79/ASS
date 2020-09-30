@@ -107,16 +107,16 @@
         <mark key="." line="180" column="28" />
         <mark key="^" line="180" column="29" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1601438874683">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1601440756674">
         <mark key="[" line="598" column="0" />
         <mark key="]" line="598" column="0" />
         <mark key="." line="598" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1601430459776">
-        <mark key="[" line="1900" column="0" />
-        <mark key="]" line="1900" column="0" />
-        <mark key="^" line="1912" column="32" />
-        <mark key="." line="1900" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1601440784934">
+        <mark key="[" line="1565" column="67" />
+        <mark key="]" line="1565" column="67" />
+        <mark key="^" line="1565" column="67" />
+        <mark key="." line="1565" column="66" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1601342500206">
         <mark key="'" line="311" column="33" />
@@ -129,6 +129,12 @@
         <mark key="[" line="10" column="23" />
         <mark key="]" line="10" column="24" />
         <mark key="." line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1601440287039">
+        <mark key="[" line="87" column="122" />
+        <mark key="]" line="87" column="122" />
+        <mark key="^" line="87" column="122" />
+        <mark key="." line="87" column="122" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/values/strings.xml" timestamp="1601368944185">
         <mark key="[" line="44" column="0" />
@@ -303,11 +309,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgic3NzIiwgbG9nUGF0aCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>resume</text>
