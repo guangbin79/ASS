@@ -114,8 +114,11 @@
         <mark key="." line="1176" column="0" />
         <mark key="^" line="1196" column="30" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1601441475613">
-        <mark key="[" line="352" column="85" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1601448791774">
+        <mark key="[" line="1883" column="65" />
+        <mark key="]" line="1883" column="65" />
+        <mark key="^" line="1883" column="65" />
+        <mark key="." line="1883" column="64" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1601448353346">
         <mark key="'" line="322" column="33" />
