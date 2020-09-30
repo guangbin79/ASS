@@ -120,12 +120,12 @@
         <mark key="^" line="1883" column="65" />
         <mark key="." line="1883" column="64" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1601448353346">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1601448890962">
         <mark key="'" line="322" column="33" />
-        <mark key="[" line="331" column="38" />
-        <mark key="]" line="332" column="20" />
-        <mark key="." line="332" column="19" />
-        <mark key="^" line="332" column="20" />
+        <mark key="[" line="436" column="9" />
+        <mark key="]" line="437" column="8" />
+        <mark key="." line="437" column="7" />
+        <mark key="^" line="437" column="8" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/build.gradle" timestamp="1601345717603">
         <mark key="[" line="10" column="23" />
