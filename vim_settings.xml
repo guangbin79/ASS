@@ -101,14 +101,16 @@
         <mark key="]" line="157" column="0" />
         <mark key="." line="157" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/MirrorDialog.java" timestamp="1601874122654">
-        <mark key="[" line="27" column="9" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/java/com/autoai/welink/auto/v1/MirrorDialog.java" timestamp="1601875025594">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatformListener.java" timestamp="1601012201088">
-        <mark key="[" line="179" column="30" />
-        <mark key="]" line="180" column="29" />
-        <mark key="." line="180" column="28" />
-        <mark key="^" line="180" column="29" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/res/values/styles.xml" timestamp="1601874804507">
+        <mark key="[" line="3" column="70" />
+        <mark key="]" line="3" column="69" />
+        <mark key="." line="3" column="68" />
+        <mark key="^" line="3" column="69" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1601441796067">
         <mark key="'" line="655" column="35" />
@@ -314,46 +316,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXNjb25uZWN0X2dhdHQoKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGdldENvbnRleHQoKS5zZXRUaGVtZShwcmVzZW50YXRpb25UaGRkZW1lKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>bluetoothGatt = result.getDevice().connectGatt(context, false,</text>
+        <text>setTheme()</text>
       </register>
       <register name="/" type="4">
         <text>resume</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmV3IEhhbmRsZXIoTG9vcGVyLmdldE1haW5Mb29wZXIoKSkucG9zdERlbGF5ZWQobmV3IFJ1bm5hYmxlKCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGlzY29ubmVjdF9nYXR0KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0sIHN3aXRjaF9zdGF0ZV9pbnRlcnZhbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRDb250ZXh0KCkuc2V0VGhlbWUocHJlc2VudGF0aW9uVGhlbWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXNjb25uZWN0X2dhdHQoKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGdldENvbnRleHQoKS5zZXRUaGVtZShwcmVzZW50YXRpb25UaGRkZW1lKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGlzY29ubmVjdF9nYXR0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJjb2xvckFjY2VudCI+QGNvbG9yL2NvbG9yQWNjZW50PC9pdGVtPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXNjb25uZWN0X2dhdHQoKTsK</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJjb2xvclByaW1hcnlEYXJrIj5AY29sb3IvY29sb3JQcmltYXJ5RGFyazwvaXRlbT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXNjb25uZWN0X2dhdHQoKTsK</text>
+        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJjb2xvclByaW1hcnkiPkBjb2xvci9jb2xvclByaW1hcnk8L2l0ZW0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmdldENvbnRleHQoKS5zZXRUaGVtZShwcmVzZW50YXRpb25UaGVtZSk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXNjb25uZWN0X2dhdHQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9LCBzd2l0Y2hfc3RhdGVfaW50ZXJ2YWwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGlzY29ubmVjdF9nYXR0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXNjb25uZWN0X2dhdHQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXNjb25uZWN0X2dhdHQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
