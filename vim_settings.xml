@@ -187,15 +187,9 @@
         <mark key="." line="140" column="67" />
         <mark key="^" line="140" column="68" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1601015987172">
-        <mark key="[" line="102" column="25" />
-        <mark key="]" line="102" column="30" />
-        <mark key="." line="102" column="29" />
-        <mark key="^" line="102" column="30" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/build.gradle" timestamp="1601345082886">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="24" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/build.gradle" timestamp="1602210411984">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="30" />
         <mark key="." line="10" column="24" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WifiDirectGo.java" timestamp="1601256978832">
@@ -311,7 +305,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRDb250ZXh0KCkuc2V0VGhlbWUoYW5kcm9pZC5SLnN0eWxlLlRoZW1lX01hdGVyaWFsX0RpYWxvZ19QcmVzZW50YXRpb24pOwo=</text>
+        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIzMC4wLjEiCg==</text>
       </register>
       <register name="-" type="4">
         <text>setTheme()</text>
@@ -320,7 +314,7 @@
         <text>resume</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRDb250ZXh0KCkuc2V0VGhlbWUocHJlc2VudGF0aW9uVGhlbWUpOwo=</text>
+        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uICIzMC4wLjEiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBnZXRDb250ZXh0KCkuc2V0VGhlbWUoYW5kcm9pZC5SLnN0eWxlLlRoZW1lX01hdGVyaWFsX0RpYWxvZ19QcmVzZW50YXRpb24pOwo=</text>
