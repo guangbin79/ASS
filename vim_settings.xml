@@ -107,6 +107,7 @@
         <mark key="." line="3" column="68" />
         <mark key="^" line="3" column="69" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkServer/build.gradle" timestamp="1602210468077" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1601441796067">
         <mark key="'" line="655" column="35" />
         <mark key="[" line="1176" column="0" />
@@ -191,12 +192,6 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="30" />
         <mark key="." line="10" column="24" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WifiDirectGo.java" timestamp="1601256978832">
-        <mark key="[" line="73" column="47" />
-        <mark key="]" line="73" column="63" />
-        <mark key="." line="17" column="47" />
-        <mark key="^" line="17" column="48" />
       </file>
     </filemarks>
     <jumps>
