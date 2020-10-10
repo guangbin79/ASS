@@ -191,6 +191,12 @@
         <mark key="]" line="4" column="30" />
         <mark key="." line="10" column="24" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1602316127035">
+        <mark key="[" line="100" column="51" />
+        <mark key="]" line="100" column="57" />
+        <mark key="^" line="100" column="57" />
+        <mark key="." line="100" column="56" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="34" column="0" filename="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/WeLinkLauncherBroadcast.java" />
@@ -298,7 +304,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgIm9uUENNRGF0YSIpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>setTheme()</text>
@@ -307,7 +313,7 @@
         <text>resume</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCBkYXRhLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmUoImd1YW5nYmluIiwgIm9uUENNRGF0YSIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
