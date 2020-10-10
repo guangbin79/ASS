@@ -165,11 +165,12 @@
         <mark key="[" line="1010" column="4" />
         <mark key="]" line="1031" column="10" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/src/main/java/com/autoai/welink/audiolive/HLSDecoder.java" timestamp="1602318618454">
-        <mark key="[" line="57" column="33" />
-        <mark key="]" line="58" column="9" />
-        <mark key="^" line="58" column="9" />
-        <mark key="." line="58" column="8" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/src/main/java/com/autoai/welink/audiolive/HLSDecoder.java" timestamp="1602323548739">
+        <mark key="'" line="224" column="21" />
+        <mark key="[" line="223" column="38" />
+        <mark key="]" line="224" column="33" />
+        <mark key="^" line="224" column="33" />
+        <mark key="." line="224" column="32" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/build.gradle" timestamp="1602210577416">
         <mark key="[" line="10" column="23" />
@@ -201,7 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/WeLinkLauncherBroadcast.java" />
       <jump line="19" column="40" filename="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/WeLinkConnectBroadcast.java" />
       <jump line="35" column="0" filename="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/WeLinkConnectBroadcast.java" />
       <jump line="135" column="40" filename="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" />
@@ -301,6 +301,7 @@
       <jump line="94" column="47" filename="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" />
       <jump line="488" column="43" filename="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" />
       <jump line="648" column="35" filename="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" />
+      <jump line="224" column="21" filename="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/src/main/java/com/autoai/welink/audiolive/HLSDecoder.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
