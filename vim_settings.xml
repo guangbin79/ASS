@@ -127,11 +127,6 @@
         <mark key="^" line="13" column="70" />
         <mark key="." line="13" column="69" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/build.gradle" timestamp="1601345717603">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="24" />
-        <mark key="." line="10" column="24" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1602223858589">
         <mark key="[" line="158" column="17" />
         <mark key="]" line="158" column="17" />
@@ -164,6 +159,11 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/view/Display.java" timestamp="1602321883335">
         <mark key="[" line="1010" column="4" />
         <mark key="]" line="1031" column="10" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/xml/usb_accessory_filter.xml" timestamp="1602468920418">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="78" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/src/main/java/com/autoai/welink/audiolive/HLSDecoder.java" timestamp="1602323548739">
         <mark key="'" line="224" column="21" />
@@ -307,7 +307,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5LmdldE1ldHJpY3MoZGlzcGxheU1ldHJpY3MpOwo=</text>
+        <text encoding="base64">ICAgIDx1c2ItYWNjZXNzb3J5IG1hbnVmYWN0dXJlcj0iQXV0b0FpLCBJbmMiIG1vZGVsPSJBaW9uTGluayIgdmVyc2lvbj0iMS4wIi8+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>setTheme()</text>
@@ -316,7 +316,7 @@
         <text>resume</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5LmdldFJlYWxNZXRyaWNzKGRpc3BsYXlNZXRyaWNzKTsK</text>
+        <text encoding="base64">ICAgIDx1c2ItYWNjZXNzb3J5IG1hbnVmYWN0dXJlcj0iQXV0b0FpLCBJbmMiIG1vZGVsPSJBaW9uTGluayIgdmVyc2lvbj0iMS4wIi8+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkaXNwbGF5LmdldE1ldHJpY3MoZGlzcGxheU1ldHJpY3MpOwo=</text>
