@@ -95,12 +95,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1602297334870">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1602484644100">
         <mark key="'" line="487" column="43" />
-        <mark key="[" line="249" column="1" />
-        <mark key="]" line="249" column="1" />
-        <mark key="^" line="249" column="1" />
-        <mark key="." line="249" column="0" />
+        <mark key="[" line="87" column="20" />
+        <mark key="]" line="89" column="34" />
+        <mark key="^" line="89" column="34" />
+        <mark key="." line="89" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkConnector/wlconnector/src/main/res/values/styles.xml" timestamp="1601874804507">
         <mark key="[" line="3" column="70" />
@@ -177,7 +177,6 @@
         <mark key="]" line="10" column="24" />
         <mark key="." line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/src/main/java/com/autoai/welink/audiolive/HLSDecoderListener.java" timestamp="1602318495251" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/java/com/autoai/welink/channel/WLChannel.java" timestamp="1602223829995">
         <mark key="[" line="313" column="0" />
         <mark key="]" line="313" column="43" />
