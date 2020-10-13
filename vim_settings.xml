@@ -133,12 +133,12 @@
         <mark key="^" line="158" column="17" />
         <mark key="." line="158" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1602497003400">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1602553202873">
         <mark key="'" line="348" column="33" />
-        <mark key="[" line="379" column="50" />
-        <mark key="]" line="379" column="58" />
-        <mark key="^" line="379" column="58" />
-        <mark key="." line="379" column="57" />
+        <mark key="[" line="159" column="60" />
+        <mark key="]" line="159" column="89" />
+        <mark key="^" line="159" column="89" />
+        <mark key="." line="159" column="88" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/OverlayDialog.java" timestamp="1602494606327">
         <mark key="[" line="23" column="0" />
@@ -308,10 +308,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>resume</text>
