@@ -155,12 +155,10 @@
         <mark key="]" line="6" column="78" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/src/main/java/com/autoai/welink/audiolive/HLSDecoder.java" timestamp="1602656313581">
-        <mark key="'" line="233" column="21" />
-        <mark key="[" line="258" column="55" />
-        <mark key="]" line="258" column="73" />
-        <mark key="." line="258" column="72" />
-        <mark key="^" line="258" column="73" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/AudioLive/hlsdecoder/src/main/java/com/autoai/welink/audiolive/HLSDecoder.java" timestamp="1602658592078">
+        <mark key="[" line="257" column="0" />
+        <mark key="]" line="257" column="0" />
+        <mark key="." line="257" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/build.gradle" timestamp="1602210577416">
         <mark key="[" line="10" column="23" />
@@ -183,12 +181,12 @@
         <mark key="^" line="99" column="57" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/ownCloud/Release-SDK/Android/WLConnector/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1602656499528">
+      <file name="$USER_HOME$/ownCloud/Release-SDK/Android/WLConnector/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1602658073322">
         <mark key="'" line="87" column="38" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="79" column="41" />
-        <mark key="^" line="99" column="53" />
-        <mark key="." line="78" column="0" />
+        <mark key="[" line="94" column="63" />
+        <mark key="]" line="94" column="63" />
+        <mark key="^" line="94" column="63" />
+        <mark key="." line="94" column="62" />
       </file>
     </filemarks>
     <jumps>
@@ -297,7 +295,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAicmVxdWVzdEZvY3VzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>b6666666633333333</text>
@@ -309,38 +307,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCAicmVxdWVzdEZvY3VzIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJndWFuZ2JpbiIsICJuZXh0VHJhY2sgYjY2NjY2NjY2Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHR5cGUgPSBmcmFtZVswXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgrK2VyckNvdW50ID09IFRSWV9OVU1CRVIpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLGAK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgZXJyQ291bnQgPSAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5lKCJndWFuZ2JpbiIsICJuZXh0VHJhY2sgYjY2NjY2NjY2Iik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>try {
-                                    sleep(10);
-                                } catch (InterruptedException e) {
-                                    return;
-                                }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHR5cGUgPSBmcmFtZVswXTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZSgiZ3VhbmdiaW4iLCBkYXRhLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLGAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
