@@ -108,18 +108,18 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="45" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1602645129753">
-        <mark key="'" line="655" column="35" />
-        <mark key="[" line="654" column="51" />
-        <mark key="]" line="654" column="51" />
-        <mark key="." line="654" column="50" />
-        <mark key="^" line="654" column="51" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/WLPlatform.java" timestamp="1602727979341">
+        <mark key="'" line="659" column="35" />
+        <mark key="[" line="579" column="54" />
+        <mark key="]" line="580" column="60" />
+        <mark key="." line="580" column="59" />
+        <mark key="^" line="580" column="60" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1602725820049">
-        <mark key="[" line="654" column="25" />
-        <mark key="]" line="654" column="25" />
-        <mark key="^" line="654" column="25" />
-        <mark key="." line="654" column="24" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1602726628974">
+        <mark key="[" line="2132" column="0" />
+        <mark key="]" line="2132" column="0" />
+        <mark key="^" line="2132" column="0" />
+        <mark key="." line="2132" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkChannel/wlchannel/src/main/cpp/wlchannel.cpp" timestamp="1602579155269">
         <mark key="[" line="313" column="18" />
@@ -140,11 +140,11 @@
         <mark key="^" line="18" column="8" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHub.java" timestamp="1602661554237">
-        <mark key="[" line="45" column="162" />
-        <mark key="]" line="45" column="171" />
-        <mark key="." line="45" column="170" />
-        <mark key="^" line="45" column="171" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHub.java" timestamp="1602727664965">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="41" column="42" />
+        <mark key="." line="41" column="41" />
+        <mark key="^" line="41" column="42" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/values/strings.xml" timestamp="1602553335788">
         <mark key="[" line="30" column="49" />
@@ -195,10 +195,11 @@
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1602317127071">
         <mark key="^" line="9" column="57" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WifiDirectGo.java" timestamp="1602661629092">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WifiDirectGo.java" timestamp="1602727437605">
+        <mark key="[" line="239" column="24" />
+        <mark key="]" line="241" column="27" />
+        <mark key="." line="241" column="26" />
+        <mark key="^" line="241" column="27" />
       </file>
       <file name="$USER_HOME$/ownCloud/Release-SDK/Android/WLConnector/wlconnector-sdk/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1602658073322">
         <mark key="'" line="87" column="38" />
@@ -313,17 +314,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>passphrase</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>passphrase</text>
       </register>
       <register name="/" type="4">
         <text>resume</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3luY2hyb25pemVkIChsaXN0ZW5lckxvY2spIHsKICAgICAgICAgICAgICAgIGlmIChsaXN0ZW5lciAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgbGlzdGVuZXIub25FcnJvcihFUlJPUl9HRVRfQVVESU8pOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIHJlbGVhc2UoKTsKICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbU5lZWRIYXJkd2FyZUdyb3VwTmFtZSA9IG5ldHdvcmtOYW1lOwogICAgICAgICAgICBtTmVlZEhhcmR3YXJlR3JvdXBQYXNzcGhyYXNlID0gcGFzc3BocmFzZTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
