@@ -102,7 +102,6 @@
         <mark key="^" line="186" column="28" />
         <mark key="." line="186" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/utiliy/AnFileLog.java" timestamp="1602815119347" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/AndroidManifest.xml" timestamp="1602826174739">
         <mark key="[" line="8" column="31" />
         <mark key="]" line="8" column="31" />
@@ -158,11 +157,6 @@
         <mark key="." line="30" column="49" />
         <mark key="^" line="30" column="50" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/res/xml/usb_accessory_filter.xml" timestamp="1602468947643">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="78" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/gradle.properties" timestamp="1602661450694">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -190,7 +184,12 @@
         <mark key="^" line="9" column="33" />
         <mark key="." line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/app/Service.java" timestamp="1602818293136" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1602834669895">
+        <mark key="[" line="161" column="35" />
+        <mark key="]" line="161" column="35" />
+        <mark key="^" line="161" column="35" />
+        <mark key="." line="161" column="34" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WifiDirectGo.java" timestamp="1602826645283">
         <mark key="[" line="319" column="9" />
         <mark key="]" line="321" column="34" />
