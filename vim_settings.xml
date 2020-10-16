@@ -292,7 +292,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlua01hcC5wdXQoc3RhdGUuZ2V0Q29ubmVjdFN0cigpLCBzdGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0R3JvdXBPcGVyYXRpbmdCYW5kKFdpZmlQMnBDb25maWcuR1JPVVBfT1dORVJfQkFORF81R0haKQo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -301,7 +301,7 @@
         <text>resume</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlua01hcC5wdXQoc3RhdGUuZ2V0Q29ubmVjdFN0cigpLCBzdGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0R3JvdXBPcGVyYXRpbmdCYW5kKFdpZmlQMnBDb25maWcuR1JPVVBfT1dORVJfQkFORF81R0haKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbGlua01hcC5wdXQoc3RhdGUuZ2V0Q29ubmVjdFN0cigpLCBzdGF0ZSk7Cg==</text>
