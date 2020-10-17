@@ -95,12 +95,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1602906027088">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/java/com/autoai/welink/wllauncher/MainActivity.java" timestamp="1602908431068">
         <mark key="'" line="487" column="43" />
-        <mark key="[" line="95" column="69" />
+        <mark key="[" line="95" column="71" />
         <mark key="]" line="95" column="70" />
-        <mark key="^" line="95" column="71" />
-        <mark key="." line="95" column="70" />
+        <mark key="^" line="95" column="70" />
+        <mark key="." line="95" column="69" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/AndroidManifest.xml" timestamp="1602826174739">
         <mark key="[" line="8" column="31" />
@@ -178,12 +178,6 @@
         <mark key="]" line="161" column="35" />
         <mark key="^" line="161" column="35" />
         <mark key="." line="161" column="34" />
-      </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/wifigo/WifiDirectGo.java" timestamp="1602845994114">
-        <mark key="[" line="256" column="44" />
-        <mark key="]" line="256" column="45" />
-        <mark key="^" line="256" column="45" />
-        <mark key="." line="256" column="44" />
       </file>
     </filemarks>
     <jumps>
