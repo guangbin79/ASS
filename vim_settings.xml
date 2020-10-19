@@ -126,7 +126,6 @@
         <mark key="." line="1885" column="32" />
         <mark key="^" line="1885" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/ble/BLEConnector.java" timestamp="1602920231552" />
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/AppConnectListener.java" timestamp="1602835678266">
         <mark key="[" line="63" column="24" />
         <mark key="]" line="63" column="25" />
@@ -149,7 +148,17 @@
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="72" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkHardwareHub/wlhardwarehub/src/main/java/com/autoai/welink/autohardware/WLHardwareHubListener.java" timestamp="1602911300564" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLLauncher/app/src/main/AndroidManifest.xml" timestamp="1603092227236">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="42" />
+      </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/res/layout/activity_main.xml" timestamp="1603091652869" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/AndroidManifest.xml" timestamp="1603092247035">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="42" />
+        <mark key="^" line="15" column="42" />
+        <mark key="." line="15" column="41" />
+      </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkServer/wlserver/src/main/java/com/autoai/welink/autoproxy/statemanager/StateManager.java" timestamp="1602839515962">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -168,12 +177,13 @@
         <mark key="^" line="9" column="33" />
         <mark key="." line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1602836091507">
-        <mark key="[" line="161" column="35" />
-        <mark key="]" line="161" column="35" />
-        <mark key="^" line="161" column="35" />
-        <mark key="." line="161" column="34" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/MainActivity.java" timestamp="1603092019297">
+        <mark key="[" line="197" column="25" />
+        <mark key="]" line="197" column="25" />
+        <mark key="^" line="197" column="25" />
+        <mark key="." line="197" column="24" />
       </file>
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/res/values/strings.xml" timestamp="1603091947955" />
     </filemarks>
     <jumps>
       <jump line="35" column="0" filename="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/WeLinkConnectBroadcast.java" />
@@ -281,7 +291,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy/pgb/lhY3ph43lpI3miavpnaLov57mjqXnm7jlkIznmoRCTEXorr7lpIcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXVuY2hNb2RlPSJzaW5nbGVUb3AiCg==</text>
       </register>
       <register name="-" type="4">
         <text>compareTo</text>
@@ -290,7 +300,7 @@
         <text>resume</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy/pgb/lhY3ph43lpI3miavpnaLov57mjqXnm7jlkIznmoRCTEXorr7lpIcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXVuY2hNb2RlPSJzaW5nbGVUb3AiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
