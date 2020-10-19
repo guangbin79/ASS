@@ -120,7 +120,7 @@
         <mark key="." line="752" column="41" />
         <mark key="^" line="752" column="42" />
       </file>
-      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1602911455110">
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/service/WeLinkService.java" timestamp="1603092507120">
         <mark key="[" line="1885" column="33" />
         <mark key="]" line="1885" column="33" />
         <mark key="." line="1885" column="32" />
@@ -184,6 +184,7 @@
         <mark key="." line="197" column="24" />
       </file>
       <file name="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/res/values/strings.xml" timestamp="1603091947955" />
+      <file name="$USER_HOME$/Workspace/WeLink-Platform/WeLinkPlatform/wlplatform/src/main/java/com/autoai/welink/platform/pcm/policy/buildin/WLPCMPolicyImpl.java" timestamp="1603092524141" />
     </filemarks>
     <jumps>
       <jump line="35" column="0" filename="$USER_HOME$/Workspace/WeLink-Platform/WLDemo/app/src/main/java/com/autoai/welink/wldemo/WeLinkConnectBroadcast.java" />
